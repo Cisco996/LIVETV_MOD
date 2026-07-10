@@ -15,6 +15,10 @@ Benvenuti nel repository LIVETV. Qui troverete diverse liste M3U per canali TV e
 - `streamed.m3u`
 - `vavoo.m3u`
 - `world.m3u`
+- `lista_completa.m3u`: lista che contiene tutte quelle precedenti
 
 ## Risorse
 - **EPG XML**: [epg.xml](epg.xml) (disponibile anche compresso come [epg.xml.gz](epg.xml.gz))
+
+## Crediti
+- **https://github.com/leanhhu061206/LIVETV**
