@@ -1517,7 +1517,7 @@ def main():
                 print(f"Errore durante l'esecuzione di schedule_extractor: {e}")
 
         # Leggi le variabili d'ambiente
-        eventi_dlhd_en = os.getenv("eventi_dlhd_EN", "no").strip().lower()
+        eventi_dlhd_en = os.getenv("eventi_dlhd_EN", "si").strip().lower()
         world_flag = os.getenv("WORLD", "si").strip().lower()
 
         # eventi_dlhd M3U8
