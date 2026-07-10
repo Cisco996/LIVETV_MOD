@@ -255,6 +255,7 @@ def eventi_dlhd_m3u8_generator_world():
      
                         words = set(re.findall(r'\b\w+\b', channel_name.lower())) 
                         if keywords.intersection(words): 
+                            # Identificazione della lingua e assegnazione prefisso
                             lang_prefix = "(ENG) "
                             if it_keywords.intersection(words):
                                 lang_prefix = "(IT) "
@@ -295,17 +296,12 @@ def eventi_dlhd_m3u8_generator_world():
                     channel_name = ch["channel_name"]
                     lang_prefix = ch.get("lang_prefix", "")
                     
-                    # Sostituiamo le virgole con spazi e le virgolette doppie con singole per non rompere il parser
-                    clean_tvg_name = tvg_name.replace(",", " ").replace('"', "'")
-                    clean_category = category.replace(",", " ").replace('"', "'")
-                    
                     try: 
                         stream = get_stream_from_channel_id(channel_id)
                                                     
                         if stream: 
                             cleaned_event_id = clean_tvg_id(event_title)
-                            # Ora sia tvg-name che il nome finale sono puliti da virgole e includono il prefisso lingua
-                            f.write(f'#EXTINF:-1 tvg-id="{cleaned_event_id}" tvg-name="{lang_prefix}{clean_category} | {clean_tvg_name}" group-title="3 - Eventi Live DLHD",{lang_prefix}{clean_category} | {clean_tvg_name}\n')
+                            f.write(f'#EXTINF:-1 tvg-id="{cleaned_event_id}" tvg-name="{category} | {tvg_name}" group-title="3 - Eventi Live DLHD",{lang_prefix}{category} | {tvg_name}\n')
                             if "ava.karmakurama.com" in stream and not stream.endswith('.php'):
                                 daddy_headers = {"User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1", "Referrer": "https://ava.karmakurama.com/", "Origin": "https://ava.karmakurama.com"}
                                 vlc_opt_lines = headers_to_extvlcopt(daddy_headers)
@@ -452,17 +448,12 @@ def eventi_dlhd_m3u8_generator():
                     channel_name = ch["channel_name"]
                     lang_prefix = ch.get("lang_prefix", "")
                     
-                    # Sostituiamo le virgole con spazi e le virgolette doppie con singole per non rompere il parser
-                    clean_tvg_name = tvg_name.replace(",", " ").replace('"', "'")
-                    clean_category = category.replace(",", " ").replace('"', "'")
-                    
                     try: 
                         stream = get_stream_from_channel_id(channel_id)
 
                         if stream: 
                             cleaned_event_id = clean_tvg_id(event_title)
-                            # Ora sia tvg-name che il nome finale sono puliti da virgole e includono il prefisso lingua
-                            f.write(f'#EXTINF:-1 tvg-id="{cleaned_event_id}" tvg-name="{lang_prefix}{clean_category} | {clean_tvg_name}" group-title="3 - Eventi Live DLHD",{lang_prefix}{clean_category} | {clean_tvg_name}\n')
+                            f.write(f'#EXTINF:-1 tvg-id="{cleaned_event_id}" tvg-name="{category} | {tvg_name}" group-title="3 - Eventi Live DLHD",{lang_prefix}{category} | {tvg_name}\n')
                             if "ava.karmakurama.com" in stream and not stream.endswith('.php'):
                                 daddy_headers = {"User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1", "Referrer": "https://ava.karmakurama.com/", "Origin": "https://ava.karmakurama.com"}
                                 vlc_opt_lines = headers_to_extvlcopt(daddy_headers)
@@ -1140,7 +1131,7 @@ def italy_channels():
                 category = classify_channel(display_name)
 
                 if url:
-                    if category dot in channels_by_category:
+                    if category not in channels_by_category:
                         channels_by_category[category] = []
                     
                     logo = logos.get(name_for_lookup.lower(), "")
@@ -1526,7 +1517,7 @@ def main():
                 print(f"Errore durante l'esecuzione di schedule_extractor: {e}")
 
         # Leggi le variabili d'ambiente
-        eventi_dlhd_en = os.getenv("eventi_dlhd_EN", "no").strip().lower()
+        eventi_dlhd_en = os.getenv("eventi_dlhd_EN", "si").strip().lower()
         world_flag = os.getenv("WORLD", "si").strip().lower()
 
         # eventi_dlhd M3U8
