@@ -301,7 +301,12 @@ def eventi_dlhd_m3u8_generator_world():
                                                     
                         if stream: 
                             cleaned_event_id = clean_tvg_id(event_title)
-                            f.write(f'#EXTINF:-1 tvg-id="{cleaned_event_id}" tvg-name="{category} | {tvg_name}" group-title="3 - Eventi Live DLHD",{lang_prefix}{category} | {tvg_name}\n')
+                            
+                            # Rimozione virgole e doppie virgolette che rompono i parser IPTV
+                            safe_cat = category.replace(",", " -").replace('"', "'")
+                            safe_tvg = tvg_name.replace(",", " -").replace('"', "'")
+                            
+                            f.write(f'#EXTINF:-1 tvg-id="{cleaned_event_id}" tvg-name="{safe_cat} | {safe_tvg}" group-title="3 - Eventi Live DLHD",{lang_prefix}{safe_cat} | {safe_tvg}\n')
                             if "ava.karmakurama.com" in stream and not stream.endswith('.php'):
                                 daddy_headers = {"User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1", "Referrer": "https://ava.karmakurama.com/", "Origin": "https://ava.karmakurama.com"}
                                 vlc_opt_lines = headers_to_extvlcopt(daddy_headers)
@@ -453,7 +458,12 @@ def eventi_dlhd_m3u8_generator():
 
                         if stream: 
                             cleaned_event_id = clean_tvg_id(event_title)
-                            f.write(f'#EXTINF:-1 tvg-id="{cleaned_event_id}" tvg-name="{category} | {tvg_name}" group-title="3 - Eventi Live DLHD",{lang_prefix}{category} | {tvg_name}\n')
+                            
+                            # Rimozione virgole e doppie virgolette che rompono i parser IPTV
+                            safe_cat = category.replace(",", " -").replace('"', "'")
+                            safe_tvg = tvg_name.replace(",", " -").replace('"', "'")
+                            
+                            f.write(f'#EXTINF:-1 tvg-id="{cleaned_event_id}" tvg-name="{safe_cat} | {safe_tvg}" group-title="3 - Eventi Live DLHD",{lang_prefix}{safe_cat} | {safe_tvg}\n')
                             if "ava.karmakurama.com" in stream and not stream.endswith('.php'):
                                 daddy_headers = {"User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1", "Referrer": "https://ava.karmakurama.com/", "Origin": "https://ava.karmakurama.com"}
                                 vlc_opt_lines = headers_to_extvlcopt(daddy_headers)
@@ -1171,13 +1181,15 @@ def italy_channels():
 
                 f.write(f"\n# {category.upper()}\n")
                 for ch in channel_list:
-                    name = ch["name"]
+                    # Rimozione virgole e virgolette doppie
+                    name = ch["name"].replace(",", " -").replace('"', "'")
                     url = ch["url"]
                     
-                    logo = ch.get("logo", "")
-                    tvg_id = ch.get("tvg_id", "")
+                    logo = ch.get("logo", "").replace(",", "").replace('"', "'")
+                    tvg_id = ch.get("tvg_id", "").replace(",", "").replace('"', "'")
+                    safe_cat = category.replace(",", " -").replace('"', "'")
                     
-                    f.write(f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-logo="{logo}" group-title="1 - Vavoo {category}",{name}\n')
+                    f.write(f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-logo="{logo}" group-title="1 - Vavoo {safe_cat}",{name}\n')
                     
                     if "ava.karmakurama.com" in url and not url.endswith('.php'):
                         daddy_headers = {"User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1", "Referrer": "https://ava.karmakurama.com/", "Origin": "https://ava.karmakurama.com"}
@@ -1315,10 +1327,12 @@ def world_channels_generator():
             f.write("#EXTM3U\n")
             
             for category, channel_list in channels_by_category.items():
+                safe_cat = category.replace(",", " -").replace('"', "'")
                 f.write(f"\n# {category.upper()}\n")
                 
                 for name, url in channel_list:
-                    f.write(f'#EXTINF:-1 group-title="4 - World {category}",{name}\n{url}\n')
+                    safe_name = name.replace(",", " -").replace('"', "'")
+                    f.write(f'#EXTINF:-1 group-title="4 - World {safe_cat}",{safe_name}\n{url}\n')
         
         print(f"Playlist M3U salvata in: {os.path.join(output_dir, filename)}")
         print(f"Canali organizzati in {len(channels_by_category)} categorie:")
@@ -1447,7 +1461,8 @@ def sportsonline():
         with open(output_filename, "w", encoding="utf-8") as f:
             f.write("#EXTM3U\n")
             for entry in playlist_entries:
-                f.write(f'#EXTINF:-1 group-title="6 - Eventi Live SPORTSONLINE",{entry["name"]}\n')
+                safe_name = entry["name"].replace(",", " -").replace('"', "'")
+                f.write(f'#EXTINF:-1 group-title="6 - Eventi Live SPORTSONLINE",{safe_name}\n')
                 f.write(f'{entry["url"]}\n')
     
         print(f"\n[COMPLETATO] Playlist creata con successo! Apri il file '{output_filename}' con un player come VLC.")
