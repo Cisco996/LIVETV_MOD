@@ -118,7 +118,7 @@ def process_match(match, session):
 
             channel_name = f"{category} | {title} | {time_str}"
             m3u_entry = (
-                f'#EXTINF:-1 tvg-id="" tvg-logo="{logo_url}" tvg-name="{channel_name} ({language})" group-title="07 - Eventi Live STREAMED",{channel_name} ({language})\n'
+                f'#EXTINF:-1 tvg-id="" tvg-logo="{logo_url}" tvg-name="{channel_name} ({language})" group-title="7 - Eventi Live STREAMED",{channel_name} ({language})\n'
                 f'{embed_url}'
             )
             
@@ -161,7 +161,7 @@ def generate_m3u(output_file: str = OUTPUT_FILE) -> str:
         if len(m3u_content) == 1: # Solo #EXTM3U 蠰resente
             print("\nNessun evento trovato. Aggiungo un canale di fallback 'NESSUN EVENTO'.")
             fallback_entry = (
-                '#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="NESSUN EVENTO" group-title="07 - Eventi Live STREAMED",NESSUN EVENTO\n'
+                '#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="NESSUN EVENTO" group-title="7 - Eventi Live STREAMED",NESSUN EVENTO\n'
                 'https://example.com/no_event' # Link di esempio
             )
             m3u_content.append(fallback_entry)

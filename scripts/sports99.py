@@ -160,7 +160,7 @@ def generate_m3u(output_file: str = OUTPUT_FILE) -> str:
             tvg_id = channel_name.replace(" ", ".") if channel_name else ""
             logo_attr = f'tvg-logo="{image}"' if image else 'tvg-logo=""'
             
-            m3u_content += f'#EXTINF:-1 tvg-id="{tvg_id}" group-title="05 - Eventi Live Sports99" {logo_attr},{display_name}\n'
+            m3u_content += f'#EXTINF:-1 tvg-id="{tvg_id}" group-title="5 - Eventi Live Sports99" {logo_attr},{display_name}\n'
             m3u_content += f'{stream_url}\n'
             total_channels += 1
             total_channels_ita += 1
@@ -191,7 +191,7 @@ def generate_m3u(output_file: str = OUTPUT_FILE) -> str:
             tvg_id = channel_name.replace(" ", ".") if channel_name else ""
             logo_attr = f'tvg-logo="{image}"' if image else 'tvg-logo=""'
             
-            m3u_content += f'#EXTINF:-1 tvg-id="{tvg_id}" group-title="05 - Eventi Live SPORTS99 ENG" {logo_attr},{display_name}\n'
+            m3u_content += f'#EXTINF:-1 tvg-id="{tvg_id}" group-title="5 - Eventi Live SPORTS99 ENG" {logo_attr},{display_name}\n'
             m3u_content += f'{stream_url}\n'
             total_channels += 1
             total_channels_eng += 1
