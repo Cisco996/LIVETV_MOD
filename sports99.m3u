@@ -1,114 +1,152 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz,https://github.com/nzo66/TV/raw/refs/heads/main/epg.xml.gz"
 #EXTINF:-1 tvg-id="ESPN.Brasil.HD.BR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/brazil/espn-brasil-hd-br.webp",[Soccer] 2026-07-10 23:00 - Brazilian Serie B - Sport Recife vs Botafogo-SP (ESPN Brasil HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Brasil%20HD%20BR&code=br&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.1.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-07-11 00:30 - CFL - Winnipeg Blue Bombers vs Toronto Argonauts (TSN 1 HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.3.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-07-11 00:30 - CFL - Winnipeg Blue Bombers vs Toronto Argonauts (TSN 3 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.5.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-07-11 00:30 - CFL - Winnipeg Blue Bombers vs Toronto Argonauts (TSN 5 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.1.[English]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-07-11 00:30 - CFL - Winnipeg Blue Bombers vs Toronto Argonauts (TSN 1 [English])
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20%5BEnglish%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.1.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-07-11 23:00 - CFL - Montreal Alouettes vs Calgary Stampeders (TSN 1 HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.3.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-07-11 23:00 - CFL - Montreal Alouettes vs Calgary Stampeders (TSN 3 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.5.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-07-11 23:00 - CFL - Montreal Alouettes vs Calgary Stampeders (TSN 5 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.1.[English]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-07-11 23:00 - CFL - Montreal Alouettes vs Calgary Stampeders (TSN 1 [English])
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20%5BEnglish%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.1.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-07-12 23:00 - CFL - Saskatchewan Roughriders vs Hamilton Tiger-Cats (TSN 1 HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.3.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-07-12 23:00 - CFL - Saskatchewan Roughriders vs Hamilton Tiger-Cats (TSN 3 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.5.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-07-12 23:00 - CFL - Saskatchewan Roughriders vs Hamilton Tiger-Cats (TSN 5 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.1.[English]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-07-12 23:00 - CFL - Saskatchewan Roughriders vs Hamilton Tiger-Cats (TSN 1 [English])
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20%5BEnglish%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.1.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-07-18 01:00 - CFL - Edmonton Elks vs BC Lions (TSN 1 HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.3.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-07-18 01:00 - CFL - Edmonton Elks vs BC Lions (TSN 3 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.5.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-07-18 01:00 - CFL - Edmonton Elks vs BC Lions (TSN 5 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.1.[English]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-07-18 01:00 - CFL - Edmonton Elks vs BC Lions (TSN 1 [English])
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20%5BEnglish%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.1.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-07-18 20:00 - CFL - Calgary Stampeders vs Montreal Alouettes (TSN 1 HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.3.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-07-18 20:00 - CFL - Calgary Stampeders vs Montreal Alouettes (TSN 3 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.5.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-07-18 20:00 - CFL - Calgary Stampeders vs Montreal Alouettes (TSN 5 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.1.[English]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-07-18 20:00 - CFL - Calgary Stampeders vs Montreal Alouettes (TSN 1 [English])
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20%5BEnglish%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.1.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-07-18 23:00 - CFL - Hamilton Tiger-Cats vs Toronto Argonauts (TSN 1 HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.3.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-07-18 23:00 - CFL - Hamilton Tiger-Cats vs Toronto Argonauts (TSN 3 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.5.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-07-18 23:00 - CFL - Hamilton Tiger-Cats vs Toronto Argonauts (TSN 5 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.1.[English]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-07-18 23:00 - CFL - Hamilton Tiger-Cats vs Toronto Argonauts (TSN 1 [English])
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20%5BEnglish%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.1.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-07-19 23:00 - CFL - Ottawa Redblacks vs Winnipeg Blue Bombers (TSN 1 HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.3.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-07-19 23:00 - CFL - Ottawa Redblacks vs Winnipeg Blue Bombers (TSN 3 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.5.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-07-19 23:00 - CFL - Ottawa Redblacks vs Winnipeg Blue Bombers (TSN 5 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.1.[English]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-07-19 23:00 - CFL - Ottawa Redblacks vs Winnipeg Blue Bombers (TSN 1 [English])
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20%5BEnglish%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.1.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-07-24 01:00 - CFL - Saskatchewan Roughriders vs Edmonton Elks (TSN 1 HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.3.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-07-24 01:00 - CFL - Saskatchewan Roughriders vs Edmonton Elks (TSN 3 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.5.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-07-24 01:00 - CFL - Saskatchewan Roughriders vs Edmonton Elks (TSN 5 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.1.[English]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-07-24 01:00 - CFL - Saskatchewan Roughriders vs Edmonton Elks (TSN 1 [English])
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20%5BEnglish%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.1.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-07-25 00:30 - CFL - Winnipeg Blue Bombers vs Calgary Stampeders (TSN 1 HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.3.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-07-25 00:30 - CFL - Winnipeg Blue Bombers vs Calgary Stampeders (TSN 3 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.5.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-07-25 00:30 - CFL - Winnipeg Blue Bombers vs Calgary Stampeders (TSN 5 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.1.[English]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-07-25 00:30 - CFL - Winnipeg Blue Bombers vs Calgary Stampeders (TSN 1 [English])
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20%5BEnglish%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.1.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-07-25 23:00 - CFL - BC Lions vs Toronto Argonauts (TSN 1 HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.3.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-07-25 23:00 - CFL - BC Lions vs Toronto Argonauts (TSN 3 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.5.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-07-25 23:00 - CFL - BC Lions vs Toronto Argonauts (TSN 5 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.1.[English]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-07-25 23:00 - CFL - BC Lions vs Toronto Argonauts (TSN 1 [English])
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20%5BEnglish%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.1.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-07-26 23:00 - CFL - Montreal Alouettes vs Hamilton Tiger-Cats (TSN 1 HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.3.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-07-26 23:00 - CFL - Montreal Alouettes vs Hamilton Tiger-Cats (TSN 3 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.5.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-07-26 23:00 - CFL - Montreal Alouettes vs Hamilton Tiger-Cats (TSN 5 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.1.[English]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-07-26 23:00 - CFL - Montreal Alouettes vs Hamilton Tiger-Cats (TSN 1 [English])
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20%5BEnglish%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.1.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-07-31 00:30 - CFL - Winnipeg Blue Bombers vs BC Lions (TSN 1 HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.3.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-07-31 00:30 - CFL - Winnipeg Blue Bombers vs BC Lions (TSN 3 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.5.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-07-31 00:30 - CFL - Winnipeg Blue Bombers vs BC Lions (TSN 5 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.1.[English]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-07-31 00:30 - CFL - Winnipeg Blue Bombers vs BC Lions (TSN 1 [English])
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20%5BEnglish%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.1.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-07-31 23:30 - CFL - Ottawa Redblacks vs Montreal Alouettes (TSN 1 HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.3.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-07-31 23:30 - CFL - Ottawa Redblacks vs Montreal Alouettes (TSN 3 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.5.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-07-31 23:30 - CFL - Ottawa Redblacks vs Montreal Alouettes (TSN 5 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.1.[English]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-07-31 23:30 - CFL - Ottawa Redblacks vs Montreal Alouettes (TSN 1 [English])
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20%5BEnglish%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.1.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-08-01 19:00 - CFL - Hamilton Tiger-Cats vs Calgary Stampeders (TSN 1 HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.3.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-08-01 19:00 - CFL - Hamilton Tiger-Cats vs Calgary Stampeders (TSN 3 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.5.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-08-01 19:00 - CFL - Hamilton Tiger-Cats vs Calgary Stampeders (TSN 5 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.1.[English]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-08-01 19:00 - CFL - Hamilton Tiger-Cats vs Calgary Stampeders (TSN 1 [English])
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20%5BEnglish%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.1.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-08-01 23:00 - CFL - Edmonton Elks vs Saskatchewan Roughriders (TSN 1 HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.3.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-08-01 23:00 - CFL - Edmonton Elks vs Saskatchewan Roughriders (TSN 3 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.5.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-08-01 23:00 - CFL - Edmonton Elks vs Saskatchewan Roughriders (TSN 5 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.1.[English]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-08-01 23:00 - CFL - Edmonton Elks vs Saskatchewan Roughriders (TSN 1 [English])
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20%5BEnglish%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.1.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-08-06 23:30 - CFL - Toronto Argonauts vs Calgary Stampeders (TSN 1 HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.3.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-08-06 23:30 - CFL - Toronto Argonauts vs Calgary Stampeders (TSN 3 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.5.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-08-06 23:30 - CFL - Toronto Argonauts vs Calgary Stampeders (TSN 5 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.1.[English]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-08-06 23:30 - CFL - Toronto Argonauts vs Calgary Stampeders (TSN 1 [English])
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20%5BEnglish%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.1.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-08-08 01:00 - CFL - Saskatchewan Roughriders vs Ottawa Redblacks (TSN 1 HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.3.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-08-08 01:00 - CFL - Saskatchewan Roughriders vs Ottawa Redblacks (TSN 3 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.5.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-08-08 01:00 - CFL - Saskatchewan Roughriders vs Ottawa Redblacks (TSN 5 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.1.[English]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-08-08 01:00 - CFL - Saskatchewan Roughriders vs Ottawa Redblacks (TSN 1 [English])
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20%5BEnglish%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.1.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-08-08 19:00 - CFL - Montreal Alouettes vs Edmonton Elks (TSN 1 HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.3.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-08-08 19:00 - CFL - Montreal Alouettes vs Edmonton Elks (TSN 3 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.5.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-08-08 19:00 - CFL - Montreal Alouettes vs Edmonton Elks (TSN 5 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.1.[English]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-08-08 19:00 - CFL - Montreal Alouettes vs Edmonton Elks (TSN 1 [English])
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20%5BEnglish%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.1.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-08-08 23:00 - CFL - BC Lions vs Hamilton Tiger-Cats (TSN 1 HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.3.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-08-08 23:00 - CFL - BC Lions vs Hamilton Tiger-Cats (TSN 3 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.5.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-08-08 23:00 - CFL - BC Lions vs Hamilton Tiger-Cats (TSN 5 HD CA)
@@ -3279,8 +3317,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%20%7C%20Scarborough%20Sho
 https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ION.Television.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-07-10 23:30 - WNBA - Connecticut Sun vs Golden State Valkyries (ION Television US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ION%20Television%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TSN.1.[English]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-07-10 23:30 - WNBA - Toronto Tempo vs Dallas Wings (TSN 1 [English])
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20%5BEnglish%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.1.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-07-10 23:30 - WNBA - Toronto Tempo vs Dallas Wings (TSN 1 HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.5.FHD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-07-10 23:30 - WNBA - Toronto Tempo vs Dallas Wings (TSN 5 FHD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20FHD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.|.Brampton.Honey.Badgers.@.Montreal.Alliance.|.CEBL.Regular.Season.|.Fri.Jul.10.2026.7:30PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-07-10 23:30 - CEBL - Montreal Alliance vs Brampton Honey Badgers (CEBL | Brampton Honey Badgers @ Montreal Alliance | CEBL Regular Season | Fri Jul 10 2026 7:30PM ET)
@@ -5647,12 +5685,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20FHD&code=&user
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-08-03 00:00 - UCI World Tour -  vs  (TNT Sports 1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Polsat.Sport.3.FHD.PL" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport-3-fhd-pl.webp",[Volleyball] 2026-07-10 14:30 - FIVB Volleyball Womens Nations League - Bulgaria Volleyball Women vs Czech Republic Volleyball Women (Polsat Sport 3 FHD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%203%20FHD%20PL&code=pl&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Arena.Sport.2.Premium.FHD.RS" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-2-premium-fhd-rs.webp",[Volleyball] 2026-07-10 14:30 - FIVB Volleyball Womens Nations League - Bulgaria Volleyball Women vs Czech Republic Volleyball Women (Arena Sport 2 Premium FHD RS)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%202%20Premium%20FHD%20RS&code=rs&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sport.Klub.4.HD.HR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/croatia/sport-klub-4-hd-hr.webp",[Volleyball] 2026-07-10 14:30 - FIVB Volleyball Womens Nations League - Bulgaria Volleyball Women vs Czech Republic Volleyball Women (Sport Klub 4 HD HR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20Klub%204%20HD%20HR&code=hr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Polsat.Sport.3.FHD.PL" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport-3-fhd-pl.webp",[Volleyball] 2026-07-10 18:00 - FIVB Volleyball Womens Nations League - Germany Volleyball Women vs Netherlands Volleyball Women (Polsat Sport 3 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%203%20FHD%20PL&code=pl&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Ziggo.Sport.3.FHD.NL" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/netherlands/ziggo-sport-3-fhd-nl.webp",[Volleyball] 2026-07-10 18:00 - FIVB Volleyball Womens Nations League - Germany Volleyball Women vs Netherlands Volleyball Women (Ziggo Sport 3 FHD NL)
