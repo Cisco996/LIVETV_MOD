@@ -118,7 +118,7 @@ def process_match(match, session):
 
             channel_name = f"{category} | {title} | {time_str}"
             m3u_entry = (
-                f'#EXTINF:-1 tvg-id="" tvg-logo="{logo_url}" tvg-name="{channel_name} ({language})" group-title="Eventi Live STREAMED",{channel_name} ({language})\n'
+                f'#EXTINF:-1 tvg-id="" tvg-logo="{logo_url}" tvg-name="{channel_name} ({language})" group-title="08 Eventi Live STREAMED",{channel_name} ({language})\n'
                 f'{embed_url}'
             )
             
@@ -161,7 +161,7 @@ def generate_m3u(output_file: str = OUTPUT_FILE) -> str:
         if len(m3u_content) == 1: # Solo #EXTM3U 蠰resente
             print("\nNessun evento trovato. Aggiungo un canale di fallback 'NESSUN EVENTO'.")
             fallback_entry = (
-                '#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="NESSUN EVENTO" group-title="Eventi Live STREAMED",NESSUN EVENTO\n'
+                '#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="NESSUN EVENTO" group-title="08 Eventi Live STREAMED",NESSUN EVENTO\n'
                 'https://example.com/no_event' # Link di esempio
             )
             m3u_content.append(fallback_entry)
@@ -194,14 +194,14 @@ def create_m3u_playlist():
 def create_complete_playlist():
     import os
     m3u_files = [
+        "vavoo.m3u",
         "dlhd.m3u",
         "eventi_dlhd.m3u",
+        "world.m3u",
         "sports99.m3u",
         "sportsonline.m3u",
         "static.m3u",
-        "streamed.m3u",
-        "vavoo.m3u",
-        "world.m3u"
+        "streamed.m3u"
     ]
     output_dir = str(find_repo_root())
     output_file = os.path.join(output_dir, "lista_completa.m3u")
