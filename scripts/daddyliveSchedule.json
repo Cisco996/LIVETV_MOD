@@ -1,77 +1,5 @@
 {
-    "Thursday 09th July 2026 - Schedule Time UK GMT": {
-        "PPV Events": [
-            {
-                "time": "21:45",
-                "event": "DIRTcar Summer Nationals Butler",
-                "channels": [
-                    {
-                        "channel_name": "Event PPV",
-                        "channel_id": "151"
-                    }
-                ]
-            },
-            {
-                "time": "22:00",
-                "event": "Summer Shootout at Charlotte",
-                "channels": [
-                    {
-                        "channel_name": "FloRacing",
-                        "channel_id": "152"
-                    }
-                ]
-            },
-            {
-                "time": "22:15",
-                "event": "World of Outlaws Sprints Hartford",
-                "channels": [
-                    {
-                        "channel_name": "Event PPV",
-                        "channel_id": "153"
-                    }
-                ]
-            },
-            {
-                "time": "22:15",
-                "event": "USAC National at Sweet Springs",
-                "channels": [
-                    {
-                        "channel_name": "FloRacing",
-                        "channel_id": "154"
-                    }
-                ]
-            },
-            {
-                "time": "22:30",
-                "event": "Short Track Super Series Outlaw",
-                "channels": [
-                    {
-                        "channel_name": "Event PPV",
-                        "channel_id": "155"
-                    }
-                ]
-            },
-            {
-                "time": "23:15",
-                "event": "Lucas Oil Late Models 34 Raceway",
-                "channels": [
-                    {
-                        "channel_name": "Event PPV",
-                        "channel_id": "156"
-                    }
-                ]
-            },
-            {
-                "time": "00:00",
-                "event": "Jackson Motorplex",
-                "channels": [
-                    {
-                        "channel_name": "Event PPV",
-                        "channel_id": "157"
-                    }
-                ]
-            }
-        ],
+    "Friday 10th July 2026 - Schedule Time UK GMT": {
         "Upcoming Events": [
             {
                 "time": "03:30",
@@ -1100,6 +1028,78 @@
                 ]
             }
         ],
+        "Ireland Republic \ud83c\uddee\ud83c\uddea": [
+            {
+                "time": "18:45",
+                "event": "Ireland Republic - First Division : \ud83c\uddee\ud83c\uddea Athlone Town AFC vs \ud83c\uddee\ud83c\uddea Cobh Ramblers FC",
+                "channels": [
+                    {
+                        "channel_name": "LOITV",
+                        "channel_id": "59"
+                    }
+                ]
+            },
+            {
+                "time": "18:45",
+                "event": "Ireland Republic - First Division : \ud83c\uddee\ud83c\uddea Bray Wanderers AFC vs \ud83c\uddee\ud83c\uddea UCD AFC",
+                "channels": [
+                    {
+                        "channel_name": "LOITV",
+                        "channel_id": "68"
+                    }
+                ]
+            },
+            {
+                "time": "18:45",
+                "event": "Ireland Republic - First Division : \ud83c\uddee\ud83c\uddea Cork City FC vs \ud83c\uddee\ud83c\uddea Longford Town FC",
+                "channels": [
+                    {
+                        "channel_name": "LOITV",
+                        "channel_id": "69"
+                    }
+                ]
+            },
+            {
+                "time": "18:45",
+                "event": "Ireland Republic - First Division : \ud83c\uddee\ud83c\uddea Finn Harps FC vs \ud83c\uddee\ud83c\uddea Treaty United FC",
+                "channels": [
+                    {
+                        "channel_name": "LOITV",
+                        "channel_id": "76"
+                    }
+                ]
+            },
+            {
+                "time": "18:45",
+                "event": "Ireland Republic - First Division : \ud83c\uddee\ud83c\uddea Wexford FC vs \ud83c\uddee\ud83c\uddea Kerry FC",
+                "channels": [
+                    {
+                        "channel_name": "LOITV",
+                        "channel_id": "77"
+                    }
+                ]
+            },
+            {
+                "time": "18:45",
+                "event": "Ireland Republic - Premier Division : \ud83c\uddee\ud83c\uddea Dundalk FC vs \ud83c\uddee\ud83c\uddea Drogheda United FC",
+                "channels": [
+                    {
+                        "channel_name": "LOITV",
+                        "channel_id": "86"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "Ireland Republic - Premier Division : \ud83c\uddee\ud83c\uddea Waterford FC vs \ud83c\uddee\ud83c\uddea St Patrick's Athletic FC",
+                "channels": [
+                    {
+                        "channel_name": "LOITV",
+                        "channel_id": "105"
+                    }
+                ]
+            }
+        ],
         "All Soccer Events \u26bd": [
             {
                 "time": "08:30",
@@ -1744,6 +1744,52 @@
                 ]
             }
         ],
+        "NWSL Soccer": [
+            {
+                "time": "00:00",
+                "event": "United States - NWSL : \ud83c\uddfa\ud83c\uddf8 Orlando Pride vs \ud83c\uddfa\ud83c\uddf8 Kansas City Current",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "106"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "United States - NWSL : \ud83c\uddfa\ud83c\uddf8 Racing Louisville FC vs \ud83c\uddfa\ud83c\uddf8 Bay FC",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "107"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "United States - NWSL : \ud83c\uddfa\ud83c\uddf8 Boston Legacy FC vs \ud83c\uddfa\ud83c\uddf8 Chicago Stars FC",
+                "channels": [
+                    {
+                        "channel_name": "TNT Sports 2 UK",
+                        "channel_id": "32"
+                    },
+                    {
+                        "channel_name": "NBCS Boston USA",
+                        "channel_id": "754"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "United States - NWSL : \ud83c\uddfa\ud83c\uddf8 Utah Royals FC vs \ud83c\uddfa\ud83c\uddf8 NJ/NY Gotham FC",
+                "channels": [
+                    {
+                        "channel_name": "TNT Sports 1 UK",
+                        "channel_id": "31"
+                    }
+                ]
+            }
+        ],
         "USL League Two": [
             {
                 "time": "23:00",
@@ -2241,67 +2287,7 @@
         "\ud83c\udfbe ATP - Singles: Wimbledon / \ud83c\udfbe WTA - Singles: Wimbledon / \ud83c\udfbe ATP - Doubles / \ud83c\udfbe WTA - Doubles / \ud83c\udfbe Mixed Doubles": [
             {
                 "time": "08:00",
-                "event": "\ud83c\udfbe 2026 Access All England",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1551"
-                    }
-                ]
-            },
-            {
-                "time": "09:30",
-                "event": "\ud83c\udfbe 2026 Wimbledon Press Conferences",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1552"
-                    }
-                ]
-            },
-            {
-                "time": "10:00",
-                "event": "Court 2: \ud83c\uddfa\ud83c\uddf8 Taylor Townsend / \ud83c\udde8\ud83c\uddff Katerina Siniakov\u00e1 vs \ud83c\udde8\ud83c\uddf3 Guo Hanyu / \ud83c\uddeb\ud83c\uddf7 Kristina Mladenovic",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1553"
-                    }
-                ]
-            },
-            {
-                "time": "11:30",
-                "event": "Court 2: \ud83c\uddea\ud83c\uddea Ingrid Neel / \ud83c\uddf2\ud83c\uddfd Giuliana Olmos vs \ud83c\udde8\ud83c\uddf3 Jiang Xinyu / \ud83c\udde8\ud83c\uddf3 Xu Yifan",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1554"
-                    }
-                ]
-            },
-            {
-                "time": "12:00",
-                "event": "Court 1: \ud83c\uddf8\ud83c\uddfb Marcelo Ar\u00e9valo / \ud83c\udded\ud83c\uddf7 Mate Pavi\u0107 vs \ud83c\udde9\ud83c\uddea Kevin Krawietz / \ud83c\udde9\ud83c\uddea Tim P\u00fctz",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1555"
-                    }
-                ]
-            },
-            {
-                "time": "12:30",
-                "event": "Centre Court: \ud83c\udde8\ud83c\uddff Karol\u00edna Muchov\u00e1 vs \ud83c\uddfa\ud83c\uddf8 Coco Gauff",
-                "channels": [
-                    {
-                        "channel_name": "Tennis Stream",
-                        "channel_id": "1556"
-                    }
-                ]
-            },
-            {
-                "time": "13:30",
-                "event": "Court 1: \ud83c\uddeb\ud83c\uddee Harri Heli\u00f6vaara / \ud83c\uddec\ud83c\udde7 Henry Patten vs \ud83c\uddfa\ud83c\uddf8 Aleksandar Kovacevic / \ud83c\udde6\ud83c\uddfa Thanasi Kokkinakis",
+                "event": "\ud83c\udfa4 2026 Access All England",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
@@ -2310,22 +2296,52 @@
                 ]
             },
             {
-                "time": "14:00",
-                "event": "Centre Court: \ud83c\uddfa\ud83c\udde6 Marta Kostyuk vs \ud83c\udde8\ud83c\uddff Linda Noskov\u00e1",
+                "time": "09:30",
+                "event": "\ud83c\udfa4 2026 Wimbledon Press Conferences",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
-                        "channel_id": "1558"
+                        "channel_id": "1551"
                     }
                 ]
             },
             {
-                "time": "15:30",
-                "event": "Centre Court: \ud83c\udde6\ud83c\uddfa Marc Polmans / \ud83c\udde6\ud83c\uddfa Storm Hunter vs \ud83c\uddf8\ud83c\uddfb Marcelo Ar\u00e9valo / \ud83c\uddf1\ud83c\uddfb Je\u013cena Ostapenko",
+                "time": "12:00",
+                "event": "Court 1: \ud83c\uddef\ud83c\uddf5 Shuko Aoyama / \ud83c\uddf9\ud83c\uddfc En-Shuo Liang vs \ud83c\udde8\ud83c\udde6 Gabriela Dabrowski / \ud83c\udde7\ud83c\uddf7 Luisa Stefani",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
-                        "channel_id": "1559"
+                        "channel_id": "1552"
+                    }
+                ]
+            },
+            {
+                "time": "12:30",
+                "event": "Centre Court: \ud83c\uddec\ud83c\udde7 Arthur Fery vs \ud83c\udde9\ud83c\uddea Alexander Zverev",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1553"
+                    }
+                ]
+            },
+            {
+                "time": "14:30",
+                "event": "Centre Court: \ud83c\uddee\ud83c\uddf9 Jannik Sinner vs \ud83c\uddf7\ud83c\uddf8 Novak Djokovic",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1554"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "Court 1: \ud83c\uddeb\ud83c\uddf7 Kristina Mladenovic / \ud83c\udde8\ud83c\uddf3 Guo Hanyu vs \ud83c\udde8\ud83c\uddf3 Xu Yifan / \ud83c\udde8\ud83c\uddf3 Jiang Xinyu",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1555"
                     }
                 ]
             },
@@ -2335,7 +2351,7 @@
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
-                        "channel_id": "1560"
+                        "channel_id": "1556"
                     }
                 ]
             }
@@ -2946,6 +2962,18 @@
                 ]
             }
         ],
+        "Boxing \ud83e\udd4a": [
+            {
+                "time": "23:00",
+                "event": "\ud83e\udd4a \ud83c\uddfa\ud83c\uddf8 Team Boxing League (TBL) | NYC Attitude vs Boston Butchers",
+                "channels": [
+                    {
+                        "channel_name": "MSG USA",
+                        "channel_id": "765"
+                    }
+                ]
+            }
+        ],
         "MMA \ud83e\udd4a": [
             {
                 "time": "12:30",
@@ -3042,18 +3070,18 @@
                 ]
             }
         ],
-        "Wrestling (TNA)\ud83e\udd3c": [
+        "Wrestling (SmackDown)\ud83e\udd3c": [
             {
-                "time": "01:00",
-                "event": "TNA iMPACT!",
+                "time": "00:00",
+                "event": "\ud83e\udd3c \ud83c\uddfa\ud83c\uddf8 WWE Friday Night SmackDown",
                 "channels": [
                     {
-                        "channel_name": "AMC USA",
-                        "channel_id": "303"
+                        "channel_name": "USA Network",
+                        "channel_id": "343"
                     },
                     {
-                        "channel_name": "Sportsnet 360",
-                        "channel_id": "409"
+                        "channel_name": "Sport 5 PLUS Israel",
+                        "channel_id": "145"
                     }
                 ]
             }
@@ -3322,62 +3350,82 @@
                 ]
             }
         ],
-        "Aussie rules \ud83c\udfc9": [
+        "Athletics \ud83c\udfc3": [
             {
-                "time": "10:10",
-                "event": "AFL : Fremantle Dockers vs Sydney Swans",
+                "time": "16:15",
+                "event": "IAAF Diamond League - Monaco",
                 "channels": [
                     {
-                        "channel_name": "TNT Sports 2 UK",
-                        "channel_id": "32"
+                        "channel_name": "#Vamos Spain",
+                        "channel_id": "521"
+                    },
+                    {
+                        "channel_name": "svt2 Sweden",
+                        "channel_id": "14"
+                    },
+                    {
+                        "channel_name": "svt24 Sweden",
+                        "channel_id": "15"
+                    },
+                    {
+                        "channel_name": "Movistar Deportes Spain",
+                        "channel_id": "436"
+                    },
+                    {
+                        "channel_name": "Polsat Sport 2 Poland",
+                        "channel_id": "50"
+                    },
+                    {
+                        "channel_name": "Ziggo Sport 5 NL",
+                        "channel_id": "383"
+                    },
+                    {
+                        "channel_name": "SuperSport Variety 3",
+                        "channel_id": "418"
+                    },
+                    {
+                        "channel_name": "Arena Sport 1 Croatia",
+                        "channel_id": "432"
+                    },
+                    {
+                        "channel_name": "SRF Info",
+                        "channel_id": "16"
+                    },
+                    {
+                        "channel_name": "Arena 3 Premium Serbia",
+                        "channel_id": "139"
+                    },
+                    {
+                        "channel_name": "Sport 2 Israel",
+                        "channel_id": "141"
+                    },
+                    {
+                        "channel_name": "MTV Urheilu 2",
+                        "channel_id": "3072"
+                    }
+                ]
+            }
+        ],
+        "Aussie rules (AFL) \ud83c\udfc9": [
+            {
+                "time": "09:40",
+                "event": "AFL : Collingwood Magpies vs North Melbourne Kangaroos",
+                "channels": [
+                    {
+                        "channel_name": "TNT Sports 3 UK",
+                        "channel_id": "33"
                     },
                     {
                         "channel_name": "FOX Sports 2 USA",
                         "channel_id": "758"
                     },
                     {
-                        "channel_name": "Sky Sport 7 NZ",
-                        "channel_id": "594"
+                        "channel_name": "Sky Sport 6 NZ",
+                        "channel_id": "593"
                     },
                     {
-                        "channel_name": "SPORT1+ DE",
-                        "channel_id": "640"
-                    },
-                    {
-                        "channel_name": "FOX Sports 2 USA",
+                        "channel_name": "Fox Sports 2 USA",
                         "channel_id": "3082"
-                    }
-                ]
-            }
-        ],
-        "College Baseball \u26be": [
-            {
-                "time": "22:30",
-                "event": "Collegiate Baseball League : Valley Blue Sox vs Bristol Blues",
-                "channels": [
-                    {
-                        "channel_name": "ESPN+ USA",
-                        "channel_id": "153"
-                    }
-                ]
-            },
-            {
-                "time": "22:30",
-                "event": "Collegiate Baseball League : Mystic Schooners vs Martha's Vineyard Sharks",
-                "channels": [
-                    {
-                        "channel_name": "ESPN+ USA",
-                        "channel_id": "154"
-                    }
-                ]
-            },
-            {
-                "time": "22:35",
-                "event": "Collegiate Baseball League : Newport Gulls vs Ocean State Waves",
-                "channels": [
-                    {
-                        "channel_name": "ESPN+ USA",
-                        "channel_id": "155"
                     }
                 ]
             }
@@ -3412,6 +3460,38 @@
                     {
                         "channel_name": "ESPNU USA",
                         "channel_id": "316"
+                    }
+                ]
+            }
+        ],
+        "College Baseball \u26be": [
+            {
+                "time": "22:30",
+                "event": "Collegiate Baseball League : Valley Blue Sox vs Bristol Blues",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "153"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "Collegiate Baseball League : Mystic Schooners vs Martha's Vineyard Sharks",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "154"
+                    }
+                ]
+            },
+            {
+                "time": "22:35",
+                "event": "Collegiate Baseball League : Newport Gulls vs Ocean State Waves",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "155"
                     }
                 ]
             }
@@ -3640,14 +3720,64 @@
                 ]
             }
         ],
-        "Basketball\ud83c\udfc0": [
+        "Basketball \ud83c\udfc0": [
             {
-                "time": "07:00",
-                "event": "NBL : Canterbury Rams - Taranaki Mountainairs",
+                "time": "04:00",
+                "event": "NBL : Franklin Bulls vs Otago Nuggets",
                 "channels": [
                     {
-                        "channel_name": "Sky Sport 2 NZ",
-                        "channel_id": "589"
+                        "channel_name": "Sky Sport 3 NZ",
+                        "channel_id": "590"
+                    }
+                ]
+            },
+            {
+                "time": "07:30",
+                "event": "NBL : Whai vs Wellington Saints",
+                "channels": [
+                    {
+                        "channel_name": "Sky Sport 3 NZ",
+                        "channel_id": "590"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "CEBL : Montreal Alliance vs Brampton Honey Badgers",
+                "channels": [
+                    {
+                        "channel_name": "RDS 2 CA",
+                        "channel_id": "840"
+                    }
+                ]
+            }
+        ],
+        "WNBA \ud83c\udfc0": [
+            {
+                "time": "23:30",
+                "event": "WNBA : Toronto Tempo W vs Dallas Wings W",
+                "channels": [
+                    {
+                        "channel_name": "ION USA",
+                        "channel_id": "325"
+                    },
+                    {
+                        "channel_name": "TSN1",
+                        "channel_id": "111"
+                    },
+                    {
+                        "channel_name": "TSN5",
+                        "channel_id": "115"
+                    }
+                ]
+            },
+            {
+                "time": "02:00",
+                "event": "WNBA : Chicago Sky vs Los Angeles Sparks",
+                "channels": [
+                    {
+                        "channel_name": "ION USA",
+                        "channel_id": "325"
                     }
                 ]
             }
@@ -3798,32 +3928,32 @@
                 ]
             }
         ],
-        "WNBA \ud83c\udfc0": [
+        "Sailing \u26f5/ Boating \ud83d\udee5": [
             {
-                "time": "23:30",
-                "event": "WNBA : Toronto Tempo W vs Dallas Wings W",
+                "time": "13:00",
+                "event": "ICF Canoe Sprint World Cup : Montreal Friday Season 1",
                 "channels": [
                     {
-                        "channel_name": "ION USA",
-                        "channel_id": "325"
+                        "channel_name": "Sky Sport 1 NZ",
+                        "channel_id": "588"
                     },
                     {
-                        "channel_name": "TSN1",
-                        "channel_id": "111"
-                    },
-                    {
-                        "channel_name": "TSN5",
-                        "channel_id": "115"
+                        "channel_name": "Polsat Sport Extra 3 Poland",
+                        "channel_id": "995"
                     }
                 ]
             },
             {
-                "time": "02:00",
-                "event": "WNBA : Chicago Sky vs Los Angeles Sparks",
+                "time": "17:15",
+                "event": "ICF Canoe Sprint World Cup : Montreal Friday Season 2",
                 "channels": [
                     {
-                        "channel_name": "ION USA",
-                        "channel_id": "325"
+                        "channel_name": "Sky Sport Select NZ",
+                        "channel_id": "587"
+                    },
+                    {
+                        "channel_name": "Polsat Sport Extra 3 Poland",
+                        "channel_id": "995"
                     }
                 ]
             }
@@ -3986,104 +4116,60 @@
                 ]
             }
         ],
-        "Sailing Boating \u26f5\ud83d\udee5\ufe0f": [
+        "Darts \ud83c\udfaf": [
             {
-                "time": "12:30",
-                "event": "Kayaking : 2026 ICF Canoe Sprint &amp; Paracanoe World Cup Montreal - Day 1",
+                "time": "11:00",
+                "event": "PDC Darts Elten Safety Shoes European Darts Open - Ostermann-Arena Leverkusen",
                 "channels": [
                     {
-                        "channel_name": "Sky Sport 6 NZ",
-                        "channel_id": "593"
+                        "channel_name": "PDC TV",
+                        "channel_id": "43"
                     },
                     {
-                        "channel_name": "Polsat Sport Extra 3 Poland (CH-",
-                        "channel_id": "995"
+                        "channel_name": "DAZN2 DE",
+                        "channel_id": "427"
                     },
                     {
-                        "channel_name": "Sportv3 Brazil",
-                        "channel_id": "80"
+                        "channel_name": "Canal+ Sport 2 Poland",
+                        "channel_id": "73"
+                    },
+                    {
+                        "channel_name": "Sport 1 CZ",
+                        "channel_id": "21"
                     }
                 ]
             },
             {
                 "time": "17:00",
-                "event": "Kayaking : 2026 ICF Canoe Sprint &amp; Paracanoe World Cup Montreal - Day 1",
+                "event": "PDC Darts Elten Safety Shoes European Darts Open - Ostermann-Arena Leverkusen",
                 "channels": [
                     {
-                        "channel_name": "Sky Sport 6 NZ",
-                        "channel_id": "593"
+                        "channel_name": "PDC TV",
+                        "channel_id": "43"
                     },
                     {
-                        "channel_name": "Polsat Sport Extra 3 Poland (CH-",
-                        "channel_id": "995"
+                        "channel_name": "DAZN2 DE",
+                        "channel_id": "427"
+                    },
+                    {
+                        "channel_name": "Canal+ Sport 2 Poland",
+                        "channel_id": "73"
+                    },
+                    {
+                        "channel_name": "Sport 1 CZ",
+                        "channel_id": "21"
                     }
                 ]
             }
         ],
-        "Handball \ud83e\udd3e": [
+        "Gymnastics \ud83e\udd38": [
             {
                 "time": "09:00",
-                "event": "U20 EHF Euro : Israel U20 vs Bosnia &amp; Herzegovina U20",
+                "event": "Maccabiah 2026: Artistic Gymnastics",
                 "channels": [
                     {
                         "channel_name": "Sport 5 Plus Israel",
                         "channel_id": "145"
-                    }
-                ]
-            },
-            {
-                "time": "09:00",
-                "event": "World European Championship U20 : France U20 vs Greece U20",
-                "channels": [
-                    {
-                        "channel_name": "Sport 1 CZ",
-                        "channel_id": "11"
-                    },
-                    {
-                        "channel_name": "Sport 1 Hungary",
-                        "channel_id": "26"
-                    }
-                ]
-            },
-            {
-                "time": "11:30",
-                "event": "World European Championship U20 : Czech Republic U20 vs Poland U20",
-                "channels": [
-                    {
-                        "channel_name": "Sport 1 CZ",
-                        "channel_id": "11"
-                    },
-                    {
-                        "channel_name": "Sport 1 Hungary",
-                        "channel_id": "26"
-                    }
-                ]
-            },
-            {
-                "time": "14:00",
-                "event": "World European Championship U20 : Germany U20 vs Portugal U20",
-                "channels": [
-                    {
-                        "channel_name": "Sport 1 CZ",
-                        "channel_id": "11"
-                    },
-                    {
-                        "channel_name": "Sport 1 Hungary",
-                        "channel_id": "26"
-                    }
-                ]
-            },
-            {
-                "time": "16:30",
-                "event": "World European Championship U20 : Hungary U20 vs Slovenia U20",
-                "channels": [
-                    {
-                        "channel_name": "Sport 1 CZ",
-                        "channel_id": "11"
-                    },
-                    {
-                        "channel_name": "Sport 1 Hungary",
-                        "channel_id": "26"
                     }
                 ]
             }
@@ -4152,6 +4238,28 @@
                 ]
             }
         ],
+        "Lacrosse \ud83e\udd4d": [
+            {
+                "time": "01:00",
+                "event": "Premier Lacrosse League : Philadelphia Waterdogs vs. California Redwoods",
+                "channels": [
+                    {
+                        "channel_name": "ESPN+ USA",
+                        "channel_id": "59"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "Premier Lacrosse League : Utah Archers vs. New York Atlas",
+                "channels": [
+                    {
+                        "channel_name": "ESPN2 USA",
+                        "channel_id": "45"
+                    }
+                ]
+            }
+        ],
         "Rugby League \ud83c\udfc9": [
             {
                 "time": "10:00",
@@ -4198,6 +4306,28 @@
                     {
                         "channel_name": "SPORT1+ DE",
                         "channel_id": "640"
+                    }
+                ]
+            }
+        ],
+        "Rugby Union \ud83c\udfc9": [
+            {
+                "time": "04:15",
+                "event": "Super Rugby Aupiki : Blues in Manawa",
+                "channels": [
+                    {
+                        "channel_name": "Sky Sport 1 NZ",
+                        "channel_id": "588"
+                    }
+                ]
+            },
+            {
+                "time": "01:45",
+                "event": "Super Rugby Aupiki : Matatu vs Poua",
+                "channels": [
+                    {
+                        "channel_name": "Sky Sport 2 NZ",
+                        "channel_id": "589"
                     }
                 ]
             }
@@ -4338,440 +4468,6 @@
                     {
                         "channel_name": "Sport Klub 4 Croatia",
                         "channel_id": "104"
-                    }
-                ]
-            }
-        ],
-        "Ireland Republic \ud83c\uddee\ud83c\uddea": [
-            {
-                "time": "18:45",
-                "event": "Ireland Republic - First Division : \ud83c\uddee\ud83c\uddea Athlone Town AFC vs \ud83c\uddee\ud83c\uddea Cobh Ramblers FC",
-                "channels": [
-                    {
-                        "channel_name": "LOITV",
-                        "channel_id": "59"
-                    }
-                ]
-            },
-            {
-                "time": "18:45",
-                "event": "Ireland Republic - First Division : \ud83c\uddee\ud83c\uddea Bray Wanderers AFC vs \ud83c\uddee\ud83c\uddea UCD AFC",
-                "channels": [
-                    {
-                        "channel_name": "LOITV",
-                        "channel_id": "68"
-                    }
-                ]
-            },
-            {
-                "time": "18:45",
-                "event": "Ireland Republic - First Division : \ud83c\uddee\ud83c\uddea Cork City FC vs \ud83c\uddee\ud83c\uddea Longford Town FC",
-                "channels": [
-                    {
-                        "channel_name": "LOITV",
-                        "channel_id": "69"
-                    }
-                ]
-            },
-            {
-                "time": "18:45",
-                "event": "Ireland Republic - First Division : \ud83c\uddee\ud83c\uddea Finn Harps FC vs \ud83c\uddee\ud83c\uddea Treaty United FC",
-                "channels": [
-                    {
-                        "channel_name": "LOITV",
-                        "channel_id": "76"
-                    }
-                ]
-            },
-            {
-                "time": "18:45",
-                "event": "Ireland Republic - First Division : \ud83c\uddee\ud83c\uddea Wexford FC vs \ud83c\uddee\ud83c\uddea Kerry FC",
-                "channels": [
-                    {
-                        "channel_name": "LOITV",
-                        "channel_id": "77"
-                    }
-                ]
-            },
-            {
-                "time": "18:45",
-                "event": "Ireland Republic - Premier Division : \ud83c\uddee\ud83c\uddea Dundalk FC vs \ud83c\uddee\ud83c\uddea Drogheda United FC",
-                "channels": [
-                    {
-                        "channel_name": "LOITV",
-                        "channel_id": "86"
-                    }
-                ]
-            },
-            {
-                "time": "19:00",
-                "event": "Ireland Republic - Premier Division : \ud83c\uddee\ud83c\uddea Waterford FC vs \ud83c\uddee\ud83c\uddea St Patrick's Athletic FC",
-                "channels": [
-                    {
-                        "channel_name": "LOITV",
-                        "channel_id": "105"
-                    }
-                ]
-            }
-        ],
-        "NWSL Soccer": [
-            {
-                "time": "00:00",
-                "event": "United States - NWSL : \ud83c\uddfa\ud83c\uddf8 Orlando Pride vs \ud83c\uddfa\ud83c\uddf8 Kansas City Current",
-                "channels": [
-                    {
-                        "channel_name": "ESPN+ USA",
-                        "channel_id": "106"
-                    }
-                ]
-            },
-            {
-                "time": "00:00",
-                "event": "United States - NWSL : \ud83c\uddfa\ud83c\uddf8 Racing Louisville FC vs \ud83c\uddfa\ud83c\uddf8 Bay FC",
-                "channels": [
-                    {
-                        "channel_name": "ESPN+ USA",
-                        "channel_id": "107"
-                    }
-                ]
-            },
-            {
-                "time": "00:00",
-                "event": "United States - NWSL : \ud83c\uddfa\ud83c\uddf8 Boston Legacy FC vs \ud83c\uddfa\ud83c\uddf8 Chicago Stars FC",
-                "channels": [
-                    {
-                        "channel_name": "TNT Sports 2 UK",
-                        "channel_id": "32"
-                    },
-                    {
-                        "channel_name": "NBCS Boston USA",
-                        "channel_id": "754"
-                    }
-                ]
-            },
-            {
-                "time": "02:00",
-                "event": "United States - NWSL : \ud83c\uddfa\ud83c\uddf8 Utah Royals FC vs \ud83c\uddfa\ud83c\uddf8 NJ/NY Gotham FC",
-                "channels": [
-                    {
-                        "channel_name": "TNT Sports 1 UK",
-                        "channel_id": "31"
-                    }
-                ]
-            }
-        ],
-        "Tennis \ud83c\udfbe ATP - Singles: Wimbledon (United Kingdom), grass": [
-            {
-                "time": "12:30",
-                "event": "ATP - Singles: \ud83c\uddec\ud83c\udde7 Arthur Fery vs \ud83c\udde9\ud83c\uddea Alexander Zverev",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "14:30",
-                "event": "ATP - Singles: \ud83c\uddee\ud83c\uddf9 Jannik Sinner vs \ud83c\uddf7\ud83c\uddf8 Novak Djokovic",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            }
-        ],
-        "Tennis \ud83c\udfbe WTA - Doubles: Wimbledon (United Kingdom), grass": [
-            {
-                "time": "12:00",
-                "event": "WTA - Doubles: \ud83c\uddef\ud83c\uddf5 Shuko Aoyama / \ud83c\uddf9\ud83c\uddfc Liang E. S. vs \ud83c\udde8\ud83c\udde6 Gabriela Dabrowski / \ud83c\udde7\ud83c\uddf7 Luisa Stefani",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            },
-            {
-                "time": "15:00",
-                "event": "WTA - Doubles: \ud83c\udde8\ud83c\uddf3 Guo H. / \ud83c\uddeb\ud83c\uddf7 Kristina Mladenovic vs \ud83c\udde8\ud83c\uddf3 Jiang X. / \ud83c\udde8\ud83c\uddf3 Xu Y.",
-                "channels": [
-                    {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
-                    }
-                ]
-            }
-        ],
-        "Boxing \ud83e\udd4a": [
-            {
-                "time": "23:00",
-                "event": "\ud83e\udd4a \ud83c\uddfa\ud83c\uddf8 Team Boxing League (TBL) | NYC Attitude vs Boston Butchers",
-                "channels": [
-                    {
-                        "channel_name": "MSG USA",
-                        "channel_id": "765"
-                    }
-                ]
-            }
-        ],
-        "Wrestling (SmackDown)\ud83e\udd3c": [
-            {
-                "time": "00:00",
-                "event": "\ud83e\udd3c \ud83c\uddfa\ud83c\uddf8 WWE Friday Night SmackDown",
-                "channels": [
-                    {
-                        "channel_name": "USA Network",
-                        "channel_id": "343"
-                    },
-                    {
-                        "channel_name": "Sport 5 PLUS Israel",
-                        "channel_id": "145"
-                    }
-                ]
-            }
-        ],
-        "Athletics \ud83c\udfc3": [
-            {
-                "time": "16:15",
-                "event": "IAAF Diamond League - Monaco",
-                "channels": [
-                    {
-                        "channel_name": "#Vamos Spain",
-                        "channel_id": "521"
-                    },
-                    {
-                        "channel_name": "svt2 Sweden",
-                        "channel_id": "14"
-                    },
-                    {
-                        "channel_name": "svt24 Sweden",
-                        "channel_id": "15"
-                    },
-                    {
-                        "channel_name": "Movistar Deportes Spain",
-                        "channel_id": "436"
-                    },
-                    {
-                        "channel_name": "Polsat Sport 2 Poland",
-                        "channel_id": "50"
-                    },
-                    {
-                        "channel_name": "Ziggo Sport 5 NL",
-                        "channel_id": "383"
-                    },
-                    {
-                        "channel_name": "SuperSport Variety 3",
-                        "channel_id": "418"
-                    },
-                    {
-                        "channel_name": "Arena Sport 1 Croatia",
-                        "channel_id": "432"
-                    },
-                    {
-                        "channel_name": "SRF Info",
-                        "channel_id": "16"
-                    },
-                    {
-                        "channel_name": "Arena 3 Premium Serbia",
-                        "channel_id": "139"
-                    },
-                    {
-                        "channel_name": "Sport 2 Israel",
-                        "channel_id": "141"
-                    },
-                    {
-                        "channel_name": "MTV Urheilu 2",
-                        "channel_id": "3072"
-                    }
-                ]
-            }
-        ],
-        "Aussie rules (AFL) \ud83c\udfc9": [
-            {
-                "time": "09:40",
-                "event": "AFL : Collingwood Magpies vs North Melbourne Kangaroos",
-                "channels": [
-                    {
-                        "channel_name": "TNT Sports 3 UK",
-                        "channel_id": "33"
-                    },
-                    {
-                        "channel_name": "FOX Sports 2 USA",
-                        "channel_id": "758"
-                    },
-                    {
-                        "channel_name": "Sky Sport 6 NZ",
-                        "channel_id": "593"
-                    },
-                    {
-                        "channel_name": "Fox Sports 2 USA",
-                        "channel_id": "3082"
-                    }
-                ]
-            }
-        ],
-        "Basketball \ud83c\udfc0": [
-            {
-                "time": "04:00",
-                "event": "NBL : Franklin Bulls vs Otago Nuggets",
-                "channels": [
-                    {
-                        "channel_name": "Sky Sport 3 NZ",
-                        "channel_id": "590"
-                    }
-                ]
-            },
-            {
-                "time": "07:30",
-                "event": "NBL : Whai vs Wellington Saints",
-                "channels": [
-                    {
-                        "channel_name": "Sky Sport 3 NZ",
-                        "channel_id": "590"
-                    }
-                ]
-            },
-            {
-                "time": "23:30",
-                "event": "CEBL : Montreal Alliance vs Brampton Honey Badgers",
-                "channels": [
-                    {
-                        "channel_name": "RDS 2 CA",
-                        "channel_id": "840"
-                    }
-                ]
-            }
-        ],
-        "Sailing \u26f5/ Boating \ud83d\udee5": [
-            {
-                "time": "13:00",
-                "event": "ICF Canoe Sprint World Cup : Montreal Friday Season 1",
-                "channels": [
-                    {
-                        "channel_name": "Sky Sport 1 NZ",
-                        "channel_id": "588"
-                    },
-                    {
-                        "channel_name": "Polsat Sport Extra 3 Poland",
-                        "channel_id": "995"
-                    }
-                ]
-            },
-            {
-                "time": "17:15",
-                "event": "ICF Canoe Sprint World Cup : Montreal Friday Season 2",
-                "channels": [
-                    {
-                        "channel_name": "Sky Sport Select NZ",
-                        "channel_id": "587"
-                    },
-                    {
-                        "channel_name": "Polsat Sport Extra 3 Poland",
-                        "channel_id": "995"
-                    }
-                ]
-            }
-        ],
-        "Darts \ud83c\udfaf": [
-            {
-                "time": "11:00",
-                "event": "PDC Darts Elten Safety Shoes European Darts Open - Ostermann-Arena Leverkusen",
-                "channels": [
-                    {
-                        "channel_name": "PDC TV",
-                        "channel_id": "43"
-                    },
-                    {
-                        "channel_name": "DAZN2 DE",
-                        "channel_id": "427"
-                    },
-                    {
-                        "channel_name": "Canal+ Sport 2 Poland",
-                        "channel_id": "73"
-                    },
-                    {
-                        "channel_name": "Sport 1 CZ",
-                        "channel_id": "21"
-                    }
-                ]
-            },
-            {
-                "time": "17:00",
-                "event": "PDC Darts Elten Safety Shoes European Darts Open - Ostermann-Arena Leverkusen",
-                "channels": [
-                    {
-                        "channel_name": "PDC TV",
-                        "channel_id": "43"
-                    },
-                    {
-                        "channel_name": "DAZN2 DE",
-                        "channel_id": "427"
-                    },
-                    {
-                        "channel_name": "Canal+ Sport 2 Poland",
-                        "channel_id": "73"
-                    },
-                    {
-                        "channel_name": "Sport 1 CZ",
-                        "channel_id": "21"
-                    }
-                ]
-            }
-        ],
-        "Gymnastics \ud83e\udd38": [
-            {
-                "time": "09:00",
-                "event": "Maccabiah 2026: Artistic Gymnastics",
-                "channels": [
-                    {
-                        "channel_name": "Sport 5 Plus Israel",
-                        "channel_id": "145"
-                    }
-                ]
-            }
-        ],
-        "Lacrosse \ud83e\udd4d": [
-            {
-                "time": "01:00",
-                "event": "Premier Lacrosse League : Philadelphia Waterdogs vs. California Redwoods",
-                "channels": [
-                    {
-                        "channel_name": "ESPN+ USA",
-                        "channel_id": "59"
-                    }
-                ]
-            },
-            {
-                "time": "01:00",
-                "event": "Premier Lacrosse League : Utah Archers vs. New York Atlas",
-                "channels": [
-                    {
-                        "channel_name": "ESPN2 USA",
-                        "channel_id": "45"
-                    }
-                ]
-            }
-        ],
-        "Rugby Union \ud83c\udfc9": [
-            {
-                "time": "04:15",
-                "event": "Super Rugby Aupiki : Blues in Manawa",
-                "channels": [
-                    {
-                        "channel_name": "Sky Sport 1 NZ",
-                        "channel_id": "588"
-                    }
-                ]
-            },
-            {
-                "time": "01:45",
-                "event": "Super Rugby Aupiki : Matatu vs Poua",
-                "channels": [
-                    {
-                        "channel_name": "Sky Sport 2 NZ",
-                        "channel_id": "589"
                     }
                 ]
             }
