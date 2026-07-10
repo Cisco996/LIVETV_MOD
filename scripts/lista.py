@@ -63,12 +63,12 @@ def epg_merger():
             response = requests.get(url, timeout=30, verify=False)
             response.raise_for_status()
 
-            # Prova a decomprimere come GZIP
+            # Prova a decomprimere como GZIP
             try:
                 with gzip.open(io.BytesIO(response.content), 'rb') as f_in:
                     xml_content = f_in.read()
             except (gzip.BadGzipFile, OSError):
-                # Non Ã¨ un file gzip, usa direttamente il contenuto
+                # Non è un file gzip, usa direttamente il contenuto
                 xml_content = response.content
 
             return ET.ElementTree(ET.fromstring(xml_content))
@@ -142,22 +142,18 @@ def epg_merger():
         tree_finale.write(f_gz, encoding='utf-8', xml_declaration=True)
     print(f"File GZIP salvato: {output_gz}")
              
-# Funzione per il terzo script (eventi_dlhd_m3u8_generator.py)
+# Funzione per il terzo script (eventi_dlhd_m3u8_generator.py) - Versione World
 def eventi_dlhd_m3u8_generator_world():
-    # Codice del terzo script qui
-    # Aggiungi il codice del tuo script "eventi_dlhd_m3u8_generator.py" in questa funzione.
-    print("Eseguendo l'eventi_dlhd_m3u8_generator.py...")
-    # Il codice che avevi nello script "eventi_dlhd_m3u8_generator.py" va qui, senza modifiche.
+    print("Eseguendo l'eventi_dlhd_m3u8_generator.py (versione World)...")
     import json
     import re
     import requests
-    import urllib.parse # Consolidato
+    import urllib.parse
     from datetime import datetime, timedelta
     from dateutil import parser
     import os
     from dotenv import load_dotenv
     
-    # Carica le variabili d'ambiente dal file .env
     load_dotenv()
 
     LINK_DADDY = os.getenv("LINK_DADDY", "").strip() or "https://dlhd.pk"
@@ -172,15 +168,9 @@ def eventi_dlhd_m3u8_generator_world():
     session.headers.update(HEADERS)
     
     def clean_category_name(name): 
-        # Rimuove tag html come </span> o simili 
         return re.sub(r'<[^>]+>', '', name).strip()
         
     def clean_tvg_id(tvg_id):
-        """
-        Pulisce il tvg-id rimuovendo caratteri speciali, spazi e convertendo tutto in minuscolo
-        """
-        # import re # 're' Ã¨ giÃ  importato a livello di funzione
-        # Rimuove caratteri speciali comuni mantenendo solo lettere e numeri
         cleaned = re.sub(r'[^a-zA-Z0-9À-ÿ]', '', tvg_id)
         return cleaned.lower()
      
@@ -191,19 +181,17 @@ def eventi_dlhd_m3u8_generator_world():
         return None
      
     def get_stream_from_channel_id(channel_id): 
-        # Restituisce direttamente l'URL .php
         embed_url = f"{LINK_DADDY}/watch.php?id={channel_id}" 
         print(f"URL .php per il canale Daddylive {channel_id}.")
         return embed_url
      
-    # def clean_category_name(name): # Rimossa definizione duplicata
-    #     # Rimuove tag html come </span> o simili
-    #     return re.sub(r'<[^>]+>', '', name).strip()
-     
     def extract_channels_from_json(path): 
-        keywords = {"italy", "rai", "italia", "it", "uk", "tnt", "usa", "tennis channel", "tennis stream", "la"} 
-        now = datetime.now()  # ora attuale completa (data+ora) 
-        yesterday_date = (now - timedelta(days=1)).date() # Data di ieri
+        it_keywords = {"italy", "rai", "italia", "it"}
+        eng_keywords = {"uk", "tnt", "usa", "tennis channel", "tennis stream", "la"}
+        keywords = it_keywords.union(eng_keywords)
+        
+        now = datetime.now()  
+        yesterday_date = (now - timedelta(days=1)).date()
      
         with open(path, "r", encoding="utf-8") as f: 
             data = json.load(f) 
@@ -218,7 +206,6 @@ def eventi_dlhd_m3u8_generator_world():
                 print(f"[!] Errore parsing data '{date_part}': {e}") 
                 continue 
             
-            # Determina se processare questa data
             process_this_date = False
             is_yesterday_early_morning_event_check = False
 
@@ -226,9 +213,8 @@ def eventi_dlhd_m3u8_generator_world():
                 process_this_date = True
             elif date_obj == yesterday_date:
                 process_this_date = True
-                is_yesterday_early_morning_event_check = True # Flag per eventi_dlhd di ieri mattina presto
+                is_yesterday_early_morning_event_check = True
             else:
-                # Salta date che non sono nÃ© oggi nÃ© ieri
                 continue
 
             if not process_this_date:
@@ -236,45 +222,32 @@ def eventi_dlhd_m3u8_generator_world():
      
             for category_raw, event_items in sections.items(): 
                 category = clean_category_name(category_raw)
-                # Salta la categoria TV Shows
                 if category.lower() == "tv shows":
                     continue
                 if category not in categorized_channels: 
                     categorized_channels[category] = [] 
      
                 for item in event_items: 
-                    time_str = item.get("time", "00:00") # Orario originale dal JSON
+                    time_str = item.get("time", "00:00")
                     event_title = item.get("event", "Evento") 
      
                     try: 
-                        # Parse orario evento originale (dal JSON)
                         original_event_time_obj = datetime.strptime(time_str, "%H:%M").time()
-
-                        # Costruisci datetime completo dell'evento con la sua data originale
-                        # e l'orario originale, poi applica il timedelta(hours=2) (per "correzione timezone?")
-                        # Questo event_datetime_adjusted Ã¨ quello che viene usato per il filtro "meno di 2 ore fa" per oggi
-                        # e per il nome del canale.
                         event_datetime_adjusted_for_display_and_filter = datetime.combine(date_obj, original_event_time_obj)
 
                         if is_yesterday_early_morning_event_check:
-                            # Filtro per eventi_dlhd di ieri mattina presto (00:00 - 04:00, ora JSON)
                             start_filter_time = datetime.strptime("00:00", "%H:%M").time()
                             end_filter_time = datetime.strptime("04:00", "%H:%M").time()
-                            # Confronta l'orario originale dell'evento
                             if not (start_filter_time <= original_event_time_obj <= end_filter_time):
-                                # Evento di ieri, ma non nell'intervallo 00:00-04:00 -> salto
                                 continue
-                        else: # eventi_dlhd di oggi
-                            # Controllo: includi solo se l'evento Ã¨ iniziato da meno di 2 ore
-                            # Usa event_datetime_adjusted_for_display_and_filter che ha giÃ  il +2h
+                        else:
                             if now - event_datetime_adjusted_for_display_and_filter > timedelta(hours=2):
-                                # Evento di oggi iniziato da piÃ¹ di 2 ore -> salto
                                 continue
                         
                         time_formatted = event_datetime_adjusted_for_display_and_filter.strftime("%H:%M")
                     except Exception as e_time:
                         print(f"[!] Errore parsing orario '{time_str}' per evento '{event_title}' in data '{date_key}': {e_time}")
-                        time_formatted = time_str # Fallback
+                        time_formatted = time_str
      
                     for ch in item.get("channels", []): 
                         channel_name = ch.get("channel_name", "") 
@@ -282,12 +255,18 @@ def eventi_dlhd_m3u8_generator_world():
      
                         words = set(re.findall(r'\b\w+\b', channel_name.lower())) 
                         if keywords.intersection(words): 
+                            # Identificazione della lingua e assegnazione prefisso
+                            lang_prefix = "(ENG) "
+                            if it_keywords.intersection(words):
+                                lang_prefix = "(IT) "
+                            
                             tvg_name = f"{event_title} ({time_formatted})" 
                             categorized_channels[category].append({ 
                                 "tvg_name": tvg_name, 
                                 "channel_name": channel_name, 
                                 "channel_id": channel_id,
-                                "event_title": event_title
+                                "event_title": event_title,
+                                "lang_prefix": lang_prefix
                             }) 
      
         return categorized_channels 
@@ -315,14 +294,14 @@ def eventi_dlhd_m3u8_generator_world():
                     channel_id = ch["channel_id"] 
                     event_title = ch["event_title"]
                     channel_name = ch["channel_name"]
+                    lang_prefix = ch.get("lang_prefix", "")
                     
                     try: 
                         stream = get_stream_from_channel_id(channel_id)
                                                     
                         if stream: 
-                            cleaned_event_id = clean_tvg_id(event_title) # Usa event_title per tvg-id
-                            f.write(f'#EXTINF:-1 tvg-id="{cleaned_event_id}" tvg-name="{category} | {tvg_name}" group-title="3 - Eventi Live DLHD",{category} | {tvg_name}\n')
-                            # Aggiungi EXTHTTP headers per canali daddy (esclusi .php)
+                            cleaned_event_id = clean_tvg_id(event_title)
+                            f.write(f'#EXTINF:-1 tvg-id="{cleaned_event_id}" tvg-name="{category} | {tvg_name}" group-title="3 - Eventi Live DLHD",{lang_prefix}{category} | {tvg_name}\n')
                             if "ava.karmakurama.com" in stream and not stream.endswith('.php'):
                                 daddy_headers = {"User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1", "Referrer": "https://ava.karmakurama.com/", "Origin": "https://ava.karmakurama.com"}
                                 vlc_opt_lines = headers_to_extvlcopt(daddy_headers)
@@ -335,15 +314,11 @@ def eventi_dlhd_m3u8_generator_world():
                     except Exception as e: 
                         print(f"[!] Errore su {tvg_name}: {e}") 
      
-    # Esegui la generazione quando la funzione viene chiamata
     generate_m3u_from_schedule(JSON_FILE, OUTPUT_FILE)
 
-# Funzione per il terzo script (eventi_dlhd_m3u8_generator.py)
+# Funzione per il terzo script (eventi_dlhd_m3u8_generator.py) - Versione Solo Italiana
 def eventi_dlhd_m3u8_generator():
-    # Codice del terzo script qui
-    # Aggiungi il codice del tuo script "eventi_dlhd_m3u8_generator.py" in questa funzione.
-    print("Eseguendo l'eventi_dlhd_m3u8_generator.py...")
-    # Il codice che avevi nello script "eventi_dlhd_m3u8_generator.py" va qui, senza modifiche.
+    print("Eseguendo l'eventi_dlhd_m3u8_generator.py (versione Solo Italia)...")
     import json 
     import re 
     import requests 
@@ -354,11 +329,10 @@ def eventi_dlhd_m3u8_generator():
     import os
     from dotenv import load_dotenv
 
-    # Carica le variabili d'ambiente dal file .env
     load_dotenv()
     LINK_DADDY = os.getenv("LINK_DADDY", "").strip() or "https://dlhd.pk"
-    JSON_FILE = os.path.join(script_dir, "daddyliveSchedule.json") # Cache in scripts
-    OUTPUT_FILE = os.path.join(output_dir, "eventi_dlhd.m3u") # Output in main dir
+    JSON_FILE = os.path.join(script_dir, "daddyliveSchedule.json")
+    OUTPUT_FILE = os.path.join(output_dir, "eventi_dlhd.m3u")
      
     HEADERS = { 
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" 
@@ -369,15 +343,9 @@ def eventi_dlhd_m3u8_generator():
     session.headers.update(HEADERS)
     
     def clean_category_name(name): 
-        # Rimuove tag html come </span> o simili 
         return re.sub(r'<[^>]+>', '', name).strip()
         
     def clean_tvg_id(tvg_id):
-        """
-        Pulisce il tvg-id rimuovendo caratteri speciali, spazi e convertendo tutto in minuscolo.
-        """
-        import re
-        # Rimuove caratteri speciali comuni mantenendo solo lettere e numeri
         cleaned = re.sub(r'[^a-zA-Z0-9À-ÿ]', '', tvg_id)
         return cleaned.lower()
      
@@ -388,19 +356,14 @@ def eventi_dlhd_m3u8_generator():
         return None
      
     def get_stream_from_channel_id(channel_id): 
-        # Restituisce direttamente l'URL .php
         embed_url = f"{LINK_DADDY}/watch.php?id={channel_id}" 
         print(f"URL .php per il canale Daddylive {channel_id}.")
         return embed_url
      
-    def clean_category_name(name): 
-        # Rimuove tag html come </span> o simili 
-        return re.sub(r'<[^>]+>', '', name).strip() 
-     
     def extract_channels_from_json(path): 
-        keywords = {"italy", "rai", "italia", "it"} 
-        now = datetime.now()  # ora attuale completa (data+ora) 
-        yesterday_date = (now - timedelta(days=1)).date() # Data di ieri
+        it_keywords = {"italy", "rai", "italia", "it"} 
+        now = datetime.now()  
+        yesterday_date = (now - timedelta(days=1)).date()
      
         with open(path, "r", encoding="utf-8") as f: 
             data = json.load(f) 
@@ -415,7 +378,6 @@ def eventi_dlhd_m3u8_generator():
                 print(f"[!] Errore parsing data '{date_part}': {e}") 
                 continue 
      
-            # filtro solo per eventi_dlhd del giorno corrente 
             if date_obj != now.date(): 
                 continue 
      
@@ -423,7 +385,6 @@ def eventi_dlhd_m3u8_generator():
      
             for category_raw, event_items in sections.items(): 
                 category = clean_category_name(category_raw)
-                # Salta la categoria TV Shows
                 if category.lower() == "tv shows":
                     continue
                 if category not in categorized_channels: 
@@ -432,15 +393,10 @@ def eventi_dlhd_m3u8_generator():
                 for item in event_items: 
                     time_str = item.get("time", "00:00") 
                     try: 
-                        # Parse orario evento 
                         time_obj = datetime.strptime(time_str, "%H:%M")
-     
-                        # crea datetime completo con data evento e orario evento 
                         event_datetime = datetime.combine(date_obj, time_obj.time()) 
      
-                        # Controllo: includi solo se l'evento Ã¨ iniziato da meno di 2 ore 
                         if now - event_datetime > timedelta(hours=2): 
-                            # Evento iniziato da piÃ¹ di 2 ore -> salto 
                             continue 
      
                         time_formatted = time_obj.strftime("%H:%M") 
@@ -454,13 +410,15 @@ def eventi_dlhd_m3u8_generator():
                         channel_id = ch.get("channel_id", "") 
      
                         words = set(re.findall(r'\b\w+\b', channel_name.lower())) 
-                        if keywords.intersection(words): 
+                        if it_keywords.intersection(words): 
+                            lang_prefix = "(IT) "
                             tvg_name = f"{event_title} ({time_formatted})" 
                             categorized_channels[category].append({ 
                                 "tvg_name": tvg_name, 
                                 "channel_name": channel_name, 
                                 "channel_id": channel_id,
-                                "event_title": event_title
+                                "event_title": event_title,
+                                "lang_prefix": lang_prefix
                             }) 
      
         return categorized_channels 
@@ -471,11 +429,9 @@ def eventi_dlhd_m3u8_generator():
         with open(output_file, "w", encoding="utf-8") as f: 
             f.write("#EXTM3U\n") 
 
-            # Controlla se ci sono eventi_dlhd prima di aggiungere il canale DADDYLIVE
             has_events = any(channels for channels in categorized_channels.values())
             
             if has_events:
-                # Aggiungi il canale iniziale/informativo solo se ci sono eventi_dlhd
                 f.write(f'#EXTINF:-1 tvg-name="DADDYLIVE" group-title="3 - Eventi Live DLHD",DADDYLIVE\n')
                 f.write("https://example.com.m3u8\n\n")
             else:
@@ -488,15 +444,16 @@ def eventi_dlhd_m3u8_generator():
                 for ch in channels: 
                     tvg_name = ch["tvg_name"] 
                     channel_id = ch["channel_id"] 
-                    event_title = ch["event_title"]  # Otteniamo il titolo dell'evento
+                    event_title = ch["event_title"]  
                     channel_name = ch["channel_name"]
+                    lang_prefix = ch.get("lang_prefix", "")
                     
                     try: 
                         stream = get_stream_from_channel_id(channel_id)
 
                         if stream: 
                             cleaned_event_id = clean_tvg_id(event_title)
-                            f.write(f'#EXTINF:-1 tvg-id="{cleaned_event_id}" tvg-name="{category} | {tvg_name}" group-title="3 - Eventi Live DLHD",{category} | {tvg_name}\n')
+                            f.write(f'#EXTINF:-1 tvg-id="{cleaned_event_id}" tvg-name="{category} | {tvg_name}" group-title="3 - Eventi Live DLHD",{lang_prefix}{category} | {tvg_name}\n')
                             if "ava.karmakurama.com" in stream and not stream.endswith('.php'):
                                 daddy_headers = {"User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1", "Referrer": "https://ava.karmakurama.com/", "Origin": "https://ava.karmakurama.com"}
                                 vlc_opt_lines = headers_to_extvlcopt(daddy_headers)
@@ -514,10 +471,7 @@ def eventi_dlhd_m3u8_generator():
 
 # Funzione per il quarto script (schedule_extractor.py)
 def schedule_extractor():
-    # Codice del quarto script qui
-    # Aggiungi il codice del tuo script "schedule_extractor.py" in questa funzione.
     print("Eseguendo lo schedule_extractor.py...")
-    # Il codice che avevi nello script "schedule_extractor.py" va qui, senza modifiche.
     from playwright.sync_api import sync_playwright
     import os
     import json
@@ -527,27 +481,22 @@ def schedule_extractor():
     from bs4 import BeautifulSoup
     from dotenv import load_dotenv
     
-    # Carica le variabili d'ambiente dal file .env
     load_dotenv()
     
     LINK_DADDYBYPASS = os.getenv("LINK_DADDYBYPASS", "").strip() or "https://dlhd.pk"
     
     def html_to_json(html_content):
-        """Converte il contenuto HTML della programmazione in formato JSON."""
         soup = BeautifulSoup(html_content, 'html.parser')
         result = {}
         
-        # Cerca il div principale con il nuovo ID
         schedule_div = soup.find('div', id='schedule')
         if not schedule_div:
-            # Fallback se l'ID non viene trovato, cerca la classe
             schedule_div = soup.find('div', class_='schedule schedule--compact')
         
         if not schedule_div:
             print("AVVISO: Contenitore 'schedule' non trovato!")
             return result
         
-        # La data è unica per tutto lo schedule (Saturday 15th Nov 2025)
         day_title_tag = schedule_div.find('div', class_='schedule__dayTitle')
         if not day_title_tag:
             current_date = "Unknown Date"
@@ -556,13 +505,11 @@ def schedule_extractor():
         
         result[current_date] = {}
         
-        # Processa tutte le categorie direttamente
         for category_div in schedule_div.find_all('div', class_='schedule__category'):
             cat_header = category_div.find('div', class_='schedule__catHeader')
             if not cat_header:
                 continue
             
-            # Estrai il nome della categoria dal tag card__meta
             cat_meta = cat_header.find('div', class_='card__meta')
             if not cat_meta:
                 continue
@@ -574,7 +521,6 @@ def schedule_extractor():
             if not category_body:
                 continue
             
-            # Processa tutti gli eventi
             for event_div in category_body.find_all('div', class_='schedule__event'):
                 event_header = event_div.find('div', class_='schedule__eventHeader')
                 if not event_header:
@@ -593,7 +539,6 @@ def schedule_extractor():
                 if channels_div:
                     for link in channels_div.find_all('a', href=True):
                         href = link.get('href', '')
-                        # Estrae l'id da watch.php?id=XXX
                         channel_id_match = re.search(r'id=(\d+)', href)
                         if channel_id_match:
                             channel_id = channel_id_match.group(1)
@@ -613,17 +558,6 @@ def schedule_extractor():
             data = json.load(f)
         
         current_month = datetime.now().strftime("%B")
-    
-        # Questa logica non è più necessaria con la nuova struttura HTML
-        # che fornisce già la data completa.
-        # for date in list(data.keys()):
-        #     match = re.match(r"(\w+\s\d+)(st|nd|rd|th)\s(\d{4})", date)
-        #     if match:
-        #         day_part = match.group(1)
-        #         suffix = match.group(2)
-        #         year_part = match.group(3)
-        #         new_date = f"{day_part}{suffix} {current_month} {year_part}"
-        #         data[new_date] = data.pop(date)
     
         with open(json_file_path, "w", encoding="utf-8") as f:
             json.dump(data, f, indent=4)
@@ -652,7 +586,6 @@ def schedule_extractor():
             
             print("✓ Pagina caricata!")
             
-            # Parse HTML
             soup = BeautifulSoup(html_content, 'html.parser')
             schedule_div = soup.find('div', id='schedule')
             
@@ -741,12 +674,9 @@ def italy_channels():
         return resp.json().get("addonSig") or resp.json().get("mhub")
 
     def vavoo_groups():
-        # Puoi aggiungere altri gruppi per più canali
         return ["Italy"]
 
     def clean_channel_name(name):
-        """Rimuove i suffissi .a, .b, .c dal nome del canale"""
-        # Rimuove .a, .b, .c alla fine del nome (con o senza spazi prima)
         cleaned_name = re.sub(r'\s*\.(a|b|c|s|d|e|f|g|h|i|j|k|l|m|n|o|p|q|r|t|u|v|w|x|y|z)\s*$', '', name, flags=re.IGNORECASE)
         return cleaned_name.strip()
 
@@ -920,7 +850,7 @@ def italy_channels():
             "deejay tv": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png",
             "cartoonito (backup)": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoonito-it.png",
             "frisbee": "https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/frisbee-it.png",
-            "catfish": "https://upload.wikimedia.org/wikipedia/commons/4/46/Catfish%2C_the_TV_Show_Logo.PNG", # "tv7 news" era attaccato qui, l'ho rimosso, sembrava un errore di battitura
+            "catfish": "https://upload.wikimedia.org/wikipedia/commons/4/46/Catfish%2C_the_TV_Show_Logo.PNG",
             "disney+ film": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney%2B_logo.svg/2560px-Disney%2B_logo.svg.png",
             "comedy central": "https://yt3.googleusercontent.com/FPzu1EWCI54fIh2j9JEp0NOzwoeugjL4sZTQCdoxoQY1U4QHyKx2L3wPSw27IueuZGchIxtKfv8=s900-c-k-c0x00ffffff-no-rj",
             "arte network": "https://www.arte.tv/sites/corporate/wp-content/themes/arte-entreprise/img/arte_logo.png",
@@ -1116,13 +1046,10 @@ def italy_channels():
         name_lower = name.lower()
         for category, words in CATEGORY_KEYWORDS.items():
             for word in words:
-                # Gestione speciale per parole con caratteri speciali
                 if any(char in word for char in ['!', '&', '+', '-']):
-                    # Per parole con caratteri speciali, usa una ricerca diretta
                     if word in name_lower:
                         return category
                 else:
-                    # Per parole normali, usa word boundaries
                     pattern = r'\b' + re.escape(word) + r'\b'
                     if re.search(pattern, name_lower):
                         return category
@@ -1163,7 +1090,6 @@ def italy_channels():
         return all_channels
 
     def create_tvg_id_map(epg_file="epg.xml"):
-        """Legge un file EPG XML e mappa i nomi dei canali normalizzati ai loro tvg-id."""
         tvg_id_map = {}
         try:
             tree = ET.parse(epg_file)
@@ -1184,7 +1110,6 @@ def italy_channels():
         tvg_id_map = create_tvg_id_map(epg_xml_path)
         channels_by_category = {}
 
-        # MAPPA SEMPLIFICATA PER RENAME
         VAVOO_RENAME_MAP = {
             "DISCOVERY FOCUS": "FOCUS",
             "CINE 34 MEDIASET": "CINE 34", 
@@ -1194,17 +1119,13 @@ def italy_channels():
             "27 TWENTY SEVEN": "27 TWENTYSEVEN"
         }
 
-        # Processa i canali Vavoo (che sono dizionari)
         if channels and isinstance(channels[0], dict):
             for ch in channels:
                 original_name = ch.get("name", "SenzaNome")
                 name = clean_channel_name(original_name)
                 
-                # Applica il rename
                 display_name = VAVOO_RENAME_MAP.get(name.upper(), name)
-                
-                # USA IL NOME MODIFICATO PER IL LOOKUP
-                name_for_lookup = display_name  # Nome modificato per ricerca logo/tvg-id
+                name_for_lookup = display_name  
                 
                 url = ch.get("url", "")
                 category = classify_channel(display_name)
@@ -1213,27 +1134,23 @@ def italy_channels():
                     if category not in channels_by_category:
                         channels_by_category[category] = []
                     
-                    # USA IL NOME MODIFICATO PER RICERCA LOGO E TVG-ID
                     logo = logos.get(name_for_lookup.lower(), "")
                     tvg_id = tvg_id_map.get(normalize_channel_name(name_for_lookup), "")
                     
                     channels_by_category[category].append({
-                        "name": display_name,      # Nome modificato per display
+                        "name": display_name,      
                         "url": url,
-                        "logo": logo,             # Logo trovato con nome modificato
-                        "tvg_id": tvg_id         # TVG-ID trovato con nome modificato
+                        "logo": logo,             
+                        "tvg_id": tvg_id         
                     })
 
-        # Salva nel file M3U
         with open(os.path.join(output_dir, filename), "w", encoding="utf-8") as f:
             f.write("#EXTM3U\n")
             for category, channel_list in channels_by_category.items():
                 channel_list.sort(key=lambda x: x["name"].lower())
                 
-                # Gestione dei canali duplicati (aggiungi suffisso numerico)
                 name_count = {}
                 url_by_name = {}
-                # Prima passata: conta le occorrenze dei nomi e memorizza gli URL
                 for ch in channel_list:
                     name = ch["name"]
                     url = ch["url"]
@@ -1244,15 +1161,11 @@ def italy_channels():
                         name_count[name] += 1
                         url_by_name[name].append(url)
 
-                # Seconda passata: rinomina i canali duplicati con URL diversi
                 for ch in channel_list:
                     name = ch["name"]
                     url = ch["url"]
-                    # Se ci sono più canali con lo stesso nome ma URL diversi
                     if name_count[name] > 1 and len(set(url_by_name[name])) > 1:
-                        # Trova l'indice di questo URL nell'elenco degli URL per questo nome
                         idx = url_by_name[name].index(url) + 1
-                        # Modifica il nome solo se non è già stato modificato
                         if not name.endswith(f"({idx})"):
                             ch["name"] = f"{name} ({idx})"
 
@@ -1261,13 +1174,11 @@ def italy_channels():
                     name = ch["name"]
                     url = ch["url"]
                     
-                    # Usa logo e tvg_id pre-calcolati
                     logo = ch.get("logo", "")
                     tvg_id = ch.get("tvg_id", "")
                     
                     f.write(f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-logo="{logo}" group-title="1 - Vavoo {category}",{name}\n')
                     
-                    # Aggiungi EXTHTTP headers per canali daddy (esclusi .php)
                     if "ava.karmakurama.com" in url and not url.endswith('.php'):
                         daddy_headers = {"User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1", "Referrer": "https://ava.karmakurama.com/", "Origin": "https://ava.karmakurama.com"}
                         vlc_opt_lines = headers_to_extvlcopt(daddy_headers)
@@ -1283,22 +1194,16 @@ def italy_channels():
             print(f" {category}: {len(channel_list)} canali")
 
     if __name__ == "__main__":
-        # 1. Canali da sorgenti Vavoo (JSON)
         print("\n--- Fetching canali da sorgenti Vavoo (JSON) ---")
         channels = get_channels()
         print(f"Trovati {len(channels)} canali Vavoo.")
 
-        # 2. Crea la playlist M3U
         print("\n--- Creazione playlist M3U ---")
-        # Salva i canali Vavoo
         save_as_m3u(channels, filename="vavoo.m3u")
     
 # Funzione per il settimo script (world_channels_generator.py)
 def world_channels_generator():
-    # Codice del settimo script qui
-    # Aggiungi il codice del tuo script "world_channels_generator.py" in questa funzione.
     print("Eseguendo il world_channels_generator.py...")
-    # Il codice che avevi nello script "world_channels_generator.py" va qui, senza modifiche.
     import requests
     import time
     import re
@@ -1352,12 +1257,9 @@ def world_channels_generator():
         return resp.json().get("addonSig") or resp.json().get("mhub")
     
     def vavoo_groups():
-        # Puoi aggiungere altri gruppi per più canali
         return [""]
     
     def clean_channel_name(name):
-        """Rimuove i suffissi .a, .b, .c dal nome del canale"""
-        # Rimuove .a, .b, .c alla fine del nome (con o senza spazi prima)
         cleaned_name = re.sub(r'\s*\.(a|b|c|s|d|e|f|g|h|i|j|k|l|m|n|o|p|q|r|t|u|v|w|x|y|z)\s*$', '', name, flags=re.IGNORECASE)
         return cleaned_name.strip()
     
@@ -1396,15 +1298,13 @@ def world_channels_generator():
         return all_channels
     
     def save_as_m3u(channels, filename="world.m3u"):
-        # Raggruppa i canali per categoria
         channels_by_category = {}
         
         for ch in channels:
             original_name = ch.get("name", "SenzaNome")
-            # Pulisce il nome rimuovendo .a, .b, .c
             name = clean_channel_name(original_name)
             url = ch.get("url", "")
-            category = ch.get("group", "Generale")  # Usa il campo "group" come categoria
+            category = ch.get("group", "Generale")  
             
             if url:
                 if category not in channels_by_category:
@@ -1414,9 +1314,7 @@ def world_channels_generator():
         with open(os.path.join(output_dir, filename), "w", encoding="utf-8") as f:
             f.write("#EXTM3U\n")
             
-            # Scrivi i canali raggruppati per categoria
             for category, channel_list in channels_by_category.items():
-                # Aggiungi un commento per la categoria
                 f.write(f"\n# {category.upper()}\n")
                 
                 for name, url in channel_list:
@@ -1438,34 +1336,21 @@ def sportsonline():
     from bs4 import BeautifulSoup
     import datetime
     
-    # URL del file di programmazione
     PROG_URL = "https://sportsonline.sc/prog.txt"
-    # Lingua che vogliamo cercare
     TARGET_LANGUAGE = "ITALIAN"
     
     def get_italian_channels(lines):
-        """
-        Analizza le righe del file di programmazione per trovare i canali in italiano.
-        Restituisce una lista di identificativi dei canali (es. ['hd7']).
-        """
         italian_channels = []
         for line in lines:
-            # Cerca le righe che definiscono la lingua di un canale
             if TARGET_LANGUAGE in line.upper():
-                # Estrae l'identificativo del canale (es. "HD7") e lo converte in minuscolo
                 channel_id = line.split()[0].lower()
                 italian_channels.append(channel_id)
                 print(f"[INFO] Trovato canale italiano: {channel_id.upper()}")
         return italian_channels
     
     def main():
-        """
-        Funzione principale che orchestra il processo.
-        """
-        # --- Controllo del giorno della settimana ---
-        today_weekday = datetime.date.today().weekday() # Lunedì=0, Martedì=1, ..., Domenica=6
+        today_weekday = datetime.date.today().weekday() 
         weekdays_english = ["MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY", "SATURDAY", "SUNDAY"]
-        # Applichiamo sempre il filtro per il giorno corrente
         day_to_filter = weekdays_english[today_weekday]
         print(f"Oggi è {day_to_filter}, verranno cercati solo gli eventi_dlhd di oggi.")
     
@@ -1496,27 +1381,21 @@ def sportsonline():
         else:
             print("\n3. Cerco gli Eventi trasmessi sui canali italiani...")
     
-            # --- NUOVA LOGICA DI SCANSIONE PER GIORNO ---
-            processing_today_events = (day_to_filter is None) # Se è weekend, processa tutto
+            processing_today_events = (day_to_filter is None) 
     
             for line in lines:
                 line_upper = line.upper().strip()
     
-                # Controlliamo se la riga è un'intestazione di un giorno della settimana
                 if line_upper in weekdays_english:
                     if day_to_filter and line_upper == day_to_filter:
-                        # Abbiamo trovato la sezione del giorno corrente, iniziamo a processare
                         processing_today_events = True
                     else:
-                        # Abbiamo trovato un altro giorno, smettiamo di processare
                         processing_today_events = False
                     continue
     
-                # Processiamo la riga solo se siamo nella sezione del giorno giusto (o se è weekend)
                 if not processing_today_events:
                     continue
     
-                # Da qui in poi, la logica è la stessa, ma viene eseguita solo sulle righe corrette
                 if '|' not in line:
                     continue
     
@@ -1532,25 +1411,20 @@ def sportsonline():
                 if is_italian_event:
                     print(f"\n[EVENTO] Trovato evento italiano: '{event_info}'")
                     
-                    # Riformattiamo il nome dell'evento per mettere l'orario alla fine
                     event_parts = event_info.split(maxsplit=1)
                     if len(event_parts) == 2:
                         time_str_original, name_only = event_parts
                         
-                        # --- Aggiungi 1 ora all'orario ---
                         try:
-                            # Converte la stringa dell'orario in un oggetto datetime
                             original_time = datetime.datetime.strptime(time_str_original.strip(), '%H:%M')
-                            # Aggiunge un'ora
                             new_time = original_time + datetime.timedelta(hours=1)
                             time_str = new_time.strftime('%H:%M')
                         except ValueError:
-                            time_str = time_str_original.strip() # Usa l'orario originale se il formato non è valido
+                            time_str = time_str_original.strip() 
                         event_name = f"{name_only.strip()} {time_str}"
                     else:
-                        event_name = event_info # Fallback se il formato non è quello previsto
+                        event_name = event_info 
     
-                    # Aggiungiamo direttamente l'URL .php alla lista
                     playlist_entries.append({
                         "name": event_name,
                         "url": page_url,
@@ -1558,7 +1432,6 @@ def sportsonline():
                         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
                     })
             
-            # --- AGGIUNTA: Creazione canale fallback se non ci sono eventi_dlhd ---
             if not playlist_entries:
                 print("\n[INFO] Nessun evento italiano con link streaming valido trovato oggi.")
                 print("[INFO] Creo un canale fallback 'NESSUN EVENTO'...")
@@ -1569,7 +1442,6 @@ def sportsonline():
                     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
                 })
     
-        # 4. Creazione del file M3U
         output_filename = os.path.join(output_dir, "sportsonline.m3u")
         print(f"\n4. Scrivo la playlist nel file: {output_filename}")
         with open(output_filename, "w", encoding="utf-8") as f:
@@ -1584,12 +1456,7 @@ def sportsonline():
         main()
 
 def search_m3u8_in_sites(channel_id, is_tennis=False, session=None):
-    """
-    Cerca i file .m3u8 nei siti specificati per i canali daddy e tennis
-    """
-    # Carica la variabile d'ambiente LINK_DADDY
     LINK_DADDY = os.getenv("LINK_DADDY", "").strip() or "https://dlhd.pk"
-    # Restituisce direttamente l'URL .php come richiesto
     embed_url = f"{LINK_DADDY}/watch.php?id={channel_id}"
     print(f"URL .php per il canale Daddylive {channel_id}: {embed_url}")
     return embed_url
@@ -1641,7 +1508,6 @@ def create_complete_playlist():
 
 # Funzione principale che esegue tutti gli script
 def main():
-    # load_daddy_cache()  # RIMOSSO: non più definita né necessaria
     try:
         canali_daddy_flag = os.getenv("CANALI_DADDY", "no").strip().lower()
         if canali_daddy_flag == "si":
@@ -1651,7 +1517,7 @@ def main():
                 print(f"Errore durante l'esecuzione di schedule_extractor: {e}")
 
         # Leggi le variabili d'ambiente
-        eventi_dlhd_en = os.getenv("eventi_dlhd_EN", "si").strip().lower()
+        eventi_dlhd_en = os.getenv("eventi_dlhd_EN", "no").strip().lower()
         world_flag = os.getenv("WORLD", "si").strip().lower()
 
         # eventi_dlhd M3U8
