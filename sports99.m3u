@@ -1,18 +1,6 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz,https://github.com/nzo66/TV/raw/refs/heads/main/epg.xml.gz"
 #EXTINF:-1 tvg-id="ESPN.Brasil.HD.BR" group-title="Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/brazil/espn-brasil-hd-br.webp",[Soccer] 2026-07-10 23:00 - Brazilian Serie B - Sport Recife vs Botafogo-SP (ESPN Brasil HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Brasil%20HD%20BR&code=br&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.11:.Arizona.Diamondbacks.vs.San.Diego.Padres.|.Thu.9th.Jul.9:40.PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-10 01:40 - MLB - San Diego Padres vs Arizona Diamondbacks (MLB 11: Arizona Diamondbacks vs San Diego Padres | Thu 9th Jul 9:40 PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%2011%3A%20Arizona%20Diamondbacks%20vs%20San%20Diego%20Padres%20%7C%20Thu%209th%20Jul%209%3A40%20PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.|.San.Diego.Padres" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-10 01:40 - MLB - San Diego Padres vs Arizona Diamondbacks (MLB | San Diego Padres)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20San%20Diego%20Padres&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.|.Arizona.Diamondbacks" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-10 01:40 - MLB - San Diego Padres vs Arizona Diamondbacks (MLB | Arizona Diamondbacks)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Arizona%20Diamondbacks&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.12:.Colorado.Rockies.vs.San.Francisco.Giants.|.Thu.9th.Jul.9:45.PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-10 01:45 - MLB - San Francisco Giants vs Colorado Rockies (MLB 12: Colorado Rockies vs San Francisco Giants | Thu 9th Jul 9:45 PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%2012%3A%20Colorado%20Rockies%20vs%20San%20Francisco%20Giants%20%7C%20Thu%209th%20Jul%209%3A45%20PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.|.San.Francisco.Giants" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-10 01:45 - MLB - San Francisco Giants vs Colorado Rockies (MLB | San Francisco Giants)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20San%20Francisco%20Giants&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.|.Colorado.Rockies" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-10 01:45 - MLB - San Francisco Giants vs Colorado Rockies (MLB | Colorado Rockies)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Colorado%20Rockies&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Pittsburgh.Pirates" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-10 22:40 - MLB - Pittsburgh Pirates vs Milwaukee Brewers (MLB | Pittsburgh Pirates)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Pittsburgh%20Pirates&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Milwaukee.Brewers" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-10 22:40 - MLB - Pittsburgh Pirates vs Milwaukee Brewers (MLB | Milwaukee Brewers)
@@ -3171,8 +3159,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Arizona%20Diamondb
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Milwaukee%20Brewers&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Chicago.Cubs" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-09 23:40 - MLB - Milwaukee Brewers vs Chicago Cubs (MLB | Chicago Cubs)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Chicago%20Cubs&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="CEBL.|.Vancouver.Bandits.@.Calgary.Surge.|.CEBL.Regular.Season.|.Thu.Jul.9.2026.9:30PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-07-10 01:30 - CEBL - Calgary Surge vs Vancouver Bandits (CEBL | Vancouver Bandits @ Calgary Surge | CEBL Regular Season | Thu Jul 9 2026 9:30PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%20%7C%20Vancouver%20Bandits%20%40%20Calgary%20Surge%20%7C%20CEBL%20Regular%20Season%20%7C%20Thu%20Jul%209%202026%209%3A30PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.|.Scarborough.Shooting.Stars.@.Niagra.River.Lions.|.CEBL.Regular.Season.|.Fri.Jul.10.2026.7:00PM.ET" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-07-10 23:00 - CEBL - Niagara River Lions vs Scarborough Shooting Stars (CEBL | Scarborough Shooting Stars @ Niagra River Lions | CEBL Regular Season | Fri Jul 10 2026 7:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%20%7C%20Scarborough%20Shooting%20Stars%20%40%20Niagra%20River%20Lions%20%7C%20CEBL%20Regular%20Season%20%7C%20Fri%20Jul%2010%202026%207%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.1.HD.CA" group-title="Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-07-10 23:30 - WNBA - Toronto Tempo vs Dallas Wings (TSN 1 HD CA)
