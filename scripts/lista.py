@@ -301,7 +301,7 @@ def eventi_dlhd_m3u8_generator_world():
             has_events = any(channels for channels in categorized_channels.values())
             
             if has_events:
-                f.write(f'#EXTINF:-1 tvg-name="DADDYLIVE" group-title="03 Eventi Live DLHD",DADDYLIVE\n')
+                f.write(f'#EXTINF:-1 tvg-name="DADDYLIVE" group-title="03 - Eventi Live DLHD",DADDYLIVE\n')
                 f.write("https://example.com.m3u8\n\n")
             else:
                 print("[ℹ️] Nessun evento trovato, canale DADDYLIVE non aggiunto.")
@@ -321,7 +321,7 @@ def eventi_dlhd_m3u8_generator_world():
                                                     
                         if stream: 
                             cleaned_event_id = clean_tvg_id(event_title) # Usa event_title per tvg-id
-                            f.write(f'#EXTINF:-1 tvg-id="{cleaned_event_id}" tvg-name="{category} | {tvg_name}" group-title="03 Eventi Live DLHD",{category} | {tvg_name}\n')
+                            f.write(f'#EXTINF:-1 tvg-id="{cleaned_event_id}" tvg-name="{category} | {tvg_name}" group-title="03 - Eventi Live DLHD",{category} | {tvg_name}\n')
                             # Aggiungi EXTHTTP headers per canali daddy (esclusi .php)
                             if "ava.karmakurama.com" in stream and not stream.endswith('.php'):
                                 daddy_headers = {"User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1", "Referrer": "https://ava.karmakurama.com/", "Origin": "https://ava.karmakurama.com"}
@@ -476,7 +476,7 @@ def eventi_dlhd_m3u8_generator():
             
             if has_events:
                 # Aggiungi il canale iniziale/informativo solo se ci sono eventi_dlhd
-                f.write(f'#EXTINF:-1 tvg-name="DADDYLIVE" group-title="03 Eventi Live DLHD",DADDYLIVE\n')
+                f.write(f'#EXTINF:-1 tvg-name="DADDYLIVE" group-title="03 - Eventi Live DLHD",DADDYLIVE\n')
                 f.write("https://example.com.m3u8\n\n")
             else:
                 print("[ℹ️] Nessun evento trovato, canale DADDYLIVE non aggiunto.")
@@ -496,7 +496,7 @@ def eventi_dlhd_m3u8_generator():
 
                         if stream: 
                             cleaned_event_id = clean_tvg_id(event_title)
-                            f.write(f'#EXTINF:-1 tvg-id="{cleaned_event_id}" tvg-name="{category} | {tvg_name}" group-title="03 Eventi Live DLHD",{category} | {tvg_name}\n')
+                            f.write(f'#EXTINF:-1 tvg-id="{cleaned_event_id}" tvg-name="{category} | {tvg_name}" group-title="03 - Eventi Live DLHD",{category} | {tvg_name}\n')
                             if "ava.karmakurama.com" in stream and not stream.endswith('.php'):
                                 daddy_headers = {"User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1", "Referrer": "https://ava.karmakurama.com/", "Origin": "https://ava.karmakurama.com"}
                                 vlc_opt_lines = headers_to_extvlcopt(daddy_headers)
@@ -1265,7 +1265,7 @@ def italy_channels():
                     logo = ch.get("logo", "")
                     tvg_id = ch.get("tvg_id", "")
                     
-                    f.write(f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-logo="{logo}" group-title="01 Vavoo {category}",{name}\n')
+                    f.write(f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-logo="{logo}" group-title="01 - Vavoo {category}",{name}\n')
                     
                     # Aggiungi EXTHTTP headers per canali daddy (esclusi .php)
                     if "ava.karmakurama.com" in url and not url.endswith('.php'):
@@ -1420,7 +1420,7 @@ def world_channels_generator():
                 f.write(f"\n# {category.upper()}\n")
                 
                 for name, url in channel_list:
-                    f.write(f'#EXTINF:-1 group-title="04 World {category}",{name}\n{url}\n')
+                    f.write(f'#EXTINF:-1 group-title="04 - World {category}",{name}\n{url}\n')
         
         print(f"Playlist M3U salvata in: {os.path.join(output_dir, filename)}")
         print(f"Canali organizzati in {len(channels_by_category)} categorie:")
@@ -1575,7 +1575,7 @@ def sportsonline():
         with open(output_filename, "w", encoding="utf-8") as f:
             f.write("#EXTM3U\n")
             for entry in playlist_entries:
-                f.write(f'#EXTINF:-1 group-title="06 Eventi Live SPORTSONLINE",{entry["name"]}\n')
+                f.write(f'#EXTINF:-1 group-title="06 - Eventi Live SPORTSONLINE",{entry["name"]}\n')
                 f.write(f'{entry["url"]}\n')
     
         print(f"\n[COMPLETATO] Playlist creata con successo! Apri il file '{output_filename}' con un player come VLC.")
