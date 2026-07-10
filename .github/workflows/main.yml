@@ -39,6 +39,7 @@ jobs:
         run: python scripts/lista.py
         env:
           LINK_DADDYBYPASS: ${{ secrets.LINK_DADDYBYPASS }}
+          CANALI_DADDY: si
 
       - name: Commit and push if changed
         run: |
