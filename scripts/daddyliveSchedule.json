@@ -2,6 +2,16 @@
     "Saturday 11th July 2026 - Schedule Time UK GMT": {
         "PPV Events": [
             {
+                "time": "13:00",
+                "event": "\ud83c\udff3\ufe0f Polaris 38",
+                "channels": [
+                    {
+                        "channel_name": "FloTV",
+                        "channel_id": "109"
+                    }
+                ]
+            },
+            {
                 "time": "14:00",
                 "event": "\ud83c\uddfa\ud83c\uddf8 AMA Supercross Championship: Southwick National",
                 "channels": [
@@ -1548,6 +1558,18 @@
                         "channel_id": "365"
                     },
                     {
+                        "channel_name": "Backup English Stream",
+                        "channel_id": "9008"
+                    },
+                    {
+                        "channel_name": "Backup Arabic Stream",
+                        "channel_id": "9001"
+                    },
+                    {
+                        "channel_name": "Backup Arabic Stream",
+                        "channel_id": "9003"
+                    },
+                    {
                         "channel_name": "SRF zwei",
                         "channel_id": "258"
                     },
@@ -1828,6 +1850,18 @@
                     {
                         "channel_name": "RDS CA",
                         "channel_id": "839"
+                    },
+                    {
+                        "channel_name": "Backup English Stream",
+                        "channel_id": "9009"
+                    },
+                    {
+                        "channel_name": "Backup Arabic Stream",
+                        "channel_id": "9004"
+                    },
+                    {
+                        "channel_name": "Backup Arabic Stream",
+                        "channel_id": "9002"
                     },
                     {
                         "channel_name": "DAZN Mundial Spain",
@@ -3520,6 +3554,16 @@
                 ]
             },
             {
+                "time": "17:20",
+                "event": "WTA Athens: \ud83c\uddf8\ud83c\uddf0 Vikt\u00f3ria Morvayov\u00e1 vs \ud83c\udde9\ud83c\uddea Franziska Sziedat",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1579"
+                    }
+                ]
+            },
+            {
                 "time": "21:00",
                 "event": "Wimbledon 2026 Highlight Show",
                 "channels": [
@@ -4388,6 +4432,16 @@
                     {
                         "channel_name": "Eurosport 3 Poland",
                         "channel_id": "19"
+                    }
+                ]
+            },
+            {
+                "time": "19:07",
+                "event": "\ud83c\udfcd\ufe0f 22:00 Swedish Speedway Grand Prix",
+                "channels": [
+                    {
+                        "channel_name": "Eurosport 3 Poland",
+                        "channel_id": "201"
                     }
                 ]
             },
