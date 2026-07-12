@@ -105,6 +105,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Winnipeg&code=&user
 https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Vancouver&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CA.CTV.Toronto" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-14 19:00 - FIFA World Cup - France vs Spain (CA CTV Toronto)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Toronto&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CA.CTV.Ottawa" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-14 19:00 - FIFA World Cup - France vs Spain (CA CTV Ottawa)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Ottawa&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CA.CTV.Montreal" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-14 19:00 - FIFA World Cup - France vs Spain (CA CTV Montreal)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Montreal&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CA.CTV.Kitchener" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-14 19:00 - FIFA World Cup - France vs Spain (CA CTV Kitchener)
@@ -211,8 +213,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20HD%20PR&code=&user
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%201%20IL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Telemundo.West.FHD.LAM" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-14 19:00 - FIFA World Cup - France vs Spain (Telemundo West FHD LAM)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20West%20FHD%20LAM&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Telemundo.Phoenix.FHD.LAM" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-14 19:00 - FIFA World Cup - France vs Spain (Telemundo Phoenix FHD LAM)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20Phoenix%20FHD%20LAM&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Telemundo.Philadelphia.FHD.LAM" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-14 19:00 - FIFA World Cup - France vs Spain (Telemundo Philadelphia FHD LAM)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20Philadelphia%20FHD%20LAM&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Telemundo.Los.Angeles.FHD.LAM" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-14 19:00 - FIFA World Cup - France vs Spain (Telemundo Los Angeles FHD LAM)
@@ -309,12 +309,12 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20Tampa%20FL&code=&u
 https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20Washington%20FHD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Telemundo.West.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-14 19:00 - FIFA World Cup - France vs Spain (Telemundo West FHD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20West%20FHD&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="CA.CTV.Ottawa" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-14 19:00 - FIFA World Cup - France vs Spain (CA CTV Ottawa)
-https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Ottawa&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CTV.Kitchener.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-14 19:00 - FIFA World Cup - France vs Spain (CTV Kitchener CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CTV%20Kitchener%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DR.1.HD.IS" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-14 19:00 - FIFA World Cup - France vs Spain (DR 1 HD IS)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DR%201%20HD%20IS&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Telemundo.Phoenix.FHD.LAM" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-14 19:00 - FIFA World Cup - France vs Spain (Telemundo Phoenix FHD LAM)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20Phoenix%20FHD%20LAM&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Televen.VE" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-14 19:00 - FIFA World Cup - France vs Spain (Televen VE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Televen%20VE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Rai.1.IT" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-14 19:00 - FIFA World Cup - France vs Spain (Rai 1 IT)
@@ -4425,46 +4425,32 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=c
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.1.[English]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-24 19:00 - CFL - Hamilton Tiger-Cats vs Ottawa Redblacks (TSN 1 [English])
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20%5BEnglish%5D&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.00:..Milwaukee.Brewers.vs.Pittsburgh.Pirates.(1..game.-.doubleheader).|.Sat.11th.Jul.12:05.PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-12 16:15 - MLB - Pittsburgh Pirates vs Milwaukee Brewers (MLB 00:  Milwaukee Brewers vs Pittsburgh Pirates (1. game - doubleheader) | Sat 11th Jul 12:05 PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%2000%3A%20%20Milwaukee%20Brewers%20vs%20Pittsburgh%20Pirates%20(1.%20game%20-%20doubleheader)%20%7C%20Sat%2011th%20Jul%2012%3A05%20PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.|.Pittsburgh.Pirates" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-12 16:15 - MLB - Pittsburgh Pirates vs Milwaukee Brewers (MLB | Pittsburgh Pirates)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Pittsburgh%20Pirates&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.|.Milwaukee.Brewers" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-12 16:15 - MLB - Pittsburgh Pirates vs Milwaukee Brewers (MLB | Milwaukee Brewers)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Milwaukee%20Brewers&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Arena.Sport.1.FHD.HR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/croatia/arena-sport-1-fhd-hr.webp",[MLB] 2026-07-12 16:15 - MLB - Pittsburgh Pirates vs Milwaukee Brewers (Arena Sport 1 FHD HR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%201%20FHD%20HR&code=hr&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.05:.New.York.Yankees.vs.Washington.Nationals.|.Sat.11th.Jul.4:05.PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-12 17:35 - MLB - Washington Nationals vs New York Yankees (MLB 05: New York Yankees vs Washington Nationals | Sat 11th Jul 4:05 PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%2005%3A%20New%20York%20Yankees%20vs%20Washington%20Nationals%20%7C%20Sat%2011th%20Jul%204%3A05%20PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.|.New.York.Yankees" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-12 17:35 - MLB - Washington Nationals vs New York Yankees (MLB | New York Yankees)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20New%20York%20Yankees&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="YES.Network.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/yes-network-us.webp",[MLB] 2026-07-12 17:35 - MLB - Washington Nationals vs New York Yankees (YES Network US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=YES%20Network%20US&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.10:.Kansas.City.Royals.vs.Baltimore.Orioles.|.Sat.11th.Jul.7:05.PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-12 17:35 - MLB - Baltimore Orioles vs Kansas City Royals (MLB 10: Kansas City Royals vs Baltimore Orioles | Sat 11th Jul 7:05 PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%2010%3A%20Kansas%20City%20Royals%20vs%20Baltimore%20Orioles%20%7C%20Sat%2011th%20Jul%207%3A05%20PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Baltimore.Orioles" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-12 17:35 - MLB - Baltimore Orioles vs Kansas City Royals (MLB | Baltimore Orioles)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Baltimore%20Orioles&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Kansas.City.Royals" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-12 17:35 - MLB - Baltimore Orioles vs Kansas City Royals (MLB | Kansas City Royals)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Kansas%20City%20Royals&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MASN.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/masn-us.webp",[MLB] 2026-07-12 17:35 - MLB - Baltimore Orioles vs Kansas City Royals (MASN US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MASN%20US&code=us&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.10:.Kansas.City.Royals.vs.Baltimore.Orioles.|.Sat.11th.Jul.7:05.PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-12 17:35 - MLB - Baltimore Orioles vs Kansas City Royals (MLB 10: Kansas City Royals vs Baltimore Orioles | Sat 11th Jul 7:05 PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%2010%3A%20Kansas%20City%20Royals%20vs%20Baltimore%20Orioles%20%7C%20Sat%2011th%20Jul%207%3A05%20PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.05:.New.York.Yankees.vs.Washington.Nationals.|.Sat.11th.Jul.4:05.PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-12 17:35 - MLB - Washington Nationals vs New York Yankees (MLB 05: New York Yankees vs Washington Nationals | Sat 11th Jul 4:05 PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%2005%3A%20New%20York%20Yankees%20vs%20Washington%20Nationals%20%7C%20Sat%2011th%20Jul%204%3A05%20PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.New.York.Yankees" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-12 17:35 - MLB - Washington Nationals vs New York Yankees (MLB | New York Yankees)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20New%20York%20Yankees&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="YES.Network.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/yes-network-us.webp",[MLB] 2026-07-12 17:35 - MLB - Washington Nationals vs New York Yankees (YES Network US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=YES%20Network%20US&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.07:.Cleveland.Guardians.vs.Miami.Marlins.|.Sat.11th.Jul.4:10.PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-12 17:40 - MLB - Miami Marlins vs Cleveland Guardians (MLB 07: Cleveland Guardians vs Miami Marlins | Sat 11th Jul 4:10 PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%2007%3A%20Cleveland%20Guardians%20vs%20Miami%20Marlins%20%7C%20Sat%2011th%20Jul%204%3A10%20PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Miami.Marlins" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-12 17:40 - MLB - Miami Marlins vs Cleveland Guardians (MLB | Miami Marlins)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Miami%20Marlins&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Cleveland.Guardians" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-12 17:40 - MLB - Miami Marlins vs Cleveland Guardians (MLB | Cleveland Guardians)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Cleveland%20Guardians&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.08:.Seattle.Mariners.vs.Tampa.Bay.Rays.|.Sat.11th.Jul.4:10.PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-12 17:40 - MLB - Tampa Bay Rays vs Seattle Mariners (MLB 08: Seattle Mariners vs Tampa Bay Rays | Sat 11th Jul 4:10 PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%2008%3A%20Seattle%20Mariners%20vs%20Tampa%20Bay%20Rays%20%7C%20Sat%2011th%20Jul%204%3A10%20PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Tampa.Bay.Rays" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-12 17:40 - MLB - Tampa Bay Rays vs Seattle Mariners (MLB | Tampa Bay Rays)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Tampa%20Bay%20Rays&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Seattle.Mariners" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-12 17:40 - MLB - Tampa Bay Rays vs Seattle Mariners (MLB | Seattle Mariners)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Seattle%20Mariners&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.|.New.York.Mets" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-12 17:40 - MLB - New York Mets vs Boston Red Sox (MLB | New York Mets)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20New%20York%20Mets&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.|.Boston.Red.Sox" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-12 17:40 - MLB - New York Mets vs Boston Red Sox (MLB | Boston Red Sox)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Boston%20Red%20Sox&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="CW.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/cw-us.webp",[MLB] 2026-07-12 17:40 - MLB - New York Mets vs Boston Red Sox (CW US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=CW%20US&code=us&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="NESN.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/nesn-us.webp",[MLB] 2026-07-12 17:40 - MLB - New York Mets vs Boston Red Sox (NESN US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=NESN%20US&code=us&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.06:.Boston.Red.Sox.vs.New.York.Mets.|.Sat.11th.Jul.4:10.PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-12 17:40 - MLB - New York Mets vs Boston Red Sox (MLB 06: Boston Red Sox vs New York Mets | Sat 11th Jul 4:10 PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%2006%3A%20Boston%20Red%20Sox%20vs%20New%20York%20Mets%20%7C%20Sat%2011th%20Jul%204%3A10%20PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="NY.|.New.York.|..CW.WPIX" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-12 17:40 - MLB - New York Mets vs Boston Red Sox (NY | New York |  CW WPIX)
-https://cdnlivetv.tv/api/v1/channels/player/?name=NY%20%7C%20New%20York%20%7C%20%20CW%20WPIX&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.12:.Chicago.Cubs.vs.Cincinnati.Reds.|.Sat.11th.Jul.7:10.PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-12 17:40 - MLB - Cincinnati Reds vs Chicago Cubs (MLB 12: Chicago Cubs vs Cincinnati Reds | Sat 11th Jul 7:10 PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%2012%3A%20Chicago%20Cubs%20vs%20Cincinnati%20Reds%20%7C%20Sat%2011th%20Jul%207%3A10%20PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Cincinnati.Reds" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-12 17:40 - MLB - Cincinnati Reds vs Chicago Cubs (MLB | Cincinnati Reds)
@@ -4481,12 +4467,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Detroit%20Tigers&c
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Philadelphia%20Phillies&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NBC.Sports.Philadelphia.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/nbc-sports-philadelphia-hd-us.webp",[MLB] 2026-07-12 17:40 - MLB - Detroit Tigers vs Philadelphia Phillies (NBC Sports Philadelphia HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NBC%20Sports%20Philadelphia%20HD%20US&code=us&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.07:.Cleveland.Guardians.vs.Miami.Marlins.|.Sat.11th.Jul.4:10.PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-12 17:40 - MLB - Miami Marlins vs Cleveland Guardians (MLB 07: Cleveland Guardians vs Miami Marlins | Sat 11th Jul 4:10 PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%2007%3A%20Cleveland%20Guardians%20vs%20Miami%20Marlins%20%7C%20Sat%2011th%20Jul%204%3A10%20PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.|.Miami.Marlins" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-12 17:40 - MLB - Miami Marlins vs Cleveland Guardians (MLB | Miami Marlins)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Miami%20Marlins&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.|.Cleveland.Guardians" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-12 17:40 - MLB - Miami Marlins vs Cleveland Guardians (MLB | Cleveland Guardians)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Cleveland%20Guardians&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.01:..Athletics.vs.Chicago.White.Sox.|.Sat.11th.Jul.2:10.PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-12 18:10 - MLB - Chicago White Sox vs Athletics (MLB 01:  Athletics vs Chicago White Sox | Sat 11th Jul 2:10 PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%2001%3A%20%20Athletics%20vs%20Chicago%20White%20Sox%20%7C%20Sat%2011th%20Jul%202%3A10%20PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Chicago.White.Sox" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-12 18:10 - MLB - Chicago White Sox vs Athletics (MLB | Chicago White Sox)
@@ -4497,18 +4477,20 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Oakland%20Athletic
 https://cdnlivetv.tv/api/v1/channels/player/?name=NBC%20Sports%20California%20HD%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Chicago.Sports.Network.CHSN.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/chicago-sports-network-chsn-us.webp",[MLB] 2026-07-12 18:10 - MLB - Chicago White Sox vs Athletics (Chicago Sports Network CHSN US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Chicago%20Sports%20Network%20CHSN%20US&code=us&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.02:.Los.Angeles.Angels.vs.Minnesota.Twins.|.Sat.11th.Jul.2:10.PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-12 18:10 - MLB - Minnesota Twins vs Los Angeles Angels (MLB 02: Los Angeles Angels vs Minnesota Twins | Sat 11th Jul 2:10 PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%2002%3A%20Los%20Angeles%20Angels%20vs%20Minnesota%20Twins%20%7C%20Sat%2011th%20Jul%202%3A10%20PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Minnesota.Twins" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-12 18:10 - MLB - Minnesota Twins vs Los Angeles Angels (MLB | Minnesota Twins)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Minnesota%20Twins&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Los.Angeles.Angels" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-12 18:10 - MLB - Minnesota Twins vs Los Angeles Angels (MLB | Los Angeles Angels)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Los%20Angeles%20Angels&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.02:.Los.Angeles.Angels.vs.Minnesota.Twins.|.Sat.11th.Jul.2:10.PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-12 18:10 - MLB - Minnesota Twins vs Los Angeles Angels (MLB 02: Los Angeles Angels vs Minnesota Twins | Sat 11th Jul 2:10 PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%2002%3A%20Los%20Angeles%20Angels%20vs%20Minnesota%20Twins%20%7C%20Sat%2011th%20Jul%202%3A10%20PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.St..Louis.Cardinals" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-12 18:15 - MLB - St. Louis Cardinals vs Atlanta Braves (MLB | St. Louis Cardinals)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20St.%20Louis%20Cardinals&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Atlanta.Braves" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-12 18:15 - MLB - St. Louis Cardinals vs Atlanta Braves (MLB | Atlanta Braves)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Atlanta%20Braves&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.13:.Atlanta.Braves.vs.St..Louis.Cardinals.|.Sat.11th.Jul.7:15.PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-12 18:15 - MLB - St. Louis Cardinals vs Atlanta Braves (MLB 13: Atlanta Braves vs St. Louis Cardinals | Sat 11th Jul 7:15 PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%2013%3A%20Atlanta%20Braves%20vs%20St.%20Louis%20Cardinals%20%7C%20Sat%2011th%20Jul%207%3A15%20PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.11:.Houston.Astros.vs.Texas.Rangers.|.Sat.11th.Jul.7:05.PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-12 18:35 - MLB - Texas Rangers vs Houston Astros (MLB 11: Houston Astros vs Texas Rangers | Sat 11th Jul 7:05 PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%2011%3A%20Houston%20Astros%20vs%20Texas%20Rangers%20%7C%20Sat%2011th%20Jul%207%3A05%20PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Texas.Rangers" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-12 18:35 - MLB - Texas Rangers vs Houston Astros (MLB | Texas Rangers)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Texas%20Rangers&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Houston.Astros" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-12 18:35 - MLB - Texas Rangers vs Houston Astros (MLB | Houston Astros)
@@ -7817,6 +7799,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Monumental%20Sports%20Network%
 https://cdnlivetv.tv/api/v1/channels/player/?name=FOX%205%20New%20York&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="FOX.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-us.webp",[Basketball] 2026-07-12 19:00 - WNBA - Toronto Tempo vs New York Liberty (FOX US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=FOX%20US&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NBA.TV.FHD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/nba-tv-fhd-us.webp",[Basketball] 2026-07-12 19:00 - WNBA - Toronto Tempo vs New York Liberty (NBA TV FHD US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NBA%20TV%20FHD%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.1.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-07-12 19:00 - WNBA - Toronto Tempo vs New York Liberty (TSN 1 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.4.FHD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-07-12 19:00 - WNBA - Toronto Tempo vs New York Liberty (TSN 4 FHD CA)
@@ -11103,14 +11087,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20FHD&code=&user
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-10-13 00:00 - UCI World Tour -  vs  (TNT Sports 1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Arena.Sport.2.Premium.FHD.RS" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-2-premium-fhd-rs.webp",[Volleyball] 2026-07-12 14:30 - FIVB Volleyball Womens Nations League - Bulgaria Volleyball Women vs Germany Volleyball Women (Arena Sport 2 Premium FHD RS)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%202%20Premium%20FHD%20RS&code=rs&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Polsat.Sport.Extra.1.FHD.PL" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport-extra-1-fhd-pl.webp",[Volleyball] 2026-07-12 14:30 - FIVB Volleyball Womens Nations League - Bulgaria Volleyball Women vs Germany Volleyball Women (Polsat Sport Extra 1 FHD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%201%20FHD%20PL&code=pl&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Max.Sport.2.FHD.BG" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/bg/max-sport-2-fhd-bg.webp",[Volleyball] 2026-07-12 14:30 - FIVB Volleyball Womens Nations League - Bulgaria Volleyball Women vs Germany Volleyball Women (Max Sport 2 FHD BG)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Max%20Sport%202%20FHD%20BG&code=bg&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sport.Klub.3.HD.HR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/croatia/sport-klub-3-hd-hr.webp",[Volleyball] 2026-07-12 14:30 - FIVB Volleyball Womens Nations League - Bulgaria Volleyball Women vs Germany Volleyball Women (Sport Klub 3 HD HR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20Klub%203%20HD%20HR&code=hr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Polsat.Sport.2.FHD.PL" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport-2-fhd-pl.webp",[Volleyball] 2026-07-12 18:00 - FIVB Volleyball Womens Nations League - Serbia Volleyball Women vs Netherlands Volleyball Women (Polsat Sport 2 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%202%20FHD%20PL&code=pl&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Arena.Sport.2.Premium.FHD.RS" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-2-premium-fhd-rs.webp",[Volleyball] 2026-07-12 18:00 - FIVB Volleyball Womens Nations League - Serbia Volleyball Women vs Netherlands Volleyball Women (Arena Sport 2 Premium FHD RS)
