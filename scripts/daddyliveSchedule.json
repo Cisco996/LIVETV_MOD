@@ -1410,6 +1410,16 @@
                 ]
             },
             {
+                "time": "20:30",
+                "event": "Partido Amistoso: Alianza Lima vs Deportivo Cali",
+                "channels": [
+                    {
+                        "channel_name": "Soccer Stream",
+                        "channel_id": "7054"
+                    }
+                ]
+            },
+            {
                 "time": "22:00",
                 "event": "\ud83c\udde7\ud83c\uddf7 Brazil - S\u00e9rie B : \ud83c\udde7\ud83c\uddf7 CRB vs \ud83c\udde7\ud83c\uddf7 Goi\u00e1s",
                 "channels": [
@@ -1424,12 +1434,54 @@
                 ]
             },
             {
+                "time": "23:10",
+                "event": "Ecuador Serie a : Emelec vs Barcelona SC",
+                "channels": [
+                    {
+                        "channel_name": "Soccer Stream",
+                        "channel_id": "6053"
+                    }
+                ]
+            },
+            {
                 "time": "23:30",
                 "event": "\ud83c\udde8\ud83c\udde6 Canada - Canadian Championship : \ud83c\udde8\ud83c\udde6 CF Montr\u00e9al vs \ud83c\udde8\ud83c\udde6 Vancouver FC",
                 "channels": [
                     {
                         "channel_name": "Fox Soccer Plus",
                         "channel_id": "756"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6054"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "Bolivia LFPB : Tomayapo vs Independiente",
+                "channels": [
+                    {
+                        "channel_name": "Soccer Stream",
+                        "channel_id": "6055"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "Copa de la Liga: O'Higgins vs \u00d1ublense",
+                "channels": [
+                    {
+                        "channel_name": "TNT Sports HD Chile",
+                        "channel_id": "642"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7051"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6056"
                     }
                 ]
             }
@@ -1476,6 +1528,10 @@
                     {
                         "channel_name": "ESPN+ USA",
                         "channel_id": "152"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6052"
                     }
                 ]
             }
@@ -1564,6 +1620,14 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4110"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7052"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7053"
                     }
                 ]
             },
@@ -3758,7 +3822,7 @@
         ],
         "All-Star Game \u26be": [
             {
-                "time": "19:42",
+                "time": "22:12",
                 "event": "\u26be 21:30 All-Star Futures Game: American League All-Stars vs National League All-Stars",
                 "channels": [
                     {
