@@ -1,9 +1,21 @@
 {
     "Monday 13 th July 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "22:00",
+                "event": "High Limit Racing hosts Interstate Batteries at Fremont Speedway",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "55"
+                    }
+                ]
+            }
+        ],
         "Big Brother \ud83d\udc41\ufe0f 28 LIVE CAMERA FEEDS": [
             {
                 "time": "18:30",
-                "event": "\ud83d\udcfa Big Brother \ud83d\udc41\ufe0f 28 CAM 1",
+                "event": "\ud83d\udcfa Big Brother \ud83d\udc41\ufe0f 28 Live Feeds Cam 1",
                 "channels": [
                     {
                         "channel_name": "BB Cam Live",
@@ -13,7 +25,7 @@
             },
             {
                 "time": "18:30",
-                "event": "\ud83d\udcfa Big Brother \ud83d\udc41\ufe0f 28 CAM 2",
+                "event": "\ud83d\udcfa Big Brother \ud83d\udc41\ufe0f 28 Live Feeds Cam 2",
                 "channels": [
                     {
                         "channel_name": "BB Cam Live",
@@ -23,7 +35,7 @@
             },
             {
                 "time": "18:30",
-                "event": "\ud83d\udcfa Big Brother \ud83d\udc41\ufe0f 28 CAM 3",
+                "event": "\ud83d\udcfa Big Brother \ud83d\udc41\ufe0f 28 Live Feeds Cam 3",
                 "channels": [
                     {
                         "channel_name": "BB Cam Live",
@@ -33,7 +45,7 @@
             },
             {
                 "time": "18:30",
-                "event": "\ud83d\udcfa Big Brother \ud83d\udc41\ufe0f 28 CAM 4",
+                "event": "\ud83d\udcfa Big Brother \ud83d\udc41\ufe0f 28 Live Feeds Cam 4",
                 "channels": [
                     {
                         "channel_name": "BB Cam Live",
@@ -43,7 +55,7 @@
             },
             {
                 "time": "18:30",
-                "event": "\ud83d\udcfa Big Brother \ud83d\udc41\ufe0f 28 Quadview",
+                "event": "\ud83d\udcfa Big Brother \ud83d\udc41\ufe0f 28 Live Feeds Quadview",
                 "channels": [
                     {
                         "channel_name": "BB Cam Live",
@@ -1448,7 +1460,7 @@
         ],
         "Tennis \ud83c\udfbe ATP - SINGLES: Bastad (Sweden) - clay": [
             {
-                "time": "19:29",
+                "time": "23:06",
                 "event": "\ud83c\udfbe Wimbledon Open",
                 "channels": [
                     {
@@ -2083,6 +2095,10 @@
                 "time": "00:00",
                 "event": "MLB Home Run Derby 2026 : Philadelphia, USA",
                 "channels": [
+                    {
+                        "channel_name": "Netflix Feed",
+                        "channel_id": "59"
+                    },
                     {
                         "channel_name": "TNT Sports 1 UK",
                         "channel_id": "31"
