@@ -10097,20 +10097,30 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&u
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="DAZN.F1" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-06 13:00 - Formula 1 -  vs  (DAZN F1)
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="UFC.Starzplay" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-07-18 22:00 - UFC -  vs  (UFC Starzplay)
+#EXTINF:-1 tvg-id="UFC.Starzplay" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-07-18 21:00 - UFC -  vs  (UFC Starzplay)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Starzplay&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="UFC.24/7.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-07-18 22:00 - UFC -  vs  (UFC 24/7 HD US)
+#EXTINF:-1 tvg-id="UFC.24/7.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-07-18 21:00 - UFC -  vs  (UFC 24/7 HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%2024%2F7%20HD%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="UFC.Channel.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-07-18 22:00 - UFC -  vs  (UFC Channel US)
+#EXTINF:-1 tvg-id="UFC.Channel.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-07-18 21:00 - UFC -  vs  (UFC Channel US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Channel%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="UFC.Fight.Pass.24/7.FHD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-07-18 22:00 - UFC -  vs  (UFC Fight Pass 24/7 FHD US)
+#EXTINF:-1 tvg-id="UFC.Fight.Pass.24/7.FHD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-07-18 21:00 - UFC -  vs  (UFC Fight Pass 24/7 FHD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Fight%20Pass%2024%2F7%20FHD%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="UFC.1.(Solo.Eventos)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-07-18 22:00 - UFC -  vs  (UFC 1 (Solo Eventos))
+#EXTINF:-1 tvg-id="UFC.1.(Solo.Eventos)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-07-18 21:00 - UFC -  vs  (UFC 1 (Solo Eventos))
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%201%20(Solo%20Eventos)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="UFC.2" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-07-18 22:00 - UFC -  vs  (UFC 2)
+#EXTINF:-1 tvg-id="UFC.2" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-07-18 21:00 - UFC -  vs  (UFC 2)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%202&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="UFC.3.(Solo.Eventos)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-07-18 22:00 - UFC -  vs  (UFC 3 (Solo Eventos))
+#EXTINF:-1 tvg-id="UFC.3.(Solo.Eventos)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-07-18 21:00 - UFC -  vs  (UFC 3 (Solo Eventos))
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%203%20(Solo%20Eventos)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TVA.Sports.2.HD.QC" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-07-18 21:00 - UFC -  vs  (TVA Sports 2 HD QC)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TVA%20Sports%202%20HD%20QC&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TNT.Sports.1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-07-18 21:00 - UFC -  vs  (TNT Sports 1 UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-07-18 21:00 - UFC -  vs  (TNT Sports 1 HD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TNT.Sports.1.FHD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-07-18 21:00 - UFC -  vs  (TNT Sports 1 FHD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20FHD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TNT.Sports.10.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-07-18 21:00 - UFC -  vs  (TNT Sports 10 UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%2010%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Starzplay" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-07-25 00:00 - UFC -  vs  (UFC Starzplay)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Starzplay&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.24/7.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-07-25 00:00 - UFC -  vs  (UFC 24/7 HD US)
@@ -10209,9 +10219,25 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%201%20(Solo%20Eventos)&cod
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%202&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.3.(Solo.Eventos)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-05 17:00 - UFC -  vs  (UFC 3 (Solo Eventos))
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%203%20(Solo%20Eventos)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ECHOSTAR.WWE.HD.KRD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[WWE] 2026-07-14 00:00 - WWE -  vs  (ECHOSTAR WWE HD KRD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ECHOSTAR%20WWE%20HD%20KRD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NEWROZ.WWE.HD.KRD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[WWE] 2026-07-14 00:00 - WWE -  vs  (NEWROZ WWE HD KRD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NEWROZ%20WWE%20HD%20KRD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ECHOSTAR.WWE.HD.KRD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[WWE] 2026-07-14 00:00 - WWE -  vs  (ECHOSTAR WWE HD KRD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ECHOSTAR%20WWE%20HD%20KRD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NEWROZ.WWE.HD.KRD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[WWE] 2026-07-14 00:00 - WWE -  vs  (NEWROZ WWE HD KRD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NEWROZ%20WWE%20HD%20KRD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ECHOSTAR.WWE.HD.KRD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[WWE] 2026-07-17 00:00 - WWE -  vs  (ECHOSTAR WWE HD KRD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ECHOSTAR%20WWE%20HD%20KRD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NEWROZ.WWE.HD.KRD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[WWE] 2026-07-17 00:00 - WWE -  vs  (NEWROZ WWE HD KRD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NEWROZ%20WWE%20HD%20KRD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ECHOSTAR.WWE.HD.KRD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[WWE] 2026-07-18 00:00 - WWE -  vs  (ECHOSTAR WWE HD KRD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ECHOSTAR%20WWE%20HD%20KRD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NEWROZ.WWE.HD.KRD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[WWE] 2026-07-18 00:00 - WWE -  vs  (NEWROZ WWE HD KRD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NEWROZ%20WWE%20HD%20KRD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ECHOSTAR.WWE.HD.KRD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[WWE] 2026-07-19 00:00 - WWE -  vs  (ECHOSTAR WWE HD KRD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ECHOSTAR%20WWE%20HD%20KRD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NEWROZ.WWE.HD.KRD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[WWE] 2026-07-19 00:00 - WWE -  vs  (NEWROZ WWE HD KRD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NEWROZ%20WWE%20HD%20KRD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ECHOSTAR.WWE.HD.KRD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[WWE] 2026-08-01 00:00 - WWE -  vs  (ECHOSTAR WWE HD KRD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ECHOSTAR%20WWE%20HD%20KRD&code=&user=cdnlivetv&plan=free
@@ -10221,9 +10247,37 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=NEWROZ%20WWE%20HD%20KRD&code=&
 https://cdnlivetv.tv/api/v1/channels/player/?name=ECHOSTAR%20WWE%20HD%20KRD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NEWROZ.WWE.HD.KRD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[WWE] 2026-08-02 00:00 - WWE -  vs  (NEWROZ WWE HD KRD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NEWROZ%20WWE%20HD%20KRD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ECHOSTAR.WWE.HD.KRD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[WWE] 2026-08-07 00:00 - WWE -  vs  (ECHOSTAR WWE HD KRD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ECHOSTAR%20WWE%20HD%20KRD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NEWROZ.WWE.HD.KRD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[WWE] 2026-08-07 00:00 - WWE -  vs  (NEWROZ WWE HD KRD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NEWROZ%20WWE%20HD%20KRD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ECHOSTAR.WWE.HD.KRD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[WWE] 2026-08-21 00:00 - WWE -  vs  (ECHOSTAR WWE HD KRD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ECHOSTAR%20WWE%20HD%20KRD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NEWROZ.WWE.HD.KRD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[WWE] 2026-08-21 00:00 - WWE -  vs  (NEWROZ WWE HD KRD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NEWROZ%20WWE%20HD%20KRD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ECHOSTAR.WWE.HD.KRD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[WWE] 2026-08-24 00:00 - WWE -  vs  (ECHOSTAR WWE HD KRD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ECHOSTAR%20WWE%20HD%20KRD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NEWROZ.WWE.HD.KRD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[WWE] 2026-08-24 00:00 - WWE -  vs  (NEWROZ WWE HD KRD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NEWROZ%20WWE%20HD%20KRD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ECHOSTAR.WWE.HD.KRD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[WWE] 2026-08-30 00:00 - WWE -  vs  (ECHOSTAR WWE HD KRD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ECHOSTAR%20WWE%20HD%20KRD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NEWROZ.WWE.HD.KRD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[WWE] 2026-08-30 00:00 - WWE -  vs  (NEWROZ WWE HD KRD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NEWROZ%20WWE%20HD%20KRD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ECHOSTAR.WWE.HD.KRD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[WWE] 2026-09-06 00:00 - WWE -  vs  (ECHOSTAR WWE HD KRD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ECHOSTAR%20WWE%20HD%20KRD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NEWROZ.WWE.HD.KRD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[WWE] 2026-09-06 00:00 - WWE -  vs  (NEWROZ WWE HD KRD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NEWROZ%20WWE%20HD%20KRD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ECHOSTAR.WWE.HD.KRD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[WWE] 2026-09-06 00:00 - WWE -  vs  (ECHOSTAR WWE HD KRD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ECHOSTAR%20WWE%20HD%20KRD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NEWROZ.WWE.HD.KRD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[WWE] 2026-09-06 00:00 - WWE -  vs  (NEWROZ WWE HD KRD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NEWROZ%20WWE%20HD%20KRD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ECHOSTAR.WWE.HD.KRD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[WWE] 2026-09-11 00:00 - WWE -  vs  (ECHOSTAR WWE HD KRD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ECHOSTAR%20WWE%20HD%20KRD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NEWROZ.WWE.HD.KRD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[WWE] 2026-09-11 00:00 - WWE -  vs  (NEWROZ WWE HD KRD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NEWROZ%20WWE%20HD%20KRD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ECHOSTAR.WWE.HD.KRD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[WWE] 2026-09-14 00:00 - WWE -  vs  (ECHOSTAR WWE HD KRD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ECHOSTAR%20WWE%20HD%20KRD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NEWROZ.WWE.HD.KRD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[WWE] 2026-09-14 00:00 - WWE -  vs  (NEWROZ WWE HD KRD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NEWROZ%20WWE%20HD%20KRD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ECHOSTAR.WWE.HD.KRD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[WWE] 2026-10-25 00:00 - WWE -  vs  (ECHOSTAR WWE HD KRD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ECHOSTAR%20WWE%20HD%20KRD&code=&user=cdnlivetv&plan=free
@@ -10263,20 +10317,22 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20Hall%20of%20
 https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20329%3A%20Press%20Conference%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="(CA).(Dazn.033).|.UFC.329:.McGregor.vs..Holloway.2.(2026-07-11.21:00:00)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-18 00:00 - Boxing -  vs  ((CA) (Dazn 033) | UFC 329: McGregor vs. Holloway 2 (2026-07-11 21:00:00))
 https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20033)%20%7C%20UFC%20329%3A%20McGregor%20vs.%20Holloway%202%20(2026-07-11%2021%3A00%3A00)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="UFC.Starzplay" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-18 21:00 - Professional Fighters League -  vs  (UFC Starzplay)
+#EXTINF:-1 tvg-id="UFC.Starzplay" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-18 16:00 - Professional Fighters League -  vs  (UFC Starzplay)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Starzplay&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="UFC.24/7.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-18 21:00 - Professional Fighters League -  vs  (UFC 24/7 HD US)
+#EXTINF:-1 tvg-id="UFC.24/7.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-18 16:00 - Professional Fighters League -  vs  (UFC 24/7 HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%2024%2F7%20HD%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="UFC.Channel.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-18 21:00 - Professional Fighters League -  vs  (UFC Channel US)
+#EXTINF:-1 tvg-id="UFC.Channel.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-18 16:00 - Professional Fighters League -  vs  (UFC Channel US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Channel%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="UFC.Fight.Pass.24/7.FHD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-18 21:00 - Professional Fighters League -  vs  (UFC Fight Pass 24/7 FHD US)
+#EXTINF:-1 tvg-id="UFC.Fight.Pass.24/7.FHD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-18 16:00 - Professional Fighters League -  vs  (UFC Fight Pass 24/7 FHD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Fight%20Pass%2024%2F7%20FHD%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="UFC.1.(Solo.Eventos)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-18 21:00 - Professional Fighters League -  vs  (UFC 1 (Solo Eventos))
+#EXTINF:-1 tvg-id="UFC.1.(Solo.Eventos)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-18 16:00 - Professional Fighters League -  vs  (UFC 1 (Solo Eventos))
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%201%20(Solo%20Eventos)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="UFC.2" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-18 21:00 - Professional Fighters League -  vs  (UFC 2)
+#EXTINF:-1 tvg-id="UFC.2" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-18 16:00 - Professional Fighters League -  vs  (UFC 2)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%202&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="UFC.3.(Solo.Eventos)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-18 21:00 - Professional Fighters League -  vs  (UFC 3 (Solo Eventos))
+#EXTINF:-1 tvg-id="UFC.3.(Solo.Eventos)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-18 16:00 - Professional Fighters League -  vs  (UFC 3 (Solo Eventos))
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%203%20(Solo%20Eventos)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ESPN.2.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-18 16:00 - Professional Fighters League -  vs  (ESPN 2 US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%202%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Starzplay" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-25 00:00 - Boxing -  vs  (UFC Starzplay)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Starzplay&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.24/7.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-25 00:00 - Boxing -  vs  (UFC 24/7 HD US)
@@ -10359,6 +10415,20 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20Hall%20of%20
 https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20329%3A%20Press%20Conference%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="(CA).(Dazn.033).|.UFC.329:.McGregor.vs..Holloway.2.(2026-07-11.21:00:00)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-26 00:00 - Boxing -  vs  ((CA) (Dazn 033) | UFC 329: McGregor vs. Holloway 2 (2026-07-11 21:00:00))
 https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20033)%20%7C%20UFC%20329%3A%20McGregor%20vs.%20Holloway%202%20(2026-07-11%2021%3A00%3A00)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="UFC.Starzplay" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-31 00:00 - Professional Fighters League -  vs  (UFC Starzplay)
+https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Starzplay&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="UFC.24/7.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-31 00:00 - Professional Fighters League -  vs  (UFC 24/7 HD US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%2024%2F7%20HD%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="UFC.Channel.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-31 00:00 - Professional Fighters League -  vs  (UFC Channel US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Channel%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="UFC.Fight.Pass.24/7.FHD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-31 00:00 - Professional Fighters League -  vs  (UFC Fight Pass 24/7 FHD US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Fight%20Pass%2024%2F7%20FHD%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="UFC.1.(Solo.Eventos)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-31 00:00 - Professional Fighters League -  vs  (UFC 1 (Solo Eventos))
+https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%201%20(Solo%20Eventos)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="UFC.2" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-31 00:00 - Professional Fighters League -  vs  (UFC 2)
+https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%202&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="UFC.3.(Solo.Eventos)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-31 00:00 - Professional Fighters League -  vs  (UFC 3 (Solo Eventos))
+https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%203%20(Solo%20Eventos)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Starzplay" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-01 00:00 - Boxing -  vs  (UFC Starzplay)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Starzplay&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.24/7.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-01 00:00 - Boxing -  vs  (UFC 24/7 HD US)
@@ -10427,6 +10497,20 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20Hall%20of%20
 https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20329%3A%20Press%20Conference%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="(CA).(Dazn.033).|.UFC.329:.McGregor.vs..Holloway.2.(2026-07-11.21:00:00)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-01 00:00 - Boxing -  vs  ((CA) (Dazn 033) | UFC 329: McGregor vs. Holloway 2 (2026-07-11 21:00:00))
 https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20033)%20%7C%20UFC%20329%3A%20McGregor%20vs.%20Holloway%202%20(2026-07-11%2021%3A00%3A00)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="UFC.Starzplay" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-07 00:00 - Professional Fighters League -  vs  (UFC Starzplay)
+https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Starzplay&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="UFC.24/7.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-07 00:00 - Professional Fighters League -  vs  (UFC 24/7 HD US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%2024%2F7%20HD%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="UFC.Channel.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-07 00:00 - Professional Fighters League -  vs  (UFC Channel US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Channel%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="UFC.Fight.Pass.24/7.FHD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-07 00:00 - Professional Fighters League -  vs  (UFC Fight Pass 24/7 FHD US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Fight%20Pass%2024%2F7%20FHD%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="UFC.1.(Solo.Eventos)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-07 00:00 - Professional Fighters League -  vs  (UFC 1 (Solo Eventos))
+https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%201%20(Solo%20Eventos)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="UFC.2" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-07 00:00 - Professional Fighters League -  vs  (UFC 2)
+https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%202&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="UFC.3.(Solo.Eventos)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-07 00:00 - Professional Fighters League -  vs  (UFC 3 (Solo Eventos))
+https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%203%20(Solo%20Eventos)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Starzplay" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-08 00:00 - Boxing -  vs  (UFC Starzplay)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Starzplay&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.24/7.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-08 00:00 - Boxing -  vs  (UFC 24/7 HD US)
@@ -10495,282 +10579,310 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20Hall%20of%20
 https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20329%3A%20Press%20Conference%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="(CA).(Dazn.033).|.UFC.329:.McGregor.vs..Holloway.2.(2026-07-11.21:00:00)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-08 00:00 - Boxing -  vs  ((CA) (Dazn 033) | UFC 329: McGregor vs. Holloway 2 (2026-07-11 21:00:00))
 https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20033)%20%7C%20UFC%20329%3A%20McGregor%20vs.%20Holloway%202%20(2026-07-11%2021%3A00%3A00)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Eurosport.1.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-14 00:00 - UCI World Tour -  vs  (Eurosport 1 HD)
+#EXTINF:-1 tvg-id="UFC.Starzplay" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-22 00:00 - Professional Fighters League -  vs  (UFC Starzplay)
+https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Starzplay&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="UFC.24/7.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-22 00:00 - Professional Fighters League -  vs  (UFC 24/7 HD US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%2024%2F7%20HD%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="UFC.Channel.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-22 00:00 - Professional Fighters League -  vs  (UFC Channel US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Channel%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="UFC.Fight.Pass.24/7.FHD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-22 00:00 - Professional Fighters League -  vs  (UFC Fight Pass 24/7 FHD US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Fight%20Pass%2024%2F7%20FHD%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="UFC.1.(Solo.Eventos)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-22 00:00 - Professional Fighters League -  vs  (UFC 1 (Solo Eventos))
+https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%201%20(Solo%20Eventos)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="UFC.2" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-22 00:00 - Professional Fighters League -  vs  (UFC 2)
+https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%202&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="UFC.3.(Solo.Eventos)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-22 00:00 - Professional Fighters League -  vs  (UFC 3 (Solo Eventos))
+https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%203%20(Solo%20Eventos)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="UFC.Starzplay" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-10-10 00:00 - Professional Fighters League -  vs  (UFC Starzplay)
+https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Starzplay&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="UFC.24/7.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-10-10 00:00 - Professional Fighters League -  vs  (UFC 24/7 HD US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%2024%2F7%20HD%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="UFC.Channel.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-10-10 00:00 - Professional Fighters League -  vs  (UFC Channel US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Channel%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="UFC.Fight.Pass.24/7.FHD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-10-10 00:00 - Professional Fighters League -  vs  (UFC Fight Pass 24/7 FHD US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Fight%20Pass%2024%2F7%20FHD%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="UFC.1.(Solo.Eventos)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-10-10 00:00 - Professional Fighters League -  vs  (UFC 1 (Solo Eventos))
+https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%201%20(Solo%20Eventos)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="UFC.2" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-10-10 00:00 - Professional Fighters League -  vs  (UFC 2)
+https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%202&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="UFC.3.(Solo.Eventos)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-10-10 00:00 - Professional Fighters League -  vs  (UFC 3 (Solo Eventos))
+https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%203%20(Solo%20Eventos)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Eurosport.1.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-14 11:00 - UCI World Tour -  vs  (Eurosport 1 HD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20HD&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Eurosport.1.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-14 00:00 - UCI World Tour -  vs  (Eurosport 1 FHD)
+#EXTINF:-1 tvg-id="Eurosport.1.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-14 11:00 - UCI World Tour -  vs  (Eurosport 1 FHD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20FHD&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Eurosport.2.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-14 00:00 - UCI World Tour -  vs  (Eurosport 2 FHD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20FHD&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TNT.Sports.1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-14 00:00 - UCI World Tour -  vs  (TNT Sports 1 HD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20HD%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TNT.Sports.1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-14 00:00 - UCI World Tour -  vs  (TNT Sports 1 UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Eurosport.2.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-14 00:00 - UCI World Tour -  vs  (Eurosport 2 HD)
+#EXTINF:-1 tvg-id="Eurosport.2.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-14 11:00 - UCI World Tour -  vs  (Eurosport 2 HD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20HD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Eurosport.2.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-14 11:00 - UCI World Tour -  vs  (Eurosport 2 FHD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20FHD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-14 11:00 - UCI World Tour -  vs  (TNT Sports 1 HD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TNT.Sports.1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-14 11:00 - UCI World Tour -  vs  (TNT Sports 1 UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.1.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-15 00:00 - UCI World Tour -  vs  (Eurosport 1 HD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20HD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.1.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-15 00:00 - UCI World Tour -  vs  (Eurosport 1 FHD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20FHD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Eurosport.2.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-15 00:00 - UCI World Tour -  vs  (Eurosport 2 HD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20HD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.2.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-15 00:00 - UCI World Tour -  vs  (Eurosport 2 FHD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20FHD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-15 00:00 - UCI World Tour -  vs  (TNT Sports 1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-15 00:00 - UCI World Tour -  vs  (TNT Sports 1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Eurosport.2.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-15 00:00 - UCI World Tour -  vs  (Eurosport 2 HD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20HD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.1.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-16 00:00 - UCI World Tour -  vs  (Eurosport 1 HD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20HD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.1.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-16 00:00 - UCI World Tour -  vs  (Eurosport 1 FHD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20FHD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Eurosport.2.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-16 00:00 - UCI World Tour -  vs  (Eurosport 2 HD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20HD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.2.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-16 00:00 - UCI World Tour -  vs  (Eurosport 2 FHD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20FHD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-16 00:00 - UCI World Tour -  vs  (TNT Sports 1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-16 00:00 - UCI World Tour -  vs  (TNT Sports 1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Eurosport.2.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-16 00:00 - UCI World Tour -  vs  (Eurosport 2 HD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20HD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.1.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-17 00:00 - UCI World Tour -  vs  (Eurosport 1 HD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20HD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.1.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-17 00:00 - UCI World Tour -  vs  (Eurosport 1 FHD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20FHD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Eurosport.2.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-17 00:00 - UCI World Tour -  vs  (Eurosport 2 HD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20HD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.2.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-17 00:00 - UCI World Tour -  vs  (Eurosport 2 FHD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20FHD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-17 00:00 - UCI World Tour -  vs  (TNT Sports 1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-17 00:00 - UCI World Tour -  vs  (TNT Sports 1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Eurosport.2.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-17 00:00 - UCI World Tour -  vs  (Eurosport 2 HD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20HD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.1.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-18 00:00 - UCI World Tour -  vs  (Eurosport 1 HD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20HD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.1.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-18 00:00 - UCI World Tour -  vs  (Eurosport 1 FHD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20FHD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Eurosport.2.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-18 00:00 - UCI World Tour -  vs  (Eurosport 2 HD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20HD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.2.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-18 00:00 - UCI World Tour -  vs  (Eurosport 2 FHD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20FHD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-18 00:00 - UCI World Tour -  vs  (TNT Sports 1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-18 00:00 - UCI World Tour -  vs  (TNT Sports 1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Eurosport.2.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-18 00:00 - UCI World Tour -  vs  (Eurosport 2 HD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20HD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.1.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-19 00:00 - UCI World Tour -  vs  (Eurosport 1 HD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20HD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.1.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-19 00:00 - UCI World Tour -  vs  (Eurosport 1 FHD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20FHD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Eurosport.2.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-19 00:00 - UCI World Tour -  vs  (Eurosport 2 HD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20HD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.2.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-19 00:00 - UCI World Tour -  vs  (Eurosport 2 FHD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20FHD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-19 00:00 - UCI World Tour -  vs  (TNT Sports 1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-19 00:00 - UCI World Tour -  vs  (TNT Sports 1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Eurosport.2.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-19 00:00 - UCI World Tour -  vs  (Eurosport 2 HD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20HD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.1.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-21 00:00 - UCI World Tour -  vs  (Eurosport 1 HD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20HD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.1.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-21 00:00 - UCI World Tour -  vs  (Eurosport 1 FHD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20FHD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Eurosport.2.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-21 00:00 - UCI World Tour -  vs  (Eurosport 2 HD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20HD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.2.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-21 00:00 - UCI World Tour -  vs  (Eurosport 2 FHD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20FHD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-21 00:00 - UCI World Tour -  vs  (TNT Sports 1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-21 00:00 - UCI World Tour -  vs  (TNT Sports 1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Eurosport.2.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-21 00:00 - UCI World Tour -  vs  (Eurosport 2 HD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20HD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.1.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-22 00:00 - UCI World Tour -  vs  (Eurosport 1 HD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20HD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.1.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-22 00:00 - UCI World Tour -  vs  (Eurosport 1 FHD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20FHD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Eurosport.2.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-22 00:00 - UCI World Tour -  vs  (Eurosport 2 HD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20HD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.2.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-22 00:00 - UCI World Tour -  vs  (Eurosport 2 FHD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20FHD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-22 00:00 - UCI World Tour -  vs  (TNT Sports 1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-22 00:00 - UCI World Tour -  vs  (TNT Sports 1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Eurosport.2.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-22 00:00 - UCI World Tour -  vs  (Eurosport 2 HD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20HD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.1.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-23 00:00 - UCI World Tour -  vs  (Eurosport 1 HD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20HD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.1.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-23 00:00 - UCI World Tour -  vs  (Eurosport 1 FHD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20FHD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Eurosport.2.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-23 00:00 - UCI World Tour -  vs  (Eurosport 2 HD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20HD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.2.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-23 00:00 - UCI World Tour -  vs  (Eurosport 2 FHD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20FHD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-23 00:00 - UCI World Tour -  vs  (TNT Sports 1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-23 00:00 - UCI World Tour -  vs  (TNT Sports 1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Eurosport.2.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-23 00:00 - UCI World Tour -  vs  (Eurosport 2 HD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20HD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.1.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-24 00:00 - UCI World Tour -  vs  (Eurosport 1 HD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20HD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.1.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-24 00:00 - UCI World Tour -  vs  (Eurosport 1 FHD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20FHD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Eurosport.2.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-24 00:00 - UCI World Tour -  vs  (Eurosport 2 HD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20HD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.2.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-24 00:00 - UCI World Tour -  vs  (Eurosport 2 FHD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20FHD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-24 00:00 - UCI World Tour -  vs  (TNT Sports 1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-24 00:00 - UCI World Tour -  vs  (TNT Sports 1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Eurosport.2.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-24 00:00 - UCI World Tour -  vs  (Eurosport 2 HD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20HD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.1.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-25 00:00 - UCI World Tour -  vs  (Eurosport 1 HD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20HD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.1.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-25 00:00 - UCI World Tour -  vs  (Eurosport 1 FHD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20FHD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Eurosport.2.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-25 00:00 - UCI World Tour -  vs  (Eurosport 2 HD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20HD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.2.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-25 00:00 - UCI World Tour -  vs  (Eurosport 2 FHD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20FHD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-25 00:00 - UCI World Tour -  vs  (TNT Sports 1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-25 00:00 - UCI World Tour -  vs  (TNT Sports 1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Eurosport.2.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-25 00:00 - UCI World Tour -  vs  (Eurosport 2 HD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20HD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.1.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-26 00:00 - UCI World Tour -  vs  (Eurosport 1 HD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20HD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.1.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-26 00:00 - UCI World Tour -  vs  (Eurosport 1 FHD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20FHD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Eurosport.2.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-26 00:00 - UCI World Tour -  vs  (Eurosport 2 HD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20HD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.2.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-26 00:00 - UCI World Tour -  vs  (Eurosport 2 FHD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20FHD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-26 00:00 - UCI World Tour -  vs  (TNT Sports 1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-26 00:00 - UCI World Tour -  vs  (TNT Sports 1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Eurosport.2.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-26 00:00 - UCI World Tour -  vs  (Eurosport 2 HD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20HD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.1.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-08-01 00:00 - UCI World Tour -  vs  (Eurosport 1 HD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20HD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.1.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-08-01 00:00 - UCI World Tour -  vs  (Eurosport 1 FHD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20FHD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Eurosport.2.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-08-01 00:00 - UCI World Tour -  vs  (Eurosport 2 HD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20HD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.2.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-08-01 00:00 - UCI World Tour -  vs  (Eurosport 2 FHD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20FHD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-08-01 00:00 - UCI World Tour -  vs  (TNT Sports 1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-08-01 00:00 - UCI World Tour -  vs  (TNT Sports 1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Eurosport.2.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-08-01 00:00 - UCI World Tour -  vs  (Eurosport 2 HD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20HD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.1.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-08-03 00:00 - UCI World Tour -  vs  (Eurosport 1 HD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20HD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.1.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-08-03 00:00 - UCI World Tour -  vs  (Eurosport 1 FHD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20FHD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Eurosport.2.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-08-03 00:00 - UCI World Tour -  vs  (Eurosport 2 HD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20HD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.2.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-08-03 00:00 - UCI World Tour -  vs  (Eurosport 2 FHD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20FHD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-08-03 00:00 - UCI World Tour -  vs  (TNT Sports 1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-08-03 00:00 - UCI World Tour -  vs  (TNT Sports 1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Eurosport.2.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-08-03 00:00 - UCI World Tour -  vs  (Eurosport 2 HD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20HD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.1.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-08-10 00:00 - UCI ProSeries -  vs  (Eurosport 1 HD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20HD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.1.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-08-10 00:00 - UCI ProSeries -  vs  (Eurosport 1 FHD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20FHD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Eurosport.2.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-08-10 00:00 - UCI ProSeries -  vs  (Eurosport 2 HD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20HD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.2.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-08-10 00:00 - UCI ProSeries -  vs  (Eurosport 2 FHD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20FHD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-08-10 00:00 - UCI ProSeries -  vs  (TNT Sports 1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-08-10 00:00 - UCI ProSeries -  vs  (TNT Sports 1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Eurosport.2.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-08-10 00:00 - UCI ProSeries -  vs  (Eurosport 2 HD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20HD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.1.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-08-16 00:00 - UCI World Tour -  vs  (Eurosport 1 HD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20HD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.1.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-08-16 00:00 - UCI World Tour -  vs  (Eurosport 1 FHD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20FHD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Eurosport.2.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-08-16 00:00 - UCI World Tour -  vs  (Eurosport 2 HD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20HD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.2.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-08-16 00:00 - UCI World Tour -  vs  (Eurosport 2 FHD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20FHD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-08-16 00:00 - UCI World Tour -  vs  (TNT Sports 1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-08-16 00:00 - UCI World Tour -  vs  (TNT Sports 1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Eurosport.2.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-08-16 00:00 - UCI World Tour -  vs  (Eurosport 2 HD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20HD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.1.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-08-19 00:00 - UCI World Tour -  vs  (Eurosport 1 HD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20HD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.1.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-08-19 00:00 - UCI World Tour -  vs  (Eurosport 1 FHD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20FHD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Eurosport.2.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-08-19 00:00 - UCI World Tour -  vs  (Eurosport 2 HD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20HD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.2.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-08-19 00:00 - UCI World Tour -  vs  (Eurosport 2 FHD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20FHD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-08-19 00:00 - UCI World Tour -  vs  (TNT Sports 1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-08-19 00:00 - UCI World Tour -  vs  (TNT Sports 1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Eurosport.2.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-08-19 00:00 - UCI World Tour -  vs  (Eurosport 2 HD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20HD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.1.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-08-22 00:00 - UCI World Tour -  vs  (Eurosport 1 HD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20HD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.1.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-08-22 00:00 - UCI World Tour -  vs  (Eurosport 1 FHD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20FHD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Eurosport.2.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-08-22 00:00 - UCI World Tour -  vs  (Eurosport 2 HD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20HD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.2.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-08-22 00:00 - UCI World Tour -  vs  (Eurosport 2 FHD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20FHD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-08-22 00:00 - UCI World Tour -  vs  (TNT Sports 1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-08-22 00:00 - UCI World Tour -  vs  (TNT Sports 1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Eurosport.2.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-08-22 00:00 - UCI World Tour -  vs  (Eurosport 2 HD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20HD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.1.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-08-30 00:00 - UCI World Tour -  vs  (Eurosport 1 HD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20HD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.1.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-08-30 00:00 - UCI World Tour -  vs  (Eurosport 1 FHD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20FHD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Eurosport.2.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-08-30 00:00 - UCI World Tour -  vs  (Eurosport 2 HD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20HD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.2.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-08-30 00:00 - UCI World Tour -  vs  (Eurosport 2 FHD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20FHD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-08-30 00:00 - UCI World Tour -  vs  (TNT Sports 1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-08-30 00:00 - UCI World Tour -  vs  (TNT Sports 1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Eurosport.2.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-08-30 00:00 - UCI World Tour -  vs  (Eurosport 2 HD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20HD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.1.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-09-11 00:00 - UCI World Tour -  vs  (Eurosport 1 HD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20HD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.1.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-09-11 00:00 - UCI World Tour -  vs  (Eurosport 1 FHD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20FHD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Eurosport.2.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-09-11 00:00 - UCI World Tour -  vs  (Eurosport 2 HD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20HD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.2.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-09-11 00:00 - UCI World Tour -  vs  (Eurosport 2 FHD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20FHD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-09-11 00:00 - UCI World Tour -  vs  (TNT Sports 1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-09-11 00:00 - UCI World Tour -  vs  (TNT Sports 1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Eurosport.2.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-09-11 00:00 - UCI World Tour -  vs  (Eurosport 2 HD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20HD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.1.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-09-13 00:00 - UCI World Tour -  vs  (Eurosport 1 HD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20HD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.1.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-09-13 00:00 - UCI World Tour -  vs  (Eurosport 1 FHD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20FHD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Eurosport.2.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-09-13 00:00 - UCI World Tour -  vs  (Eurosport 2 HD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20HD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.2.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-09-13 00:00 - UCI World Tour -  vs  (Eurosport 2 FHD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20FHD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-09-13 00:00 - UCI World Tour -  vs  (TNT Sports 1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-09-13 00:00 - UCI World Tour -  vs  (TNT Sports 1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Eurosport.2.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-09-13 00:00 - UCI World Tour -  vs  (Eurosport 2 HD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20HD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.1.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-10-10 00:00 - UCI World Tour -  vs  (Eurosport 1 HD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20HD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.1.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-10-10 00:00 - UCI World Tour -  vs  (Eurosport 1 FHD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20FHD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Eurosport.2.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-10-10 00:00 - UCI World Tour -  vs  (Eurosport 2 HD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20HD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.2.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-10-10 00:00 - UCI World Tour -  vs  (Eurosport 2 FHD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20FHD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-10-10 00:00 - UCI World Tour -  vs  (TNT Sports 1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-10-10 00:00 - UCI World Tour -  vs  (TNT Sports 1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Eurosport.2.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-10-10 00:00 - UCI World Tour -  vs  (Eurosport 2 HD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20HD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.1.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-10-13 00:00 - UCI World Tour -  vs  (Eurosport 1 HD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20HD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.1.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-10-13 00:00 - UCI World Tour -  vs  (Eurosport 1 FHD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20FHD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Eurosport.2.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-10-13 00:00 - UCI World Tour -  vs  (Eurosport 2 HD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20HD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.2.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-10-13 00:00 - UCI World Tour -  vs  (Eurosport 2 FHD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20FHD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-10-13 00:00 - UCI World Tour -  vs  (TNT Sports 1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-10-13 00:00 - UCI World Tour -  vs  (TNT Sports 1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Eurosport.2.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-10-13 00:00 - UCI World Tour -  vs  (Eurosport 2 HD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20HD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Arena.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Darts] 2026-07-18 18:00 - PDC Darts -  vs  (Sky Sports Arena HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Arena%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Arena.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Darts] 2026-07-18 18:00 - PDC Darts -  vs  (Sky Sports Arena UK)
