@@ -19,6 +19,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=LA%201%20FHD%20ES&code=es&user
 https://cdnlivetv.tv/api/v1/channels/player/?name=CTV&code=ca&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="M6.FHD.FR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/m6-fhd-fr.webp",[Soccer] 2026-07-14 19:00 - FIFA World Cup - France vs Spain (M6 FHD FR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=M6%20FHD%20FR&code=fr&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="beIN.SPORTS.1.FR.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/bein-sports-1-fr-fhd.webp",[Soccer] 2026-07-14 19:00 - FIFA World Cup - France vs Spain (beIN SPORTS 1 FR FHD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20SPORTS%201%20FR%20FHD&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.1.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-14 19:00 - FIFA World Cup - France vs Spain (TSN 1 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.3.FHD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-14 19:00 - FIFA World Cup - France vs Spain (TSN 3 FHD CA)
@@ -57,22 +59,34 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MatchTV%20RU&code=ru&user=cdnl
 https://cdnlivetv.tv/api/v1/channels/player/?name=Match%20Football%201%20RU&code=ru&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Yle.TV2.HD.FI" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-14 19:00 - FIFA World Cup - France vs Spain (Yle TV2 HD FI)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Yle%20TV2%20HD%20FI&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="RSI.La2.FHD.IT" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/italy/rsi-la2-fhd-it.webp",[Soccer] 2026-07-14 19:00 - FIFA World Cup - France vs Spain (RSI La2 FHD IT)
+https://cdnlivetv.tv/api/v1/channels/player/?name=RSI%20La2%20FHD%20IT&code=it&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="M4.Sport.FHD.HU" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/hungary/m4-sport-fhd-hu.webp",[Soccer] 2026-07-14 19:00 - FIFA World Cup - France vs Spain (M4 Sport FHD HU)
 https://cdnlivetv.tv/api/v1/channels/player/?name=M4%20Sport%20FHD%20HU&code=hu&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Antena.1.FHD.RO" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/romania/antena-1-fhd-ro.webp",[Soccer] 2026-07-14 19:00 - FIFA World Cup - France vs Spain (Antena 1 FHD RO)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Antena%201%20FHD%20RO&code=ro&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Rai.1.HD.IT" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/italy/rai-1-hd-it.webp",[Soccer] 2026-07-14 19:00 - FIFA World Cup - France vs Spain (Rai 1 HD IT)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Rai%201%20HD%20IT&code=it&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Arena.Sport.1.FHD.BA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-14 19:00 - FIFA World Cup - France vs Spain (Arena Sport 1 FHD BA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%201%20FHD%20BA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Arena.Sport.1.[Croatian]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-14 19:00 - FIFA World Cup - France vs Spain (Arena Sport 1 [Croatian])
 https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%201%20%5BCroatian%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="JOJ.Sport.FHD.SK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-14 19:00 - FIFA World Cup - France vs Spain (JOJ Sport FHD SK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=JOJ%20Sport%20FHD%20SK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="FUSSBALL.TV.1.FHD.DE" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/fussball-tv-1-fhd-de.webp",[Soccer] 2026-07-14 19:00 - FIFA World Cup - France vs Spain (FUSSBALL TV 1 FHD DE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=FUSSBALL%20TV%201%20FHD%20DE&code=de&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="SBS.HD.AU" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/australia/sbs-hd-au.webp",[Soccer] 2026-07-14 19:00 - FIFA World Cup - France vs Spain (SBS HD AU)
+https://cdnlivetv.tv/api/v1/channels/player/?name=SBS%20HD%20AU&code=au&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Fast.Sport.Armenia.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-14 19:00 - FIFA World Cup - France vs Spain (Fast Sport Armenia HD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Fast%20Sport%20Armenia%20HD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Ictimai.TV.AZ" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-14 19:00 - FIFA World Cup - France vs Spain (Ictimai TV AZ)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Ictimai%20TV%20AZ&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Tipik.FHD.BE" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/belgium/tipik-fhd-be.webp",[Soccer] 2026-07-14 19:00 - FIFA World Cup - France vs Spain (Tipik FHD BE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Tipik%20FHD%20BE&code=be&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Canal.5.FHD.MX" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/mexico/canal-5-fhd-mx.webp",[Soccer] 2026-07-14 19:00 - FIFA World Cup - France vs Spain (Canal 5 FHD MX)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%205%20FHD%20MX&code=mx&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Azteca.7.FHD.MX" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/mexico/azteca-7-fhd-mx.webp",[Soccer] 2026-07-14 19:00 - FIFA World Cup - France vs Spain (Azteca 7 FHD MX)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Azteca%207%20FHD%20MX&code=mx&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TV2.HD.NO" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-14 19:00 - FIFA World Cup - France vs Spain (TV2 HD NO)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TV2%20HD%20NO&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Caracol.TV.Internacional.LAM" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-14 19:00 - FIFA World Cup - France vs Spain (Caracol TV Internacional LAM)
@@ -87,6 +101,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=TV2%20HD%20DK&code=dk&user=cdn
 https://cdnlivetv.tv/api/v1/channels/player/?name=TV%20Publica%20HD%20ARG&code=ar&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Klan.TV.FHD.AL" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-14 19:00 - FIFA World Cup - France vs Spain (Klan TV FHD AL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Klan%20TV%20FHD%20AL&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ERT.2.HD.GR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/greece/ert-2-hd-gr.webp",[Soccer] 2026-07-14 19:00 - FIFA World Cup - France vs Spain (ERT 2 HD GR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ERT%202%20HD%20GR&code=gr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="HRT.2.FHD.HR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/croatia/hrt-2-fhd-hr.webp",[Soccer] 2026-07-14 19:00 - FIFA World Cup - France vs Spain (HRT 2 FHD HR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=HRT%202%20FHD%20HR&code=hr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="SVT1.HD.(B).SE" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/sweden/svt1-hd-b-se.webp",[Soccer] 2026-07-14 19:00 - FIFA World Cup - France vs Spain (SVT1 HD (B) SE)
@@ -95,6 +111,10 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=SVT1%20HD%20(B)%20SE&code=se&u
 https://cdnlivetv.tv/api/v1/channels/player/?name=BNT%201%20HD%20BG&code=bg&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="BNT.3.HD.BG" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/bg/bnt-3-hd-bg.webp",[Soccer] 2026-07-14 19:00 - FIFA World Cup - France vs Spain (BNT 3 HD BG)
 https://cdnlivetv.tv/api/v1/channels/player/?name=BNT%203%20HD%20BG&code=bg&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="SuperSport.Grandstand" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-14 19:00 - FIFA World Cup - France vs Spain (SuperSport Grandstand)
+https://cdnlivetv.tv/api/v1/channels/player/?name=SuperSport%20Grandstand&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="SuperSport.PSL" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-14 19:00 - FIFA World Cup - France vs Spain (SuperSport PSL)
+https://cdnlivetv.tv/api/v1/channels/player/?name=SuperSport%20PSL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="beIN.SPORTS.MAX.1.FHD.TR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-14 19:00 - FIFA World Cup - France vs Spain (beIN SPORTS MAX 1 FHD TR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20SPORTS%20MAX%201%20FHD%20TR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="beIN.SPORTS.MAX.3.[English]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/saudi-arabia/bein-sports-max-3-english.webp",[Soccer] 2026-07-14 19:00 - FIFA World Cup - France vs Spain (beIN SPORTS MAX 3 [English])
@@ -105,26 +125,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%201%20HD%20IL&code=il&us
 https://cdnlivetv.tv/api/v1/channels/player/?name=Magenta%20Sport%20FHD%20DE&code=de&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TV4.HD.SE" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/sweden/tv4-hd-se.webp",[Soccer] 2026-07-14 19:00 - FIFA World Cup - France vs Spain (TV4 HD SE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TV4%20HD%20SE&code=se&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="beIN.SPORTS.1.FR.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/bein-sports-1-fr-fhd.webp",[Soccer] 2026-07-14 19:00 - FIFA World Cup - France vs Spain (beIN SPORTS 1 FR FHD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20SPORTS%201%20FR%20FHD&code=fr&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="RSI.La2.FHD.IT" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/italy/rsi-la2-fhd-it.webp",[Soccer] 2026-07-14 19:00 - FIFA World Cup - France vs Spain (RSI La2 FHD IT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=RSI%20La2%20FHD%20IT&code=it&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Rai.1.HD.IT" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/italy/rai-1-hd-it.webp",[Soccer] 2026-07-14 19:00 - FIFA World Cup - France vs Spain (Rai 1 HD IT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Rai%201%20HD%20IT&code=it&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="JOJ.Sport.FHD.SK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-14 19:00 - FIFA World Cup - France vs Spain (JOJ Sport FHD SK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=JOJ%20Sport%20FHD%20SK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="SBS.HD.AU" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/australia/sbs-hd-au.webp",[Soccer] 2026-07-14 19:00 - FIFA World Cup - France vs Spain (SBS HD AU)
-https://cdnlivetv.tv/api/v1/channels/player/?name=SBS%20HD%20AU&code=au&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Canal.5.FHD.MX" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/mexico/canal-5-fhd-mx.webp",[Soccer] 2026-07-14 19:00 - FIFA World Cup - France vs Spain (Canal 5 FHD MX)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%205%20FHD%20MX&code=mx&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Azteca.7.FHD.MX" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/mexico/azteca-7-fhd-mx.webp",[Soccer] 2026-07-14 19:00 - FIFA World Cup - France vs Spain (Azteca 7 FHD MX)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Azteca%207%20FHD%20MX&code=mx&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="ERT.2.HD.GR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/greece/ert-2-hd-gr.webp",[Soccer] 2026-07-14 19:00 - FIFA World Cup - France vs Spain (ERT 2 HD GR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=ERT%202%20HD%20GR&code=gr&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="SuperSport.Grandstand" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-14 19:00 - FIFA World Cup - France vs Spain (SuperSport Grandstand)
-https://cdnlivetv.tv/api/v1/channels/player/?name=SuperSport%20Grandstand&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="SuperSport.PSL" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-14 19:00 - FIFA World Cup - France vs Spain (SuperSport PSL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=SuperSport%20PSL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="FOX.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-15 19:00 - FIFA World Cup - England vs Argentina (FOX US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=FOX%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="LiveNOW.from.FOX.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-15 19:00 - FIFA World Cup - England vs Argentina (LiveNOW from FOX US)
@@ -149,6 +149,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Calgary&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=CA%20CTV%20Edmonton&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CTV.Ottawa.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-15 19:00 - FIFA World Cup - England vs Argentina (CTV Ottawa HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CTV%20Ottawa%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CTV.Kitchener.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-15 19:00 - FIFA World Cup - England vs Argentina (CTV Kitchener CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CTV%20Kitchener%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CTV.Calgary.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-15 19:00 - FIFA World Cup - England vs Argentina (CTV Calgary CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CTV%20Calgary%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CTV.Toronto.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-15 19:00 - FIFA World Cup - England vs Argentina (CTV Toronto CA)
@@ -195,6 +197,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20Yorkshire%20and%20
 https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20East%20Midlands%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="BBC.One.North.East.and.Cumbria.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-15 19:00 - FIFA World Cup - England vs Argentina (BBC One North East and Cumbria UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20North%20East%20and%20Cumbria%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="BBC.One.West.Midlands.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-15 19:00 - FIFA World Cup - England vs Argentina (BBC One West Midlands UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20West%20Midlands%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="BBC.One.Wales.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-15 19:00 - FIFA World Cup - England vs Argentina (BBC One Wales HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20Wales%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="BBC.One.Wales.FHD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-15 19:00 - FIFA World Cup - England vs Argentina (BBC One Wales FHD UK)
@@ -291,6 +295,10 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20FHD%20MX&code=&use
 https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20Noticias%20HD%20MX&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TELEVEN.(SDT).VE" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-15 19:00 - FIFA World Cup - England vs Argentina (TELEVEN (SDT) VE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TELEVEN%20(SDT)%20VE&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Televen.VE" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-15 19:00 - FIFA World Cup - England vs Argentina (Televen VE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Televen%20VE&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="SBS.Viceland.AU" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-15 19:00 - FIFA World Cup - England vs Argentina (SBS Viceland AU)
+https://cdnlivetv.tv/api/v1/channels/player/?name=SBS%20Viceland%20AU&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="SBS.VICELAND.MELBOURNE.HD.AU" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-15 19:00 - FIFA World Cup - England vs Argentina (SBS VICELAND MELBOURNE HD AU)
 https://cdnlivetv.tv/api/v1/channels/player/?name=SBS%20VICELAND%20MELBOURNE%20HD%20AU&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="BBC.One.[English]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-15 19:00 - FIFA World Cup - England vs Argentina (BBC One [English])
@@ -309,6 +317,18 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=NOS%20NPO%201%20%5BDutch%5D&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20TV%201%20%5BPortuguese%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Rai.1.[Italian]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-15 19:00 - FIFA World Cup - England vs Argentina (Rai 1 [Italian])
 https://cdnlivetv.tv/api/v1/channels/player/?name=Rai%201%20%5BItalian%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Rai.1.IT" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-15 19:00 - FIFA World Cup - England vs Argentina (Rai 1 IT)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Rai%201%20IT&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Rai.1.HD.IT" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-15 19:00 - FIFA World Cup - England vs Argentina (Rai 1 HD IT)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Rai%201%20HD%20IT&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="SuperSport.Grandstand" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-15 19:00 - FIFA World Cup - England vs Argentina (SuperSport Grandstand)
+https://cdnlivetv.tv/api/v1/channels/player/?name=SuperSport%20Grandstand&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="SuperSport.PSL" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-15 19:00 - FIFA World Cup - England vs Argentina (SuperSport PSL)
+https://cdnlivetv.tv/api/v1/channels/player/?name=SuperSport%20PSL&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Telemundo" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-15 19:00 - FIFA World Cup - England vs Argentina (Telemundo)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Telemundo.ZA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-15 19:00 - FIFA World Cup - England vs Argentina (Telemundo ZA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20ZA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Telemundo.47.New.York.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-15 19:00 - FIFA World Cup - England vs Argentina (Telemundo 47 New York FHD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%2047%20New%20York%20FHD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Telemundo.Boston.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-15 19:00 - FIFA World Cup - England vs Argentina (Telemundo Boston FHD)
@@ -355,32 +375,12 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20Salt%20Lake%20City
 https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20San%20Diego%20FHD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Telemundo.San.Francisco.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-15 19:00 - FIFA World Cup - England vs Argentina (Telemundo San Francisco FHD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20San%20Francisco%20FHD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Telemundo.Tampa.FL" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-15 19:00 - FIFA World Cup - England vs Argentina (Telemundo Tampa FL)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20Tampa%20FL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Telemundo.Washington.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-15 19:00 - FIFA World Cup - England vs Argentina (Telemundo Washington FHD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20Washington%20FHD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Telemundo.West.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-15 19:00 - FIFA World Cup - England vs Argentina (Telemundo West FHD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20West%20FHD&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="CTV.Kitchener.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-15 19:00 - FIFA World Cup - England vs Argentina (CTV Kitchener CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=CTV%20Kitchener%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="BBC.One.West.Midlands.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-15 19:00 - FIFA World Cup - England vs Argentina (BBC One West Midlands UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20One%20West%20Midlands%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Televen.VE" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-15 19:00 - FIFA World Cup - England vs Argentina (Televen VE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Televen%20VE&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="SBS.Viceland.AU" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-15 19:00 - FIFA World Cup - England vs Argentina (SBS Viceland AU)
-https://cdnlivetv.tv/api/v1/channels/player/?name=SBS%20Viceland%20AU&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Rai.1.IT" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-15 19:00 - FIFA World Cup - England vs Argentina (Rai 1 IT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Rai%201%20IT&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Rai.1.HD.IT" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-15 19:00 - FIFA World Cup - England vs Argentina (Rai 1 HD IT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Rai%201%20HD%20IT&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="SuperSport.Grandstand" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-15 19:00 - FIFA World Cup - England vs Argentina (SuperSport Grandstand)
-https://cdnlivetv.tv/api/v1/channels/player/?name=SuperSport%20Grandstand&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="SuperSport.PSL" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-15 19:00 - FIFA World Cup - England vs Argentina (SuperSport PSL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=SuperSport%20PSL&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Telemundo" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-15 19:00 - FIFA World Cup - England vs Argentina (Telemundo)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Telemundo.ZA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-15 19:00 - FIFA World Cup - England vs Argentina (Telemundo ZA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20ZA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Telemundo.Tampa.FL" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-15 19:00 - FIFA World Cup - England vs Argentina (Telemundo Tampa FL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Telemundo%20Tampa%20FL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.Clubes.HD.BR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-16 23:00 - Brazilian Serie B - CRB vs Náutico (Premiere Clubes HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.2.HD.BR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-16 23:00 - Brazilian Serie B - CRB vs Náutico (Premiere 2 HD BR)
@@ -9157,12 +9157,12 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=AU%20(STAN%2032)%20%7C%20Practice%201%3A%20Grand%20Prix%20of%20Nashville%20%20Indycar%202026%20(2026-07-19%2000%3A00%3A34)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="AU.(STAN.40).|.Qualifying:.Grand.Prix.of.Nashville..Indycar.2026.(2026-07-19.05:00:44)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-07-25 14:00 - Formula 1 -  vs  (AU (STAN 40) | Qualifying: Grand Prix of Nashville  Indycar 2026 (2026-07-19 05:00:44))
 https://cdnlivetv.tv/api/v1/channels/player/?name=AU%20(STAN%2040)%20%7C%20Qualifying%3A%20Grand%20Prix%20of%20Nashville%20%20Indycar%202026%20(2026-07-19%2005%3A00%3A44)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NASCAR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-07-26 09:00 - NASCAR Cup Series -  vs  (NASCAR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NASCAR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="USA.Network.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-07-26 09:00 - NASCAR Cup Series -  vs  (USA Network US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20Network%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-07-26 09:00 - NASCAR Cup Series -  vs  (TNT US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="NASCAR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-07-26 09:00 - NASCAR Cup Series -  vs  (NASCAR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=NASCAR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-07-26 13:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-07-26 13:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -9191,12 +9191,12 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.01:.Main.Event.[LIVE]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-08 15:00 - MotoGP -  vs  (MotoGP 01: Main Event [LIVE])
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%2001%3A%20Main%20Event%20%5BLIVE%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NASCAR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-09 10:30 - NASCAR Cup Series -  vs  (NASCAR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NASCAR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="USA.Network.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-09 10:30 - NASCAR Cup Series -  vs  (USA Network US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20Network%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-09 10:30 - NASCAR Cup Series -  vs  (TNT US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="NASCAR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-09 10:30 - NASCAR Cup Series -  vs  (NASCAR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=NASCAR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Commentary.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-09 12:00 - MotoGP -  vs  (MotoGP Commentary (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Commentary%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB4.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-09 12:00 - MotoGP -  vs  (MotoGP OB4 (D))
@@ -9261,12 +9261,12 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=AU%20(STAN%2032)%20%7C%20Practice%201%3A%20Grand%20Prix%20of%20Nashville%20%20Indycar%202026%20(2026-07-19%2000%3A00%3A34)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="AU.(STAN.40).|.Qualifying:.Grand.Prix.of.Nashville..Indycar.2026.(2026-07-19.05:00:44)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-22 14:00 - Formula 1 -  vs  (AU (STAN 40) | Qualifying: Grand Prix of Nashville  Indycar 2026 (2026-07-19 05:00:44))
 https://cdnlivetv.tv/api/v1/channels/player/?name=AU%20(STAN%2040)%20%7C%20Qualifying%3A%20Grand%20Prix%20of%20Nashville%20%20Indycar%202026%20(2026-07-19%2005%3A00%3A44)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NASCAR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-23 10:00 - NASCAR Cup Series -  vs  (NASCAR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NASCAR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="USA.Network.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-23 10:00 - NASCAR Cup Series -  vs  (USA Network US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20Network%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-23 10:00 - NASCAR Cup Series -  vs  (TNT US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="NASCAR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-23 10:00 - NASCAR Cup Series -  vs  (NASCAR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=NASCAR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-23 13:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-23 13:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -9295,12 +9295,12 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.01:.Main.Event.[LIVE]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-29 13:00 - MotoGP -  vs  (MotoGP 01: Main Event [LIVE])
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%2001%3A%20Main%20Event%20%5BLIVE%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NASCAR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-29 14:30 - NASCAR Cup Series -  vs  (NASCAR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NASCAR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="USA.Network.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-29 14:30 - NASCAR Cup Series -  vs  (USA Network US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20Network%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-29 14:30 - NASCAR Cup Series -  vs  (TNT US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="NASCAR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-29 14:30 - NASCAR Cup Series -  vs  (NASCAR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=NASCAR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Commentary.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-30 12:00 - MotoGP -  vs  (MotoGP Commentary (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Commentary%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB4.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-30 12:00 - MotoGP -  vs  (MotoGP OB4 (D))
@@ -9365,12 +9365,12 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=AU%20(STAN%2032)%20%7C%20Practice%201%3A%20Grand%20Prix%20of%20Nashville%20%20Indycar%202026%20(2026-07-19%2000%3A00%3A34)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="AU.(STAN.40).|.Qualifying:.Grand.Prix.of.Nashville..Indycar.2026.(2026-07-19.05:00:44)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-05 14:00 - Formula 1 -  vs  (AU (STAN 40) | Qualifying: Grand Prix of Nashville  Indycar 2026 (2026-07-19 05:00:44))
 https://cdnlivetv.tv/api/v1/channels/player/?name=AU%20(STAN%2040)%20%7C%20Qualifying%3A%20Grand%20Prix%20of%20Nashville%20%20Indycar%202026%20(2026-07-19%2005%3A00%3A44)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NASCAR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-06 12:00 - NASCAR Cup Series -  vs  (NASCAR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NASCAR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="USA.Network.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-06 12:00 - NASCAR Cup Series -  vs  (USA Network US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20Network%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-06 12:00 - NASCAR Cup Series -  vs  (TNT US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="NASCAR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-06 12:00 - NASCAR Cup Series -  vs  (NASCAR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=NASCAR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-06 13:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-06 13:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -9447,12 +9447,12 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=AU%20(STAN%2032)%20%7C%20Practice%201%3A%20Grand%20Prix%20of%20Nashville%20%20Indycar%202026%20(2026-07-19%2000%3A00%3A34)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="AU.(STAN.40).|.Qualifying:.Grand.Prix.of.Nashville..Indycar.2026.(2026-07-19.05:00:44)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-12 14:00 - Formula 1 -  vs  (AU (STAN 40) | Qualifying: Grand Prix of Nashville  Indycar 2026 (2026-07-19 05:00:44))
 https://cdnlivetv.tv/api/v1/channels/player/?name=AU%20(STAN%2040)%20%7C%20Qualifying%3A%20Grand%20Prix%20of%20Nashville%20%20Indycar%202026%20(2026-07-19%2005%3A00%3A44)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NASCAR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-13 10:00 - NASCAR Cup Series -  vs  (NASCAR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NASCAR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="USA.Network.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-13 10:00 - NASCAR Cup Series -  vs  (USA Network US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20Network%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-13 10:00 - NASCAR Cup Series -  vs  (TNT US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="NASCAR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-13 10:00 - NASCAR Cup Series -  vs  (NASCAR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=NASCAR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Commentary.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-13 12:00 - MotoGP -  vs  (MotoGP Commentary (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Commentary%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB4.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-13 12:00 - MotoGP -  vs  (MotoGP OB4 (D))
@@ -9497,12 +9497,12 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.01:.Main.Event.[LIVE]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-19 13:00 - MotoGP -  vs  (MotoGP 01: Main Event [LIVE])
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%2001%3A%20Main%20Event%20%5BLIVE%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NASCAR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-19 14:30 - NASCAR Cup Series -  vs  (NASCAR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NASCAR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="USA.Network.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-19 14:30 - NASCAR Cup Series -  vs  (USA Network US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20Network%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-19 14:30 - NASCAR Cup Series -  vs  (TNT US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="NASCAR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-19 14:30 - NASCAR Cup Series -  vs  (NASCAR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=NASCAR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Commentary.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-20 12:00 - MotoGP -  vs  (MotoGP Commentary (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Commentary%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB4.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-20 12:00 - MotoGP -  vs  (MotoGP OB4 (D))
@@ -9579,12 +9579,12 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=AU%20(STAN%2032)%20%7C%20Practice%201%3A%20Grand%20Prix%20of%20Nashville%20%20Indycar%202026%20(2026-07-19%2000%3A00%3A34)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="AU.(STAN.40).|.Qualifying:.Grand.Prix.of.Nashville..Indycar.2026.(2026-07-19.05:00:44)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-26 11:00 - Formula 1 -  vs  (AU (STAN 40) | Qualifying: Grand Prix of Nashville  Indycar 2026 (2026-07-19 05:00:44))
 https://cdnlivetv.tv/api/v1/channels/player/?name=AU%20(STAN%2040)%20%7C%20Qualifying%3A%20Grand%20Prix%20of%20Nashville%20%20Indycar%202026%20(2026-07-19%2005%3A00%3A44)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NASCAR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-27 10:00 - NASCAR Cup Series -  vs  (NASCAR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NASCAR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="USA.Network.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-27 10:00 - NASCAR Cup Series -  vs  (USA Network US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20Network%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-27 10:00 - NASCAR Cup Series -  vs  (TNT US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="NASCAR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-27 10:00 - NASCAR Cup Series -  vs  (NASCAR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=NASCAR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Commentary.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-03 06:00 - MotoGP -  vs  (MotoGP Commentary (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Commentary%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB4.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-03 06:00 - MotoGP -  vs  (MotoGP OB4 (D))
@@ -9617,12 +9617,12 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.01:.Main.Event.[LIVE]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-04 05:00 - MotoGP -  vs  (MotoGP 01: Main Event [LIVE])
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%2001%3A%20Main%20Event%20%5BLIVE%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NASCAR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-04 10:00 - NASCAR Cup Series -  vs  (NASCAR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NASCAR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="USA.Network.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-04 10:00 - NASCAR Cup Series -  vs  (USA Network US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20Network%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-04 10:00 - NASCAR Cup Series -  vs  (TNT US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="NASCAR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-04 10:00 - NASCAR Cup Series -  vs  (NASCAR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=NASCAR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-09 08:30 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-09 08:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -9703,12 +9703,12 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.01:.Main.Event.[LIVE]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-11 07:00 - MotoGP -  vs  (MotoGP 01: Main Event [LIVE])
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%2001%3A%20Main%20Event%20%5BLIVE%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NASCAR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-11 10:00 - NASCAR Cup Series -  vs  (NASCAR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NASCAR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="USA.Network.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-11 10:00 - NASCAR Cup Series -  vs  (USA Network US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20Network%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-11 10:00 - NASCAR Cup Series -  vs  (TNT US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="NASCAR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-11 10:00 - NASCAR Cup Series -  vs  (NASCAR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=NASCAR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-11 12:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-11 12:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -9721,12 +9721,12 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=AU%20(STAN%2032)%20%7C%20Practice%201%3A%20Grand%20Prix%20of%20Nashville%20%20Indycar%202026%20(2026-07-19%2000%3A00%3A34)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="AU.(STAN.40).|.Qualifying:.Grand.Prix.of.Nashville..Indycar.2026.(2026-07-19.05:00:44)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-11 12:00 - Formula 1 -  vs  (AU (STAN 40) | Qualifying: Grand Prix of Nashville  Indycar 2026 (2026-07-19 05:00:44))
 https://cdnlivetv.tv/api/v1/channels/player/?name=AU%20(STAN%2040)%20%7C%20Qualifying%3A%20Grand%20Prix%20of%20Nashville%20%20Indycar%202026%20(2026-07-19%2005%3A00%3A44)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NASCAR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-18 10:00 - NASCAR Cup Series -  vs  (NASCAR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NASCAR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="USA.Network.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-18 10:00 - NASCAR Cup Series -  vs  (USA Network US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20Network%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-18 10:00 - NASCAR Cup Series -  vs  (TNT US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="NASCAR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-18 10:00 - NASCAR Cup Series -  vs  (NASCAR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=NASCAR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-23 17:30 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-23 17:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -9807,12 +9807,12 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.01:.Main.Event.[LIVE]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-25 03:00 - MotoGP -  vs  (MotoGP 01: Main Event [LIVE])
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%2001%3A%20Main%20Event%20%5BLIVE%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NASCAR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-25 09:00 - NASCAR Cup Series -  vs  (NASCAR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NASCAR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="USA.Network.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-25 09:00 - NASCAR Cup Series -  vs  (USA Network US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20Network%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-25 09:00 - NASCAR Cup Series -  vs  (TNT US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="NASCAR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-25 09:00 - NASCAR Cup Series -  vs  (NASCAR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=NASCAR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-25 20:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-25 20:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -9905,12 +9905,12 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.01:.Main.Event.[LIVE]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 08:00 - MotoGP -  vs  (MotoGP 01: Main Event [LIVE])
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%2001%3A%20Main%20Event%20%5BLIVE%5D&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NASCAR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 09:00 - NASCAR Cup Series -  vs  (NASCAR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NASCAR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="USA.Network.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 09:00 - NASCAR Cup Series -  vs  (USA Network US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20Network%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 09:00 - NASCAR Cup Series -  vs  (TNT US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="NASCAR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 09:00 - NASCAR Cup Series -  vs  (NASCAR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=NASCAR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 20:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 20:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -9987,12 +9987,12 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=AU%20(STAN%2032)%20%7C%20Practice%201%3A%20Grand%20Prix%20of%20Nashville%20%20Indycar%202026%20(2026-07-19%2000%3A00%3A34)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="AU.(STAN.40).|.Qualifying:.Grand.Prix.of.Nashville..Indycar.2026.(2026-07-19.05:00:44)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 18:00 - Formula 1 -  vs  (AU (STAN 40) | Qualifying: Grand Prix of Nashville  Indycar 2026 (2026-07-19 05:00:44))
 https://cdnlivetv.tv/api/v1/channels/player/?name=AU%20(STAN%2040)%20%7C%20Qualifying%3A%20Grand%20Prix%20of%20Nashville%20%20Indycar%202026%20(2026-07-19%2005%3A00%3A44)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NASCAR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 10:00 - NASCAR Cup Series -  vs  (NASCAR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NASCAR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="USA.Network.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 10:00 - NASCAR Cup Series -  vs  (USA Network US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20Network%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 10:00 - NASCAR Cup Series -  vs  (TNT US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="NASCAR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 10:00 - NASCAR Cup Series -  vs  (NASCAR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=NASCAR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 17:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 17:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -10771,18 +10771,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%201%20(Solo%20Eventos)&cod
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%202&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.3.(Solo.Eventos)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-10-10 00:00 - Professional Fighters League -  vs  (UFC 3 (Solo Eventos))
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%203%20(Solo%20Eventos)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Eurosport.1.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-14 11:00 - UCI World Tour -  vs  (Eurosport 1 HD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20HD&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Eurosport.1.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-14 11:00 - UCI World Tour -  vs  (Eurosport 1 FHD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20FHD&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Eurosport.2.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-14 11:00 - UCI World Tour -  vs  (Eurosport 2 HD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20HD&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Eurosport.2.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-14 11:00 - UCI World Tour -  vs  (Eurosport 2 FHD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20FHD&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TNT.Sports.1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-14 11:00 - UCI World Tour -  vs  (TNT Sports 1 HD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20HD%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TNT.Sports.1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-14 11:00 - UCI World Tour -  vs  (TNT Sports 1 UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.1.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-15 00:00 - UCI World Tour -  vs  (Eurosport 1 HD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20HD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.1.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-15 00:00 - UCI World Tour -  vs  (Eurosport 1 FHD)
