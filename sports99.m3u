@@ -3,22 +3,6 @@
 https://cdnlivetv.tv/api/v1/channels/player/?name=RSI%20La2%20FHD%20IT&code=it&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Rai.1.HD.IT" group-title="5 - Eventi Live Sports99" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/italy/rai-1-hd-it.webp",[Soccer] 2026-07-14 19:00 - FIFA World Cup - France vs Spain (Rai 1 HD IT)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Rai%201%20HD%20IT&code=it&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Premiere.Clubes.HD.BR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-13 22:00 - Brazilian Serie B - América Mineiro vs Londrina (Premiere Clubes HD BR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Premiere.2.HD.BR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-13 22:00 - Brazilian Serie B - América Mineiro vs Londrina (Premiere 2 HD BR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Premiere.3.HD.BR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-13 22:00 - Brazilian Serie B - América Mineiro vs Londrina (Premiere 3 HD BR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%203%20HD%20BR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Premiere.4.HD.BR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-13 22:00 - Brazilian Serie B - América Mineiro vs Londrina (Premiere 4 HD BR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%204%20HD%20BR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Premiere.5.HD.BR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-13 22:00 - Brazilian Serie B - América Mineiro vs Londrina (Premiere 5 HD BR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%205%20HD%20BR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Premiere.6.HD.BR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-13 22:00 - Brazilian Serie B - América Mineiro vs Londrina (Premiere 6 HD BR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%206%20HD%20BR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Premiere.7.HD.BR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-13 22:00 - Brazilian Serie B - América Mineiro vs Londrina (Premiere 7 HD BR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%207%20HD%20BR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Premiere.1.HD.BR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-13 22:00 - Brazilian Serie B - América Mineiro vs Londrina (Premiere 1 HD BR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%201%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.Clubes.HD.BR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-13 23:30 - Brazilian Serie B - Ceará vs Athletic Club-MG (Premiere Clubes HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.2.HD.BR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-13 23:30 - Brazilian Serie B - Ceará vs Athletic Club-MG (Premiere 2 HD BR)
@@ -153,6 +137,10 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20SPORTS%20MAX%201%20FHD%
 https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20SPORTS%20MAX%203%20%5BEnglish%5D&code=sa&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sport.1.HD.IL" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/israel/sport-1-hd-il.webp",[Soccer] 2026-07-14 19:00 - FIFA World Cup - France vs Spain (Sport 1 HD IL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%201%20HD%20IL&code=il&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Magenta.Sport.FHD.DE" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/magenta-sport-fhd-de.webp",[Soccer] 2026-07-14 19:00 - FIFA World Cup - France vs Spain (Magenta Sport FHD DE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Magenta%20Sport%20FHD%20DE&code=de&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TV4.HD.SE" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/sweden/tv4-hd-se.webp",[Soccer] 2026-07-14 19:00 - FIFA World Cup - France vs Spain (TV4 HD SE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TV4%20HD%20SE&code=se&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="FOX.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-15 19:00 - FIFA World Cup - England vs Argentina (FOX US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=FOX%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="LiveNOW.from.FOX.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-15 19:00 - FIFA World Cup - England vs Argentina (LiveNOW from FOX US)
@@ -7527,12 +7515,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Action%20FHD%20
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Main%20Event%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Spectrum.Sportsnet.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/spectrum-sportsnet-hd-us.webp",[Basketball] 2026-07-13 23:00 - WNBA - Atlanta Dream vs Los Angeles Sparks (Spectrum Sportsnet HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Spectrum%20Sportsnet%20HD%20US&code=us&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sports.Action.FHD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-action-fhd-uk.webp",[Basketball] 2026-07-14 01:00 - WNBA - Minnesota Lynx vs Phoenix Mercury (Sky Sports Action FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Action%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.FHD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-main-event-fhd-uk.webp",[Basketball] 2026-07-14 01:00 - WNBA - Minnesota Lynx vs Phoenix Mercury (Sky Sports Main Event FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Main%20Event%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sports+.FHD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-fhd-uk.webp",[Basketball] 2026-07-14 01:00 - WNBA - Minnesota Lynx vs Phoenix Mercury (Sky Sports+ FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%2B%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NBC.Sports.Boston.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/nbc-sports-boston-hd-us.webp",[Basketball] 2026-07-14 15:00 - WNBA - Connecticut Sun vs Portland Fire (NBC Sports Boston HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NBC%20Sports%20Boston%20HD%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.|.Niagara.River.Lions.@.Brampton.Honey.Badgers.|.CEBL.Regular.Season.|.Tue.Jul.14.2026.12:30PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-07-14 16:30 - CEBL - Brampton Honey Badgers vs Niagara River Lions (CEBL | Niagara River Lions @ Brampton Honey Badgers | CEBL Regular Season | Tue Jul 14 2026 12:30PM ET)
@@ -10223,9 +10205,9 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%203%20(Solo%20Eventos)&cod
 https://cdnlivetv.tv/api/v1/channels/player/?name=ECHOSTAR%20WWE%20HD%20KRD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NEWROZ.WWE.HD.KRD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[WWE] 2026-07-14 00:00 - WWE -  vs  (NEWROZ WWE HD KRD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NEWROZ%20WWE%20HD%20KRD&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="ECHOSTAR.WWE.HD.KRD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[WWE] 2026-07-14 00:00 - WWE -  vs  (ECHOSTAR WWE HD KRD)
+#EXTINF:-1 tvg-id="ECHOSTAR.WWE.HD.KRD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[WWE] 2026-07-15 00:00 - WWE -  vs  (ECHOSTAR WWE HD KRD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ECHOSTAR%20WWE%20HD%20KRD&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="NEWROZ.WWE.HD.KRD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[WWE] 2026-07-14 00:00 - WWE -  vs  (NEWROZ WWE HD KRD)
+#EXTINF:-1 tvg-id="NEWROZ.WWE.HD.KRD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[WWE] 2026-07-15 00:00 - WWE -  vs  (NEWROZ WWE HD KRD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NEWROZ%20WWE%20HD%20KRD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ECHOSTAR.WWE.HD.KRD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[WWE] 2026-07-17 00:00 - WWE -  vs  (ECHOSTAR WWE HD KRD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ECHOSTAR%20WWE%20HD%20KRD&code=&user=cdnlivetv&plan=free
