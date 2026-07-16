@@ -2,6 +2,16 @@
     "Wednesday 15th July 2026 - Schedule Time UK GMT": {
         "PPV Events": [
             {
+                "time": "21:00",
+                "event": "High Limit Racing : The Interstate Batteries Kid Zone returns to Eldora Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "109"
+                    }
+                ]
+            },
+            {
                 "time": "21:15",
                 "event": "GAF Roofing Modified Masters Stafford",
                 "channels": [
