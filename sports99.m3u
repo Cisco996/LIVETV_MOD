@@ -175,6 +175,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20SPORTS%20MAX%202%20FHD%
 https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20SPORTS%20MAX%203%20%5BEnglish%5D&code=sa&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sport.1.HD.IL" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/israel/sport-1-hd-il.webp",[Soccer] 2026-07-18 21:00 - FIFA World Cup - France vs England (Sport 1 HD IL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%201%20HD%20IL&code=il&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Magenta.Sport.FHD.DE" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/magenta-sport-fhd-de.webp",[Soccer] 2026-07-18 21:00 - FIFA World Cup - France vs England (Magenta Sport FHD DE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Magenta%20Sport%20FHD%20DE&code=de&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="FOX.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-19 19:00 - FIFA World Cup - Spain vs Argentina (FOX US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=FOX%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="LiveNOW.from.FOX.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-19 19:00 - FIFA World Cup - Spain vs Argentina (LiveNOW from FOX US)
@@ -3663,14 +3665,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%207%20HD%20BR&code=&u
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%201%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.2.HD.BR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-14 20:00 - Brazilian Serie B - Sport Recife vs Goiás (Premiere 2 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TSN.1.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-07-18 01:00 - CFL - Edmonton Elks vs BC Lions (TSN 1 HD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TSN.3.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-07-18 01:00 - CFL - Edmonton Elks vs BC Lions (TSN 3 HD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TSN.5.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-07-18 01:00 - CFL - Edmonton Elks vs BC Lions (TSN 5 HD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20HD%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TSN.1.[English]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-07-18 01:00 - CFL - Edmonton Elks vs BC Lions (TSN 1 [English])
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20%5BEnglish%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.1.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-07-18 20:00 - CFL - Calgary Stampeders vs Montreal Alouettes (TSN 1 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.3.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-07-18 20:00 - CFL - Calgary Stampeders vs Montreal Alouettes (TSN 3 HD CA)
@@ -4135,34 +4129,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=c
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.1.[English]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-24 19:00 - CFL - Hamilton Tiger-Cats vs Ottawa Redblacks (TSN 1 [English])
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20%5BEnglish%5D&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.11:.Detroit.Tigers.vs.Los.Angeles.Angels.|.Fri.17th.Jul.9:38.PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-18 01:38 - MLB - Los Angeles Angels vs Detroit Tigers (MLB 11: Detroit Tigers vs Los Angeles Angels | Fri 17th Jul 9:38 PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%2011%3A%20Detroit%20Tigers%20vs%20Los%20Angeles%20Angels%20%7C%20Fri%2017th%20Jul%209%3A38%20PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.|.Los.Angeles.Angels" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-18 01:38 - MLB - Los Angeles Angels vs Detroit Tigers (MLB | Los Angeles Angels)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Los%20Angeles%20Angels&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.|.Detroit.Tigers" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-18 01:38 - MLB - Los Angeles Angels vs Detroit Tigers (MLB | Detroit Tigers)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Detroit%20Tigers&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.12:.Washington.Nationals.vs.Athletics.|.Fri.17th.Jul.9:40.PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-18 01:40 - MLB - Athletics vs Washington Nationals (MLB 12: Washington Nationals vs Athletics | Fri 17th Jul 9:40 PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%2012%3A%20Washington%20Nationals%20vs%20Athletics%20%7C%20Fri%2017th%20Jul%209%3A40%20PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.|.Oakland.Athletics" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-18 01:40 - MLB - Athletics vs Washington Nationals (MLB | Oakland Athletics)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Oakland%20Athletics&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="NBC.Sports.California.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/nbc-sports-california-hd-us.webp",[MLB] 2026-07-18 01:40 - MLB - Athletics vs Washington Nationals (NBC Sports California HD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=NBC%20Sports%20California%20HD%20US&code=us&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.13:.St..Louis.Cardinals.vs.Arizona.Diamondbacks.|.Fri.17th.Jul.9:40.PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-18 01:40 - MLB - Arizona Diamondbacks vs St. Louis Cardinals (MLB 13: St. Louis Cardinals vs Arizona Diamondbacks | Fri 17th Jul 9:40 PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%2013%3A%20St.%20Louis%20Cardinals%20vs%20Arizona%20Diamondbacks%20%7C%20Fri%2017th%20Jul%209%3A40%20PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.|.Arizona.Diamondbacks" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-18 01:40 - MLB - Arizona Diamondbacks vs St. Louis Cardinals (MLB | Arizona Diamondbacks)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Arizona%20Diamondbacks&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.|.St..Louis.Cardinals" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-18 01:40 - MLB - Arizona Diamondbacks vs St. Louis Cardinals (MLB | St. Louis Cardinals)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20St.%20Louis%20Cardinals&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.Network.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-18 01:40 - MLB - Arizona Diamondbacks vs St. Louis Cardinals (MLB Network HD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20Network%20HD%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.Network.Strike.Zone.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-18 01:40 - MLB - Arizona Diamondbacks vs St. Louis Cardinals (MLB Network Strike Zone HD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20Network%20Strike%20Zone%20HD%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.Network" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-18 01:40 - MLB - Arizona Diamondbacks vs St. Louis Cardinals (MLB Network)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20Network&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="USA.|.MLB.Network.Strike.Zoneⓧ" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/usa-mlb-network-strike-zone.webp",[MLB] 2026-07-18 01:40 - MLB - Arizona Diamondbacks vs St. Louis Cardinals (USA | MLB Network Strike Zoneⓧ)
-https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20%7C%20MLB%20Network%20Strike%20Zone%E2%93%A7&code=us&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.Network.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-18 01:40 - MLB - Arizona Diamondbacks vs St. Louis Cardinals (MLB Network CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20Network%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.14:.San.Francisco.Giants.vs.Seattle.Mariners.|.Fri.17th.Jul.10:10.PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-18 02:10 - MLB - Seattle Mariners vs San Francisco Giants (MLB 14: San Francisco Giants vs Seattle Mariners | Fri 17th Jul 10:10 PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%2014%3A%20San%20Francisco%20Giants%20vs%20Seattle%20Mariners%20%7C%20Fri%2017th%20Jul%2010%3A10%20PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Seattle.Mariners" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-18 02:10 - MLB - Seattle Mariners vs San Francisco Giants (MLB | Seattle Mariners)
@@ -4581,8 +4547,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Arizona%20Diamondb
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Oakland%20Athletics&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NBC.Sports.California.Plus.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-21 01:40 - MLB - Arizona Diamondbacks vs Athletics (NBC Sports California Plus US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NBC%20Sports%20California%20Plus%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="NBC.Sports.California.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-21 01:40 - MLB - Arizona Diamondbacks vs Athletics (NBC Sports California HD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=NBC%20Sports%20California%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NBC.Sports.California.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-21 01:40 - MLB - Arizona Diamondbacks vs Athletics (NBC Sports California HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NBC%20Sports%20California%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Los.Angeles.Angels" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-21 02:10 - MLB - Los Angeles Angels vs St. Louis Cardinals (MLB | Los Angeles Angels)
@@ -5075,8 +5039,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Oakland%20Athletic
 https://cdnlivetv.tv/api/v1/channels/player/?name=NBC%20Sports%20California%20Plus%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NBC.Sports.California.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-25 00:10 - MLB - Minnesota Twins vs Athletics (NBC Sports California HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NBC%20Sports%20California%20HD%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="NBC.Sports.California.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-25 00:10 - MLB - Minnesota Twins vs Athletics (NBC Sports California HD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=NBC%20Sports%20California%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.St..Louis.Cardinals" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-25 00:15 - MLB - St. Louis Cardinals vs Cincinnati Reds (MLB | St. Louis Cardinals)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20St.%20Louis%20Cardinals&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Cincinnati.Reds" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-25 00:15 - MLB - St. Louis Cardinals vs Cincinnati Reds (MLB | Cincinnati Reds)
@@ -5145,8 +5107,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Minnesota%20Twins&
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Oakland%20Athletics&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NBC.Sports.California.Plus.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-25 23:10 - MLB - Minnesota Twins vs Athletics (NBC Sports California Plus US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NBC%20Sports%20California%20Plus%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="NBC.Sports.California.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-25 23:10 - MLB - Minnesota Twins vs Athletics (NBC Sports California HD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=NBC%20Sports%20California%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NBC.Sports.California.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-25 23:10 - MLB - Minnesota Twins vs Athletics (NBC Sports California HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NBC%20Sports%20California%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Texas.Rangers" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-25 23:15 - MLB - Texas Rangers vs Seattle Mariners (MLB | Texas Rangers)
@@ -7755,12 +7715,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Philadelphia%20Phi
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20St.%20Louis%20Cardinals&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Chicago.White.Sox" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-12 23:15 - MLB - St. Louis Cardinals vs Chicago White Sox (MLB | Chicago White Sox)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Chicago%20White%20Sox&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="CEBL.03.|.Winnipeg.Sea.Bears.@.Calgary.Surge.|.CEBL.Regular.Season.|.Fri.Jul.17.2026.9:30PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-07-18 01:30 - CEBL - Calgary Surge vs Winnipeg Sea Bears (CEBL 03 | Winnipeg Sea Bears @ Calgary Surge | CEBL Regular Season | Fri Jul 17 2026 9:30PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2003%20%7C%20Winnipeg%20Sea%20Bears%20%40%20Calgary%20Surge%20%7C%20CEBL%20Regular%20Season%20%7C%20Fri%20Jul%2017%202026%209%3A30PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="CEBL.04.|.Winnipeg.Sea.Bears.@.Calgary.Surge.|.CEBL.Regular.Season.|.Fri.Jul.17.2026.9:30PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-07-18 01:30 - CEBL - Calgary Surge vs Winnipeg Sea Bears (CEBL 04 | Winnipeg Sea Bears @ Calgary Surge | CEBL Regular Season | Fri Jul 17 2026 9:30PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2004%20%7C%20Winnipeg%20Sea%20Bears%20%40%20Calgary%20Surge%20%7C%20CEBL%20Regular%20Season%20%7C%20Fri%20Jul%2017%202026%209%3A30PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="CEBL.|.Winnipeg.Sea.Bears.@.Calgary.Surge.|.CEBL.Regular.Season.|.Fri.Jul.17.2026.9:30PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-07-18 01:30 - CEBL - Calgary Surge vs Winnipeg Sea Bears (CEBL | Winnipeg Sea Bears @ Calgary Surge | CEBL Regular Season | Fri Jul 17 2026 9:30PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%20%7C%20Winnipeg%20Sea%20Bears%20%40%20Calgary%20Surge%20%7C%20CEBL%20Regular%20Season%20%7C%20Fri%20Jul%2017%202026%209%3A30PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.02.|.Montreal.Alliance.@.Vancouver.Bandits.|.CEBL.Regular.Season.|.Fri.Jul.17.2026.10:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-07-18 02:00 - CEBL - Vancouver Bandits vs Montreal Alliance (CEBL 02 | Montreal Alliance @ Vancouver Bandits | CEBL Regular Season | Fri Jul 17 2026 10:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2002%20%7C%20Montreal%20Alliance%20%40%20Vancouver%20Bandits%20%7C%20CEBL%20Regular%20Season%20%7C%20Fri%20Jul%2017%202026%2010%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.04.|.Montreal.Alliance.@.Vancouver.Bandits.|.CEBL.Regular.Season.|.Fri.Jul.17.2026.10:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-07-18 02:00 - CEBL - Vancouver Bandits vs Montreal Alliance (CEBL 04 | Montreal Alliance @ Vancouver Bandits | CEBL Regular Season | Fri Jul 17 2026 10:00PM ET)
@@ -8709,26 +8663,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=ION%20Television%20US&code=&us
 https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ION.Television.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-09-25 02:00 - WNBA - Phoenix Mercury vs Las Vegas Aces (ION Television US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ION%20Television%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Golf.Channel.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-07-18 00:00 - PGA Tour -  vs  (Golf Channel HD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%20Channel%20HD%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sports.Golf.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-07-18 00:00 - PGA Tour -  vs  (Sky Sports Golf HD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20HD%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sports.Golf.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-07-18 00:00 - PGA Tour -  vs  (Sky Sports Golf UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.Golf.HD.DE" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-07-18 00:00 - PGA Tour -  vs  (Sky Sport Golf HD DE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Golf%20HD%20DE&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Golf+.HD.FR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-07-18 00:00 - PGA Tour -  vs  (Golf+ HD FR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%2B%20HD%20FR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Golf.Channel.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-07-18 00:00 - PGA Tour -  vs  (Golf Channel HD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%20Channel%20HD%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sports.Golf.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-07-18 00:00 - PGA Tour -  vs  (Sky Sports Golf HD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20HD%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sports.Golf.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-07-18 00:00 - PGA Tour -  vs  (Sky Sports Golf UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.Golf.HD.DE" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-07-18 00:00 - PGA Tour -  vs  (Sky Sport Golf HD DE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Golf%20HD%20DE&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Golf+.HD.FR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-07-18 00:00 - PGA Tour -  vs  (Golf+ HD FR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%2B%20HD%20FR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Golf.Channel.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-07-19 00:00 - PGA Tour -  vs  (Golf Channel HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%20Channel%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Golf.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-07-19 00:00 - PGA Tour -  vs  (Sky Sports Golf HD UK)
@@ -10655,10 +10589,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Fight%20Pass%2024%2F7%20
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%201%20(Solo%20Eventos)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.2" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-05 17:00 - UFC -  vs  (UFC 2)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%202&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="ECHOSTAR.WWE.HD.KRD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[WWE] 2026-07-18 00:00 - WWE -  vs  (ECHOSTAR WWE HD KRD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=ECHOSTAR%20WWE%20HD%20KRD&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="NEWROZ.WWE.HD.KRD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[WWE] 2026-07-18 00:00 - WWE -  vs  (NEWROZ WWE HD KRD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=NEWROZ%20WWE%20HD%20KRD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ECHOSTAR.WWE.HD.KRD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[WWE] 2026-07-19 00:00 - WWE -  vs  (ECHOSTAR WWE HD KRD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ECHOSTAR%20WWE%20HD%20KRD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NEWROZ.WWE.HD.KRD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[WWE] 2026-07-19 00:00 - WWE -  vs  (NEWROZ WWE HD KRD)
@@ -10711,42 +10641,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=NEWROZ%20WWE%20HD%20KRD&code=&
 https://cdnlivetv.tv/api/v1/channels/player/?name=ECHOSTAR%20WWE%20HD%20KRD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NEWROZ.WWE.HD.KRD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[WWE] 2026-10-25 00:00 - WWE -  vs  (NEWROZ WWE HD KRD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NEWROZ%20WWE%20HD%20KRD&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="UFC.Starzplay" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-18 00:00 - Boxing -  vs  (UFC Starzplay)
-https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Starzplay&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="UFC.24/7.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-18 00:00 - Boxing -  vs  (UFC 24/7 HD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%2024%2F7%20HD%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="UFC.Channel.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-18 00:00 - Boxing -  vs  (UFC Channel US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Channel%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="End.|.UFC.Oklahoma.City.Ceremonial.Weigh-In.|.all.|.PRIME-US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-18 00:00 - Boxing -  vs  (End | UFC Oklahoma City Ceremonial Weigh-In | all | PRIME-US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20Oklahoma%20City%20Ceremonial%20Weigh-In%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="UFC.Fight.Pass.24/7.FHD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-18 00:00 - Boxing -  vs  (UFC Fight Pass 24/7 FHD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Fight%20Pass%2024%2F7%20FHD%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="UFC.1.(Solo.Eventos)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-18 00:00 - Boxing -  vs  (UFC 1 (Solo Eventos))
-https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%201%20(Solo%20Eventos)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="UFC.2" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-18 00:00 - Boxing -  vs  (UFC 2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%202&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="UFC.3.(Solo.Eventos)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-18 00:00 - Boxing -  vs  (UFC 3 (Solo Eventos))
-https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%203%20(Solo%20Eventos)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="End.|.This.Is.UFC:.McGregor.vs..Holloway.|.all.|.PRIME-US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-18 00:00 - Boxing -  vs  (End | This Is UFC: McGregor vs. Holloway | all | PRIME-US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20This%20Is%20UFC%3A%20McGregor%20vs.%20Holloway%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="End.|.UFC.329:.Ceremonial.Weigh-In.|.all.|.PRIME-US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-18 00:00 - Boxing -  vs  (End | UFC 329: Ceremonial Weigh-In | all | PRIME-US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20329%3A%20Ceremonial%20Weigh-In%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="End.|.UFC.Hall.of.Fame.Induction.Ceremony.|.all.|.PRIME-US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-18 00:00 - Boxing -  vs  (End | UFC Hall of Fame Induction Ceremony | all | PRIME-US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20Hall%20of%20Fame%20Induction%20Ceremony%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="End.|.UFC.329:.Press.Conference.|.all.|.PRIME-US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-18 00:00 - Boxing -  vs  (End | UFC 329: Press Conference | all | PRIME-US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20329%3A%20Press%20Conference%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="PPV.06.ⓧ|.UFC.|.Early.Prelims.|.Sat.11th.Jul.10:00PM.UK/5:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-18 00:00 - Boxing -  vs  (PPV 06 ⓧ| UFC | Early Prelims | Sat 11th Jul 10:00PM UK/5:00PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=PPV%2006%20%E2%93%A7%7C%20UFC%20%7C%20Early%20Prelims%20%7C%20Sat%2011th%20Jul%2010%3A00PM%20UK%2F5%3A00PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="PPV.07.ⓧ|.UFC.|.Prelims.|.Sat.11th.Jul.12:00AM.UK/7:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-18 00:00 - Boxing -  vs  (PPV 07 ⓧ| UFC | Prelims | Sat 11th Jul 12:00AM UK/7:00PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=PPV%2007%20%E2%93%A7%7C%20UFC%20%7C%20Prelims%20%7C%20Sat%2011th%20Jul%2012%3A00AM%20UK%2F7%3A00PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="PPV.08.ⓧ|.UFC.|.McGregor.v.Holloway.II.|.Sat.11th.Jul.2:00AM.UK/9:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-18 00:00 - Boxing -  vs  (PPV 08 ⓧ| UFC | McGregor v Holloway II | Sat 11th Jul 2:00AM UK/9:00PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=PPV%2008%20%E2%93%A7%7C%20UFC%20%7C%20McGregor%20v%20Holloway%20II%20%7C%20Sat%2011th%20Jul%202%3A00AM%20UK%2F9%3A00PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="PPV.09.ⓧ|.UFC.|.McGregor.v.Holloway.II.|.Sat.11th.Jul.2:00AM.UK/9:00PM.ET.(Backup)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-18 00:00 - Boxing -  vs  (PPV 09 ⓧ| UFC | McGregor v Holloway II | Sat 11th Jul 2:00AM UK/9:00PM ET (Backup))
-https://cdnlivetv.tv/api/v1/channels/player/?name=PPV%2009%20%E2%93%A7%7C%20UFC%20%7C%20McGregor%20v%20Holloway%20II%20%7C%20Sat%2011th%20Jul%202%3A00AM%20UK%2F9%3A00PM%20ET%20(Backup)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="(CA).(Dazn.023).|.UFC.329:.McGregor.vs..Holloway.2.(2026-07-11.21:00:00)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-18 00:00 - Boxing -  vs  ((CA) (Dazn 023) | UFC 329: McGregor vs. Holloway 2 (2026-07-11 21:00:00))
-https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20023)%20%7C%20UFC%20329%3A%20McGregor%20vs.%20Holloway%202%20(2026-07-11%2021%3A00%3A00)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="(CA).(Dazn.033).|.UFC.329:.McGregor.vs..Holloway.2.(2026-07-11.21:00:00)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-18 00:00 - Boxing -  vs  ((CA) (Dazn 033) | UFC 329: McGregor vs. Holloway 2 (2026-07-11 21:00:00))
-https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20033)%20%7C%20UFC%20329%3A%20McGregor%20vs.%20Holloway%202%20(2026-07-11%2021%3A00%3A00)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Starzplay" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-18 16:00 - Professional Fighters League -  vs  (UFC Starzplay)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Starzplay&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.24/7.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-18 16:00 - Professional Fighters League -  vs  (UFC 24/7 HD US)
@@ -11049,18 +10943,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Fight%20Pass%2024%2F7%20
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%201%20(Solo%20Eventos)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.2" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-10-10 00:00 - Professional Fighters League -  vs  (UFC 2)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%202&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Eurosport.1.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-18 00:00 - UCI World Tour -  vs  (Eurosport 1 HD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20HD&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Eurosport.1.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-18 00:00 - UCI World Tour -  vs  (Eurosport 1 FHD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20FHD&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Eurosport.2.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-18 00:00 - UCI World Tour -  vs  (Eurosport 2 HD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20HD&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Eurosport.2.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-18 00:00 - UCI World Tour -  vs  (Eurosport 2 FHD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20FHD&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TNT.Sports.1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-18 00:00 - UCI World Tour -  vs  (TNT Sports 1 HD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20HD%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TNT.Sports.1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-18 00:00 - UCI World Tour -  vs  (TNT Sports 1 UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.1.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-19 00:00 - UCI World Tour -  vs  (Eurosport 1 HD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20HD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.1.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-19 00:00 - UCI World Tour -  vs  (Eurosport 1 FHD)
@@ -11277,32 +11159,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20FHD&code=&user
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-10-13 00:00 - UCI World Tour -  vs  (TNT Sports 1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Polsat.Sport.Fight.FHD.PL" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-07-18 01:00 - FIVB Volleyball Mens Nations League - Brazil Volleyball vs Poland Volleyball (Polsat Sport Fight FHD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Fight%20FHD%20PL&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Polsat.Sport.1.FHD.PL" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-07-18 01:00 - FIVB Volleyball Mens Nations League - Brazil Volleyball vs Poland Volleyball (Polsat Sport 1 FHD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%201%20FHD%20PL&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Polsat.Sport.3.FHD.PL" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-07-18 01:00 - FIVB Volleyball Mens Nations League - Brazil Volleyball vs Poland Volleyball (Polsat Sport 3 FHD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%203%20FHD%20PL&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Polsat.Sport.2.FHD.PL" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-07-18 01:00 - FIVB Volleyball Mens Nations League - Brazil Volleyball vs Poland Volleyball (Polsat Sport 2 FHD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%202%20FHD%20PL&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Polsat.Sport.Premium.1.HD.PL" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-07-18 01:00 - FIVB Volleyball Mens Nations League - Brazil Volleyball vs Poland Volleyball (Polsat Sport Premium 1 HD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Premium%201%20HD%20PL&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Polsat.Sport.Premium.1.FHD.PL" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-07-18 01:00 - FIVB Volleyball Mens Nations League - Brazil Volleyball vs Poland Volleyball (Polsat Sport Premium 1 FHD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Premium%201%20FHD%20PL&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Polsat.Sport.Premium.2.HD.PL" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-07-18 01:00 - FIVB Volleyball Mens Nations League - Brazil Volleyball vs Poland Volleyball (Polsat Sport Premium 2 HD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Premium%202%20HD%20PL&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Polsat.Sport.Premium.2.FHD.PL" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-07-18 01:00 - FIVB Volleyball Mens Nations League - Brazil Volleyball vs Poland Volleyball (Polsat Sport Premium 2 FHD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Premium%202%20FHD%20PL&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Polsat.Sport.Extra.3.FHD.PL" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-07-18 01:00 - FIVB Volleyball Mens Nations League - Brazil Volleyball vs Poland Volleyball (Polsat Sport Extra 3 FHD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%203%20FHD%20PL&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Polsat.Sport.Extra.4.FHD.PL" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-07-18 01:00 - FIVB Volleyball Mens Nations League - Brazil Volleyball vs Poland Volleyball (Polsat Sport Extra 4 FHD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%204%20FHD%20PL&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Polsat.Sport.Extra.1.FHD.PL" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-07-18 01:00 - FIVB Volleyball Mens Nations League - Brazil Volleyball vs Poland Volleyball (Polsat Sport Extra 1 FHD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%201%20FHD%20PL&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Polsat.Sport.Extra.2.FHD.PL" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-07-18 01:00 - FIVB Volleyball Mens Nations League - Brazil Volleyball vs Poland Volleyball (Polsat Sport Extra 2 FHD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%202%20FHD%20PL&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Arena.Sport.1.Premium.RS" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-07-18 01:00 - FIVB Volleyball Mens Nations League - Brazil Volleyball vs Poland Volleyball (Arena Sport 1 Premium RS)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%201%20Premium%20RS&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Polsat.Sport.1.FHD.PL" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport-1-fhd-pl.webp",[Volleyball] 2026-07-18 04:00 - FIVB Volleyball Mens Nations League - Canada Volleyball vs Cuba Volleyball (Polsat Sport 1 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%201%20FHD%20PL&code=pl&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sportklub.1.FHD.HR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/croatia/sportklub-1-fhd-hr.webp",[Volleyball] 2026-07-18 04:00 - FIVB Volleyball Mens Nations League - Canada Volleyball vs Cuba Volleyball (Sportklub 1 FHD HR)
@@ -11325,16 +11181,12 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sportklub%206%20HR&code=hr&use
 https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%201%20FHD%20PL&code=pl&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Arena.Sport.2.Premium.FHD.RS" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-2-premium-fhd-rs.webp",[Volleyball] 2026-07-18 18:00 - FIVB Volleyball Mens Nations League - Serbia Volleyball vs Germany Volleyball (Arena Sport 2 Premium FHD RS)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%202%20Premium%20FHD%20RS&code=rs&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Polsat.Sport.Extra.2.FHD.PL" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport-extra-2-fhd-pl.webp",[Volleyball] 2026-07-18 18:00 - FIVB Volleyball Mens Nations League - Serbia Volleyball vs Germany Volleyball (Polsat Sport Extra 2 FHD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%202%20FHD%20PL&code=pl&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sportklub.6.HR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/croatia/sportklub-6-hr.webp",[Volleyball] 2026-07-18 18:00 - FIVB Volleyball Mens Nations League - Serbia Volleyball vs Germany Volleyball (Sportklub 6 HR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sportklub%206%20HR&code=hr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Polsat.Sport.1.FHD.PL" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport-1-fhd-pl.webp",[Volleyball] 2026-07-18 21:00 - FIVB Volleyball Mens Nations League - France Volleyball vs Poland Volleyball (Polsat Sport 1 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%201%20FHD%20PL&code=pl&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Arena.Sport.2.Premium.FHD.RS" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-2-premium-fhd-rs.webp",[Volleyball] 2026-07-18 21:00 - FIVB Volleyball Mens Nations League - France Volleyball vs Poland Volleyball (Arena Sport 2 Premium FHD RS)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%202%20Premium%20FHD%20RS&code=rs&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Polsat.Sport.Extra.2.FHD.PL" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport-extra-2-fhd-pl.webp",[Volleyball] 2026-07-18 21:00 - FIVB Volleyball Mens Nations League - France Volleyball vs Poland Volleyball (Polsat Sport Extra 2 FHD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%202%20FHD%20PL&code=pl&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Max.Sport.2.FHD.BG" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/bg/max-sport-2-fhd-bg.webp",[Volleyball] 2026-07-18 21:00 - FIVB Volleyball Mens Nations League - France Volleyball vs Poland Volleyball (Max Sport 2 FHD BG)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Max%20Sport%202%20FHD%20BG&code=bg&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sportklub.1.FHD.HR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/croatia/sportklub-1-fhd-hr.webp",[Volleyball] 2026-07-18 21:00 - FIVB Volleyball Mens Nations League - France Volleyball vs Poland Volleyball (Sportklub 1 FHD HR)
@@ -11347,8 +11199,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%202%20FHD%20PL&
 https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%202%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Arena.Sport.2.Premium.RS" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-07-19 06:30 - FIVB Volleyball Mens Nations League - Cuba Volleyball vs Italy Volleyball (Arena Sport 2 Premium RS)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%202%20Premium%20RS&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Polsat.Sport.Fight.FHD.PL" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-07-19 10:20 - FIVB Volleyball Mens Nations League - Japan Volleyball vs Argentina Volleyball (Polsat Sport Fight FHD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Fight%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Polsat.Sport.1.FHD.PL" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-07-19 10:20 - FIVB Volleyball Mens Nations League - Japan Volleyball vs Argentina Volleyball (Polsat Sport 1 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%201%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Polsat.Sport.3.FHD.PL" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-07-19 10:20 - FIVB Volleyball Mens Nations League - Japan Volleyball vs Argentina Volleyball (Polsat Sport 3 FHD PL)
@@ -11369,14 +11219,10 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%203%20F
 https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%204%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Polsat.Sport.Extra.1.FHD.PL" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-07-19 10:20 - FIVB Volleyball Mens Nations League - Japan Volleyball vs Argentina Volleyball (Polsat Sport Extra 1 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%201%20FHD%20PL&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Polsat.Sport.Extra.2.FHD.PL" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-07-19 10:20 - FIVB Volleyball Mens Nations League - Japan Volleyball vs Argentina Volleyball (Polsat Sport Extra 2 FHD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%202%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Arena.Sport.2.Premium.RS" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-07-19 10:20 - FIVB Volleyball Mens Nations League - Japan Volleyball vs Argentina Volleyball (Arena Sport 2 Premium RS)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%202%20Premium%20RS&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Polsat.Sport.2.FHD.PL" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-07-19 11:00 - FIVB Volleyball Mens Nations League - Turkey Volleyball vs Iran Volleyball (Polsat Sport 2 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%202%20FHD%20PL&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Polsat.Sport.Fight.FHD.PL" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-07-19 14:30 - FIVB Volleyball Mens Nations League - Ukraine Volleyball vs Germany Volleyball (Polsat Sport Fight FHD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Fight%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Polsat.Sport.1.FHD.PL" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-07-19 14:30 - FIVB Volleyball Mens Nations League - Ukraine Volleyball vs Germany Volleyball (Polsat Sport 1 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%201%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Polsat.Sport.3.FHD.PL" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-07-19 14:30 - FIVB Volleyball Mens Nations League - Ukraine Volleyball vs Germany Volleyball (Polsat Sport 3 FHD PL)
@@ -11397,14 +11243,10 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%203%20F
 https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%204%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Polsat.Sport.Extra.1.FHD.PL" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-07-19 14:30 - FIVB Volleyball Mens Nations League - Ukraine Volleyball vs Germany Volleyball (Polsat Sport Extra 1 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%201%20FHD%20PL&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Polsat.Sport.Extra.2.FHD.PL" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-07-19 14:30 - FIVB Volleyball Mens Nations League - Ukraine Volleyball vs Germany Volleyball (Polsat Sport Extra 2 FHD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%202%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Arena.Sport.2.Premium.RS" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-07-19 14:30 - FIVB Volleyball Mens Nations League - Ukraine Volleyball vs Germany Volleyball (Arena Sport 2 Premium RS)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%202%20Premium%20RS&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Polsat.Sport.2.FHD.PL" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-07-19 17:00 - FIVB Volleyball Mens Nations League - China Volleyball vs Brazil Volleyball (Polsat Sport 2 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%202%20FHD%20PL&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Polsat.Sport.Fight.FHD.PL" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-07-19 18:00 - FIVB Volleyball Mens Nations League - Serbia Volleyball vs Slovenia Volleyball (Polsat Sport Fight FHD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Fight%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Polsat.Sport.1.FHD.PL" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-07-19 18:00 - FIVB Volleyball Mens Nations League - Serbia Volleyball vs Slovenia Volleyball (Polsat Sport 1 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%201%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Polsat.Sport.3.FHD.PL" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-07-19 18:00 - FIVB Volleyball Mens Nations League - Serbia Volleyball vs Slovenia Volleyball (Polsat Sport 3 FHD PL)
@@ -11425,12 +11267,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%203%20F
 https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%204%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Polsat.Sport.Extra.1.FHD.PL" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-07-19 18:00 - FIVB Volleyball Mens Nations League - Serbia Volleyball vs Slovenia Volleyball (Polsat Sport Extra 1 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%201%20FHD%20PL&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Polsat.Sport.Extra.2.FHD.PL" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-07-19 18:00 - FIVB Volleyball Mens Nations League - Serbia Volleyball vs Slovenia Volleyball (Polsat Sport Extra 2 FHD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%202%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Arena.Sport.2.Premium.RS" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-07-19 18:00 - FIVB Volleyball Mens Nations League - Serbia Volleyball vs Slovenia Volleyball (Arena Sport 2 Premium RS)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%202%20Premium%20RS&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Polsat.Sport.Fight.FHD.PL" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-07-19 21:00 - FIVB Volleyball Mens Nations League - Bulgaria Volleyball vs France Volleyball (Polsat Sport Fight FHD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Fight%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Polsat.Sport.1.FHD.PL" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-07-19 21:00 - FIVB Volleyball Mens Nations League - Bulgaria Volleyball vs France Volleyball (Polsat Sport 1 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%201%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Polsat.Sport.3.FHD.PL" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-07-19 21:00 - FIVB Volleyball Mens Nations League - Bulgaria Volleyball vs France Volleyball (Polsat Sport 3 FHD PL)
@@ -11451,12 +11289,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%203%20F
 https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%204%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Polsat.Sport.Extra.1.FHD.PL" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-07-19 21:00 - FIVB Volleyball Mens Nations League - Bulgaria Volleyball vs France Volleyball (Polsat Sport Extra 1 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%201%20FHD%20PL&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Polsat.Sport.Extra.2.FHD.PL" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-07-19 21:00 - FIVB Volleyball Mens Nations League - Bulgaria Volleyball vs France Volleyball (Polsat Sport Extra 2 FHD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%202%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Arena.Sport.2.Premium.RS" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-07-19 21:00 - FIVB Volleyball Mens Nations League - Bulgaria Volleyball vs France Volleyball (Arena Sport 2 Premium RS)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%202%20Premium%20RS&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Polsat.Sport.Fight.FHD.PL" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-07-20 01:00 - FIVB Volleyball Mens Nations League - USA Volleyball vs Poland Volleyball (Polsat Sport Fight FHD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Fight%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Polsat.Sport.1.FHD.PL" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-07-20 01:00 - FIVB Volleyball Mens Nations League - USA Volleyball vs Poland Volleyball (Polsat Sport 1 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%201%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Polsat.Sport.3.FHD.PL" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-07-20 01:00 - FIVB Volleyball Mens Nations League - USA Volleyball vs Poland Volleyball (Polsat Sport 3 FHD PL)
@@ -11477,8 +11311,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%203%20F
 https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%204%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Polsat.Sport.Extra.1.FHD.PL" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-07-20 01:00 - FIVB Volleyball Mens Nations League - USA Volleyball vs Poland Volleyball (Polsat Sport Extra 1 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%201%20FHD%20PL&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Polsat.Sport.Extra.2.FHD.PL" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-07-20 01:00 - FIVB Volleyball Mens Nations League - USA Volleyball vs Poland Volleyball (Polsat Sport Extra 2 FHD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%202%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Arena.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Darts] 2026-07-18 18:00 - PDC Darts -  vs  (Sky Sports Arena HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Arena%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Arena.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Darts] 2026-07-18 18:00 - PDC Darts -  vs  (Sky Sports Arena UK)
