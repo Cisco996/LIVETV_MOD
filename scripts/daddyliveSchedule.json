@@ -1512,18 +1512,6 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "8002"
-                    },
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "8003"
-                    },
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "8004"
-                    },
-                    {
-                        "channel_name": "Backup Stream",
-                        "channel_id": "8005"
                     }
                 ]
             },
@@ -1538,6 +1526,10 @@
                     {
                         "channel_name": "Canal5 MX",
                         "channel_id": "936"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "8003"
                     }
                 ]
             },
@@ -1556,6 +1548,10 @@
                     {
                         "channel_name": "Univision",
                         "channel_id": "132"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "8004"
                     }
                 ]
             },
@@ -1584,6 +1580,10 @@
                     {
                         "channel_name": "Univision",
                         "channel_id": "132"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "8005"
                     }
                 ]
             },
@@ -4148,6 +4148,10 @@
                     {
                         "channel_name": "Nova Sport 1 CZ",
                         "channel_id": "3042"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5031"
                     }
                 ]
             },
@@ -4326,6 +4330,14 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4018"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4048"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "8012"
                     }
                 ]
             }
@@ -5302,6 +5314,10 @@
                     {
                         "channel_name": "CBSNY USA",
                         "channel_id": "767"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4072"
                     }
                 ]
             },
@@ -5312,6 +5328,10 @@
                     {
                         "channel_name": "Victory+",
                         "channel_id": "108"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4073"
                     }
                 ]
             },
@@ -5322,6 +5342,10 @@
                     {
                         "channel_name": "Monumental Sports Network",
                         "channel_id": "778"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4074"
                     }
                 ]
             },
@@ -5336,6 +5360,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2036"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4065"
                     }
                 ]
             },
@@ -5362,6 +5390,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2037"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4066"
                     }
                 ]
             },
@@ -5376,6 +5408,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2038"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4067"
                     }
                 ]
             },
@@ -5394,6 +5430,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2039"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4068"
                     }
                 ]
             },
@@ -5412,6 +5452,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2040"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4069"
                     }
                 ]
             },
@@ -5430,6 +5474,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2041"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4070"
                     }
                 ]
             },
@@ -5444,6 +5492,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "2042"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4071"
                     }
                 ]
             }
