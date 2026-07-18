@@ -2,9 +2,6 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="3 - Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="scotlandscottishleaguecupdundeeunitedvsarbroath" tvg-name="All Soccer Events ⚽ | ⚽ Scotland Scottish League Cup : 🏴 Dundee United vs 🏴 Arbroath (18:00)" group-title="3 - Eventi Live DLHD",(ENG) All Soccer Events ⚽ | ⚽ Scotland Scottish League Cup : 🏴 Dundee United vs 🏴 Arbroath (18:00)
-https://dlhd.st/watch.php?id=550
-
 #EXTINF:-1 tvg-id="worldcup3rdplacefrancevsengland" tvg-name="All Soccer Events ⚽ | ⚽ World Cup 3rd Place : 🇫🇷 France vs 🏴 England (21:00)" group-title="3 - Eventi Live DLHD",(ENG) All Soccer Events ⚽ | ⚽ World Cup 3rd Place : 🇫🇷 France vs 🏴 England (21:00)
 https://dlhd.st/watch.php?id=54
 
@@ -26,23 +23,14 @@ https://dlhd.st/watch.php?id=3001
 #EXTINF:-1 tvg-id="worldcup3rdplacefrancevsengland" tvg-name="All Soccer Events ⚽ | ⚽ World Cup 3rd Place : 🇫🇷 France vs 🏴 England (21:00)" group-title="3 - Eventi Live DLHD",(ENG) All Soccer Events ⚽ | ⚽ World Cup 3rd Place : 🇫🇷 France vs 🏴 England (21:00)
 https://dlhd.st/watch.php?id=3010
 
+#EXTINF:-1 tvg-id="worldcup3rdplacefrancevsengland" tvg-name="All Soccer Events ⚽ | ⚽ World Cup 3rd Place : 🇫🇷 France vs 🏴 England (21:00)" group-title="3 - Eventi Live DLHD",(IT) All Soccer Events ⚽ | ⚽ World Cup 3rd Place : 🇫🇷 France vs 🏴 England (21:00)
+https://dlhd.st/watch.php?id=5008
+
 #EXTINF:-1 tvg-id="worldcup3rdplacefrancevsengland" tvg-name="All Soccer Events ⚽ | ⚽ World Cup 3rd Place : 🇫🇷 France vs 🏴 England (21:00)" group-title="3 - Eventi Live DLHD",(ENG) All Soccer Events ⚽ | ⚽ World Cup 3rd Place : 🇫🇷 France vs 🏴 England (21:00)
 https://dlhd.st/watch.php?id=5060
 
-#EXTINF:-1 tvg-id="worldcup3rdplacefrancevsengland" tvg-name="All Soccer Events ⚽ | ⚽ World Cup 3rd Place : 🇫🇷 France vs 🏴 England (21:00)" group-title="3 - Eventi Live DLHD",(IT) All Soccer Events ⚽ | ⚽ World Cup 3rd Place : 🇫🇷 France vs 🏴 England (21:00)
-https://dlhd.st/watch.php?id=5065
-
 #EXTINF:-1 tvg-id="mexicoligamxpumasunamvspachuca" tvg-name="All Soccer Events ⚽ | ⚽ Mexico Liga MX : 🇲🇽 Pumas UNAM vs 🇲🇽 Pachuca (23:00)" group-title="3 - Eventi Live DLHD",(ENG) All Soccer Events ⚽ | ⚽ Mexico Liga MX : 🇲🇽 Pumas UNAM vs 🇲🇽 Pachuca (23:00)
 https://dlhd.st/watch.php?id=3030
-
-#EXTINF:-1 tvg-id="nwsldenversummitvsportlandthorns" tvg-name="All Soccer Events ⚽ | ⚽ NWSL : 🇺🇸 Denver Summit vs 🇺🇸 Portland Thorns (18:00)" group-title="3 - Eventi Live DLHD",(ENG) All Soccer Events ⚽ | ⚽ NWSL : 🇺🇸 Denver Summit vs 🇺🇸 Portland Thorns (18:00)
-https://dlhd.st/watch.php?id=33
-
-#EXTINF:-1 tvg-id="nwsldenversummitvsportlandthorns" tvg-name="All Soccer Events ⚽ | ⚽ NWSL : 🇺🇸 Denver Summit vs 🇺🇸 Portland Thorns (18:00)" group-title="3 - Eventi Live DLHD",(ENG) All Soccer Events ⚽ | ⚽ NWSL : 🇺🇸 Denver Summit vs 🇺🇸 Portland Thorns (18:00)
-https://dlhd.st/watch.php?id=52
-
-#EXTINF:-1 tvg-id="nwsldenversummitvsportlandthorns" tvg-name="All Soccer Events ⚽ | ⚽ NWSL : 🇺🇸 Denver Summit vs 🇺🇸 Portland Thorns (18:00)" group-title="3 - Eventi Live DLHD",(ENG) All Soccer Events ⚽ | ⚽ NWSL : 🇺🇸 Denver Summit vs 🇺🇸 Portland Thorns (18:00)
-https://dlhd.st/watch.php?id=767
 
 #EXTINF:-1 tvg-id="nwslbayfcvsnorthcarolinacourage" tvg-name="All Soccer Events ⚽ | ⚽ NWSL : 🇺🇸 Bay FC vs 🇺🇸 North Carolina Courage (20:00)" group-title="3 - Eventi Live DLHD",(ENG) All Soccer Events ⚽ | ⚽ NWSL : 🇺🇸 Bay FC vs 🇺🇸 North Carolina Courage (20:00)
 https://dlhd.st/watch.php?id=52
@@ -83,13 +71,10 @@ https://dlhd.st/watch.php?id=161
 #EXTINF:-1 tvg-id="uslleagueoneoneknoxvillevsalta" tvg-name="All Soccer Events ⚽ | ⚽ USL League One : 🇺🇸 One Knoxville vs 🇺🇸 Alta (23:30)" group-title="3 - Eventi Live DLHD",(ENG) All Soccer Events ⚽ | ⚽ USL League One : 🇺🇸 One Knoxville vs 🇺🇸 Alta (23:30)
 https://dlhd.st/watch.php?id=162
 
-#EXTINF:-1 tvg-id="mensvitalityblastfinaltbcvstbc" tvg-name="All Soccer Events ⚽ | 🏏 Men's Vitality Blast Final : TBC vs TBC (17:45)" group-title="3 - Eventi Live DLHD",(ENG) All Soccer Events ⚽ | 🏏 Men's Vitality Blast Final : TBC vs TBC (17:45)
+#EXTINF:-1 tvg-id="mlcfinallaknightridersvswashingtonfreedom" tvg-name="🏏 Cricket 🏆 | 🏏 MLC Final : 🇺🇸 LA Knight Riders vs 🇺🇸 Washington Freedom (23:30)" group-title="3 - Eventi Live DLHD",(ENG) 🏏 Cricket 🏆 | 🏏 MLC Final : 🇺🇸 LA Knight Riders vs 🇺🇸 Washington Freedom (23:30)
 https://dlhd.st/watch.php?id=65
 
-#EXTINF:-1 tvg-id="mlcfinallaknightridersvswashingtonfreedom" tvg-name="All Soccer Events ⚽ | 🏏 MLC Final : 🇺🇸 LA Knight Riders vs 🇺🇸 Washington Freedom (23:30)" group-title="3 - Eventi Live DLHD",(ENG) All Soccer Events ⚽ | 🏏 MLC Final : 🇺🇸 LA Knight Riders vs 🇺🇸 Washington Freedom (23:30)
-https://dlhd.st/watch.php?id=65
-
-#EXTINF:-1 tvg-id="mlcfinallaknightridersvswashingtonfreedom" tvg-name="All Soccer Events ⚽ | 🏏 MLC Final : 🇺🇸 LA Knight Riders vs 🇺🇸 Washington Freedom (23:30)" group-title="3 - Eventi Live DLHD",(ENG) All Soccer Events ⚽ | 🏏 MLC Final : 🇺🇸 LA Knight Riders vs 🇺🇸 Washington Freedom (23:30)
+#EXTINF:-1 tvg-id="mlcfinallaknightridersvswashingtonfreedom" tvg-name="🏏 Cricket 🏆 | 🏏 MLC Final : 🇺🇸 LA Knight Riders vs 🇺🇸 Washington Freedom (23:30)" group-title="3 - Eventi Live DLHD",(ENG) 🏏 Cricket 🏆 | 🏏 MLC Final : 🇺🇸 LA Knight Riders vs 🇺🇸 Washington Freedom (23:30)
 https://dlhd.st/watch.php?id=763
 
 #EXTINF:-1 tvg-id="indycarborchettabourbonmusiccitygpqualifying" tvg-name="🏎️ Motorsport 🏁 | 🏎️ IndyCar : Borchetta Bourbon Music City GP - Qualifying (19:00)" group-title="3 - Eventi Live DLHD",(ENG) 🏎️ Motorsport 🏁 | 🏎️ IndyCar : Borchetta Bourbon Music City GP - Qualifying (19:00)
@@ -131,9 +116,6 @@ https://dlhd.st/watch.php?id=45
 #EXTINF:-1 tvg-id="ufcfightnightprelimstabathariccivsfatimakline" tvg-name="🥋 MMA 🥊 | 🥊 UFC Fight Night Prelims : 🇺🇸 Tabatha Ricci vs 🇺🇸 Fatima Kline (21:00)" group-title="3 - Eventi Live DLHD",(ENG) 🥋 MMA 🥊 | 🥊 UFC Fight Night Prelims : 🇺🇸 Tabatha Ricci vs 🇺🇸 Fatima Kline (21:00)
 https://dlhd.st/watch.php?id=31
 
-#EXTINF:-1 tvg-id="athletesunlimitedsoftballleaguechicagobanditsvsutahtalons" tvg-name="⚾ Baseball 🏆 | ⚾ Athletes Unlimited Softball League : 🇺🇸 Chicago Bandits vs 🇺🇸 Utah Talons (18:00)" group-title="3 - Eventi Live DLHD",(ENG) ⚾ Baseball 🏆 | ⚾ Athletes Unlimited Softball League : 🇺🇸 Chicago Bandits vs 🇺🇸 Utah Talons (18:00)
-https://dlhd.st/watch.php?id=44
-
 #EXTINF:-1 tvg-id="athletesunlimitedsoftballleaguecarolinablazevsoklahomacityspark" tvg-name="⚾ Baseball 🏆 | ⚾ Athletes Unlimited Softball League : 🇺🇸 Carolina Blaze vs 🇺🇸 Oklahoma City Spark (20:00)" group-title="3 - Eventi Live DLHD",(ENG) ⚾ Baseball 🏆 | ⚾ Athletes Unlimited Softball League : 🇺🇸 Carolina Blaze vs 🇺🇸 Oklahoma City Spark (20:00)
 https://dlhd.st/watch.php?id=45
 
@@ -151,9 +133,6 @@ https://dlhd.st/watch.php?id=770
 
 #EXTINF:-1 tvg-id="minorleaguebaseballamarillosodpoodlesvsspringfieldcardinals" tvg-name="⚾ Baseball 🏆 | ⚾ Minor League Baseball : 🇺🇸 Amarillo Sod Poodles vs 🇺🇸 Springfield Cardinals (23:30)" group-title="3 - Eventi Live DLHD",(ENG) ⚾ Baseball 🏆 | ⚾ Minor League Baseball : 🇺🇸 Amarillo Sod Poodles vs 🇺🇸 Springfield Cardinals (23:30)
 https://dlhd.st/watch.php?id=399
-
-#EXTINF:-1 tvg-id="mlbminnesotatwinsvschicagocubs" tvg-name="⚾ Baseball 🏆 | ⚾ MLB : 🇺🇸 Minnesota Twins vs 🇺🇸 Chicago Cubs (18:20)" group-title="3 - Eventi Live DLHD",(ENG) ⚾ Baseball 🏆 | ⚾ MLB : 🇺🇸 Minnesota Twins vs 🇺🇸 Chicago Cubs (18:20)
-https://dlhd.st/watch.php?id=31
 
 #EXTINF:-1 tvg-id="mlbphiladelphiaphilliesvsnewyorkmets" tvg-name="⚾ Baseball 🏆 | ⚾ MLB : 🇺🇸 Philadelphia Phillies vs 🇺🇸 New York Mets (20:05)" group-title="3 - Eventi Live DLHD",(ENG) ⚾ Baseball 🏆 | ⚾ MLB : 🇺🇸 Philadelphia Phillies vs 🇺🇸 New York Mets (20:05)
 https://dlhd.st/watch.php?id=32
@@ -185,12 +164,6 @@ https://dlhd.st/watch.php?id=44
 #EXTINF:-1 tvg-id="nbasummerleagueatlantahawksvswashingtonwizards" tvg-name="🏀 Basketball 🏆 | 🏀 NBA Summer League : 🇺🇸 Atlanta Hawks vs 🇺🇸 Washington Wizards (23:00)" group-title="3 - Eventi Live DLHD",(ENG) 🏀 Basketball 🏆 | 🏀 NBA Summer League : 🇺🇸 Atlanta Hawks vs 🇺🇸 Washington Wizards (23:00)
 https://dlhd.st/watch.php?id=44
 
-#EXTINF:-1 tvg-id="pdcdartsworldmatchplaydartswintergardensblackpool" tvg-name="🎯 Darts 🏆 | 🎯 PDC Darts World Matchplay Darts : Winter Gardens - Blackpool (18:00)" group-title="3 - Eventi Live DLHD",(ENG) 🎯 Darts 🏆 | 🎯 PDC Darts World Matchplay Darts : Winter Gardens - Blackpool (18:00)
-https://dlhd.st/watch.php?id=37
-
-#EXTINF:-1 tvg-id="pdcdartsworldmatchplaydartswintergardensblackpool" tvg-name="🎯 Darts 🏆 | 🎯 PDC Darts World Matchplay Darts : Winter Gardens - Blackpool (18:00)" group-title="3 - Eventi Live DLHD",(ENG) 🎯 Darts 🏆 | 🎯 PDC Darts World Matchplay Darts : Winter Gardens - Blackpool (18:00)
-https://dlhd.st/watch.php?id=36
-
 #EXTINF:-1 tvg-id="horseracingsaratogalive" tvg-name="🏇 Horse Racing 🏆 | 🇺🇸 Horse Racing : Saratoga Live (19:00)" group-title="3 - Eventi Live DLHD",(ENG) 🏇 Horse Racing 🏆 | 🇺🇸 Horse Racing : Saratoga Live (19:00)
 https://dlhd.st/watch.php?id=758
 
@@ -199,12 +172,6 @@ https://dlhd.st/watch.php?id=53
 
 #EXTINF:-1 tvg-id="horseracingsaratogalive" tvg-name="🏇 Horse Racing 🏆 | 🇺🇸 Horse Racing : Saratoga Live (22:00)" group-title="3 - Eventi Live DLHD",(ENG) 🏇 Horse Racing 🏆 | 🇺🇸 Horse Racing : Saratoga Live (22:00)
 https://dlhd.st/watch.php?id=758
-
-#EXTINF:-1 tvg-id="premierlacrosseleaguecarolinachaosvsdenveroutlaws" tvg-name="🥍 Lacrosse 🏆 | 🇺🇸 Premier Lacrosse League : Carolina Chaos vs Denver Outlaws (18:00)" group-title="3 - Eventi Live DLHD",(ENG) 🥍 Lacrosse 🏆 | 🇺🇸 Premier Lacrosse League : Carolina Chaos vs Denver Outlaws (18:00)
-https://dlhd.st/watch.php?id=51
-
-#EXTINF:-1 tvg-id="premierlacrosseleaguecarolinachaosvsdenveroutlaws" tvg-name="🥍 Lacrosse 🏆 | 🇺🇸 Premier Lacrosse League : Carolina Chaos vs Denver Outlaws (18:00)" group-title="3 - Eventi Live DLHD",(ENG) 🥍 Lacrosse 🏆 | 🇺🇸 Premier Lacrosse League : Carolina Chaos vs Denver Outlaws (18:00)
-https://dlhd.st/watch.php?id=766
 
 #EXTINF:-1 tvg-id="premierlacrosseleagueutaharchersvsphiladelphiawaterdogs" tvg-name="🥍 Lacrosse 🏆 | 🇺🇸 Premier Lacrosse League : Utah Archers vs Philadelphia Waterdogs (20:30)" group-title="3 - Eventi Live DLHD",(ENG) 🥍 Lacrosse 🏆 | 🇺🇸 Premier Lacrosse League : Utah Archers vs Philadelphia Waterdogs (20:30)
 https://dlhd.st/watch.php?id=109
