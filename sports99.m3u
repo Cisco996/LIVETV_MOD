@@ -1,36 +1,4 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz,https://github.com/nzo66/TV/raw/refs/heads/main/epg.xml.gz"
-#EXTINF:-1 tvg-id="TV100.FHD.TR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/turkey/tv100-fhd-tr.webp",[Soccer] 2026-07-21 17:00 - UEFA Champions League - Fenerbahçe vs Górnik Zabrze (TV100 FHD TR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TV100%20FHD%20TR&code=tr&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="SRF.Zwei.HD.CH" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-21 17:00 - UEFA Champions League - FC Thun vs Dinamo Zagreb (SRF Zwei HD CH)
-https://cdnlivetv.tv/api/v1/channels/player/?name=SRF%20Zwei%20HD%20CH&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="RSI.La2.FHD.IT" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-21 17:00 - UEFA Champions League - FC Thun vs Dinamo Zagreb (RSI La2 FHD IT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=RSI%20La2%20FHD%20IT&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TV100.FHD.TR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/turkey/tv100-fhd-tr.webp",[Soccer] 2026-07-21 17:00 - All Soccer Events - UEFA Champions League Fenerbahçe vs Górnik Zabrze (TV100 FHD TR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TV100%20FHD%20TR&code=tr&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="SRF.Zwei.HD.CH" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-21 17:00 - All Soccer Events - UEFA Champions League FC Thun vs Dinamo Zagreb (SRF Zwei HD CH)
-https://cdnlivetv.tv/api/v1/channels/player/?name=SRF%20Zwei%20HD%20CH&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="RSI.La2.FHD.IT" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-21 17:00 - All Soccer Events - UEFA Champions League FC Thun vs Dinamo Zagreb (RSI La2 FHD IT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=RSI%20La2%20FHD%20IT&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="M4.Sport.FHD.HU" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/hungary/m4-sport-fhd-hu.webp",[Soccer] 2026-07-21 17:15 - UEFA Conference League - FC Atert Bissen vs Győri ETO FC (M4 Sport FHD HU)
-https://cdnlivetv.tv/api/v1/channels/player/?name=M4%20Sport%20FHD%20HU&code=hu&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="M4.Sport.FHD.HU" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/hungary/m4-sport-fhd-hu.webp",[Soccer] 2026-07-21 17:15 - All Soccer Events - UEFA Conference League FC Atert Bissen vs Győri ETO FC (M4 Sport FHD HU)
-https://cdnlivetv.tv/api/v1/channels/player/?name=M4%20Sport%20FHD%20HU&code=hu&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Viaplay.Sports.1.FHD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/viaplay-sports-1-fhd-uk.webp",[Soccer] 2026-07-21 17:30 - UEFA Champions League - Sturm Graz vs Heart of Midlothian (Hearts) (Viaplay Sports 1 FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Viaplay%20Sports%201%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Premier.Sports.1.Ireland.FHD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-21 17:30 - UEFA Champions League - Sturm Graz vs Heart of Midlothian (Hearts) (Premier Sports 1 Ireland FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Premier%20Sports%201%20Ireland%20FHD%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="ORF.1.FHD.AT" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/austria/orf-1-fhd-at.webp",[Soccer] 2026-07-21 17:30 - UEFA Champions League - Sturm Graz vs Heart of Midlothian (Hearts) (ORF 1 FHD AT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=ORF%201%20FHD%20AT&code=at&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Arena.Sport.2.Premium.FHD.RS" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-2-premium-fhd-rs.webp",[Soccer] 2026-07-21 17:30 - UEFA Champions League - Sturm Graz vs Heart of Midlothian (Hearts) (Arena Sport 2 Premium FHD RS)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%202%20Premium%20FHD%20RS&code=rs&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Viaplay.Sports.1.FHD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/viaplay-sports-1-fhd-uk.webp",[Soccer] 2026-07-21 17:30 - All Soccer Events - UEFA Champions League Sturm Graz vs Heart of Midlothian (Hearts) (Viaplay Sports 1 FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Viaplay%20Sports%201%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Premier.Sports.1.Ireland.FHD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-21 17:30 - All Soccer Events - UEFA Champions League Sturm Graz vs Heart of Midlothian (Hearts) (Premier Sports 1 Ireland FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Premier%20Sports%201%20Ireland%20FHD%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="ORF.1.FHD.AT" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/austria/orf-1-fhd-at.webp",[Soccer] 2026-07-21 17:30 - All Soccer Events - UEFA Champions League Sturm Graz vs Heart of Midlothian (Hearts) (ORF 1 FHD AT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=ORF%201%20FHD%20AT&code=at&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Arena.Sport.2.Premium.FHD.RS" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-2-premium-fhd-rs.webp",[Soccer] 2026-07-21 17:30 - All Soccer Events - UEFA Champions League Sturm Graz vs Heart of Midlothian (Hearts) (Arena Sport 2 Premium FHD RS)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%202%20Premium%20FHD%20RS&code=rs&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Arena.Sport.1.Premium.FHD.RS" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-1-premium-fhd-rs.webp",[Soccer] 2026-07-21 18:00 - UEFA Champions League - Larne FC vs FK Crvena zvezda (Arena Sport 1 Premium FHD RS)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%201%20Premium%20FHD%20RS&code=rs&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Arena.Sport.1.Premium.RS" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-1-premium-rs.webp",[Soccer] 2026-07-21 18:00 - All Soccer Events - UEFA Champions League Larne FC vs FK Crvena zvezda (Arena Sport 1 Premium RS)
@@ -161,10 +129,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%204%20%5BEnglish%5D&code=&
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20%5BEnglish%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.1.[English]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-07-25 00:30 - CFL - Winnipeg Blue Bombers vs Calgary Stampeders (TSN 1 [English])
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20%5BEnglish%5D&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Marquee.Sports.Network.FHD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/marquee-sports-network-fhd-us.webp",[MLB] 2026-07-21 17:30 - High School Baseball – IAHSAA Class 2A Tournament - Roland-Story vs Durant (Marquee Sports Network FHD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Marquee%20Sports%20Network%20FHD%20US&code=us&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Marquee.Sports.Network.FHD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/marquee-sports-network-fhd-us.webp",[MLB] 2026-07-21 17:30 - High School Baseball - High School Baseball – IAHSAA Class 2A Tournament Roland-Story vs Durant (Marquee Sports Network FHD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Marquee%20Sports%20Network%20FHD%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sportsnet.One.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-21 22:05 - MLB - New York Yankees vs Pittsburgh Pirates (Sportsnet One HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20One%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="AT&T.SportsNet.Pittsburgh.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/at-t-sportsnet-pittsburgh-hd-us.webp",[MLB] 2026-07-21 22:05 - MLB - New York Yankees vs Pittsburgh Pirates (AT&T SportsNet Pittsburgh HD US)
@@ -1453,26 +1417,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20Hall%20of%20
 https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20329%3A%20Press%20Conference%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="(CA).(Dazn.033).|.UFC.329:.McGregor.vs..Holloway.2.(2026-07-11.21:00:00)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-08 00:00 - Boxing -  vs  ((CA) (Dazn 033) | UFC 329: McGregor vs. Holloway 2 (2026-07-11 21:00:00))
 https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20033)%20%7C%20UFC%20329%3A%20McGregor%20vs.%20Holloway%202%20(2026-07-11%2021%3A00%3A00)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Willow.Cricket.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cricket] 2026-07-21 17:30 - 5th ODI - West Indies vs New Zealand (Willow Cricket HD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Willow%20Cricket%20HD%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TNT.Sports.1.FHD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-1-fhd-uk.webp",[Cricket] 2026-07-21 17:30 - 5th ODI - West Indies vs New Zealand (TNT Sports 1 FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.2.NZ" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/nz/sky-sport-2-nz.webp",[Cricket] 2026-07-21 17:30 - 5th ODI - West Indies vs New Zealand (Sky Sport 2 NZ)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%202%20NZ&code=nz&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="SuperSport.Cricket" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cricket] 2026-07-21 17:30 - 5th ODI - West Indies vs New Zealand (SuperSport Cricket)
-https://cdnlivetv.tv/api/v1/channels/player/?name=SuperSport%20Cricket&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="SuperSport.Grandstand" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cricket] 2026-07-21 17:30 - 5th ODI - West Indies vs New Zealand (SuperSport Grandstand)
-https://cdnlivetv.tv/api/v1/channels/player/?name=SuperSport%20Grandstand&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TNT.Sports.1.FHD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-1-fhd-uk.webp",[Cricket] 2026-07-21 17:30 - Cricket - 5th ODI West Indies vs New Zealand (TNT Sports 1 FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.2.NZ" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/nz/sky-sport-2-nz.webp",[Cricket] 2026-07-21 17:30 - Cricket - 5th ODI West Indies vs New Zealand (Sky Sport 2 NZ)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%202%20NZ&code=nz&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Willow.Cricket.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cricket] 2026-07-21 17:30 - Cricket - 5th ODI West Indies vs New Zealand (Willow Cricket HD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Willow%20Cricket%20HD%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="SuperSport.Cricket" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cricket] 2026-07-21 17:30 - Cricket - 5th ODI West Indies vs New Zealand (SuperSport Cricket)
-https://cdnlivetv.tv/api/v1/channels/player/?name=SuperSport%20Cricket&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="SuperSport.Grandstand" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cricket] 2026-07-21 17:30 - Cricket - 5th ODI West Indies vs New Zealand (SuperSport Grandstand)
-https://cdnlivetv.tv/api/v1/channels/player/?name=SuperSport%20Grandstand&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Teledeporte.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-22 10:30 - UCI World Tour -  vs  (Teledeporte FHD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Teledeporte%20FHD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Teledeporte.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-07-23 10:00 - UCI World Tour -  vs  (Teledeporte FHD)
@@ -1589,19 +1533,3 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%201%20F
 https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%202%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Arena.Sport.2.Premium.RS" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-07-23 11:30 - FIVB Volleyball Womens Nations League - USA Volleyball Women vs China Volleyball Women (Arena Sport 2 Premium RS)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%202%20Premium%20RS&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sports.Arena.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Darts] 2026-07-21 17:00 - PDC World Matchplay Darts -  vs  (Sky Sports Arena HD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Arena%20HD%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sports.Arena.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Darts] 2026-07-21 17:00 - PDC World Matchplay Darts -  vs  (Sky Sports Arena UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Arena%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sports.Action.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Darts] 2026-07-21 17:00 - PDC World Matchplay Darts -  vs  (Sky Sports Action HD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Action%20HD%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Darts] 2026-07-21 17:00 - PDC World Matchplay Darts -  vs  (Sky Sports Main Event HD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Main%20Event%20HD%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sports.Arena.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Darts] 2026-07-21 17:00 - Darts -  vs  (Sky Sports Arena HD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Arena%20HD%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sports.Arena.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Darts] 2026-07-21 17:00 - Darts -  vs  (Sky Sports Arena UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Arena%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sports.Action.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Darts] 2026-07-21 17:00 - Darts -  vs  (Sky Sports Action HD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Action%20HD%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Darts] 2026-07-21 17:00 - Darts -  vs  (Sky Sports Main Event HD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Main%20Event%20HD%20UK&code=&user=cdnlivetv&plan=free
