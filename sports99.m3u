@@ -1,6 +1,4 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz,https://github.com/nzo66/TV/raw/refs/heads/main/epg.xml.gz"
-#EXTINF:-1 tvg-id="ERT.2.HD.GR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/greece/ert-2-hd-gr.webp",[Soccer] 2026-07-22 14:30 - UEFA Women's Champions League - PAOK W vs Hapoel Jerusalem W (ERT 2 HD GR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=ERT%202%20HD%20GR&code=gr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CBC.Sport.AZ" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-22 15:00 - UEFA Conference League - Neftçi vs Dinamo Minsk (CBC Sport AZ)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CBC%20Sport%20AZ&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sport.251.FHD.IT" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-251-fhd-it.webp",[Soccer] 2026-07-22 15:00 - Club Friendly - Napoli vs Arezzo (Sky Sport 251 FHD IT)
@@ -39,16 +37,18 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Cosmote%20Sport%203%20HD%20GR&
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%201%20HD%20IL&code=il&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TV.Canaria.ES" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/spain/tv-canaria-es.webp",[Soccer] 2026-07-22 18:00 - Club Friendly - Tenerife vs Getafe (TV Canaria ES)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TV%20Canaria%20ES&code=es&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Arena.Sport.1.Premium.FHD.RS" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-1-premium-fhd-rs.webp",[Soccer] 2026-07-22 18:00 - UEFA Conference League - Železničar Pančevo vs Sporting Braga (Arena Sport 1 Premium FHD RS)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%201%20Premium%20FHD%20RS&code=rs&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Moja.TV.HD.RS" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-22 18:00 - UEFA Conference League - Železničar Pančevo vs Sporting Braga (Moja TV HD RS)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Moja%20TV%20HD%20RS&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sport.TV.1.FHD.PT" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/portugal/sport-tv-1-fhd-pt.webp",[Soccer] 2026-07-22 18:00 - Club Friendly - Gil Vicente vs Porto (Sport TV 1 FHD PT)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20TV%201%20FHD%20PT&code=pt&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Arena.Sport.1.Premium.RS" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-1-premium-rs.webp",[Soccer] 2026-07-22 18:00 - UEFA Conference League - Železničar Pančevo vs Sporting Braga (Arena Sport 1 Premium RS)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%201%20Premium%20RS&code=rs&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="beIN.Sports.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/bein-sports-hd-us.webp",[Soccer] 2026-07-22 21:00 - Copa Sudamericana - Medellín vs Vasco da Gama (beIN Sports HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20Sports%20HD%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Movistar.Liga.de.Campeones.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/movistar-liga-de-campeones-fhd.webp",[Soccer] 2026-07-22 21:00 - Copa Sudamericana - Medellín vs Vasco da Gama (Movistar Liga de Campeones FHD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Movistar%20Liga%20de%20Campeones%20FHD&code=de&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Movistar.Vamos.FHD.ES" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/spain/movistar-vamos-fhd-es.webp",[Soccer] 2026-07-22 21:00 - Copa Sudamericana - Medellín vs Vasco da Gama (Movistar Vamos FHD ES)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Movistar%20Vamos%20FHD%20ES&code=es&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sport.TV.1.FHD.PT" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/portugal/sport-tv-1-fhd-pt.webp",[Soccer] 2026-07-22 21:00 - Copa Sudamericana - Medellín vs Vasco da Gama (Sport TV 1 FHD PT)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20TV%201%20FHD%20PT&code=pt&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ESPN.1.ULTRA..HD.NL" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/netherlands/espn-1-ultra-hd-nl.webp",[Soccer] 2026-07-22 21:00 - Copa Sudamericana - Medellín vs Vasco da Gama (ESPN 1 ULTRA  HD NL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%201%20ULTRA%20%20HD%20NL&code=nl&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ESPN.Brasil.HD.BR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/brazil/espn-brasil-hd-br.webp",[Soccer] 2026-07-22 21:00 - Copa Sudamericana - Medellín vs Vasco da Gama (ESPN Brasil HD BR)
@@ -57,8 +57,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Brasil%20HD%20BR&code=b
 https://cdnlivetv.tv/api/v1/channels/player/?name=Max%20Sport%204%20FHD%20BG&code=bg&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Arena.Sport.1.FHD.HR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/croatia/arena-sport-1-fhd-hr.webp",[Soccer] 2026-07-22 21:00 - Copa Sudamericana - Medellín vs Vasco da Gama (Arena Sport 1 FHD HR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%201%20FHD%20HR&code=hr&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Arena.Sport.1.Premium.FHD.RS" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-1-premium-fhd-rs.webp",[Soccer] 2026-07-22 21:00 - Copa Sudamericana - Medellín vs Vasco da Gama (Arena Sport 1 Premium FHD RS)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%201%20Premium%20FHD%20RS&code=rs&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Arena.Sport.1.Premium.RS" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-1-premium-rs.webp",[Soccer] 2026-07-22 21:00 - Copa Sudamericana - Medellín vs Vasco da Gama (Arena Sport 1 Premium RS)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%201%20Premium%20RS&code=rs&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sport.2.HD.IL" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/israel/sport-2-hd-il.webp",[Soccer] 2026-07-22 21:00 - Copa Sudamericana - Medellín vs Vasco da Gama (Sport 2 HD IL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%202%20HD%20IL&code=il&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.Clubes.HD.BR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-22 21:30 - Brazil Brasileirão - Coritiba vs Palmeiras (Premiere Clubes HD BR)
@@ -3709,34 +3709,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20HD%20CA&code=&user=c
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20%5BEnglish%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Marquee.Sports.Network.FHD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/marquee-sports-network-fhd-us.webp",[MLB] 2026-07-22 15:00 - Minor League Baseball - Wisconsin Timber Rattlers vs South Bend Cubs (Marquee Sports Network FHD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Marquee%20Sports%20Network%20FHD%20US&code=us&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.02:..Pittsburgh.Pirates.vs.New.York.Yankees.|.Tue.21st.Jul.7:05.PM.ET.(postponed)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-22 17:05 - MLB - New York Yankees vs Pittsburgh Pirates (MLB 02:  Pittsburgh Pirates vs New York Yankees | Tue 21st Jul 7:05 PM ET (postponed))
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%2002%3A%20%20Pittsburgh%20Pirates%20vs%20New%20York%20Yankees%20%7C%20Tue%2021st%20Jul%207%3A05%20PM%20ET%20(postponed)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.|.New.York.Yankees" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-22 17:05 - MLB - New York Yankees vs Pittsburgh Pirates (MLB | New York Yankees)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20New%20York%20Yankees&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.|.Pittsburgh.Pirates" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-22 17:05 - MLB - New York Yankees vs Pittsburgh Pirates (MLB | Pittsburgh Pirates)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Pittsburgh%20Pirates&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TNT.Sports.1.FHD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-1-fhd-uk.webp",[MLB] 2026-07-22 17:05 - MLB - New York Yankees vs Pittsburgh Pirates (TNT Sports 1 FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="YES.Network.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/yes-network-us.webp",[MLB] 2026-07-22 17:05 - MLB - New York Yankees vs Pittsburgh Pirates (YES Network US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=YES%20Network%20US&code=us&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.Network.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network-hd-us.webp",[MLB] 2026-07-22 17:05 - MLB - New York Yankees vs Pittsburgh Pirates (MLB Network HD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20Network%20HD%20US&code=us&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="AT&T.SportsNet.Pittsburgh.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/at-t-sportsnet-pittsburgh-hd-us.webp",[MLB] 2026-07-22 17:05 - MLB - New York Yankees vs Pittsburgh Pirates (AT&T SportsNet Pittsburgh HD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=AT%26T%20SportsNet%20Pittsburgh%20HD%20US&code=us&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Arena.Sport.4.Premium.FHD.RS" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-4-premium-fhd-rs.webp",[MLB] 2026-07-22 17:05 - MLB - New York Yankees vs Pittsburgh Pirates (Arena Sport 4 Premium FHD RS)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%204%20Premium%20FHD%20RS&code=rs&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Arena.Sport.1.FHD.HR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/croatia/arena-sport-1-fhd-hr.webp",[MLB] 2026-07-22 17:05 - MLB - New York Yankees vs Pittsburgh Pirates (Arena Sport 1 FHD HR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%201%20FHD%20HR&code=hr&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.04:.Baltimore.Orioles.vs.Boston.Red.Sox.|.Tue.21st.Jul.7:10.PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-22 17:35 - MLB - Boston Red Sox vs Baltimore Orioles (MLB 04: Baltimore Orioles vs Boston Red Sox | Tue 21st Jul 7:10 PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%2004%3A%20Baltimore%20Orioles%20vs%20Boston%20Red%20Sox%20%7C%20Tue%2021st%20Jul%207%3A10%20PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.|.Boston.Red.Sox" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-22 17:35 - MLB - Boston Red Sox vs Baltimore Orioles (MLB | Boston Red Sox)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Boston%20Red%20Sox&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.|.Baltimore.Orioles" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-22 17:35 - MLB - Boston Red Sox vs Baltimore Orioles (MLB | Baltimore Orioles)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Baltimore%20Orioles&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="NESN.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/nesn-us.webp",[MLB] 2026-07-22 17:35 - MLB - Boston Red Sox vs Baltimore Orioles (NESN US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=NESN%20US&code=us&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MASN.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/masn-us.webp",[MLB] 2026-07-22 17:35 - MLB - Boston Red Sox vs Baltimore Orioles (MASN US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MASN%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.07:.New.York.Mets.vs.Milwaukee.Brewers.|.Tue.21st.Jul.7:40.PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-22 18:10 - MLB - Milwaukee Brewers vs New York Mets (MLB 07: New York Mets vs Milwaukee Brewers | Tue 21st Jul 7:40 PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%2007%3A%20New%20York%20Mets%20vs%20Milwaukee%20Brewers%20%7C%20Tue%2021st%20Jul%207%3A40%20PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Milwaukee.Brewers" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-22 18:10 - MLB - Milwaukee Brewers vs New York Mets (MLB | Milwaukee Brewers)
@@ -3813,18 +3785,10 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%2002%3A%20%20Pittsburgh%20
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20New%20York%20Yankees&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Pittsburgh.Pirates" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-22 23:05 - MLB - New York Yankees vs Pittsburgh Pirates (MLB | Pittsburgh Pirates)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Pittsburgh%20Pirates&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TNT.Sports.1.FHD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-1-fhd-uk.webp",[MLB] 2026-07-22 23:05 - MLB - New York Yankees vs Pittsburgh Pirates (TNT Sports 1 FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="YES.Network.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/yes-network-us.webp",[MLB] 2026-07-22 23:05 - MLB - New York Yankees vs Pittsburgh Pirates (YES Network US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=YES%20Network%20US&code=us&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.Network.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/mlb-network-hd-us.webp",[MLB] 2026-07-22 23:05 - MLB - New York Yankees vs Pittsburgh Pirates (MLB Network HD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20Network%20HD%20US&code=us&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="AT&T.SportsNet.Pittsburgh.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/at-t-sportsnet-pittsburgh-hd-us.webp",[MLB] 2026-07-22 23:05 - MLB - New York Yankees vs Pittsburgh Pirates (AT&T SportsNet Pittsburgh HD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=AT%26T%20SportsNet%20Pittsburgh%20HD%20US&code=us&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Arena.Sport.4.Premium.FHD.RS" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-4-premium-fhd-rs.webp",[MLB] 2026-07-22 23:05 - MLB - New York Yankees vs Pittsburgh Pirates (Arena Sport 4 Premium FHD RS)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%204%20Premium%20FHD%20RS&code=rs&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Arena.Sport.1.FHD.HR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/croatia/arena-sport-1-fhd-hr.webp",[MLB] 2026-07-22 23:05 - MLB - New York Yankees vs Pittsburgh Pirates (Arena Sport 1 FHD HR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%201%20FHD%20HR&code=hr&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sportsnet.One.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-22 23:05 - MLB - New York Yankees vs Pittsburgh Pirates (Sportsnet One CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20One%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sportsnet.One.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-22 23:05 - MLB - New York Yankees vs Pittsburgh Pirates (Sportsnet One HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20One%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.03:.Tampa.Bay.Rays.vs.Toronto.Blue.Jays.|.Tue.21st.Jul.7:07.PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-22 23:07 - MLB - Toronto Blue Jays vs Tampa Bay Rays (MLB 03: Tampa Bay Rays vs Toronto Blue Jays | Tue 21st Jul 7:07 PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%2003%3A%20Tampa%20Bay%20Rays%20vs%20Toronto%20Blue%20Jays%20%7C%20Tue%2021st%20Jul%207%3A07%20PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Toronto.Blue.Jays" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-22 23:07 - MLB - Toronto Blue Jays vs Tampa Bay Rays (MLB | Toronto Blue Jays)
@@ -7041,6 +7005,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Action%20FHD%20
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Main%20Event%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.3.FHD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-07-23 00:00 - WNBA - Indiana Fever vs Connecticut Sun (TSN 3 FHD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20FHD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sport.Mix.FHD.DE" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-mix-fhd-de.webp",[Basketball] 2026-07-23 00:00 - WNBA - Indiana Fever vs Connecticut Sun (Sky Sport Mix FHD DE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Mix%20FHD%20DE&code=de&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ESPN.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-07-23 02:00 - WNBA - Portland Fire vs Dallas Wings (ESPN US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ION.Television.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-07-23 02:00 - WNBA - Portland Fire vs Dallas Wings (ION Television US)
