@@ -58,6 +58,20 @@
                     {
                         "channel_name": "Event PPV",
                         "channel_id": "29"
+                    },
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5003"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "FloRacing Night in America at Lincoln Speedway",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5004"
                     }
                 ]
             }
