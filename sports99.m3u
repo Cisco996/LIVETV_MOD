@@ -43,6 +43,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=ProTV%20FHD%20RO&code=ro&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sportklub%201%20FHD%20HR&code=hr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Arena.Sport.2.Premium.FHD.RS" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-2-premium-fhd-rs.webp",[Soccer] 2026-07-23 17:00 - UEFA Conference League - Vojvodina vs Ajax (Arena Sport 2 Premium FHD RS)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%202%20Premium%20FHD%20RS&code=rs&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sport.3.HD.IL" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/israel/sport-3-hd-il.webp",[Soccer] 2026-07-23 17:00 - UEFA Conference League - Vojvodina vs Ajax (Sport 3 HD IL)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%203%20HD%20IL&code=il&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Max.Sport.1.FHD.HR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/croatia/max-sport-1-fhd-hr.webp",[Soccer] 2026-07-23 17:00 - UEFA Conference League - Varaždin vs Jablonec (Max Sport 1 FHD HR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Max%20Sport%201%20FHD%20HR&code=hr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="M4.Sport.FHD.HU" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/hungary/m4-sport-fhd-hu.webp",[Soccer] 2026-07-23 17:00 - UEFA Conference League - Paksi SE vs Panathinaikos (M4 Sport FHD HU)
@@ -6765,8 +6767,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Philadelphia%20Phi
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20St.%20Louis%20Cardinals&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Chicago.White.Sox" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-12 23:15 - MLB - St. Louis Cardinals vs Chicago White Sox (MLB | Chicago White Sox)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Chicago%20White%20Sox&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.2.NZ" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/nz/sky-sport-2-nz.webp",[Basketball] 2026-07-23 06:00 - NBL - Bay Hawks vs Wellington Saints (Sky Sport 2 NZ)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%202%20NZ&code=nz&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Fox.Sports.1.FHD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-sports-1-fhd-us.webp",[Basketball] 2026-07-23 22:00 - The Basketball Tournament – Alumni Bracket - Hall In vs Boeheim's Army (Fox Sports 1 FHD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Fox%20Sports%201%20FHD%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.02.|.Vancouver.Bandits.@.Winnipeg.Sea.Bears.|.CEBL.Regular.Season.|.Thu.Jul.23.2026.8:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-07-24 00:00 - CEBL - Winnipeg Sea Bears vs Vancouver Bandits (CEBL 02 | Vancouver Bandits @ Winnipeg Sea Bears | CEBL Regular Season | Thu Jul 23 2026 8:00PM ET)
@@ -7821,16 +7821,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=ION%20Television%20US&code=&us
 https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ION.Television.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-09-25 02:00 - WNBA - Phoenix Mercury vs Las Vegas Aces (ION Television US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ION%20Television%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Tennis.Channel.FHD.DE" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Tennis] 2026-07-23 08:00 - Tennis -  vs  (Tennis Channel FHD DE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Tennis%20Channel%20FHD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports+.FHD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-fhd-uk.webp",[Tennis] 2026-07-23 08:00 - Tennis -  vs  (Sky Sports+ FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%2B%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.Uno.FHD.IT" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-uno-fhd-it.webp",[Tennis] 2026-07-23 08:00 - Tennis -  vs  (Sky Sport Uno FHD IT)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Uno%20FHD%20IT&code=it&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="SONY.TEN.2" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Tennis] 2026-07-23 08:00 - Tennis -  vs  (SONY TEN 2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=SONY%20TEN%202&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="SONY.TEN.3" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Tennis] 2026-07-23 08:00 - Tennis -  vs  (SONY TEN 3)
-https://cdnlivetv.tv/api/v1/channels/player/?name=SONY%20TEN%203&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Tennis.FHD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-tennis-fhd-uk.webp",[Tennis] 2026-07-23 08:00 - Tennis -  vs  (Sky Sports Tennis FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Tennis%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TV4.Tennis.HD.SE" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Tennis] 2026-07-23 08:00 - Tennis -  vs  (TV4 Tennis HD SE)
@@ -7839,16 +7831,12 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=TV4%20Tennis%20HD%20SE&code=&u
 https://cdnlivetv.tv/api/v1/channels/player/?name=Ziggo%20Sport%204%20FHD%20NL&code=nl&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Ziggo.Sport.5.FHD.NL" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/netherlands/ziggo-sport-5-fhd-nl.webp",[Tennis] 2026-07-23 08:00 - Tennis -  vs  (Ziggo Sport 5 FHD NL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Ziggo%20Sport%205%20FHD%20NL&code=nl&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Cytavision.Sports.5.HD.CY" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/cy/cytavision-sports-5-hd-cy.webp",[Tennis] 2026-07-23 08:00 - Tennis -  vs  (Cytavision Sports 5 HD CY)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Cytavision%20Sports%205%20HD%20CY&code=cy&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Movistar.Deportes.2.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Tennis] 2026-07-23 08:00 - Tennis -  vs  (Movistar Deportes 2 FHD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Movistar%20Deportes%202%20FHD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Max.Sport.1.FHD.BG" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/bg/max-sport-1-fhd-bg.webp",[Tennis] 2026-07-23 08:00 - Tennis -  vs  (Max Sport 1 FHD BG)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Max%20Sport%201%20FHD%20BG&code=bg&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Max.Sport.3.FHD.BG" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/bg/max-sport-3-fhd-bg.webp",[Tennis] 2026-07-23 08:00 - Tennis -  vs  (Max Sport 3 FHD BG)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Max%20Sport%203%20FHD%20BG&code=bg&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="beIN.SPORTS.1.FR.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/bein-sports-1-fr-fhd.webp",[Tennis] 2026-07-23 08:00 - Tennis -  vs  (beIN SPORTS 1 FR FHD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20SPORTS%201%20FR%20FHD&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="beIN.Sports.Max.4.HD.FR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/bein-sports-max-4-hd-fr.webp",[Tennis] 2026-07-23 08:00 - Tennis -  vs  (beIN Sports Max 4 HD FR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20Sports%20Max%204%20HD%20FR&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TYC.Sports.FHD.ARG" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/argentina/tyc-sports-fhd-arg.webp",[Tennis] 2026-07-23 08:00 - Tennis -  vs  (TYC Sports FHD ARG)
@@ -7875,6 +7863,18 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%202%20HD%20BR&code=br&use
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%205%2B%20HD%20IL&code=il&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sport.5.Live.HD.IL" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/israel/sport-5-live-hd-il.webp",[Tennis] 2026-07-23 08:00 - Tennis -  vs  (Sport 5 Live HD IL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%205%20Live%20HD%20IL&code=il&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Tennis.Channel.FHD.DE" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Tennis] 2026-07-23 08:00 - Tennis -  vs  (Tennis Channel FHD DE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Tennis%20Channel%20FHD%20DE&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Cytavision.Sports.5.HD.CY" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/cy/cytavision-sports-5-hd-cy.webp",[Tennis] 2026-07-23 08:00 - Tennis -  vs  (Cytavision Sports 5 HD CY)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Cytavision%20Sports%205%20HD%20CY&code=cy&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sport.Uno.FHD.IT" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/italy/sky-sport-uno-fhd-it.webp",[Tennis] 2026-07-23 08:00 - Tennis -  vs  (Sky Sport Uno FHD IT)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Uno%20FHD%20IT&code=it&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="SONY.TEN.2" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Tennis] 2026-07-23 08:00 - Tennis -  vs  (SONY TEN 2)
+https://cdnlivetv.tv/api/v1/channels/player/?name=SONY%20TEN%202&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="SONY.TEN.3" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Tennis] 2026-07-23 08:00 - Tennis -  vs  (SONY TEN 3)
+https://cdnlivetv.tv/api/v1/channels/player/?name=SONY%20TEN%203&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="beIN.SPORTS.1.FR.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/bein-sports-1-fr-fhd.webp",[Tennis] 2026-07-23 08:00 - Tennis -  vs  (beIN SPORTS 1 FR FHD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20SPORTS%201%20FR%20FHD&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sport.Klub.5.HD.HR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/croatia/sport-klub-5-hd-hr.webp",[Tennis] 2026-07-23 08:00 - Tennis -  vs  (Sport Klub 5 HD HR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20Klub%205%20HD%20HR&code=hr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sportklub.2.FHD.HR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/croatia/sportklub-2-fhd-hr.webp",[Tennis] 2026-07-23 10:00 - Tennis -  vs  (Sportklub 2 FHD HR)
@@ -7885,16 +7885,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20Klub%209%20HD%20HR&cod
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sportklub%204%20FHD%20HR&code=hr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MSG.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/msg-hd-us.webp",[Tennis] 2026-07-23 22:00 - INTENNSE - Smash vs Altitude (MSG HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MSG%20HD%20US&code=us&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Golf.Channel.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-07-23 07:30 - LPGA Tour -  vs  (Golf Channel HD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%20Channel%20HD%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sports.Golf.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-07-23 07:30 - LPGA Tour -  vs  (Sky Sports Golf HD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20HD%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sports.Golf.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-07-23 07:30 - LPGA Tour -  vs  (Sky Sports Golf UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.Golf.HD.DE" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-07-23 07:30 - LPGA Tour -  vs  (Sky Sport Golf HD DE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Golf%20HD%20DE&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Golf+.HD.FR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-07-23 07:30 - LPGA Tour -  vs  (Golf+ HD FR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%2B%20HD%20FR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Golf.Channel.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-07-23 14:00 - British Senior All-Around 2026 -  vs  (Golf Channel HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%20Channel%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Golf.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-07-23 14:00 - British Senior All-Around 2026 -  vs  (Sky Sports Golf HD UK)
@@ -10427,16 +10417,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20FHD&code=&user
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-10-13 00:00 - UCI World Tour -  vs  (TNT Sports 1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Polsat.Sport.1.FHD.PL" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport-1-fhd-pl.webp",[Volleyball] 2026-07-23 07:00 - Nations League Women - Türkiye W vs Canada W (Polsat Sport 1 FHD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%201%20FHD%20PL&code=pl&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Polsat.Sport.Extra.2.FHD.PL" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport-extra-2-fhd-pl.webp",[Volleyball] 2026-07-23 07:00 - Nations League Women - Türkiye W vs Canada W (Polsat Sport Extra 2 FHD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%202%20FHD%20PL&code=pl&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Max.Sport.2.FHD.BG" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/bg/max-sport-2-fhd-bg.webp",[Volleyball] 2026-07-23 07:00 - Nations League Women - Türkiye W vs Canada W (Max Sport 2 FHD BG)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Max%20Sport%202%20FHD%20BG&code=bg&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Arena.Sport.2.Premium.FHD.RS" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-2-premium-fhd-rs.webp",[Volleyball] 2026-07-23 07:00 - Nations League Women - Türkiye W vs Canada W (Arena Sport 2 Premium FHD RS)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%202%20Premium%20FHD%20RS&code=rs&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sportklub.1.FHD.HR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/croatia/sportklub-1-fhd-hr.webp",[Volleyball] 2026-07-23 07:00 - Nations League Women - Türkiye W vs Canada W (Sportklub 1 FHD HR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sportklub%201%20FHD%20HR&code=hr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Polsat.Sport.Fight.FHD.PL" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-07-23 08:00 - FIVB Volleyball Womens Nations League - Turkey Volleyball Women vs Canada Volleyball Women (Polsat Sport Fight FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Fight%20FHD%20PL&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Polsat.Sport.1.FHD.PL" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-07-23 08:00 - FIVB Volleyball Womens Nations League - Turkey Volleyball Women vs Canada Volleyball Women (Polsat Sport 1 FHD PL)
