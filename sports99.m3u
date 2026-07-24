@@ -1,34 +1,52 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz,https://github.com/nzo66/TV/raw/refs/heads/main/epg.xml.gz"
-#EXTINF:-1 tvg-id="Arena.Sport.1.Premium.FHD.RS" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-1-premium-fhd-rs.webp",[Soccer] 2026-07-23 18:00 - UEFA Conference League - Partizan vs UNA Strassen (Arena Sport 1 Premium FHD RS)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%201%20Premium%20FHD%20RS&code=rs&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="RTS.2.FHD.RS" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/serbia/rts-2-fhd-rs.webp",[Soccer] 2026-07-23 18:00 - UEFA Conference League - Partizan vs UNA Strassen (RTS 2 FHD RS)
-https://cdnlivetv.tv/api/v1/channels/player/?name=RTS%202%20FHD%20RS&code=rs&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Cytavision.Sports.2.HD.CY" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/cy/cytavision-sports-2-hd-cy.webp",[Soccer] 2026-07-23 18:00 - UEFA Europa League - Hajduk Split vs Paphos (Cytavision Sports 2 HD CY)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Cytavision%20Sports%202%20HD%20CY&code=cy&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="beIN.Sports.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/bein-sports-hd-us.webp",[Soccer] 2026-07-23 21:00 - Copa Sudamericana - Bolívar vs Grêmio (beIN Sports HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20Sports%20HD%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sportdigital.Fussball.FHD.DE" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/sportdigital-fussball-fhd-de.webp",[Soccer] 2026-07-23 21:00 - Copa Sudamericana - Bolívar vs Grêmio (Sportdigital Fussball FHD DE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sportdigital%20Fussball%20FHD%20DE&code=de&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sport.TV.1.FHD.PT" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/portugal/sport-tv-1-fhd-pt.webp",[Soccer] 2026-07-23 21:00 - Copa Sudamericana - Bolívar vs Grêmio (Sport TV 1 FHD PT)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20TV%201%20FHD%20PT&code=pt&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Arena.Sport.1.Premium.FHD.RS" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-1-premium-fhd-rs.webp",[Soccer] 2026-07-23 21:00 - Copa Sudamericana - Bolívar vs Grêmio (Arena Sport 1 Premium FHD RS)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%201%20Premium%20FHD%20RS&code=rs&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Arena.Sport.1.FHD.HR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/croatia/arena-sport-1-fhd-hr.webp",[Soccer] 2026-07-23 21:00 - Copa Sudamericana - Bolívar vs Grêmio (Arena Sport 1 FHD HR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%201%20FHD%20HR&code=hr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ESPN.2.Primera.FHD.ARG" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/argentina/espn-2-primera-fhd-arg.webp",[Soccer] 2026-07-23 21:00 - Copa Sudamericana - Bolívar vs Grêmio (ESPN 2 Primera FHD ARG)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%202%20Primera%20FHD%20ARG&code=ar&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Max.Sport.4.FHD.BG" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/bg/max-sport-4-fhd-bg.webp",[Soccer] 2026-07-23 21:00 - Copa Sudamericana - Bolívar vs Grêmio (Max Sport 4 FHD BG)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Max%20Sport%204%20FHD%20BG&code=bg&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sport.4.HD.IL" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/israel/sport-4-hd-il.webp",[Soccer] 2026-07-23 21:00 - Copa Sudamericana - Bolívar vs Grêmio (Sport 4 HD IL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%204%20HD%20IL&code=il&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Premiere.2.HD.BR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/brazil/premiere-2-hd-br.webp",[Soccer] 2026-07-23 21:30 - Brasileirão - Botafogo vs Vitória (Premiere 2 HD BR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=br&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Movistar.Liga.de.Campeones.2.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/movistar-liga-de-campeones-2-fhd.webp",[Soccer] 2026-07-23 21:30 - Brasileirão - Corinthians vs Remo (Movistar Liga de Campeones 2 FHD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Movistar%20Liga%20de%20Campeones%202%20FHD&code=de&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Movistar.Vamos.FHD.ES" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/spain/movistar-vamos-fhd-es.webp",[Soccer] 2026-07-23 21:30 - Brasileirão - Corinthians vs Remo (Movistar Vamos FHD ES)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Movistar%20Vamos%20FHD%20ES&code=es&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Match.Football.3.RU" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/russia/match-football-3-ru.webp",[Soccer] 2026-07-23 21:30 - Brasileirão - Corinthians vs Remo (Match Football 3 RU)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Match%20Football%203%20RU&code=ru&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Arena.Sport.1.Premium.FHD.RS" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/serbia/arena-sport-1-premium-fhd-rs.webp",[Soccer] 2026-07-23 21:00 - Copa Sudamericana - Bolívar vs Grêmio (Arena Sport 1 Premium FHD RS)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%201%20Premium%20FHD%20RS&code=rs&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Arena.Sport.1.FHD.HR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/croatia/arena-sport-1-fhd-hr.webp",[Soccer] 2026-07-23 21:00 - Copa Sudamericana - Bolívar vs Grêmio (Arena Sport 1 FHD HR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Arena%20Sport%201%20FHD%20HR&code=hr&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.Clubes.HD.BR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-23 21:30 - Brasileirão - Botafogo vs Vitória (Premiere Clubes HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.2.HD.BR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-23 21:30 - Brasileirão - Botafogo vs Vitória (Premiere 2 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.3.HD.BR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-23 21:30 - Brasileirão - Botafogo vs Vitória (Premiere 3 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%203%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.4.HD.BR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-23 21:30 - Brasileirão - Botafogo vs Vitória (Premiere 4 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%204%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.5.HD.BR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-23 21:30 - Brasileirão - Botafogo vs Vitória (Premiere 5 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%205%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.6.HD.BR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-23 21:30 - Brasileirão - Botafogo vs Vitória (Premiere 6 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%206%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.7.HD.BR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-23 21:30 - Brasileirão - Botafogo vs Vitória (Premiere 7 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%207%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.1.HD.BR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-23 21:30 - Brasileirão - Botafogo vs Vitória (Premiere 1 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%201%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.Clubes.HD.BR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-23 21:30 - Brasileirão - Corinthians vs Remo (Premiere Clubes HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%20Clubes%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.2.HD.BR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-23 21:30 - Brasileirão - Corinthians vs Remo (Premiere 2 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%202%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.3.HD.BR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-23 21:30 - Brasileirão - Corinthians vs Remo (Premiere 3 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%203%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.4.HD.BR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-23 21:30 - Brasileirão - Corinthians vs Remo (Premiere 4 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%204%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.5.HD.BR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-23 21:30 - Brasileirão - Corinthians vs Remo (Premiere 5 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%205%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.6.HD.BR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-23 21:30 - Brasileirão - Corinthians vs Remo (Premiere 6 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%206%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.7.HD.BR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-23 21:30 - Brasileirão - Corinthians vs Remo (Premiere 7 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%207%20HD%20BR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Premiere.1.HD.BR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-23 21:30 - Brasileirão - Corinthians vs Remo (Premiere 1 HD BR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%201%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ESPN.Premium.FHD.ARG" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/argentina/espn-premium-fhd-arg.webp",[Soccer] 2026-07-23 21:30 - Argentina Primera División - Sarmiento vs Argentinos Juniors (ESPN Premium FHD ARG)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Premium%20FHD%20ARG&code=ar&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.FHD.ARG" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/argentina/tnt-sports-fhd-arg.webp",[Soccer] 2026-07-23 21:30 - Argentina Primera División - Belgrano vs Rosario Central (TNT Sports FHD ARG)
@@ -1083,22 +1101,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%20%7C%20Calgary%20Surge%2
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MSG.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/msg-hd-us.webp",[Tennis] 2026-07-23 22:00 - INTENNSE - Smash vs Altitude (MSG HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MSG%20HD%20US&code=us&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Golf.Channel.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-07-23 19:00 - PGA Tour -  vs  (Golf Channel HD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%20Channel%20HD%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sports.Golf.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-07-23 19:00 - PGA Tour -  vs  (Sky Sports Golf HD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20HD%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sports.Golf.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-07-23 19:00 - PGA Tour -  vs  (Sky Sports Golf UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.Golf.HD.DE" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-07-23 19:00 - PGA Tour -  vs  (Sky Sport Golf HD DE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%20Golf%20HD%20DE&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Golf+.HD.FR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-07-23 19:00 - PGA Tour -  vs  (Golf+ HD FR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%2B%20HD%20FR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TV4.Motor.SE" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-07-23 18:15 - FIA European Rally Championship -  vs  (TV4 Motor SE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TV4%20Motor%20SE&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Motowizja.FHD.PL" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/motowizja-fhd-pl.webp",[Motorsport] 2026-07-23 18:15 - FIA European Rally Championship -  vs  (Motowizja FHD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Motowizja%20FHD%20PL&code=pl&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Cosmote.Sport.5.HD.GR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-07-23 18:15 - FIA European Rally Championship -  vs  (Cosmote Sport 5 HD GR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Cosmote%20Sport%205%20HD%20GR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Apple.TV+.Series.info" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-07-24 11:30 - Formula 1 -  vs  (Apple TV+ Series info)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Apple%20TV%2B%20Series%20info&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Apple.TV+.Series.1" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-07-24 11:30 - Formula 1 -  vs  (Apple TV+ Series 1)
@@ -1301,6 +1303,16 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%201%20(Solo%20Eventos)&cod
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%202&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.3.(Solo.Eventos)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-26 00:00 - Boxing -  vs  (UFC 3 (Solo Eventos))
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%203%20(Solo%20Eventos)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="End.|.UFC.Oklahoma.City.Ceremonial.Weigh-In.|.all.|.PRIME-US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-26 00:00 - Boxing -  vs  (End | UFC Oklahoma City Ceremonial Weigh-In | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20Oklahoma%20City%20Ceremonial%20Weigh-In%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="End.|.This.Is.UFC:.McGregor.vs..Holloway.|.all.|.PRIME-US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-26 00:00 - Boxing -  vs  (End | This Is UFC: McGregor vs. Holloway | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20This%20Is%20UFC%3A%20McGregor%20vs.%20Holloway%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="End.|.UFC.329:.Press.Conference.|.all.|.PRIME-US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-26 00:00 - Boxing -  vs  (End | UFC 329: Press Conference | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20329%3A%20Press%20Conference%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="End.|.UFC.329:.Ceremonial.Weigh-In.|.all.|.PRIME-US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-26 00:00 - Boxing -  vs  (End | UFC 329: Ceremonial Weigh-In | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20329%3A%20Ceremonial%20Weigh-In%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="End.|.UFC.Hall.of.Fame.Induction.Ceremony.|.all.|.PRIME-US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-26 00:00 - Boxing -  vs  (End | UFC Hall of Fame Induction Ceremony | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20Hall%20of%20Fame%20Induction%20Ceremony%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="PPV.06.ⓧ|.UFC.|.Early.Prelims.|.Sat.18th.Jul.10:00PM.UK/5:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-26 00:00 - Boxing -  vs  (PPV 06 ⓧ| UFC | Early Prelims | Sat 18th Jul 10:00PM UK/5:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=PPV%2006%20%E2%93%A7%7C%20UFC%20%7C%20Early%20Prelims%20%7C%20Sat%2018th%20Jul%2010%3A00PM%20UK%2F5%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="PPV.07.ⓧ|.UFC.|.Prelims.|.Sat.18th.Jul.11:00PM.UK/6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-26 00:00 - Boxing -  vs  (PPV 07 ⓧ| UFC | Prelims | Sat 18th Jul 11:00PM UK/6:00PM ET)
@@ -1311,18 +1323,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=PPV%2008%20%E2%93%A7%7C%20UFC%
 https://cdnlivetv.tv/api/v1/channels/player/?name=PPV%2009%20%E2%93%A7%7C%20UFC%20%7C%20Du%20Plessis%20v%20Usman%20%7C%20Sat%2018th%20Jul%201%3A00AM%20UK%2F8%3A00PM%20ET%20(Backup)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="PPV.10.ⓧ|.UFC.|.Du.Plessis.v.Usman.|.Sat.18th.Jul.1:00AM.UK/8:00PM.ET.(Backup.2)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-26 00:00 - Boxing -  vs  (PPV 10 ⓧ| UFC | Du Plessis v Usman | Sat 18th Jul 1:00AM UK/8:00PM ET (Backup 2))
 https://cdnlivetv.tv/api/v1/channels/player/?name=PPV%2010%20%E2%93%A7%7C%20UFC%20%7C%20Du%20Plessis%20v%20Usman%20%7C%20Sat%2018th%20Jul%201%3A00AM%20UK%2F8%3A00PM%20ET%20(Backup%202)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="End.|.UFC.Oklahoma.City.Ceremonial.Weigh-In.|.all.|.PRIME-US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-26 00:00 - Boxing -  vs  (End | UFC Oklahoma City Ceremonial Weigh-In | all | PRIME-US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20Oklahoma%20City%20Ceremonial%20Weigh-In%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="End.|.This.Is.UFC:.McGregor.vs..Holloway.|.all.|.PRIME-US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-26 00:00 - Boxing -  vs  (End | This Is UFC: McGregor vs. Holloway | all | PRIME-US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20This%20Is%20UFC%3A%20McGregor%20vs.%20Holloway%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="End.|.UFC.329:.Ceremonial.Weigh-In.|.all.|.PRIME-US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-26 00:00 - Boxing -  vs  (End | UFC 329: Ceremonial Weigh-In | all | PRIME-US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20329%3A%20Ceremonial%20Weigh-In%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="(CA).(Dazn.023).|.UFC.329:.McGregor.vs..Holloway.2.(2026-07-11.21:00:00)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-26 00:00 - Boxing -  vs  ((CA) (Dazn 023) | UFC 329: McGregor vs. Holloway 2 (2026-07-11 21:00:00))
 https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20023)%20%7C%20UFC%20329%3A%20McGregor%20vs.%20Holloway%202%20(2026-07-11%2021%3A00%3A00)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="End.|.UFC.Hall.of.Fame.Induction.Ceremony.|.all.|.PRIME-US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-26 00:00 - Boxing -  vs  (End | UFC Hall of Fame Induction Ceremony | all | PRIME-US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20Hall%20of%20Fame%20Induction%20Ceremony%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="End.|.UFC.329:.Press.Conference.|.all.|.PRIME-US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-26 00:00 - Boxing -  vs  (End | UFC 329: Press Conference | all | PRIME-US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20329%3A%20Press%20Conference%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="(CA).(Dazn.033).|.UFC.329:.McGregor.vs..Holloway.2.(2026-07-11.21:00:00)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-26 00:00 - Boxing -  vs  ((CA) (Dazn 033) | UFC 329: McGregor vs. Holloway 2 (2026-07-11 21:00:00))
 https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20033)%20%7C%20UFC%20329%3A%20McGregor%20vs.%20Holloway%202%20(2026-07-11%2021%3A00%3A00)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Starzplay" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-01 00:00 - Boxing -  vs  (UFC Starzplay)
