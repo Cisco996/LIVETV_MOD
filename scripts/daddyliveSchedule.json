@@ -58,6 +58,10 @@
                     {
                         "channel_name": "Triller TV",
                         "channel_id": "180"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6088"
                     }
                 ]
             },
@@ -4984,6 +4988,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "8013"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6086"
                     }
                 ]
             },
@@ -5008,6 +5016,10 @@
                     {
                         "channel_name": "VICE TV USA",
                         "channel_id": "659"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6090"
                     }
                 ]
             },
@@ -5026,6 +5038,10 @@
                     {
                         "channel_name": "\u041c\u0410\u0422\u0427! \u0411\u041e\u0415\u0426 Russia",
                         "channel_id": "395"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6089"
                     }
                 ]
             },
@@ -5060,6 +5076,14 @@
                     {
                         "channel_name": "DAZN DE",
                         "channel_id": "3009"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "8013"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6089"
                     }
                 ]
             }
@@ -5196,6 +5220,10 @@
                     {
                         "channel_name": "DAZN DE",
                         "channel_id": "3013"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6091"
                     }
                 ]
             }
@@ -5322,6 +5350,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5002"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6087"
                     }
                 ]
             }
