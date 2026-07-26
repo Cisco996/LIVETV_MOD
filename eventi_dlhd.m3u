@@ -2,9 +2,6 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="3 - Eventi Live DLHD",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-id="2026halloffamepreviewlive" tvg-name="TV Shows 📺 | ⚾ 🇺🇸 2026 Hall of Fame Preview (Live) (15:00)" group-title="3 - Eventi Live DLHD",(ENG) TV Shows 📺 | ⚾ 🇺🇸 2026 Hall of Fame Preview (Live) (15:00)
-https://dlhd.st/watch.php?id=399
-
 #EXTINF:-1 tvg-id="2026baseballhalloffameinductionceremonylive" tvg-name="TV Shows 📺 | ⚾ 🇺🇸 2026 Baseball Hall of Fame Induction Ceremony (Live) (17:30)" group-title="3 - Eventi Live DLHD",(ENG) TV Shows 📺 | ⚾ 🇺🇸 2026 Baseball Hall of Fame Induction Ceremony (Live) (17:30)
 https://dlhd.st/watch.php?id=399
 
@@ -47,6 +44,9 @@ https://dlhd.st/watch.php?id=3085
 #EXTINF:-1 tvg-id="canadianpremierleagueintertorontovsforgefc" tvg-name="All Soccer Events ⚽ | ⚽ 🇨🇦 Canadian Premier League : Inter Toronto 🇨🇦 vs Forge FC 🇨🇦 (21:00)" group-title="3 - Eventi Live DLHD",(ENG) All Soccer Events ⚽ | ⚽ 🇨🇦 Canadian Premier League : Inter Toronto 🇨🇦 vs Forge FC 🇨🇦 (21:00)
 https://dlhd.st/watch.php?id=758
 
+#EXTINF:-1 tvg-id="canadianpremierleagueintertorontovsforgefc" tvg-name="All Soccer Events ⚽ | ⚽ 🇨🇦 Canadian Premier League : Inter Toronto 🇨🇦 vs Forge FC 🇨🇦 (21:00)" group-title="3 - Eventi Live DLHD",(ENG) All Soccer Events ⚽ | ⚽ 🇨🇦 Canadian Premier League : Inter Toronto 🇨🇦 vs Forge FC 🇨🇦 (21:00)
+https://dlhd.st/watch.php?id=3082
+
 #EXTINF:-1 tvg-id="chileprimeradivisiónaudaxitalianovsuniversidaddechile" tvg-name="All Soccer Events ⚽ | ⚽ 🇨🇱 Chile - Primera División : Audax Italiano 🇨🇱 vs Universidad de Chile 🇨🇱 (21:30)" group-title="3 - Eventi Live DLHD",(ENG) All Soccer Events ⚽ | ⚽ 🇨🇱 Chile - Primera División : Audax Italiano 🇨🇱 vs Universidad de Chile 🇨🇱 (21:30)
 https://dlhd.st/watch.php?id=642
 
@@ -62,24 +62,6 @@ https://dlhd.st/watch.php?id=451
 #EXTINF:-1 tvg-id="nwslsandiegowavevsseattlereignfc" tvg-name="NWSL Soccer ⚽ | ⚽ 🇺🇸 NWSL : San Diego Wave 🇺🇸 vs Seattle Reign FC 🇺🇸 (21:00)" group-title="3 - Eventi Live DLHD",(ENG) NWSL Soccer ⚽ | ⚽ 🇺🇸 NWSL : San Diego Wave 🇺🇸 vs Seattle Reign FC 🇺🇸 (21:00)
 https://dlhd.st/watch.php?id=34
 
-#EXTINF:-1 tvg-id="clubfriendlykarlsruherscvsintermilan" tvg-name="Club Friendly ⚽ | ⚽ 🌍 Club Friendly : Karlsruher SC 🇩🇪 vs Inter Milan 🇮🇹 (14:30)" group-title="3 - Eventi Live DLHD",(ENG) Club Friendly ⚽ | ⚽ 🌍 Club Friendly : Karlsruher SC 🇩🇪 vs Inter Milan 🇮🇹 (14:30)
-https://dlhd.st/watch.php?id=550
-
-#EXTINF:-1 tvg-id="clubfriendlykarlsruherscvsintermilan" tvg-name="Club Friendly ⚽ | ⚽ 🌍 Club Friendly : Karlsruher SC 🇩🇪 vs Inter Milan 🇮🇹 (14:30)" group-title="3 - Eventi Live DLHD",(IT) Club Friendly ⚽ | ⚽ 🌍 Club Friendly : Karlsruher SC 🇩🇪 vs Inter Milan 🇮🇹 (14:30)
-https://dlhd.st/watch.php?id=870
-
-#EXTINF:-1 tvg-id="clubfriendlykarlsruherscvsintermilan" tvg-name="Club Friendly ⚽ | ⚽ 🌍 Club Friendly : Karlsruher SC 🇩🇪 vs Inter Milan 🇮🇹 (14:30)" group-title="3 - Eventi Live DLHD",(ENG) Club Friendly ⚽ | ⚽ 🌍 Club Friendly : Karlsruher SC 🇩🇪 vs Inter Milan 🇮🇹 (14:30)
-https://dlhd.st/watch.php?id=3002
-
-#EXTINF:-1 tvg-id="clubfriendlynapolivscarrarese" tvg-name="Club Friendly ⚽ | ⚽ 🌍 Club Friendly : Napoli 🇮🇹 vs Carrarese 🇮🇹 (16:00)" group-title="3 - Eventi Live DLHD",(IT) Club Friendly ⚽ | ⚽ 🌍 Club Friendly : Napoli 🇮🇹 vs Carrarese 🇮🇹 (16:00)
-https://dlhd.st/watch.php?id=10
-
-#EXTINF:-1 tvg-id="clubfriendlylaziovsflaminia" tvg-name="Club Friendly ⚽ | ⚽ 🌍 Club Friendly : Lazio vs Flaminia (16:00)" group-title="3 - Eventi Live DLHD",(IT) Club Friendly ⚽ | ⚽ 🌍 Club Friendly : Lazio vs Flaminia (16:00)
-https://dlhd.st/watch.php?id=3045
-
-#EXTINF:-1 tvg-id="clubfriendlyromavscannes" tvg-name="Club Friendly ⚽ | ⚽ 🌍 Club Friendly : Roma vs Cannes (16:00)" group-title="3 - Eventi Live DLHD",(IT) Club Friendly ⚽ | ⚽ 🌍 Club Friendly : Roma vs Cannes (16:00)
-https://dlhd.st/watch.php?id=3046
-
 #EXTINF:-1 tvg-id="thehundredtrentrocketsvslondonspirit" tvg-name="Cricket 🏏 | 🏏 🏴 The Hundred : Trent Rockets 🏴 vs London Spirit 🏴 (17:00)" group-title="3 - Eventi Live DLHD",(ENG) Cricket 🏏 | 🏏 🏴 The Hundred : Trent Rockets 🏴 vs London Spirit 🏴 (17:00)
 https://dlhd.st/watch.php?id=357
 
@@ -88,15 +70,6 @@ https://dlhd.st/watch.php?id=65
 
 #EXTINF:-1 tvg-id="thehundredtrentrocketsvslondonspirit" tvg-name="Cricket 🏏 | 🏏 🏴 The Hundred : Trent Rockets 🏴 vs London Spirit 🏴 (17:00)" group-title="3 - Eventi Live DLHD",(ENG) Cricket 🏏 | 🏏 🏴 The Hundred : Trent Rockets 🏴 vs London Spirit 🏴 (17:00)
 https://dlhd.st/watch.php?id=449
-
-#EXTINF:-1 tvg-id="majorleaguepickleballmlpchicagolive" tvg-name="Tennis 🎾 | 🥒 🇺🇸 Major League Pickleball : MLP Chicago Live (15:00)" group-title="3 - Eventi Live DLHD",(ENG) Tennis 🎾 | 🥒 🇺🇸 Major League Pickleball : MLP Chicago Live (15:00)
-https://dlhd.st/watch.php?id=765
-
-#EXTINF:-1 tvg-id="fimmotocrossworldchampionshipczechrepublicgpmxgprace2" tvg-name="Motorsport 🏎️🏁 | 🏍️ 🇨🇿 FIM Motocross World Championship : Czech Republic GP – MXGP Race 2 (15:00)" group-title="3 - Eventi Live DLHD",(ENG) Motorsport 🏎️🏁 | 🏍️ 🇨🇿 FIM Motocross World Championship : Czech Republic GP – MXGP Race 2 (15:00)
-https://dlhd.st/watch.php?id=77
-
-#EXTINF:-1 tvg-id="mxgpworldchampionshipczechiamxgprace2" tvg-name="Motorsport 🏎️🏁 | 🏍️ 🇨🇿 MXGP World Championship Czechia : MXGP Race 2 (15:00)" group-title="3 - Eventi Live DLHD",(IT) Motorsport 🏎️🏁 | 🏍️ 🇨🇿 MXGP World Championship Czechia : MXGP Race 2 (15:00)
-https://dlhd.st/watch.php?id=879
 
 #EXTINF:-1 tvg-id="nascarcupseriesindianapolismotorspeedway" tvg-name="Motorsport 🏎️🏁 | 🏎️ 🇺🇸 NASCAR Cup Series : Indianapolis Motor Speedway (18:00)" group-title="3 - Eventi Live DLHD",(ENG) Motorsport 🏎️🏁 | 🏎️ 🇺🇸 NASCAR Cup Series : Indianapolis Motor Speedway (18:00)
 https://dlhd.st/watch.php?id=341
@@ -143,18 +116,6 @@ https://dlhd.st/watch.php?id=70
 #EXTINF:-1 tvg-id="pgatour3mopenfinalround" tvg-name="Golf ⛳ | ⛳ 🇺🇸 PGA Tour : 3M Open – Final Round (19:00)" group-title="3 - Eventi Live DLHD",(ENG) Golf ⛳ | ⛳ 🇺🇸 PGA Tour : 3M Open – Final Round (19:00)
 https://dlhd.st/watch.php?id=318
 
-#EXTINF:-1 tvg-id="2026nflflagchampionshipsboys14usemifinals" tvg-name="NFL Flag Championships 🏈 | 🏈 🇺🇸 2026 NFL Flag Championships : Boys 14U Semi-finals (15:00)" group-title="3 - Eventi Live DLHD",(ENG) NFL Flag Championships 🏈 | 🏈 🇺🇸 2026 NFL Flag Championships : Boys 14U Semi-finals (15:00)
-https://dlhd.st/watch.php?id=44
-
-#EXTINF:-1 tvg-id="2026nflflagchampionshipsboys14usemifinals" tvg-name="NFL Flag Championships 🏈 | 🏈 🇺🇸 2026 NFL Flag Championships : Boys 14U Semi-finals (15:00)" group-title="3 - Eventi Live DLHD",(ENG) NFL Flag Championships 🏈 | 🏈 🇺🇸 2026 NFL Flag Championships : Boys 14U Semi-finals (15:00)
-https://dlhd.st/watch.php?id=405
-
-#EXTINF:-1 tvg-id="2026nflflagchampionshipshighschoolgirlsdivisionsemifinals" tvg-name="NFL Flag Championships 🏈 | 🏈 🇺🇸 2026 NFL Flag Championships : High School Girls Division Semi-finals (16:00)" group-title="3 - Eventi Live DLHD",(ENG) NFL Flag Championships 🏈 | 🏈 🇺🇸 2026 NFL Flag Championships : High School Girls Division Semi-finals (16:00)
-https://dlhd.st/watch.php?id=44
-
-#EXTINF:-1 tvg-id="2026nflflagchampionshipshighschoolgirlsdivisionsemifinals" tvg-name="NFL Flag Championships 🏈 | 🏈 🇺🇸 2026 NFL Flag Championships : High School Girls Division Semi-finals (16:00)" group-title="3 - Eventi Live DLHD",(ENG) NFL Flag Championships 🏈 | 🏈 🇺🇸 2026 NFL Flag Championships : High School Girls Division Semi-finals (16:00)
-https://dlhd.st/watch.php?id=405
-
 #EXTINF:-1 tvg-id="2026nflflagchampionshipshighschoolgirlsdivisionsemifinals" tvg-name="NFL Flag Championships 🏈 | 🏈 🇺🇸 2026 NFL Flag Championships : High School Girls Division Semi-finals (17:00)" group-title="3 - Eventi Live DLHD",(ENG) NFL Flag Championships 🏈 | 🏈 🇺🇸 2026 NFL Flag Championships : High School Girls Division Semi-finals (17:00)
 https://dlhd.st/watch.php?id=44
 
@@ -193,9 +154,6 @@ https://dlhd.st/watch.php?id=769
 
 #EXTINF:-1 tvg-id="bananaballworldtoursavannahbananasvsthefirefighters" tvg-name="Baseball ⚾ | ⚾ 🇺🇸 Banana Ball World Tour : Savannah Bananas 🇺🇸 vs The Firefighters 🇺🇸 (20:00)" group-title="3 - Eventi Live DLHD",(ENG) Baseball ⚾ | ⚾ 🇺🇸 Banana Ball World Tour : Savannah Bananas 🇺🇸 vs The Firefighters 🇺🇸 (20:00)
 https://dlhd.st/watch.php?id=44
-
-#EXTINF:-1 tvg-id="highschoolsoftballafcs18uchampionshipseries" tvg-name="Softball 🥎 | 🥎 🇺🇸 High School Softball : AFCS 18U Championship Series (16:00)" group-title="3 - Eventi Live DLHD",(ENG) Softball 🥎 | 🥎 🇺🇸 High School Softball : AFCS 18U Championship Series (16:00)
-https://dlhd.st/watch.php?id=105
 
 #EXTINF:-1 tvg-id="athletesunlimitedsoftballleagueutahtalonsvschicagobandits" tvg-name="Softball 🥎 | 🥎 🇺🇸 Athletes Unlimited Softball League : Utah Talons 🇺🇸 vs Chicago Bandits 🇺🇸 (18:00)" group-title="3 - Eventi Live DLHD",(ENG) Softball 🥎 | 🥎 🇺🇸 Athletes Unlimited Softball League : Utah Talons 🇺🇸 vs Chicago Bandits 🇺🇸 (18:00)
 https://dlhd.st/watch.php?id=44
@@ -256,21 +214,6 @@ https://dlhd.st/watch.php?id=54
 
 #EXTINF:-1 tvg-id="thebasketballtournament1millionchampionshiptournament" tvg-name="Basketball 🏀 | 🏀 🇺🇸 The Basketball Tournament : $1 Million Championship Tournament (23:00)" group-title="3 - Eventi Live DLHD",(ENG) Basketball 🏀 | 🏀 🇺🇸 The Basketball Tournament : $1 Million Championship Tournament (23:00)
 https://dlhd.st/watch.php?id=39
-
-#EXTINF:-1 tvg-id="rolexsailgpchampionshipemiratesgreatbritainsailgrandprixday2" tvg-name="Sailing ⛵/ Boating 🚤 | ⛵ 🌍 Rolex SailGP Championship : Emirates Great Britain Sail Grand Prix – Day 2 (15:30)" group-title="3 - Eventi Live DLHD",(ENG) Sailing ⛵/ Boating 🚤 | ⛵ 🌍 Rolex SailGP Championship : Emirates Great Britain Sail Grand Prix – Day 2 (15:30)
-https://dlhd.st/watch.php?id=33
-
-#EXTINF:-1 tvg-id="tourdefrancestage21flat130km1000m" tvg-name="Cycling 🚴 | 🚴 🇫🇷 Tour de France : Stage 21 – Flat | 130 km | 1 -000 m (14:25)" group-title="3 - Eventi Live DLHD",(ENG) Cycling 🚴 | 🚴 🇫🇷 Tour de France : Stage 21 – Flat | 130 km | 1 -000 m (14:25)
-https://dlhd.st/watch.php?id=53
-
-#EXTINF:-1 tvg-id="tourdefrancestage21flat130km1000m" tvg-name="Cycling 🚴 | 🚴 🇫🇷 Tour de France : Stage 21 – Flat | 130 km | 1 -000 m (14:25)" group-title="3 - Eventi Live DLHD",(ENG) Cycling 🚴 | 🚴 🇫🇷 Tour de France : Stage 21 – Flat | 130 km | 1 -000 m (14:25)
-https://dlhd.st/watch.php?id=670
-
-#EXTINF:-1 tvg-id="tourdefrancestage21flat130km1000m" tvg-name="Cycling 🚴 | 🚴 🇫🇷 Tour de France : Stage 21 – Flat | 130 km | 1 -000 m (14:25)" group-title="3 - Eventi Live DLHD",(ENG) Cycling 🚴 | 🚴 🇫🇷 Tour de France : Stage 21 – Flat | 130 km | 1 -000 m (14:25)
-https://dlhd.st/watch.php?id=31
-
-#EXTINF:-1 tvg-id="tourdefrancestage21flat130km1000m" tvg-name="Cycling 🚴 | 🚴 🇫🇷 Tour de France : Stage 21 – Flat | 130 km | 1 -000 m (14:25)" group-title="3 - Eventi Live DLHD",(IT) Cycling 🚴 | 🚴 🇫🇷 Tour de France : Stage 21 – Flat | 130 km | 1 -000 m (14:25)
-https://dlhd.st/watch.php?id=878
 
 #EXTINF:-1 tvg-id="pdcworldmatchplaymensfinalwintergardensblackpool" tvg-name="Darts 🎯 | 🎯 🌍 PDC World Matchplay - Men's Final - Winter Gardens - Blackpool (19:00)" group-title="3 - Eventi Live DLHD",(ENG) Darts 🎯 | 🎯 🌍 PDC World Matchplay - Men's Final - Winter Gardens - Blackpool (19:00)
 https://dlhd.st/watch.php?id=37
