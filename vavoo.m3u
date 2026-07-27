@@ -15,6 +15,8 @@ https://vavoo.to/vavoo-iptv/play/3701871205057c15adedda
 https://vavoo.to/vavoo-iptv/play/116175301085677e1637cf
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/3zkPKViC7G2rHWbBpYzSL6dFM9OMFBqIC6JrT-mM73EQsERHMqx4sPzWpBD8nfEqgf_uSHi124Y=s900-c-k-c0x00ffffff-no-rj" group-title="1 - Vavoo Altro",A3
 https://vavoo.to/vavoo-iptv/play/445158856541438cd842a
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="1 - Vavoo Altro",AB
+https://vavoo.to/vavoo-iptv/play/1491139076cadf4c6a33d9
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="1 - Vavoo Altro",ADESSO TV
 https://vavoo.to/vavoo-iptv/play/15558564102ab0cc0f61cf
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="1 - Vavoo Altro",ALICE (1)
@@ -91,6 +93,8 @@ https://vavoo.to/vavoo-iptv/play/31075009959a8de9232b11
 https://vavoo.to/vavoo-iptv/play/888430169ea2f335c3171
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="1 - Vavoo Altro",CANALE TELECHIARA
 https://vavoo.to/vavoo-iptv/play/3065008757a139b0fed8ff
+#EXTINF:-1 tvg-id="" tvg-logo="https://radiocarina.it/wp-content/uploads/2024/01/RadioCarina-Vers.2.png" group-title="1 - Vavoo Altro",CARINA TV
+https://vavoo.to/vavoo-iptv/play/1527236924d8d52d57c2e3
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Catfish%2C_the_TV_Show_Logo.PNG" group-title="1 - Vavoo Altro",CATFISH
 https://vavoo.to/vavoo-iptv/play/23815838281e427554084f
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="1 - Vavoo Altro",CG ENTERTAINMENT
@@ -139,8 +143,6 @@ https://vavoo.to/vavoo-iptv/play/422225837740225c1416e8
 https://vavoo.to/vavoo-iptv/play/252327041090705122d0f4
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="1 - Vavoo Altro",EXTRA TV
 https://vavoo.to/vavoo-iptv/play/33656973896c0d65694135
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="1 - Vavoo Altro",FAILARMY
-https://vavoo.to/vavoo-iptv/play/458018069af4096ff6c35
 #EXTINF:-1 tvg-id="" tvg-logo="https://prolocopesarourbino.it/wp-content/uploads/2019/07/FANO-TV.jpg" group-title="1 - Vavoo Altro",FANO TV
 https://vavoo.to/vavoo-iptv/play/1798700028a88b50c2df9d
 #EXTINF:-1 tvg-id="fashion.tv.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/fashion-tv-int.png?raw=true" group-title="1 - Vavoo Altro",FASHIONTV
@@ -163,8 +165,6 @@ https://vavoo.to/vavoo-iptv/play/40604994550f228d5b9b59
 https://vavoo.to/vavoo-iptv/play/2470759321a8c43b171125
 #EXTINF:-1 tvg-id="" tvg-logo="https://ennapress.it/wp-content/uploads/2020/10/globus.png" group-title="1 - Vavoo Altro",GLOBUS TELEVISION
 https://vavoo.to/vavoo-iptv/play/2116902817eb437d88bab6
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSjSJx2Wah0-hfWbBn4_C79K5I0600lcD8zw&s" group-title="1 - Vavoo Altro",GOLD TV
-https://vavoo.to/vavoo-iptv/play/2854396316c4fc7fe60f75
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="1 - Vavoo Altro",GRANDE FRATELLO
 https://vavoo.to/vavoo-iptv/play/130018905764f20a1f9289
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.telegranducato.it/wp-content/uploads/img_struttura_sito/logo_granducato_ridotto.png" group-title="1 - Vavoo Altro",GRANDUCATO
@@ -223,8 +223,10 @@ https://vavoo.to/vavoo-iptv/play/39352793540cc70e97548d
 https://vavoo.to/vavoo-iptv/play/41987887706cc8d9c7ddd3
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="1 - Vavoo Altro",NET TV
 https://vavoo.to/vavoo-iptv/play/304085498822d221b3965
-#EXTINF:-1 tvg-id="nickelodeon.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nickelodeon-it.png" group-title="1 - Vavoo Altro",NICKELODEON
+#EXTINF:-1 tvg-id="nickelodeon.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nickelodeon-it.png" group-title="1 - Vavoo Altro",NICKELODEON (1)
 https://vavoo.to/vavoo-iptv/play/30393892159798f5cebb7c
+#EXTINF:-1 tvg-id="nickelodeon.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nickelodeon-it.png" group-title="1 - Vavoo Altro",NICKELODEON (2)
+https://vavoo.to/vavoo-iptv/play/30731921955c34b3a330ec
 #EXTINF:-1 tvg-id="nove.it" tvg-logo="" group-title="1 - Vavoo Altro",NOVE
 https://vavoo.to/vavoo-iptv/play/867216452ba4d42b41ada
 #EXTINF:-1 tvg-id="" tvg-logo="https://gag-fondazionedeagostini.s3.amazonaws.com/wp-content/uploads/2023/03/logo-Onda-Novara-TV-Ufficiale-1.png" group-title="1 - Vavoo Altro",ONDA NOVARA TV (1)
@@ -569,6 +571,8 @@ https://vavoo.to/vavoo-iptv/play/3344963942d5b8b48cdfe0
 https://vavoo.to/vavoo-iptv/play/215827632715f84c8de94
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/1200px-Radio_m2o_-_Logo_2019.svg.png" group-title="1 - Vavoo Musica",M2O (2)
 https://vavoo.to/vavoo-iptv/play/1189750614b197994e963d
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="1 - Vavoo Musica",M2O TV
+https://vavoo.to/vavoo-iptv/play/12789846009c1f647db85b
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/570326948497195008/Wf6DPfFP_400x400.jpeg" group-title="1 - Vavoo Musica",OL3 RADIO
 https://vavoo.to/vavoo-iptv/play/681027341f93934e0bc5
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="1 - Vavoo Musica",RADIO 101
@@ -673,6 +677,8 @@ https://vavoo.to/vavoo-iptv/play/78546677680f40b76841
 https://vavoo.to/vavoo-iptv/play/210669162201ec2365574
 #EXTINF:-1 tvg-id="sky.sport.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="1 - Vavoo Sport",SKY SPORT UNO (2)
 https://vavoo.to/vavoo-iptv/play/3192996672d2c923be0346
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="1 - Vavoo Sport",SKY SPORTS 24
+https://vavoo.to/vavoo-iptv/play/34936071312c994246f2bd
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="1 - Vavoo Sport",SKY SPORTS F1
 https://vavoo.to/vavoo-iptv/play/22890389722acc4573933d
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="1 - Vavoo Sport",SKY SUPER TENNIS
