@@ -1,24 +1,4 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz,https://github.com/nzo66/TV/raw/refs/heads/main/epg.xml.gz"
-#EXTINF:-1 tvg-id="Cytavision.Sports.1.HD.CY" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/cy/cytavision-sports-1-hd-cy.webp",[Soccer] 2026-07-28 16:00 - UEFA Conference League - UEFA Conference League: Apollon Limassol vs Dila Gori (Cytavision Sports 1 HD CY)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Cytavision%20Sports%201%20HD%20CY&code=cy&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sport.1.HD.IL" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/israel/sport-1-hd-il.webp",[Soccer] 2026-07-28 16:00 - All Soccer Events - Toto Cup Ligat Al: Ironi Kiryat Shmona vs Maccabi Haifa (Sport 1 HD IL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%201%20HD%20IL&code=il&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TV4.Fotboll.SE" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/sweden/tv4-fotboll-se.webp",[Soccer] 2026-07-28 16:00 - All Soccer Events - Superettan: Landskrona BoIS vs IFK Norrköping (TV4 Fotboll SE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TV4%20Fotboll%20SE&code=se&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Match.Premier.RU" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/russia/match-premier-ru.webp",[Soccer] 2026-07-28 16:00 - All Soccer Events - Russian Cup: 2Drots vs Orel (Match Premier RU)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Match%20Premier%20RU&code=ru&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MatchTV.RU" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/russia/matchtv-ru.webp",[Soccer] 2026-07-28 16:00 - All Soccer Events - Russian Cup: 2Drots vs Orel (MatchTV RU)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MatchTV%20RU&code=ru&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Channel.4.FHD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/channel-4-fhd-uk.webp",[Soccer] 2026-07-28 16:00 - All Soccer Events - Women's Africa Cup of Nations: Zambia Women vs Egypt Women (Channel 4 FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Channel%204%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="beIN.Sports.Xtra.FHD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-28 16:00 - All Soccer Events - Women's Africa Cup of Nations: Zambia Women vs Egypt Women (beIN Sports Xtra FHD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20Sports%20Xtra%20FHD%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Cosmote.Sport.1.HD.GR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/greece/cosmote-sport-1-hd-gr.webp",[Soccer] 2026-07-28 16:00 - Club Friendly - Club Friendly: Cambuur vs Volos NFC (Cosmote Sport 1 HD GR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Cosmote%20Sport%201%20HD%20GR&code=gr&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sport.4.HD.IL" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/israel/sport-4-hd-il.webp",[Soccer] 2026-07-28 16:00 - Club Friendly - Club Friendly: Crystal Palace vs Lens (Sport 4 HD IL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%204%20HD%20IL&code=il&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="bTV.Action.HD.BG" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/bg/btv-action-hd-bg.webp",[Soccer] 2026-07-28 16:30 - UEFA Conference League - UEFA Conference League: CSKA 1948 Sofia vs Spartak Trnava (bTV Action HD BG)
-https://cdnlivetv.tv/api/v1/channels/player/?name=bTV%20Action%20HD%20BG&code=bg&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="SRF.Zwei.HD.CH" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-28 17:00 - UEFA Champions League - UEFA Champions League: Dinamo Zagreb vs Thun (SRF Zwei HD CH)
 https://cdnlivetv.tv/api/v1/channels/player/?name=SRF%20Zwei%20HD%20CH&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sport.TV.1.FHD.PT" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/portugal/sport-tv-1-fhd-pt.webp",[Soccer] 2026-07-28 17:30 - Club Friendly - Club Friendly: Famalicão vs Crystal Palace (Sport TV 1 FHD PT)
@@ -57,6 +37,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%203%20FHD%20BR&code=br&us
 https://cdnlivetv.tv/api/v1/channels/player/?name=Max%20Sport%204%20FHD%20BG&code=bg&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ESPN.FHD.ARG" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/argentina/espn-fhd-arg.webp",[Soccer] 2026-07-28 21:00 - All Soccer Events - Copa Sudamericana: Tigre vs Nacional (ESPN FHD ARG)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20FHD%20ARG&code=ar&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sport.3.HD.IL" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/israel/sport-3-hd-il.webp",[Soccer] 2026-07-28 21:00 - All Soccer Events - Copa Sudamericana: Tigre vs Nacional (Sport 3 HD IL)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%203%20HD%20IL&code=il&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.1.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-07-28 22:00 - All Soccer Events - Northern Super League: AFC Toronto Women vs Calgary Wild Women (TSN 1 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ESPN.4.HD.BR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/brazil/espn-4-hd-br.webp",[Soccer] 2026-07-28 22:30 - Brazilian Serie B - Juventude vs Avaí (ESPN 4 HD BR)
@@ -149,8 +131,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=c
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20FHD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.4.FHD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-08-01 23:00 - CFL - Edmonton Elks vs Saskatchewan Roughriders (TSN 4 FHD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%204%20FHD%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="ESPN.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-07-28 17:40 - MLB - Cincinnati Reds vs Cleveland Guardians (ESPN US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="AT&T.SportsNet.Pittsburgh.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/at-t-sportsnet-pittsburgh-hd-us.webp",[MLB] 2026-07-28 22:40 - MLB - Pittsburgh Pirates vs Arizona Diamondbacks (AT&T SportsNet Pittsburgh HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=AT%26T%20SportsNet%20Pittsburgh%20HD%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MASN.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/masn-us.webp",[MLB] 2026-07-28 22:40 - MLB - Detroit Tigers vs Baltimore Orioles (MASN US)
@@ -671,14 +651,14 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20Network%20US&code=us&use
 https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20Network%20West%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.02.|.Niagara.River.Lions.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Wed.Jul.29.2026.9:30PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-07-30 01:30 - CEBL - Saskatoon Mamba vs Niagara River Lions (CEBL 02 | Niagara River Lions @ Saskatoon Mamba | CEBL Regular Season | Wed Jul 29 2026 9:30PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2002%20%7C%20Niagara%20River%20Lions%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Wed%20Jul%2029%202026%209%3A30PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CEBL.|.Niagara.River.Lions.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Wed.Jul.29.2026.9:30PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-07-30 01:30 - CEBL - Saskatoon Mamba vs Niagara River Lions (CEBL | Niagara River Lions @ Saskatoon Mamba | CEBL Regular Season | Wed Jul 29 2026 9:30PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%20%7C%20Niagara%20River%20Lions%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Wed%20Jul%2029%202026%209%3A30PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.13.|.Niagara.River.Lions.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Wed.Jul.29.2026.9:30PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-07-30 01:30 - CEBL - Saskatoon Mamba vs Niagara River Lions (CEBL 13 | Niagara River Lions @ Saskatoon Mamba | CEBL Regular Season | Wed Jul 29 2026 9:30PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2013%20%7C%20Niagara%20River%20Lions%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Wed%20Jul%2029%202026%209%3A30PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.23.|.Niagara.River.Lions.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Wed.Jul.29.2026.9:30PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-07-30 01:30 - CEBL - Saskatoon Mamba vs Niagara River Lions (CEBL 23 | Niagara River Lions @ Saskatoon Mamba | CEBL Regular Season | Wed Jul 29 2026 9:30PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2023%20%7C%20Niagara%20River%20Lions%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Wed%20Jul%2029%202026%209%3A30PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.21.|.Niagara.River.Lions.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Wed.Jul.29.2026.9:30PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-07-30 01:30 - CEBL - Saskatoon Mamba vs Niagara River Lions (CEBL 21 | Niagara River Lions @ Saskatoon Mamba | CEBL Regular Season | Wed Jul 29 2026 9:30PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2021%20%7C%20Niagara%20River%20Lions%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Wed%20Jul%2029%202026%209%3A30PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="CEBL.|.Niagara.River.Lions.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Wed.Jul.29.2026.9:30PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-07-30 01:30 - CEBL - Saskatoon Mamba vs Niagara River Lions (CEBL | Niagara River Lions @ Saskatoon Mamba | CEBL Regular Season | Wed Jul 29 2026 9:30PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%20%7C%20Niagara%20River%20Lions%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Wed%20Jul%2029%202026%209%3A30PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.15.|.Niagara.River.Lions.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Wed.Jul.29.2026.9:30PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-07-30 01:30 - CEBL - Saskatoon Mamba vs Niagara River Lions (CEBL 15 | Niagara River Lions @ Saskatoon Mamba | CEBL Regular Season | Wed Jul 29 2026 9:30PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2015%20%7C%20Niagara%20River%20Lions%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Wed%20Jul%2029%202026%209%3A30PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.19.|.Niagara.River.Lions.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Wed.Jul.29.2026.9:30PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-07-30 01:30 - CEBL - Saskatoon Mamba vs Niagara River Lions (CEBL 19 | Niagara River Lions @ Saskatoon Mamba | CEBL Regular Season | Wed Jul 29 2026 9:30PM ET)
@@ -695,10 +675,10 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2017%20%7C%20Niagara%20Ri
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2024%20%7C%20Niagara%20River%20Lions%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Wed%20Jul%2029%202026%209%3A30PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.03.|.Montreal.Alliance.@.Brampton.Honey.Badgers.|.CEBL.Regular.Season.|.Thu.Jul.30.2026.7:30PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-07-30 23:30 - CEBL - Brampton Honey Badgers vs Montreal Alliance (CEBL 03 | Montreal Alliance @ Brampton Honey Badgers | CEBL Regular Season | Thu Jul 30 2026 7:30PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2003%20%7C%20Montreal%20Alliance%20%40%20Brampton%20Honey%20Badgers%20%7C%20CEBL%20Regular%20Season%20%7C%20Thu%20Jul%2030%202026%207%3A30PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="CEBL.13.|.Montreal.Alliance.@.Brampton.Honey.Badgers.|.CEBL.Regular.Season.|.Thu.Jul.30.2026.7:30PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-07-30 23:30 - CEBL - Brampton Honey Badgers vs Montreal Alliance (CEBL 13 | Montreal Alliance @ Brampton Honey Badgers | CEBL Regular Season | Thu Jul 30 2026 7:30PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2013%20%7C%20Montreal%20Alliance%20%40%20Brampton%20Honey%20Badgers%20%7C%20CEBL%20Regular%20Season%20%7C%20Thu%20Jul%2030%202026%207%3A30PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.25.|.Montreal.Alliance.@.Brampton.Honey.Badgers.|.CEBL.Regular.Season.|.Thu.Jul.30.2026.7:30PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-07-30 23:30 - CEBL - Brampton Honey Badgers vs Montreal Alliance (CEBL 25 | Montreal Alliance @ Brampton Honey Badgers | CEBL Regular Season | Thu Jul 30 2026 7:30PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2025%20%7C%20Montreal%20Alliance%20%40%20Brampton%20Honey%20Badgers%20%7C%20CEBL%20Regular%20Season%20%7C%20Thu%20Jul%2030%202026%207%3A30PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CEBL.13.|.Montreal.Alliance.@.Brampton.Honey.Badgers.|.CEBL.Regular.Season.|.Thu.Jul.30.2026.7:30PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-07-30 23:30 - CEBL - Brampton Honey Badgers vs Montreal Alliance (CEBL 13 | Montreal Alliance @ Brampton Honey Badgers | CEBL Regular Season | Thu Jul 30 2026 7:30PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2013%20%7C%20Montreal%20Alliance%20%40%20Brampton%20Honey%20Badgers%20%7C%20CEBL%20Regular%20Season%20%7C%20Thu%20Jul%2030%202026%207%3A30PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.08.|.Montreal.Alliance.@.Brampton.Honey.Badgers.|.CEBL.Regular.Season.|.Thu.Jul.30.2026.7:30PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-07-30 23:30 - CEBL - Brampton Honey Badgers vs Montreal Alliance (CEBL 08 | Montreal Alliance @ Brampton Honey Badgers | CEBL Regular Season | Thu Jul 30 2026 7:30PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2008%20%7C%20Montreal%20Alliance%20%40%20Brampton%20Honey%20Badgers%20%7C%20CEBL%20Regular%20Season%20%7C%20Thu%20Jul%2030%202026%207%3A30PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.11.|.Montreal.Alliance.@.Brampton.Honey.Badgers.|.CEBL.Regular.Season.|.Thu.Jul.30.2026.7:30PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-07-30 23:30 - CEBL - Brampton Honey Badgers vs Montreal Alliance (CEBL 11 | Montreal Alliance @ Brampton Honey Badgers | CEBL Regular Season | Thu Jul 30 2026 7:30PM ET)
@@ -1253,22 +1233,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20Sports%201%20AU&code=au
 https://cdnlivetv.tv/api/v1/channels/player/?name=Viaplay%20Sports%202%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premier.Sports.2.Ireland.FHD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-07-28 18:00 - Motorsport - Swedish Elitserien Speedway: Dackarna Malilla vs Västervik Speedway (Premier Sports 2 Ireland FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premier%20Sports%202%20Ireland%20FHD%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="UFC.Starzplay" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-28 16:00 - Boxing -  vs  (UFC Starzplay)
-https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Starzplay&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="UFC.24/7.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-28 16:00 - Boxing -  vs  (UFC 24/7 HD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%2024%2F7%20HD%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="UFC.Channel.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-28 16:00 - Boxing -  vs  (UFC Channel US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Channel%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="UFC.Fight.Pass.24/7.FHD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-28 16:00 - Boxing -  vs  (UFC Fight Pass 24/7 FHD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Fight%20Pass%2024%2F7%20FHD%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="UFC.1.(Solo.Eventos)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-28 16:00 - Boxing -  vs  (UFC 1 (Solo Eventos))
-https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%201%20(Solo%20Eventos)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="UFC.2" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-28 16:00 - Boxing -  vs  (UFC 2)
-https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%202&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="UFC.3.(Solo.Eventos)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-07-28 16:00 - Boxing -  vs  (UFC 3 (Solo Eventos))
-https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%203%20(Solo%20Eventos)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.8.NZ" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/nz/sky-sport-8-nz.webp",[MMA] 2026-07-28 16:00 - Boxing -  vs  (Sky Sport 8 NZ)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%208%20NZ&code=nz&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Starzplay" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-01 00:00 - Boxing -  vs  (UFC Starzplay)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Starzplay&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.24/7.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-01 00:00 - Boxing -  vs  (UFC 24/7 HD US)
@@ -1453,18 +1417,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20Hall%20of%20
 https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20329%3A%20Press%20Conference%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="(CA).(Dazn.033).|.UFC.329:.McGregor.vs..Holloway.2.(2026-07-11.21:00:00)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-08 00:00 - Boxing -  vs  ((CA) (Dazn 033) | UFC 329: McGregor vs. Holloway 2 (2026-07-11 21:00:00))
 https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20033)%20%7C%20UFC%20329%3A%20McGregor%20vs.%20Holloway%202%20(2026-07-11%2021%3A00%3A00)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Willow.Cricket.Extra.FHD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/willow-cricket-extra-fhd-us.webp",[Cricket] 2026-07-28 16:30 - Cricket - The Hundred: Northern Superchargers vs Manchester Originals (Willow Cricket Extra FHD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Willow%20Cricket%20Extra%20FHD%20US&code=us&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sports.Cricket.FHD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-cricket-fhd-uk.webp",[Cricket] 2026-07-28 16:30 - Cricket - The Hundred: Northern Superchargers vs Manchester Originals (Sky Sports Cricket FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Cricket%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="BBC.Two.FHD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/bbc-two-fhd-uk.webp",[Cricket] 2026-07-28 16:30 - Cricket - The Hundred: Northern Superchargers vs Manchester Originals (BBC Two FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=BBC%20Two%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sports.Mix.FHD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-mix-fhd-uk.webp",[Cricket] 2026-07-28 16:30 - Cricket - The Hundred: Northern Superchargers vs Manchester Originals (Sky Sports Mix FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Mix%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sports.Main.Event.FHD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cricket] 2026-07-28 16:30 - Cricket - The Hundred: Northern Superchargers vs Manchester Originals (Sky Sports Main Event FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Main%20Event%20FHD%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sport.1.NZ" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/nz/sky-sport-1-nz.webp",[Cricket] 2026-07-28 16:30 - Cricket - The Hundred: Northern Superchargers vs Manchester Originals (Sky Sport 1 NZ)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sport%201%20NZ&code=nz&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Willow.Cricket.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cricket] 2026-07-28 22:00 - Cricket - Global Super League: Desert Vipers vs Perth Scorchers (Willow Cricket HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Willow%20Cricket%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sport.2.NZ" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/nz/sky-sport-2-nz.webp",[Cricket] 2026-07-28 22:00 - Cricket - Global Super League: Desert Vipers vs Perth Scorchers (Sky Sport 2 NZ)
@@ -1555,6 +1507,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=%3AViaplay%20NL%20%2042&code=&
 https://cdnlivetv.tv/api/v1/channels/player/?name=%3AViaplay%20NL%20%2043&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id=":Viaplay.NL..44" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-07-29 11:30 - FIVB Volleyball Mens Nations League - Japan Volleyball vs China Volleyball (:Viaplay NL  44)
 https://cdnlivetv.tv/api/v1/channels/player/?name=%3AViaplay%20NL%20%2044&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id=":Viaplay.NL..45" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-07-29 11:30 - FIVB Volleyball Mens Nations League - Japan Volleyball vs China Volleyball (:Viaplay NL  45)
+https://cdnlivetv.tv/api/v1/channels/player/?name=%3AViaplay%20NL%20%2045&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id=":Viaplay.NL..46" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-07-29 11:30 - FIVB Volleyball Mens Nations League - Japan Volleyball vs China Volleyball (:Viaplay NL  46)
 https://cdnlivetv.tv/api/v1/channels/player/?name=%3AViaplay%20NL%20%2046&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id=":Viaplay.NL..47" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-07-29 11:30 - FIVB Volleyball Mens Nations League - Japan Volleyball vs China Volleyball (:Viaplay NL  47)
@@ -1601,6 +1555,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=%3AViaplay%20NL%20%2066&code=&
 https://cdnlivetv.tv/api/v1/channels/player/?name=%3AViaplay%20NL%20%2067&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id=":Viaplay.NL..68" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-07-29 11:30 - FIVB Volleyball Mens Nations League - Japan Volleyball vs China Volleyball (:Viaplay NL  68)
 https://cdnlivetv.tv/api/v1/channels/player/?name=%3AViaplay%20NL%20%2068&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id=":Viaplay.NL..69" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-07-29 11:30 - FIVB Volleyball Mens Nations League - Japan Volleyball vs China Volleyball (:Viaplay NL  69)
+https://cdnlivetv.tv/api/v1/channels/player/?name=%3AViaplay%20NL%20%2069&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id=":Viaplay.NL..70" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-07-29 11:30 - FIVB Volleyball Mens Nations League - Japan Volleyball vs China Volleyball (:Viaplay NL  70)
 https://cdnlivetv.tv/api/v1/channels/player/?name=%3AViaplay%20NL%20%2070&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id=":Viaplay.NL..71" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-07-29 11:30 - FIVB Volleyball Mens Nations League - Japan Volleyball vs China Volleyball (:Viaplay NL  71)
@@ -1609,8 +1565,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=%3AViaplay%20NL%20%2071&code=&
 https://cdnlivetv.tv/api/v1/channels/player/?name=%3AViaplay%20NL%20%2072&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id=":Viaplay.NL..73" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-07-29 11:30 - FIVB Volleyball Mens Nations League - Japan Volleyball vs China Volleyball (:Viaplay NL  73)
 https://cdnlivetv.tv/api/v1/channels/player/?name=%3AViaplay%20NL%20%2073&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id=":Viaplay.NL..74" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-07-29 11:30 - FIVB Volleyball Mens Nations League - Japan Volleyball vs China Volleyball (:Viaplay NL  74)
-https://cdnlivetv.tv/api/v1/channels/player/?name=%3AViaplay%20NL%20%2074&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id=":Viaplay.NL..75" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-07-29 11:30 - FIVB Volleyball Mens Nations League - Japan Volleyball vs China Volleyball (:Viaplay NL  75)
 https://cdnlivetv.tv/api/v1/channels/player/?name=%3AViaplay%20NL%20%2075&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id=":Viaplay.NL..76" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Volleyball] 2026-07-29 11:30 - FIVB Volleyball Mens Nations League - Japan Volleyball vs China Volleyball (:Viaplay NL  76)
