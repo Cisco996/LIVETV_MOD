@@ -4957,6 +4957,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%202%20FHD%20UK&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Fox%20Deportes%20FHD%20LAM&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Fox.Deportes.HD.CHL" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-29 17:05 - MLB - New York Yankees vs Boston Red Sox (Fox Deportes HD CHL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Fox%20Deportes%20HD%20CHL&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="2:00.PM.EDT.Chivas.En.Fox.Deportes.-.Chivas.de.Guadalajara.v.FC.Juárez.7/28.[FOX.One]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-29 17:05 - MLB - New York Yankees vs Boston Red Sox (2:00 PM EDT Chivas En Fox Deportes - Chivas de Guadalajara v FC Juárez 7/28 [FOX One])
+https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20PM%20EDT%20Chivas%20En%20Fox%20Deportes%20-%20Chivas%20de%20Guadalajara%20v%20FC%20Ju%C3%A1rez%207%2F28%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Detroit.Tigers" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-29 17:10 - MLB - Detroit Tigers vs Los Angeles Dodgers (MLB | Detroit Tigers)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Detroit%20Tigers&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Los.Angeles.Dodgers" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-29 17:10 - MLB - Detroit Tigers vs Los Angeles Dodgers (MLB | Los Angeles Dodgers)
@@ -5861,6 +5863,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20San%20Francisco%20
 https://cdnlivetv.tv/api/v1/channels/player/?name=CBS%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CBS.2.(WCBS).New.York.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/cbs-2-wcbs-new-york-hd-us.webp",[Basketball] 2026-08-01 17:00 - WNBA - Chicago Sky vs Las Vegas Aces (CBS 2 (WCBS) New York HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CBS%202%20(WCBS)%20New%20York%20HD%20US&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ABC.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/abc-us.webp",[Basketball] 2026-08-01 19:00 - WNBA - Phoenix Mercury vs New York Liberty (ABC US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ABC%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ABC.7.New.York" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-01 19:00 - WNBA - Phoenix Mercury vs New York Liberty (ABC 7 New York)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ABC%207%20New%20York&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.2.FHD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-01 19:00 - WNBA - Phoenix Mercury vs New York Liberty (TSN 2 FHD CA)
@@ -5935,8 +5939,10 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2006%20%7C%20Winnipeg%20S
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2021%20%7C%20Winnipeg%20Sea%20Bears%20%40%20Vancouver%20Bandits%20%7C%20CEBL%20Regular%20Season%20%7C%20Sun%20Aug%202%202026%203%3A30PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.|.Winnipeg.Sea.Bears.@.Vancouver.Bandits.|.CEBL.Regular.Season.|.Sun.Aug.2.2026.3:30PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-02 19:30 - CEBL - Vancouver Bandits vs Winnipeg Sea Bears (CEBL | Winnipeg Sea Bears @ Vancouver Bandits | CEBL Regular Season | Sun Aug 2 2026 3:30PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%20%7C%20Winnipeg%20Sea%20Bears%20%40%20Vancouver%20Bandits%20%7C%20CEBL%20Regular%20Season%20%7C%20Sun%20Aug%202%202026%203%3A30PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="CEBL.27.|.Winnipeg.Sea.Bears.@.Vancouver.Bandits.|.CEBL.Regular.Season.|.Sun.Aug.2.2026.3:30PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-02 19:30 - CEBL - Vancouver Bandits vs Winnipeg Sea Bears (CEBL 27 | Winnipeg Sea Bears @ Vancouver Bandits | CEBL Regular Season | Sun Aug 2 2026 3:30PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2027%20%7C%20Winnipeg%20Sea%20Bears%20%40%20Vancouver%20Bandits%20%7C%20CEBL%20Regular%20Season%20%7C%20Sun%20Aug%202%202026%203%3A30PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CEBL.19.|.Winnipeg.Sea.Bears.@.Vancouver.Bandits.|.CEBL.Regular.Season.|.Sun.Aug.2.2026.3:30PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-02 19:30 - CEBL - Vancouver Bandits vs Winnipeg Sea Bears (CEBL 19 | Winnipeg Sea Bears @ Vancouver Bandits | CEBL Regular Season | Sun Aug 2 2026 3:30PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2019%20%7C%20Winnipeg%20Sea%20Bears%20%40%20Vancouver%20Bandits%20%7C%20CEBL%20Regular%20Season%20%7C%20Sun%20Aug%202%202026%203%3A30PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CEBL.16.|.Winnipeg.Sea.Bears.@.Vancouver.Bandits.|.CEBL.Regular.Season.|.Sun.Aug.2.2026.3:30PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-02 19:30 - CEBL - Vancouver Bandits vs Winnipeg Sea Bears (CEBL 16 | Winnipeg Sea Bears @ Vancouver Bandits | CEBL Regular Season | Sun Aug 2 2026 3:30PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2016%20%7C%20Winnipeg%20Sea%20Bears%20%40%20Vancouver%20Bandits%20%7C%20CEBL%20Regular%20Season%20%7C%20Sun%20Aug%202%202026%203%3A30PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.13.|.Winnipeg.Sea.Bears.@.Vancouver.Bandits.|.CEBL.Regular.Season.|.Sun.Aug.2.2026.3:30PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-02 19:30 - CEBL - Vancouver Bandits vs Winnipeg Sea Bears (CEBL 13 | Winnipeg Sea Bears @ Vancouver Bandits | CEBL Regular Season | Sun Aug 2 2026 3:30PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2013%20%7C%20Winnipeg%20Sea%20Bears%20%40%20Vancouver%20Bandits%20%7C%20CEBL%20Regular%20Season%20%7C%20Sun%20Aug%202%202026%203%3A30PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.07.|.Winnipeg.Sea.Bears.@.Vancouver.Bandits.|.CEBL.Regular.Season.|.Sun.Aug.2.2026.3:30PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-02 19:30 - CEBL - Vancouver Bandits vs Winnipeg Sea Bears (CEBL 07 | Winnipeg Sea Bears @ Vancouver Bandits | CEBL Regular Season | Sun Aug 2 2026 3:30PM ET)
@@ -5961,6 +5967,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2007%20%7C%20Ottawa%20Bla
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2031%20%7C%20Ottawa%20BlackJacks%20%40%20Edmonton%20Stingers%20%7C%20CEBL%20Regular%20Season%20%7C%20Sun%20Aug%202%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.09.|.Ottawa.BlackJacks.@.Edmonton.Stingers.|.CEBL.Regular.Season.|.Sun.Aug.2.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-02 22:00 - CEBL - Edmonton Stingers vs Ottawa BlackJacks (CEBL 09 | Ottawa BlackJacks @ Edmonton Stingers | CEBL Regular Season | Sun Aug 2 2026 6:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2009%20%7C%20Ottawa%20BlackJacks%20%40%20Edmonton%20Stingers%20%7C%20CEBL%20Regular%20Season%20%7C%20Sun%20Aug%202%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CEBL.19.|.Ottawa.BlackJacks.@.Edmonton.Stingers.|.CEBL.Regular.Season.|.Sun.Aug.2.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-02 22:00 - CEBL - Edmonton Stingers vs Ottawa BlackJacks (CEBL 19 | Ottawa BlackJacks @ Edmonton Stingers | CEBL Regular Season | Sun Aug 2 2026 6:00PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2019%20%7C%20Ottawa%20BlackJacks%20%40%20Edmonton%20Stingers%20%7C%20CEBL%20Regular%20Season%20%7C%20Sun%20Aug%202%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.08.|.Ottawa.BlackJacks.@.Edmonton.Stingers.|.CEBL.Regular.Season.|.Sun.Aug.2.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-02 22:00 - CEBL - Edmonton Stingers vs Ottawa BlackJacks (CEBL 08 | Ottawa BlackJacks @ Edmonton Stingers | CEBL Regular Season | Sun Aug 2 2026 6:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2008%20%7C%20Ottawa%20BlackJacks%20%40%20Edmonton%20Stingers%20%7C%20CEBL%20Regular%20Season%20%7C%20Sun%20Aug%202%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.17.|.Ottawa.BlackJacks.@.Edmonton.Stingers.|.CEBL.Regular.Season.|.Sun.Aug.2.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-02 22:00 - CEBL - Edmonton Stingers vs Ottawa BlackJacks (CEBL 17 | Ottawa BlackJacks @ Edmonton Stingers | CEBL Regular Season | Sun Aug 2 2026 6:00PM ET)
@@ -5987,6 +5995,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2031%20%7C%20Ottawa%20Bla
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2009%20%7C%20Ottawa%20BlackJacks%20%40%20Edmonton%20Stingers%20%7C%20CEBL%20Regular%20Season%20%7C%20Sun%20Aug%202%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.|.Ottawa.BlackJacks.@.Edmonton.Stingers.|.CEBL.Regular.Season.|.Sun.Aug.2.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-02 22:00 - CEBL - Edmonton Stingers vs Ottawa BlackJacks (CEBL | Ottawa BlackJacks @ Edmonton Stingers | CEBL Regular Season | Sun Aug 2 2026 6:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%20%7C%20Ottawa%20BlackJacks%20%40%20Edmonton%20Stingers%20%7C%20CEBL%20Regular%20Season%20%7C%20Sun%20Aug%202%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CEBL.19.|.Ottawa.BlackJacks.@.Edmonton.Stingers.|.CEBL.Regular.Season.|.Sun.Aug.2.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-02 22:00 - CEBL - Edmonton Stingers vs Ottawa BlackJacks (CEBL 19 | Ottawa BlackJacks @ Edmonton Stingers | CEBL Regular Season | Sun Aug 2 2026 6:00PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2019%20%7C%20Ottawa%20BlackJacks%20%40%20Edmonton%20Stingers%20%7C%20CEBL%20Regular%20Season%20%7C%20Sun%20Aug%202%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.08.|.Ottawa.BlackJacks.@.Edmonton.Stingers.|.CEBL.Regular.Season.|.Sun.Aug.2.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-02 22:00 - CEBL - Edmonton Stingers vs Ottawa BlackJacks (CEBL 08 | Ottawa BlackJacks @ Edmonton Stingers | CEBL Regular Season | Sun Aug 2 2026 6:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2008%20%7C%20Ottawa%20BlackJacks%20%40%20Edmonton%20Stingers%20%7C%20CEBL%20Regular%20Season%20%7C%20Sun%20Aug%202%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.17.|.Ottawa.BlackJacks.@.Edmonton.Stingers.|.CEBL.Regular.Season.|.Sun.Aug.2.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-02 22:00 - CEBL - Edmonton Stingers vs Ottawa BlackJacks (CEBL 17 | Ottawa BlackJacks @ Edmonton Stingers | CEBL Regular Season | Sun Aug 2 2026 6:00PM ET)
@@ -6043,8 +6053,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2018%20%7C%20Brampton%20H
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2020%20%7C%20Brampton%20Honey%20Badgers%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.25.|.Brampton.Honey.Badgers.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.4:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 20:00 - CEBL - Scarborough Shooting Stars vs Brampton Honey Badgers (CEBL 25 | Brampton Honey Badgers @ Scarborough Shooting Stars | CEBL Regular Season | Mon Aug 3 2026 4:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2025%20%7C%20Brampton%20Honey%20Badgers%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="CEBL.27.|.Brampton.Honey.Badgers.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.4:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 20:00 - CEBL - Scarborough Shooting Stars vs Brampton Honey Badgers (CEBL 27 | Brampton Honey Badgers @ Scarborough Shooting Stars | CEBL Regular Season | Mon Aug 3 2026 4:00PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2027%20%7C%20Brampton%20Honey%20Badgers%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.29.|.Brampton.Honey.Badgers.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.4:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 20:00 - CEBL - Scarborough Shooting Stars vs Brampton Honey Badgers (CEBL 29 | Brampton Honey Badgers @ Scarborough Shooting Stars | CEBL Regular Season | Mon Aug 3 2026 4:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2029%20%7C%20Brampton%20Honey%20Badgers%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.31.|.Brampton.Honey.Badgers.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.4:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 20:00 - CEBL - Scarborough Shooting Stars vs Brampton Honey Badgers (CEBL 31 | Brampton Honey Badgers @ Scarborough Shooting Stars | CEBL Regular Season | Mon Aug 3 2026 4:00PM ET)
@@ -6075,8 +6083,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2018%20%7C%20Brampton%20H
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2020%20%7C%20Brampton%20Honey%20Badgers%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.25.|.Brampton.Honey.Badgers.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.4:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 20:00 - CEBL - Scarborough Shooting Stars vs Brampton Honey Badgers (CEBL 25 | Brampton Honey Badgers @ Scarborough Shooting Stars | CEBL Regular Season | Mon Aug 3 2026 4:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2025%20%7C%20Brampton%20Honey%20Badgers%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="CEBL.27.|.Brampton.Honey.Badgers.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.4:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 20:00 - CEBL - Scarborough Shooting Stars vs Brampton Honey Badgers (CEBL 27 | Brampton Honey Badgers @ Scarborough Shooting Stars | CEBL Regular Season | Mon Aug 3 2026 4:00PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2027%20%7C%20Brampton%20Honey%20Badgers%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.29.|.Brampton.Honey.Badgers.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.4:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 20:00 - CEBL - Scarborough Shooting Stars vs Brampton Honey Badgers (CEBL 29 | Brampton Honey Badgers @ Scarborough Shooting Stars | CEBL Regular Season | Mon Aug 3 2026 4:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2029%20%7C%20Brampton%20Honey%20Badgers%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.31.|.Brampton.Honey.Badgers.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.4:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 20:00 - CEBL - Scarborough Shooting Stars vs Brampton Honey Badgers (CEBL 31 | Brampton Honey Badgers @ Scarborough Shooting Stars | CEBL Regular Season | Mon Aug 3 2026 4:00PM ET)
@@ -6107,8 +6113,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2018%20%7C%20Brampton%20H
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2020%20%7C%20Brampton%20Honey%20Badgers%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.25.|.Brampton.Honey.Badgers.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.4:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 20:00 - CEBL - Scarborough Shooting Stars vs Brampton Honey Badgers (CEBL 25 | Brampton Honey Badgers @ Scarborough Shooting Stars | CEBL Regular Season | Mon Aug 3 2026 4:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2025%20%7C%20Brampton%20Honey%20Badgers%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="CEBL.27.|.Brampton.Honey.Badgers.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.4:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 20:00 - CEBL - Scarborough Shooting Stars vs Brampton Honey Badgers (CEBL 27 | Brampton Honey Badgers @ Scarborough Shooting Stars | CEBL Regular Season | Mon Aug 3 2026 4:00PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2027%20%7C%20Brampton%20Honey%20Badgers%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.29.|.Brampton.Honey.Badgers.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.4:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 20:00 - CEBL - Scarborough Shooting Stars vs Brampton Honey Badgers (CEBL 29 | Brampton Honey Badgers @ Scarborough Shooting Stars | CEBL Regular Season | Mon Aug 3 2026 4:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2029%20%7C%20Brampton%20Honey%20Badgers%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.31.|.Brampton.Honey.Badgers.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.4:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 20:00 - CEBL - Scarborough Shooting Stars vs Brampton Honey Badgers (CEBL 31 | Brampton Honey Badgers @ Scarborough Shooting Stars | CEBL Regular Season | Mon Aug 3 2026 4:00PM ET)
@@ -6143,8 +6147,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2018%20%7C%20Brampton%20H
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2020%20%7C%20Brampton%20Honey%20Badgers%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.25.|.Brampton.Honey.Badgers.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.4:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 20:00 - CEBL - Scarborough Shooting Stars vs Brampton Honey Badgers (CEBL 25 | Brampton Honey Badgers @ Scarborough Shooting Stars | CEBL Regular Season | Mon Aug 3 2026 4:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2025%20%7C%20Brampton%20Honey%20Badgers%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="CEBL.27.|.Brampton.Honey.Badgers.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.4:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 20:00 - CEBL - Scarborough Shooting Stars vs Brampton Honey Badgers (CEBL 27 | Brampton Honey Badgers @ Scarborough Shooting Stars | CEBL Regular Season | Mon Aug 3 2026 4:00PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2027%20%7C%20Brampton%20Honey%20Badgers%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.29.|.Brampton.Honey.Badgers.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.4:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 20:00 - CEBL - Scarborough Shooting Stars vs Brampton Honey Badgers (CEBL 29 | Brampton Honey Badgers @ Scarborough Shooting Stars | CEBL Regular Season | Mon Aug 3 2026 4:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2029%20%7C%20Brampton%20Honey%20Badgers%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.31.|.Brampton.Honey.Badgers.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.4:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 20:00 - CEBL - Scarborough Shooting Stars vs Brampton Honey Badgers (CEBL 31 | Brampton Honey Badgers @ Scarborough Shooting Stars | CEBL Regular Season | Mon Aug 3 2026 4:00PM ET)
@@ -6157,10 +6159,10 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%20%7C%20Brampton%20Honey%
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%20%7C%20Brampton%20Honey%20Badgers%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.08.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 08 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2008%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="CEBL.33.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 33 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2033%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.22.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 22 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2022%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CEBL.33.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 33 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2033%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.32.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 32 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2032%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.09.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 09 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
@@ -6171,6 +6173,12 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2021%20%7C%20Calgary%20Su
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.10.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 10 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2010%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CEBL.11.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 11 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2011%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CEBL.16.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 16 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2016%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CEBL.19.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 19 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2019%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.24.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 24 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2024%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.26.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 26 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
@@ -6189,10 +6197,10 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%20%7C%20Calgary%20Surge%2
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.08.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 08 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2008%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="CEBL.33.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 33 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2033%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.22.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 22 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2022%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CEBL.33.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 33 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2033%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.32.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 32 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2032%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.09.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 09 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
@@ -6203,6 +6211,12 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2021%20%7C%20Calgary%20Su
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.10.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 10 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2010%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CEBL.11.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 11 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2011%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CEBL.16.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 16 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2016%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CEBL.19.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 19 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2019%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.24.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 24 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2024%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.26.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 26 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
@@ -6211,10 +6225,10 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2026%20%7C%20Calgary%20Su
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2028%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.08.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 08 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2008%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="CEBL.33.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 33 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2033%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.22.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 22 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2022%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CEBL.33.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 33 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2033%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.32.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 32 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2032%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.09.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 09 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
@@ -6225,6 +6239,12 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2021%20%7C%20Calgary%20Su
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.10.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 10 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2010%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CEBL.11.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 11 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2011%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CEBL.16.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 16 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2016%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CEBL.19.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 19 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2019%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.24.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 24 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2024%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.26.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 26 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
@@ -6235,10 +6255,10 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2028%20%7C%20Calgary%20Su
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.08.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 08 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2008%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="CEBL.33.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 33 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2033%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.22.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 22 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2022%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CEBL.33.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 33 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2033%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.32.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 32 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2032%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.09.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 09 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
@@ -6249,32 +6269,12 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2021%20%7C%20Calgary%20Su
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.10.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 10 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2010%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="CEBL.24.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 24 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2024%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="CEBL.26.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 26 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2026%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="CEBL.28.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 28 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2028%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="CEBL.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="CEBL.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="CEBL.08.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 08 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2008%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="CEBL.33.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 33 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2033%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="CEBL.22.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 22 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2022%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="CEBL.32.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 32 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2032%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="CEBL.09.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 09 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2009%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="CEBL.21.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 21 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2021%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="CEBL.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="CEBL.10.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 10 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2010%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CEBL.11.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 11 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2011%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CEBL.16.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 16 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2016%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CEBL.19.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 19 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2019%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.24.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 24 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2024%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.26.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 26 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
@@ -6285,14 +6285,12 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2028%20%7C%20Calgary%20Su
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="CEBL.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.08.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 08 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2008%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="CEBL.33.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 33 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2033%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.22.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 22 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2022%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CEBL.33.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 33 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2033%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.32.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 32 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2032%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.09.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 09 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
@@ -6303,6 +6301,46 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2021%20%7C%20Calgary%20Su
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.10.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 10 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2010%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CEBL.11.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 11 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2011%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CEBL.16.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 16 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2016%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CEBL.19.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 19 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2019%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CEBL.24.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 24 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2024%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CEBL.26.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 26 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2026%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CEBL.28.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 28 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2028%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CEBL.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CEBL.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CEBL.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CEBL.08.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 08 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2008%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CEBL.22.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 22 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2022%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CEBL.33.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 33 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2033%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CEBL.32.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 32 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2032%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CEBL.09.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 09 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2009%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CEBL.21.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 21 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2021%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CEBL.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CEBL.10.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 10 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2010%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CEBL.11.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 11 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2011%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CEBL.16.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 16 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2016%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CEBL.19.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 19 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2019%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.24.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 24 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2024%20%7C%20Calgary%20Surge%20%40%20Saskatoon%20Mamba%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.26.|.Calgary.Surge.@.Saskatoon.Mamba.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 22:00 - CEBL - Saskatoon Mamba vs Calgary Surge (CEBL 26 | Calgary Surge @ Saskatoon Mamba | CEBL Regular Season | Mon Aug 3 2026 6:00PM ET)
@@ -7169,6 +7207,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB4%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB2.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-08 15:00 - MotoGP -  vs  (MotoGP OB2 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-08 15:00 - MotoGP -  vs  (MotoGP OB1 (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.HELI.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-08 15:00 - MotoGP -  vs  (MotoGP HELI (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-08 15:00 - MotoGP -  vs  (MotoGP Ambient (D))
@@ -7189,6 +7229,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB4%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB2.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-09 12:00 - MotoGP -  vs  (MotoGP OB2 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-09 12:00 - MotoGP -  vs  (MotoGP OB1 (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.HELI.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-09 12:00 - MotoGP -  vs  (MotoGP HELI (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-09 12:00 - MotoGP -  vs  (MotoGP Ambient (D))
@@ -7271,6 +7313,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB4%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB2.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-29 13:00 - MotoGP -  vs  (MotoGP OB2 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-29 13:00 - MotoGP -  vs  (MotoGP OB1 (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.HELI.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-29 13:00 - MotoGP -  vs  (MotoGP HELI (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-29 13:00 - MotoGP -  vs  (MotoGP Ambient (D))
@@ -7291,6 +7335,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB4%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB2.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-30 12:00 - MotoGP -  vs  (MotoGP OB2 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-30 12:00 - MotoGP -  vs  (MotoGP OB1 (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.HELI.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-30 12:00 - MotoGP -  vs  (MotoGP HELI (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-30 12:00 - MotoGP -  vs  (MotoGP Ambient (D))
@@ -7409,6 +7455,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB4%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB2.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-12 13:00 - MotoGP -  vs  (MotoGP OB2 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-12 13:00 - MotoGP -  vs  (MotoGP OB1 (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.HELI.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-12 13:00 - MotoGP -  vs  (MotoGP HELI (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-12 13:00 - MotoGP -  vs  (MotoGP Ambient (D))
@@ -7443,6 +7491,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB4%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB2.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-13 12:00 - MotoGP -  vs  (MotoGP OB2 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-13 12:00 - MotoGP -  vs  (MotoGP OB1 (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.HELI.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-13 12:00 - MotoGP -  vs  (MotoGP HELI (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-13 12:00 - MotoGP -  vs  (MotoGP Ambient (D))
@@ -7469,6 +7519,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB4%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB2.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-19 13:00 - MotoGP -  vs  (MotoGP OB2 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-19 13:00 - MotoGP -  vs  (MotoGP OB1 (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.HELI.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-19 13:00 - MotoGP -  vs  (MotoGP HELI (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-19 13:00 - MotoGP -  vs  (MotoGP Ambient (D))
@@ -7489,6 +7541,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB4%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB2.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-20 12:00 - MotoGP -  vs  (MotoGP OB2 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-20 12:00 - MotoGP -  vs  (MotoGP OB1 (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.HELI.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-20 12:00 - MotoGP -  vs  (MotoGP HELI (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-20 12:00 - MotoGP -  vs  (MotoGP Ambient (D))
@@ -7571,6 +7625,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB4%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB2.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-03 06:00 - MotoGP -  vs  (MotoGP OB2 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-03 06:00 - MotoGP -  vs  (MotoGP OB1 (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.HELI.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-03 06:00 - MotoGP -  vs  (MotoGP HELI (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-03 06:00 - MotoGP -  vs  (MotoGP Ambient (D))
@@ -7585,6 +7641,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB4%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB2.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-04 05:00 - MotoGP -  vs  (MotoGP OB2 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-04 05:00 - MotoGP -  vs  (MotoGP OB1 (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.HELI.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-04 05:00 - MotoGP -  vs  (MotoGP HELI (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-04 05:00 - MotoGP -  vs  (MotoGP Ambient (D))
@@ -7629,6 +7687,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB4%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB2.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-10 08:00 - MotoGP -  vs  (MotoGP OB2 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-10 08:00 - MotoGP -  vs  (MotoGP OB1 (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.HELI.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-10 08:00 - MotoGP -  vs  (MotoGP HELI (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-10 08:00 - MotoGP -  vs  (MotoGP Ambient (D))
@@ -7669,6 +7729,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB4%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB2.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-11 07:00 - MotoGP -  vs  (MotoGP OB2 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-11 07:00 - MotoGP -  vs  (MotoGP OB1 (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.HELI.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-11 07:00 - MotoGP -  vs  (MotoGP HELI (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-11 07:00 - MotoGP -  vs  (MotoGP Ambient (D))
@@ -7731,6 +7793,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB4%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB2.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 04:00 - MotoGP -  vs  (MotoGP OB2 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 04:00 - MotoGP -  vs  (MotoGP OB1 (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.HELI.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 04:00 - MotoGP -  vs  (MotoGP HELI (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 04:00 - MotoGP -  vs  (MotoGP Ambient (D))
@@ -7769,6 +7833,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB4%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB2.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-25 03:00 - MotoGP -  vs  (MotoGP OB2 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-25 03:00 - MotoGP -  vs  (MotoGP OB1 (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.HELI.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-25 03:00 - MotoGP -  vs  (MotoGP HELI (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-25 03:00 - MotoGP -  vs  (MotoGP Ambient (D))
@@ -7825,6 +7891,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB4%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB2.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 08:00 - MotoGP -  vs  (MotoGP OB2 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 08:00 - MotoGP -  vs  (MotoGP OB1 (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.HELI.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 08:00 - MotoGP -  vs  (MotoGP HELI (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 08:00 - MotoGP -  vs  (MotoGP Ambient (D))
@@ -7863,6 +7931,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB4%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB2.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 08:00 - MotoGP -  vs  (MotoGP OB2 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 08:00 - MotoGP -  vs  (MotoGP OB1 (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.HELI.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 08:00 - MotoGP -  vs  (MotoGP HELI (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 08:00 - MotoGP -  vs  (MotoGP Ambient (D))
@@ -7931,6 +8001,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB4%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB2.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 17:00 - MotoGP -  vs  (MotoGP OB2 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 17:00 - MotoGP -  vs  (MotoGP OB1 (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.HELI.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 17:00 - MotoGP -  vs  (MotoGP HELI (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 17:00 - MotoGP -  vs  (MotoGP Ambient (D))
@@ -7975,6 +8047,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB4%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB2.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 17:00 - MotoGP -  vs  (MotoGP OB2 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 17:00 - MotoGP -  vs  (MotoGP OB1 (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.HELI.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 17:00 - MotoGP -  vs  (MotoGP HELI (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 17:00 - MotoGP -  vs  (MotoGP Ambient (D))
@@ -8037,6 +8111,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB4%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB2.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 15:00 - MotoGP -  vs  (MotoGP OB2 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 15:00 - MotoGP -  vs  (MotoGP OB1 (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.HELI.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 15:00 - MotoGP -  vs  (MotoGP HELI (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 15:00 - MotoGP -  vs  (MotoGP Ambient (D))
@@ -8063,6 +8139,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB4%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB2.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 13:00 - MotoGP -  vs  (MotoGP OB2 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 13:00 - MotoGP -  vs  (MotoGP OB1 (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.HELI.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 13:00 - MotoGP -  vs  (MotoGP HELI (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 13:00 - MotoGP -  vs  (MotoGP Ambient (D))
@@ -8101,6 +8179,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB4%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB2.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 14:00 - MotoGP -  vs  (MotoGP OB2 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 14:00 - MotoGP -  vs  (MotoGP OB1 (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.HELI.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 14:00 - MotoGP -  vs  (MotoGP HELI (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 14:00 - MotoGP -  vs  (MotoGP Ambient (D))
@@ -8141,6 +8221,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB4%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB3%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB2.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 13:00 - MotoGP -  vs  (MotoGP OB2 (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.OB1.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 13:00 - MotoGP -  vs  (MotoGP OB1 (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.HELI.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 13:00 - MotoGP -  vs  (MotoGP HELI (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 13:00 - MotoGP -  vs  (MotoGP Ambient (D))
@@ -8219,6 +8301,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20UK&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.DE" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-06 13:00 - Formula 1 -  vs  (Sky Sports F1 HD DE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="UFC.Starzplay" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-01 14:00 - UFC -  vs  (UFC Starzplay)
+https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Starzplay&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.24/7.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-01 14:00 - UFC -  vs  (UFC 24/7 HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%2024%2F7%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Channel.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-01 14:00 - UFC -  vs  (UFC Channel US)
@@ -8251,6 +8335,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Cosmote%20Sport%205%20HD%20GR&
 https://cdnlivetv.tv/api/v1/channels/player/?name=Max%20Sport%202%20FHD%20BG&code=bg&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sport.5.Live.HD.IL" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/israel/sport-5-live-hd-il.webp",[UFC] 2026-08-01 14:00 - UFC -  vs  (Sport 5 Live HD IL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%205%20Live%20HD%20IL&code=il&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="UFC.Starzplay" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-08 00:00 - UFC -  vs  (UFC Starzplay)
+https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Starzplay&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.24/7.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-08 00:00 - UFC -  vs  (UFC 24/7 HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%2024%2F7%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Channel.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-08 00:00 - UFC -  vs  (UFC Channel US)
@@ -8263,6 +8349,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20Belgrade%20C
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%201%20(Solo%20Eventos)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.2" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-08 00:00 - UFC -  vs  (UFC 2)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%202&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="UFC.Starzplay" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-15 00:00 - UFC -  vs  (UFC Starzplay)
+https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Starzplay&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.24/7.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-15 00:00 - UFC -  vs  (UFC 24/7 HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%2024%2F7%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Channel.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-15 00:00 - UFC -  vs  (UFC Channel US)
@@ -8275,6 +8363,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20Belgrade%20C
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%201%20(Solo%20Eventos)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.2" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-15 00:00 - UFC -  vs  (UFC 2)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%202&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="UFC.Starzplay" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-22 00:00 - UFC -  vs  (UFC Starzplay)
+https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Starzplay&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.24/7.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-22 00:00 - UFC -  vs  (UFC 24/7 HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%2024%2F7%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Channel.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-22 00:00 - UFC -  vs  (UFC Channel US)
@@ -8287,6 +8377,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20Belgrade%20C
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%201%20(Solo%20Eventos)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.2" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-22 00:00 - UFC -  vs  (UFC 2)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%202&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="UFC.Starzplay" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-29 00:00 - UFC -  vs  (UFC Starzplay)
+https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Starzplay&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.24/7.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-29 00:00 - UFC -  vs  (UFC 24/7 HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%2024%2F7%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Channel.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-29 00:00 - UFC -  vs  (UFC Channel US)
@@ -8299,6 +8391,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20Belgrade%20C
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%201%20(Solo%20Eventos)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.2" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-29 00:00 - UFC -  vs  (UFC 2)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%202&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="UFC.Starzplay" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-05 17:00 - UFC -  vs  (UFC Starzplay)
+https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Starzplay&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.24/7.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-05 17:00 - UFC -  vs  (UFC 24/7 HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%2024%2F7%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Channel.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-05 17:00 - UFC -  vs  (UFC Channel US)
@@ -8311,6 +8405,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20Belgrade%20C
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%201%20(Solo%20Eventos)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.2" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-05 17:00 - UFC -  vs  (UFC 2)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%202&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="UFC.Starzplay" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-12 00:00 - UFC -  vs  (UFC Starzplay)
+https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Starzplay&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.24/7.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-12 00:00 - UFC -  vs  (UFC 24/7 HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%2024%2F7%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Channel.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-12 00:00 - UFC -  vs  (UFC Channel US)
@@ -8323,6 +8419,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20Belgrade%20C
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%201%20(Solo%20Eventos)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.2" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-12 00:00 - UFC -  vs  (UFC 2)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%202&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="UFC.Starzplay" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-19 00:00 - UFC -  vs  (UFC Starzplay)
+https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Starzplay&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.24/7.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-19 00:00 - UFC -  vs  (UFC 24/7 HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%2024%2F7%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Channel.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-19 00:00 - UFC -  vs  (UFC Channel US)
@@ -8335,6 +8433,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20Belgrade%20C
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%201%20(Solo%20Eventos)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.2" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-19 00:00 - UFC -  vs  (UFC 2)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%202&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="UFC.Starzplay" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-26 00:00 - UFC -  vs  (UFC Starzplay)
+https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Starzplay&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.24/7.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-26 00:00 - UFC -  vs  (UFC 24/7 HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%2024%2F7%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Channel.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-26 00:00 - UFC -  vs  (UFC Channel US)
@@ -8347,6 +8447,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20Belgrade%20C
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%201%20(Solo%20Eventos)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.2" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-26 00:00 - UFC -  vs  (UFC 2)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%202&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="UFC.Starzplay" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-17 00:00 - UFC -  vs  (UFC Starzplay)
+https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Starzplay&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.24/7.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-17 00:00 - UFC -  vs  (UFC 24/7 HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%2024%2F7%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Channel.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-17 00:00 - UFC -  vs  (UFC Channel US)
@@ -8403,6 +8505,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=NEWROZ%20WWE%20HD%20KRD&code=&
 https://cdnlivetv.tv/api/v1/channels/player/?name=ECHOSTAR%20WWE%20HD%20KRD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NEWROZ.WWE.HD.KRD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[WWE] 2026-10-25 00:00 - WWE -  vs  (NEWROZ WWE HD KRD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NEWROZ%20WWE%20HD%20KRD&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="UFC.Starzplay" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-07 00:00 - Professional Fighters League -  vs  (UFC Starzplay)
+https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Starzplay&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.24/7.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-07 00:00 - Professional Fighters League -  vs  (UFC 24/7 HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%2024%2F7%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Channel.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-07 00:00 - Professional Fighters League -  vs  (UFC Channel US)
@@ -8415,6 +8519,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20Belgrade%20C
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%201%20(Solo%20Eventos)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.2" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-07 00:00 - Professional Fighters League -  vs  (UFC 2)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%202&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="UFC.Starzplay" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-08 00:00 - Boxing -  vs  (UFC Starzplay)
+https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Starzplay&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.24/7.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-08 00:00 - Boxing -  vs  (UFC 24/7 HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%2024%2F7%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Channel.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-08 00:00 - Boxing -  vs  (UFC Channel US)
@@ -8461,6 +8567,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20Hall%20of%20
 https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20329%3A%20Press%20Conference%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="(CA).(Dazn.033).|.UFC.329:.McGregor.vs..Holloway.2.(2026-07-11.21:00:00)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-08 00:00 - Boxing -  vs  ((CA) (Dazn 033) | UFC 329: McGregor vs. Holloway 2 (2026-07-11 21:00:00))
 https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20033)%20%7C%20UFC%20329%3A%20McGregor%20vs.%20Holloway%202%20(2026-07-11%2021%3A00%3A00)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="UFC.Starzplay" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-08 00:00 - Boxing -  vs  (UFC Starzplay)
+https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Starzplay&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.24/7.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-08 00:00 - Boxing -  vs  (UFC 24/7 HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%2024%2F7%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Channel.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-08 00:00 - Boxing -  vs  (UFC Channel US)
@@ -8507,6 +8615,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20Hall%20of%20
 https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20329%3A%20Press%20Conference%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="(CA).(Dazn.033).|.UFC.329:.McGregor.vs..Holloway.2.(2026-07-11.21:00:00)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-08 00:00 - Boxing -  vs  ((CA) (Dazn 033) | UFC 329: McGregor vs. Holloway 2 (2026-07-11 21:00:00))
 https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20033)%20%7C%20UFC%20329%3A%20McGregor%20vs.%20Holloway%202%20(2026-07-11%2021%3A00%3A00)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="UFC.Starzplay" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-22 00:00 - Professional Fighters League -  vs  (UFC Starzplay)
+https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Starzplay&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.24/7.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-22 00:00 - Professional Fighters League -  vs  (UFC 24/7 HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%2024%2F7%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Channel.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-22 00:00 - Professional Fighters League -  vs  (UFC Channel US)
@@ -8519,6 +8629,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20Belgrade%20C
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%201%20(Solo%20Eventos)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.2" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-22 00:00 - Professional Fighters League -  vs  (UFC 2)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%202&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="UFC.Starzplay" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-09-10 00:00 - Professional Fighters League -  vs  (UFC Starzplay)
+https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Starzplay&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.24/7.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-09-10 00:00 - Professional Fighters League -  vs  (UFC 24/7 HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%2024%2F7%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Channel.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-09-10 00:00 - Professional Fighters League -  vs  (UFC Channel US)
@@ -8531,6 +8643,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20Belgrade%20C
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%201%20(Solo%20Eventos)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.2" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-09-10 00:00 - Professional Fighters League -  vs  (UFC 2)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%202&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="UFC.Starzplay" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-10-10 00:00 - Professional Fighters League -  vs  (UFC Starzplay)
+https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Starzplay&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.24/7.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-10-10 00:00 - Professional Fighters League -  vs  (UFC 24/7 HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%2024%2F7%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Channel.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-10-10 00:00 - Professional Fighters League -  vs  (UFC Channel US)
@@ -8663,14 +8777,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20FHD&code=&user
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-10-13 00:00 - UCI World Tour -  vs  (TNT Sports 1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Polsat.Sport.1.FHD.PL" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport-1-fhd-pl.webp",[Volleyball] 2026-08-01 07:00 - FIVB Volleyball Mens Nations League - Slovenia Volleyball vs Poland Volleyball (Polsat Sport 1 FHD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%201%20FHD%20PL&code=pl&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TRT.Spor.FHD.TR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/turkey/trt-spor-fhd-tr.webp",[Volleyball] 2026-08-01 07:00 - FIVB Volleyball Mens Nations League - Slovenia Volleyball vs Poland Volleyball (TRT Spor FHD TR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TRT%20Spor%20FHD%20TR&code=tr&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Polsat.Sport.Extra.2.FHD.PL" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport-extra-2-fhd-pl.webp",[Volleyball] 2026-08-01 07:00 - FIVB Volleyball Mens Nations League - Slovenia Volleyball vs Poland Volleyball (Polsat Sport Extra 2 FHD PL)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%20Extra%202%20FHD%20PL&code=pl&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Max.Sport.2.FHD.BG" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/bg/max-sport-2-fhd-bg.webp",[Volleyball] 2026-08-01 07:00 - FIVB Volleyball Mens Nations League - Slovenia Volleyball vs Poland Volleyball (Max Sport 2 FHD BG)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Max%20Sport%202%20FHD%20BG&code=bg&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Polsat.Sport.1.FHD.PL" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport-1-fhd-pl.webp",[Volleyball] 2026-08-01 11:30 - FIVB Volleyball Mens Nations League - Japan Volleyball vs USA Volleyball (Polsat Sport 1 FHD PL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Polsat%20Sport%201%20FHD%20PL&code=pl&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Polsat.Sport.Extra.2.FHD.PL" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/polsat-sport-extra-2-fhd-pl.webp",[Volleyball] 2026-08-01 11:30 - FIVB Volleyball Mens Nations League - Japan Volleyball vs USA Volleyball (Polsat Sport Extra 2 FHD PL)
