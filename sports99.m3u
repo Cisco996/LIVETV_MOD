@@ -3175,20 +3175,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=c
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.5.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-24 19:00 - CFL - Hamilton Tiger-Cats vs Ottawa Redblacks (TSN 5 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20HD%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.|.Baltimore.Orioles" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-02 17:35 - MLB - Baltimore Orioles vs Philadelphia Phillies (MLB | Baltimore Orioles)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Baltimore%20Orioles&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.|.Philadelphia.Phillies" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-02 17:35 - MLB - Baltimore Orioles vs Philadelphia Phillies (MLB | Philadelphia Phillies)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Philadelphia%20Phillies&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="NBC.Sports.Philadelphia.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/nbc-sports-philadelphia-hd-us.webp",[MLB] 2026-08-02 17:35 - MLB - Baltimore Orioles vs Philadelphia Phillies (NBC Sports Philadelphia HD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=NBC%20Sports%20Philadelphia%20HD%20US&code=us&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MASN.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/masn-us.webp",[MLB] 2026-08-02 17:35 - MLB - Baltimore Orioles vs Philadelphia Phillies (MASN US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MASN%20US&code=us&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.09:.Arizona.Diamondbacks.vs.Cleveland.Guardians.|.Sat.1st.Aug.7:15.PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-02 17:40 - MLB - Cleveland Guardians vs Arizona Diamondbacks (MLB 09: Arizona Diamondbacks vs Cleveland Guardians | Sat 1st Aug 7:15 PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%2009%3A%20Arizona%20Diamondbacks%20vs%20Cleveland%20Guardians%20%7C%20Sat%201st%20Aug%207%3A15%20PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.|.Cleveland.Guardians" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-02 17:40 - MLB - Cleveland Guardians vs Arizona Diamondbacks (MLB | Cleveland Guardians)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Cleveland%20Guardians&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.|.Arizona.Diamondbacks" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-02 17:40 - MLB - Cleveland Guardians vs Arizona Diamondbacks (MLB | Arizona Diamondbacks)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Arizona%20Diamondbacks&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.14:..Detroit.Tigers.vs.Athletics.|.Sat.1st.Aug.9:40.PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-02 20:05 - MLB - Athletics vs Detroit Tigers (MLB 14:  Detroit Tigers vs Athletics | Sat 1st Aug 9:40 PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%2014%3A%20%20Detroit%20Tigers%20vs%20Athletics%20%7C%20Sat%201st%20Aug%209%3A40%20PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Oakland.Athletics" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-02 20:05 - MLB - Athletics vs Detroit Tigers (MLB | Oakland Athletics)
@@ -3261,6 +3247,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Texas%20Rangers&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20San%20Francisco%20Giants&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ESPN.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-04 00:05 - MLB - Texas Rangers vs San Francisco Giants (ESPN US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ESPN.Deportes.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-04 00:05 - MLB - Texas Rangers vs San Francisco Giants (ESPN Deportes US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Deportes%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ESPN.Deportes.HD.LAM" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-04 00:05 - MLB - Texas Rangers vs San Francisco Giants (ESPN Deportes HD LAM)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Deportes%20HD%20LAM&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-04 00:05 - MLB - Texas Rangers vs San Francisco Giants (TNT Sports 1 UK)
@@ -3479,6 +3467,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Milwaukee%20Brewer
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Pittsburgh%20Pirates&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ESPN.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-05 23:40 - MLB - Milwaukee Brewers vs Pittsburgh Pirates (ESPN US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ESPN.Deportes.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-05 23:40 - MLB - Milwaukee Brewers vs Pittsburgh Pirates (ESPN Deportes US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Deportes%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ESPN.Deportes.HD.LAM" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-05 23:40 - MLB - Milwaukee Brewers vs Pittsburgh Pirates (ESPN Deportes HD LAM)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Deportes%20HD%20LAM&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ESPN.Deportes.FHD.LAM" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-05 23:40 - MLB - Milwaukee Brewers vs Pittsburgh Pirates (ESPN Deportes FHD LAM)
@@ -3569,6 +3559,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Kansas%20City%20Ro
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Minnesota%20Twins&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ESPN.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-06 23:40 - MLB - Kansas City Royals vs Minnesota Twins (ESPN US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ESPN.Deportes.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-06 23:40 - MLB - Kansas City Royals vs Minnesota Twins (ESPN Deportes US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Deportes%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ESPN.Deportes.HD.LAM" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-06 23:40 - MLB - Kansas City Royals vs Minnesota Twins (ESPN Deportes HD LAM)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Deportes%20HD%20LAM&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ESPN.Deportes.FHD.LAM" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-06 23:40 - MLB - Kansas City Royals vs Minnesota Twins (ESPN Deportes FHD LAM)
@@ -5829,16 +5821,14 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=ABC%207%20New%20York&code=&use
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20FHD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.1.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-10-31 00:00 - NCAA Division 1 Football - Indiana vs Minnesota (TSN 1 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ESPN.Deportes.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NCAA] 2026-10-31 00:00 - NCAA Division 1 Football - Indiana vs Minnesota (ESPN Deportes US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Deportes%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Cosmote.Sport.4.HD.GR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/greece/cosmote-sport-4-hd-gr.webp",[NCAA] 2026-10-31 00:00 - NCAA Division 1 Football - Indiana vs Minnesota (Cosmote Sport 4 HD GR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cosmote%20Sport%204%20HD%20GR&code=gr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sport.2.FHD.HU" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/hungary/sport-2-fhd-hu.webp",[NCAA] 2026-10-31 00:00 - NCAA Division 1 Football - Indiana vs Minnesota (Sport 2 FHD HU)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%202%20FHD%20HU&code=hu&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ESPN.4.HD.BR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/brazil/espn-4-hd-br.webp",[NCAA] 2026-10-31 00:00 - NCAA Division 1 Football - Indiana vs Minnesota (ESPN 4 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%204%20HD%20BR&code=br&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="ESPN.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-02 19:30 - WNBA - Portland Fire vs Los Angeles Sparks (ESPN US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="ION.Television.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-02 19:30 - WNBA - Portland Fire vs Los Angeles Sparks (ION Television US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=ION%20Television%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.02.|.Winnipeg.Sea.Bears.@.Vancouver.Bandits.|.CEBL.Regular.Season.|.Sun.Aug.2.2026.3:30PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-02 19:30 - CEBL - Vancouver Bandits vs Winnipeg Sea Bears (CEBL 02 | Winnipeg Sea Bears @ Vancouver Bandits | CEBL Regular Season | Sun Aug 2 2026 3:30PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2002%20%7C%20Winnipeg%20Sea%20Bears%20%40%20Vancouver%20Bandits%20%7C%20CEBL%20Regular%20Season%20%7C%20Sun%20Aug%202%202026%203%3A30PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.19.|.Winnipeg.Sea.Bears.@.Vancouver.Bandits.|.CEBL.Regular.Season.|.Sun.Aug.2.2026.3:30PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-02 19:30 - CEBL - Vancouver Bandits vs Winnipeg Sea Bears (CEBL 19 | Winnipeg Sea Bears @ Vancouver Bandits | CEBL Regular Season | Sun Aug 2 2026 3:30PM ET)
@@ -5897,6 +5887,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2024%20%7C%20Ottawa%20Bla
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2014%20%7C%20Ottawa%20BlackJacks%20%40%20Edmonton%20Stingers%20%7C%20CEBL%20Regular%20Season%20%7C%20Sun%20Aug%202%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.17.|.Ottawa.BlackJacks.@.Edmonton.Stingers.|.CEBL.Regular.Season.|.Sun.Aug.2.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-02 22:00 - CEBL - Edmonton Stingers vs Ottawa BlackJacks (CEBL 17 | Ottawa BlackJacks @ Edmonton Stingers | CEBL Regular Season | Sun Aug 2 2026 6:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2017%20%7C%20Ottawa%20BlackJacks%20%40%20Edmonton%20Stingers%20%7C%20CEBL%20Regular%20Season%20%7C%20Sun%20Aug%202%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CEBL.20.|.Ottawa.BlackJacks.@.Edmonton.Stingers.|.CEBL.Regular.Season.|.Sun.Aug.2.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-02 22:00 - CEBL - Edmonton Stingers vs Ottawa BlackJacks (CEBL 20 | Ottawa BlackJacks @ Edmonton Stingers | CEBL Regular Season | Sun Aug 2 2026 6:00PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2020%20%7C%20Ottawa%20BlackJacks%20%40%20Edmonton%20Stingers%20%7C%20CEBL%20Regular%20Season%20%7C%20Sun%20Aug%202%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.26.|.Ottawa.BlackJacks.@.Edmonton.Stingers.|.CEBL.Regular.Season.|.Sun.Aug.2.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-02 22:00 - CEBL - Edmonton Stingers vs Ottawa BlackJacks (CEBL 26 | Ottawa BlackJacks @ Edmonton Stingers | CEBL Regular Season | Sun Aug 2 2026 6:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2026%20%7C%20Ottawa%20BlackJacks%20%40%20Edmonton%20Stingers%20%7C%20CEBL%20Regular%20Season%20%7C%20Sun%20Aug%202%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.28.|.Ottawa.BlackJacks.@.Edmonton.Stingers.|.CEBL.Regular.Season.|.Sun.Aug.2.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-02 22:00 - CEBL - Edmonton Stingers vs Ottawa BlackJacks (CEBL 28 | Ottawa BlackJacks @ Edmonton Stingers | CEBL Regular Season | Sun Aug 2 2026 6:00PM ET)
@@ -5929,12 +5921,16 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2024%20%7C%20Ottawa%20Bla
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2014%20%7C%20Ottawa%20BlackJacks%20%40%20Edmonton%20Stingers%20%7C%20CEBL%20Regular%20Season%20%7C%20Sun%20Aug%202%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.17.|.Ottawa.BlackJacks.@.Edmonton.Stingers.|.CEBL.Regular.Season.|.Sun.Aug.2.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-02 22:00 - CEBL - Edmonton Stingers vs Ottawa BlackJacks (CEBL 17 | Ottawa BlackJacks @ Edmonton Stingers | CEBL Regular Season | Sun Aug 2 2026 6:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2017%20%7C%20Ottawa%20BlackJacks%20%40%20Edmonton%20Stingers%20%7C%20CEBL%20Regular%20Season%20%7C%20Sun%20Aug%202%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CEBL.20.|.Ottawa.BlackJacks.@.Edmonton.Stingers.|.CEBL.Regular.Season.|.Sun.Aug.2.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-02 22:00 - CEBL - Edmonton Stingers vs Ottawa BlackJacks (CEBL 20 | Ottawa BlackJacks @ Edmonton Stingers | CEBL Regular Season | Sun Aug 2 2026 6:00PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2020%20%7C%20Ottawa%20BlackJacks%20%40%20Edmonton%20Stingers%20%7C%20CEBL%20Regular%20Season%20%7C%20Sun%20Aug%202%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.26.|.Ottawa.BlackJacks.@.Edmonton.Stingers.|.CEBL.Regular.Season.|.Sun.Aug.2.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-02 22:00 - CEBL - Edmonton Stingers vs Ottawa BlackJacks (CEBL 26 | Ottawa BlackJacks @ Edmonton Stingers | CEBL Regular Season | Sun Aug 2 2026 6:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2026%20%7C%20Ottawa%20BlackJacks%20%40%20Edmonton%20Stingers%20%7C%20CEBL%20Regular%20Season%20%7C%20Sun%20Aug%202%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.28.|.Ottawa.BlackJacks.@.Edmonton.Stingers.|.CEBL.Regular.Season.|.Sun.Aug.2.2026.6:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-02 22:00 - CEBL - Edmonton Stingers vs Ottawa BlackJacks (CEBL 28 | Ottawa BlackJacks @ Edmonton Stingers | CEBL Regular Season | Sun Aug 2 2026 6:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2028%20%7C%20Ottawa%20BlackJacks%20%40%20Edmonton%20Stingers%20%7C%20CEBL%20Regular%20Season%20%7C%20Sun%20Aug%202%202026%206%3A00PM%20ET&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="ESPN.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/espn-hd-us.webp",[Basketball] 2026-08-02 23:00 - WNBA - Dallas Wings vs Connecticut Sun (ESPN HD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20HD%20US&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ESPN.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/espn-us.webp",[Basketball] 2026-08-02 23:00 - WNBA - Dallas Wings vs Connecticut Sun (ESPN US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20US&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ESPN.Deportes.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-02 23:00 - WNBA - Dallas Wings vs Connecticut Sun (ESPN Deportes US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Deportes%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ESPN.4.HD.BR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/brazil/espn-4-hd-br.webp",[Basketball] 2026-08-02 23:00 - WNBA - Dallas Wings vs Connecticut Sun (ESPN 4 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%204%20HD%20BR&code=br&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ESPN.3.Primera.HD.ARG" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/argentina/espn-3-primera-hd-arg.webp",[Basketball] 2026-08-02 23:00 - WNBA - Dallas Wings vs Connecticut Sun (ESPN 3 Primera HD ARG)
@@ -5969,6 +5965,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2007%20%7C%20Brampton%20H
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2015%20%7C%20Brampton%20Honey%20Badgers%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.18.|.Brampton.Honey.Badgers.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.4:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 20:00 - CEBL - Scarborough Shooting Stars vs Brampton Honey Badgers (CEBL 18 | Brampton Honey Badgers @ Scarborough Shooting Stars | CEBL Regular Season | Mon Aug 3 2026 4:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2018%20%7C%20Brampton%20Honey%20Badgers%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CEBL.20.|.Brampton.Honey.Badgers.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.4:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 20:00 - CEBL - Scarborough Shooting Stars vs Brampton Honey Badgers (CEBL 20 | Brampton Honey Badgers @ Scarborough Shooting Stars | CEBL Regular Season | Mon Aug 3 2026 4:00PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2020%20%7C%20Brampton%20Honey%20Badgers%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.27.|.Brampton.Honey.Badgers.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.4:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 20:00 - CEBL - Scarborough Shooting Stars vs Brampton Honey Badgers (CEBL 27 | Brampton Honey Badgers @ Scarborough Shooting Stars | CEBL Regular Season | Mon Aug 3 2026 4:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2027%20%7C%20Brampton%20Honey%20Badgers%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.29.|.Brampton.Honey.Badgers.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.4:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 20:00 - CEBL - Scarborough Shooting Stars vs Brampton Honey Badgers (CEBL 29 | Brampton Honey Badgers @ Scarborough Shooting Stars | CEBL Regular Season | Mon Aug 3 2026 4:00PM ET)
@@ -6001,6 +5999,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%20%7C%20Brampton%20Honey%
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2015%20%7C%20Brampton%20Honey%20Badgers%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.18.|.Brampton.Honey.Badgers.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.4:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 20:00 - CEBL - Scarborough Shooting Stars vs Brampton Honey Badgers (CEBL 18 | Brampton Honey Badgers @ Scarborough Shooting Stars | CEBL Regular Season | Mon Aug 3 2026 4:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2018%20%7C%20Brampton%20Honey%20Badgers%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CEBL.20.|.Brampton.Honey.Badgers.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.4:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 20:00 - CEBL - Scarborough Shooting Stars vs Brampton Honey Badgers (CEBL 20 | Brampton Honey Badgers @ Scarborough Shooting Stars | CEBL Regular Season | Mon Aug 3 2026 4:00PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2020%20%7C%20Brampton%20Honey%20Badgers%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.27.|.Brampton.Honey.Badgers.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.4:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 20:00 - CEBL - Scarborough Shooting Stars vs Brampton Honey Badgers (CEBL 27 | Brampton Honey Badgers @ Scarborough Shooting Stars | CEBL Regular Season | Mon Aug 3 2026 4:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2027%20%7C%20Brampton%20Honey%20Badgers%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.29.|.Brampton.Honey.Badgers.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.4:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 20:00 - CEBL - Scarborough Shooting Stars vs Brampton Honey Badgers (CEBL 29 | Brampton Honey Badgers @ Scarborough Shooting Stars | CEBL Regular Season | Mon Aug 3 2026 4:00PM ET)
@@ -6033,6 +6033,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%20%7C%20Brampton%20Honey%
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2015%20%7C%20Brampton%20Honey%20Badgers%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.18.|.Brampton.Honey.Badgers.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.4:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 20:00 - CEBL - Scarborough Shooting Stars vs Brampton Honey Badgers (CEBL 18 | Brampton Honey Badgers @ Scarborough Shooting Stars | CEBL Regular Season | Mon Aug 3 2026 4:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2018%20%7C%20Brampton%20Honey%20Badgers%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CEBL.20.|.Brampton.Honey.Badgers.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.4:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 20:00 - CEBL - Scarborough Shooting Stars vs Brampton Honey Badgers (CEBL 20 | Brampton Honey Badgers @ Scarborough Shooting Stars | CEBL Regular Season | Mon Aug 3 2026 4:00PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2020%20%7C%20Brampton%20Honey%20Badgers%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.27.|.Brampton.Honey.Badgers.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.4:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 20:00 - CEBL - Scarborough Shooting Stars vs Brampton Honey Badgers (CEBL 27 | Brampton Honey Badgers @ Scarborough Shooting Stars | CEBL Regular Season | Mon Aug 3 2026 4:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2027%20%7C%20Brampton%20Honey%20Badgers%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.29.|.Brampton.Honey.Badgers.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.4:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 20:00 - CEBL - Scarborough Shooting Stars vs Brampton Honey Badgers (CEBL 29 | Brampton Honey Badgers @ Scarborough Shooting Stars | CEBL Regular Season | Mon Aug 3 2026 4:00PM ET)
@@ -6069,6 +6071,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%20%7C%20Brampton%20Honey%
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2015%20%7C%20Brampton%20Honey%20Badgers%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.18.|.Brampton.Honey.Badgers.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.4:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 20:00 - CEBL - Scarborough Shooting Stars vs Brampton Honey Badgers (CEBL 18 | Brampton Honey Badgers @ Scarborough Shooting Stars | CEBL Regular Season | Mon Aug 3 2026 4:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2018%20%7C%20Brampton%20Honey%20Badgers%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CEBL.20.|.Brampton.Honey.Badgers.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.4:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 20:00 - CEBL - Scarborough Shooting Stars vs Brampton Honey Badgers (CEBL 20 | Brampton Honey Badgers @ Scarborough Shooting Stars | CEBL Regular Season | Mon Aug 3 2026 4:00PM ET)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2020%20%7C%20Brampton%20Honey%20Badgers%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.27.|.Brampton.Honey.Badgers.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.4:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 20:00 - CEBL - Scarborough Shooting Stars vs Brampton Honey Badgers (CEBL 27 | Brampton Honey Badgers @ Scarborough Shooting Stars | CEBL Regular Season | Mon Aug 3 2026 4:00PM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CEBL%2027%20%7C%20Brampton%20Honey%20Badgers%20%40%20Scarborough%20Shooting%20Stars%20%7C%20CEBL%20Regular%20Season%20%7C%20Mon%20Aug%203%202026%204%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CEBL.29.|.Brampton.Honey.Badgers.@.Scarborough.Shooting.Stars.|.CEBL.Regular.Season.|.Mon.Aug.3.2026.4:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-03 20:00 - CEBL - Scarborough Shooting Stars vs Brampton Honey Badgers (CEBL 29 | Brampton Honey Badgers @ Scarborough Shooting Stars | CEBL Regular Season | Mon Aug 3 2026 4:00PM ET)
@@ -6631,8 +6635,10 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=ION%20Television%20US&code=&us
 https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ION.Television.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-30 23:00 - WNBA - Portland Fire vs Golden State Valkyries (ION Television US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ION%20Television%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="ESPN.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/espn-hd-us.webp",[Basketball] 2026-08-31 00:00 - WNBA - Dallas Wings vs Connecticut Sun (ESPN HD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20HD%20US&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ESPN.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/espn-us.webp",[Basketball] 2026-08-31 00:00 - WNBA - Dallas Wings vs Connecticut Sun (ESPN US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20US&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ESPN.Deportes.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-31 00:00 - WNBA - Dallas Wings vs Connecticut Sun (ESPN Deportes US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Deportes%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ESPN.4.HD.BR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/brazil/espn-4-hd-br.webp",[Basketball] 2026-08-31 00:00 - WNBA - Dallas Wings vs Connecticut Sun (ESPN 4 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%204%20HD%20BR&code=br&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ESPN.3.Primera.HD.ARG" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/argentina/espn-3-primera-hd-arg.webp",[Basketball] 2026-08-31 00:00 - WNBA - Dallas Wings vs Connecticut Sun (ESPN 3 Primera HD ARG)
@@ -6719,6 +6725,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=ABC%207%20New%20York&code=&use
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20FHD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.1.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-09-23 00:00 - WNBA - Indiana Fever vs Minnesota Lynx (TSN 1 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ESPN.Deportes.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-09-23 00:00 - WNBA - Indiana Fever vs Minnesota Lynx (ESPN Deportes US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Deportes%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Cosmote.Sport.4.HD.GR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/greece/cosmote-sport-4-hd-gr.webp",[Basketball] 2026-09-23 00:00 - WNBA - Indiana Fever vs Minnesota Lynx (Cosmote Sport 4 HD GR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cosmote%20Sport%204%20HD%20GR&code=gr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sport.2.FHD.HU" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/hungary/sport-2-fhd-hu.webp",[Basketball] 2026-09-23 00:00 - WNBA - Indiana Fever vs Minnesota Lynx (Sport 2 FHD HU)
@@ -6759,6 +6767,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=ABC%207%20New%20York&code=&use
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20FHD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.1.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-09-25 00:00 - WNBA - Minnesota Lynx vs Indiana Fever (TSN 1 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ESPN.Deportes.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-09-25 00:00 - WNBA - Minnesota Lynx vs Indiana Fever (ESPN Deportes US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Deportes%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Cosmote.Sport.4.HD.GR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/greece/cosmote-sport-4-hd-gr.webp",[Basketball] 2026-09-25 00:00 - WNBA - Minnesota Lynx vs Indiana Fever (Cosmote Sport 4 HD GR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Cosmote%20Sport%204%20HD%20GR&code=gr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sport.2.FHD.HU" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/hungary/sport-2-fhd-hu.webp",[Basketball] 2026-09-25 00:00 - WNBA - Minnesota Lynx vs Indiana Fever (Sport 2 FHD HU)
@@ -7167,8 +7177,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-08 15:00 - MotoGP -  vs  (MotoGP Ambient (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MotoGP.01:.Main.Event.[LIVE]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-08 15:00 - MotoGP -  vs  (MotoGP 01: Main Event [LIVE])
-https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%2001%3A%20Main%20Event%20%5BLIVE%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NASCAR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-09 10:30 - NASCAR Cup Series -  vs  (NASCAR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NASCAR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="USA.Network.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-09 10:30 - NASCAR Cup Series -  vs  (USA Network US)
@@ -7187,10 +7195,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-09 12:00 - MotoGP -  vs  (MotoGP Ambient (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MotoGP.01:.Main.Event.[LIVE]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-09 12:00 - MotoGP -  vs  (MotoGP 01: Main Event [LIVE])
-https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%2001%3A%20Main%20Event%20%5BLIVE%5D&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="(CA).(Dazn.002).|.Grand.Prix.of.Kyrgyzstan_.Issyk_Kul._.Sprint.Races.(2026-08-01.04:30:00)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-21 10:30 - Formula 1 -  vs  ((CA) (Dazn 002) | Grand Prix of Kyrgyzstan_ Issyk_Kul _ Sprint Races (2026-08-01 04:30:00))
-https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20002)%20%7C%20Grand%20Prix%20of%20Kyrgyzstan_%20Issyk_Kul%20_%20Sprint%20Races%20(2026-08-01%2004%3A30%3A00)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-21 10:30 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-21 10:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -7201,8 +7205,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="AU.(STAN.36).|.Practice.1:.Grand.Prix.of.Portland..Indycar.2026.(2026-08-08.07:30:29)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-21 10:30 - Formula 1 -  vs  (AU (STAN 36) | Practice 1: Grand Prix of Portland  Indycar 2026 (2026-08-08 07:30:29))
 https://cdnlivetv.tv/api/v1/channels/player/?name=AU%20(STAN%2036)%20%7C%20Practice%201%3A%20Grand%20Prix%20of%20Portland%20%20Indycar%202026%20(2026-08-08%2007%3A30%3A29)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="(CA).(Dazn.002).|.Grand.Prix.of.Kyrgyzstan_.Issyk_Kul._.Sprint.Races.(2026-08-01.04:30:00)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-21 14:30 - Formula 1 -  vs  ((CA) (Dazn 002) | Grand Prix of Kyrgyzstan_ Issyk_Kul _ Sprint Races (2026-08-01 04:30:00))
-https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20002)%20%7C%20Grand%20Prix%20of%20Kyrgyzstan_%20Issyk_Kul%20_%20Sprint%20Races%20(2026-08-01%2004%3A30%3A00)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-21 14:30 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-21 14:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -7213,8 +7215,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="AU.(STAN.36).|.Practice.1:.Grand.Prix.of.Portland..Indycar.2026.(2026-08-08.07:30:29)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-21 14:30 - Formula 1 -  vs  (AU (STAN 36) | Practice 1: Grand Prix of Portland  Indycar 2026 (2026-08-08 07:30:29))
 https://cdnlivetv.tv/api/v1/channels/player/?name=AU%20(STAN%2036)%20%7C%20Practice%201%3A%20Grand%20Prix%20of%20Portland%20%20Indycar%202026%20(2026-08-08%2007%3A30%3A29)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="(CA).(Dazn.002).|.Grand.Prix.of.Kyrgyzstan_.Issyk_Kul._.Sprint.Races.(2026-08-01.04:30:00)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-22 10:00 - Formula 1 -  vs  ((CA) (Dazn 002) | Grand Prix of Kyrgyzstan_ Issyk_Kul _ Sprint Races (2026-08-01 04:30:00))
-https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20002)%20%7C%20Grand%20Prix%20of%20Kyrgyzstan_%20Issyk_Kul%20_%20Sprint%20Races%20(2026-08-01%2004%3A30%3A00)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-22 10:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-22 10:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -7225,8 +7225,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="AU.(STAN.36).|.Practice.1:.Grand.Prix.of.Portland..Indycar.2026.(2026-08-08.07:30:29)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-22 10:00 - Formula 1 -  vs  (AU (STAN 36) | Practice 1: Grand Prix of Portland  Indycar 2026 (2026-08-08 07:30:29))
 https://cdnlivetv.tv/api/v1/channels/player/?name=AU%20(STAN%2036)%20%7C%20Practice%201%3A%20Grand%20Prix%20of%20Portland%20%20Indycar%202026%20(2026-08-08%2007%3A30%3A29)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="(CA).(Dazn.002).|.Grand.Prix.of.Kyrgyzstan_.Issyk_Kul._.Sprint.Races.(2026-08-01.04:30:00)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-22 14:00 - Formula 1 -  vs  ((CA) (Dazn 002) | Grand Prix of Kyrgyzstan_ Issyk_Kul _ Sprint Races (2026-08-01 04:30:00))
-https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20002)%20%7C%20Grand%20Prix%20of%20Kyrgyzstan_%20Issyk_Kul%20_%20Sprint%20Races%20(2026-08-01%2004%3A30%3A00)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-22 14:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-22 14:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -7241,8 +7239,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=AU%20(STAN%2036)%20%7C%20Pract
 https://cdnlivetv.tv/api/v1/channels/player/?name=NASCAR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="USA.Network.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-23 10:00 - NASCAR Cup Series -  vs  (USA Network US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20Network%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="(CA).(Dazn.002).|.Grand.Prix.of.Kyrgyzstan_.Issyk_Kul._.Sprint.Races.(2026-08-01.04:30:00)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-23 13:00 - Formula 1 -  vs  ((CA) (Dazn 002) | Grand Prix of Kyrgyzstan_ Issyk_Kul _ Sprint Races (2026-08-01 04:30:00))
-https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20002)%20%7C%20Grand%20Prix%20of%20Kyrgyzstan_%20Issyk_Kul%20_%20Sprint%20Races%20(2026-08-01%2004%3A30%3A00)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-23 13:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-23 13:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -7267,8 +7263,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-29 13:00 - MotoGP -  vs  (MotoGP Ambient (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MotoGP.01:.Main.Event.[LIVE]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-29 13:00 - MotoGP -  vs  (MotoGP 01: Main Event [LIVE])
-https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%2001%3A%20Main%20Event%20%5BLIVE%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NASCAR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-29 14:30 - NASCAR Cup Series -  vs  (NASCAR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NASCAR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="USA.Network.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-29 14:30 - NASCAR Cup Series -  vs  (USA Network US)
@@ -7287,10 +7281,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-30 12:00 - MotoGP -  vs  (MotoGP Ambient (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MotoGP.01:.Main.Event.[LIVE]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-30 12:00 - MotoGP -  vs  (MotoGP 01: Main Event [LIVE])
-https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%2001%3A%20Main%20Event%20%5BLIVE%5D&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="(CA).(Dazn.002).|.Grand.Prix.of.Kyrgyzstan_.Issyk_Kul._.Sprint.Races.(2026-08-01.04:30:00)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-04 10:30 - Formula 1 -  vs  ((CA) (Dazn 002) | Grand Prix of Kyrgyzstan_ Issyk_Kul _ Sprint Races (2026-08-01 04:30:00))
-https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20002)%20%7C%20Grand%20Prix%20of%20Kyrgyzstan_%20Issyk_Kul%20_%20Sprint%20Races%20(2026-08-01%2004%3A30%3A00)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-04 10:30 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-04 10:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -7301,8 +7291,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="AU.(STAN.36).|.Practice.1:.Grand.Prix.of.Portland..Indycar.2026.(2026-08-08.07:30:29)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-04 10:30 - Formula 1 -  vs  (AU (STAN 36) | Practice 1: Grand Prix of Portland  Indycar 2026 (2026-08-08 07:30:29))
 https://cdnlivetv.tv/api/v1/channels/player/?name=AU%20(STAN%2036)%20%7C%20Practice%201%3A%20Grand%20Prix%20of%20Portland%20%20Indycar%202026%20(2026-08-08%2007%3A30%3A29)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="(CA).(Dazn.002).|.Grand.Prix.of.Kyrgyzstan_.Issyk_Kul._.Sprint.Races.(2026-08-01.04:30:00)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-04 14:00 - Formula 1 -  vs  ((CA) (Dazn 002) | Grand Prix of Kyrgyzstan_ Issyk_Kul _ Sprint Races (2026-08-01 04:30:00))
-https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20002)%20%7C%20Grand%20Prix%20of%20Kyrgyzstan_%20Issyk_Kul%20_%20Sprint%20Races%20(2026-08-01%2004%3A30%3A00)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-04 14:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-04 14:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -7313,8 +7301,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="AU.(STAN.36).|.Practice.1:.Grand.Prix.of.Portland..Indycar.2026.(2026-08-08.07:30:29)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-04 14:00 - Formula 1 -  vs  (AU (STAN 36) | Practice 1: Grand Prix of Portland  Indycar 2026 (2026-08-08 07:30:29))
 https://cdnlivetv.tv/api/v1/channels/player/?name=AU%20(STAN%2036)%20%7C%20Practice%201%3A%20Grand%20Prix%20of%20Portland%20%20Indycar%202026%20(2026-08-08%2007%3A30%3A29)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="(CA).(Dazn.002).|.Grand.Prix.of.Kyrgyzstan_.Issyk_Kul._.Sprint.Races.(2026-08-01.04:30:00)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-05 10:30 - Formula 1 -  vs  ((CA) (Dazn 002) | Grand Prix of Kyrgyzstan_ Issyk_Kul _ Sprint Races (2026-08-01 04:30:00))
-https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20002)%20%7C%20Grand%20Prix%20of%20Kyrgyzstan_%20Issyk_Kul%20_%20Sprint%20Races%20(2026-08-01%2004%3A30%3A00)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-05 10:30 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-05 10:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -7325,8 +7311,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="AU.(STAN.36).|.Practice.1:.Grand.Prix.of.Portland..Indycar.2026.(2026-08-08.07:30:29)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-05 10:30 - Formula 1 -  vs  (AU (STAN 36) | Practice 1: Grand Prix of Portland  Indycar 2026 (2026-08-08 07:30:29))
 https://cdnlivetv.tv/api/v1/channels/player/?name=AU%20(STAN%2036)%20%7C%20Practice%201%3A%20Grand%20Prix%20of%20Portland%20%20Indycar%202026%20(2026-08-08%2007%3A30%3A29)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="(CA).(Dazn.002).|.Grand.Prix.of.Kyrgyzstan_.Issyk_Kul._.Sprint.Races.(2026-08-01.04:30:00)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-05 14:00 - Formula 1 -  vs  ((CA) (Dazn 002) | Grand Prix of Kyrgyzstan_ Issyk_Kul _ Sprint Races (2026-08-01 04:30:00))
-https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20002)%20%7C%20Grand%20Prix%20of%20Kyrgyzstan_%20Issyk_Kul%20_%20Sprint%20Races%20(2026-08-01%2004%3A30%3A00)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-05 14:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-05 14:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -7341,8 +7325,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=AU%20(STAN%2036)%20%7C%20Pract
 https://cdnlivetv.tv/api/v1/channels/player/?name=NASCAR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="USA.Network.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-06 12:00 - NASCAR Cup Series -  vs  (USA Network US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20Network%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="(CA).(Dazn.002).|.Grand.Prix.of.Kyrgyzstan_.Issyk_Kul._.Sprint.Races.(2026-08-01.04:30:00)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-06 13:00 - Formula 1 -  vs  ((CA) (Dazn 002) | Grand Prix of Kyrgyzstan_ Issyk_Kul _ Sprint Races (2026-08-01 04:30:00))
-https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20002)%20%7C%20Grand%20Prix%20of%20Kyrgyzstan_%20Issyk_Kul%20_%20Sprint%20Races%20(2026-08-01%2004%3A30%3A00)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-06 13:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-06 13:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -7353,8 +7335,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="AU.(STAN.36).|.Practice.1:.Grand.Prix.of.Portland..Indycar.2026.(2026-08-08.07:30:29)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-06 13:00 - Formula 1 -  vs  (AU (STAN 36) | Practice 1: Grand Prix of Portland  Indycar 2026 (2026-08-08 07:30:29))
 https://cdnlivetv.tv/api/v1/channels/player/?name=AU%20(STAN%2036)%20%7C%20Practice%201%3A%20Grand%20Prix%20of%20Portland%20%20Indycar%202026%20(2026-08-08%2007%3A30%3A29)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="(CA).(Dazn.002).|.Grand.Prix.of.Kyrgyzstan_.Issyk_Kul._.Sprint.Races.(2026-08-01.04:30:00)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-11 11:30 - Formula 1 -  vs  ((CA) (Dazn 002) | Grand Prix of Kyrgyzstan_ Issyk_Kul _ Sprint Races (2026-08-01 04:30:00))
-https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20002)%20%7C%20Grand%20Prix%20of%20Kyrgyzstan_%20Issyk_Kul%20_%20Sprint%20Races%20(2026-08-01%2004%3A30%3A00)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-11 11:30 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-11 11:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -7365,8 +7345,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="AU.(STAN.36).|.Practice.1:.Grand.Prix.of.Portland..Indycar.2026.(2026-08-08.07:30:29)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-11 11:30 - Formula 1 -  vs  (AU (STAN 36) | Practice 1: Grand Prix of Portland  Indycar 2026 (2026-08-08 07:30:29))
 https://cdnlivetv.tv/api/v1/channels/player/?name=AU%20(STAN%2036)%20%7C%20Practice%201%3A%20Grand%20Prix%20of%20Portland%20%20Indycar%202026%20(2026-08-08%2007%3A30%3A29)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="(CA).(Dazn.002).|.Grand.Prix.of.Kyrgyzstan_.Issyk_Kul._.Sprint.Races.(2026-08-01.04:30:00)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-11 15:00 - Formula 1 -  vs  ((CA) (Dazn 002) | Grand Prix of Kyrgyzstan_ Issyk_Kul _ Sprint Races (2026-08-01 04:30:00))
-https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20002)%20%7C%20Grand%20Prix%20of%20Kyrgyzstan_%20Issyk_Kul%20_%20Sprint%20Races%20(2026-08-01%2004%3A30%3A00)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-11 15:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-11 15:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -7377,8 +7355,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="AU.(STAN.36).|.Practice.1:.Grand.Prix.of.Portland..Indycar.2026.(2026-08-08.07:30:29)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-11 15:00 - Formula 1 -  vs  (AU (STAN 36) | Practice 1: Grand Prix of Portland  Indycar 2026 (2026-08-08 07:30:29))
 https://cdnlivetv.tv/api/v1/channels/player/?name=AU%20(STAN%2036)%20%7C%20Practice%201%3A%20Grand%20Prix%20of%20Portland%20%20Indycar%202026%20(2026-08-08%2007%3A30%3A29)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="(CA).(Dazn.002).|.Grand.Prix.of.Kyrgyzstan_.Issyk_Kul._.Sprint.Races.(2026-08-01.04:30:00)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-12 10:30 - Formula 1 -  vs  ((CA) (Dazn 002) | Grand Prix of Kyrgyzstan_ Issyk_Kul _ Sprint Races (2026-08-01 04:30:00))
-https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20002)%20%7C%20Grand%20Prix%20of%20Kyrgyzstan_%20Issyk_Kul%20_%20Sprint%20Races%20(2026-08-01%2004%3A30%3A00)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-12 10:30 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-12 10:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -7403,10 +7379,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-12 13:00 - MotoGP -  vs  (MotoGP Ambient (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MotoGP.01:.Main.Event.[LIVE]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-12 13:00 - MotoGP -  vs  (MotoGP 01: Main Event [LIVE])
-https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%2001%3A%20Main%20Event%20%5BLIVE%5D&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="(CA).(Dazn.002).|.Grand.Prix.of.Kyrgyzstan_.Issyk_Kul._.Sprint.Races.(2026-08-01.04:30:00)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-12 14:00 - Formula 1 -  vs  ((CA) (Dazn 002) | Grand Prix of Kyrgyzstan_ Issyk_Kul _ Sprint Races (2026-08-01 04:30:00))
-https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20002)%20%7C%20Grand%20Prix%20of%20Kyrgyzstan_%20Issyk_Kul%20_%20Sprint%20Races%20(2026-08-01%2004%3A30%3A00)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-12 14:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-12 14:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -7435,10 +7407,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-13 12:00 - MotoGP -  vs  (MotoGP Ambient (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MotoGP.01:.Main.Event.[LIVE]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-13 12:00 - MotoGP -  vs  (MotoGP 01: Main Event [LIVE])
-https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%2001%3A%20Main%20Event%20%5BLIVE%5D&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="(CA).(Dazn.002).|.Grand.Prix.of.Kyrgyzstan_.Issyk_Kul._.Sprint.Races.(2026-08-01.04:30:00)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-13 13:00 - Formula 1 -  vs  ((CA) (Dazn 002) | Grand Prix of Kyrgyzstan_ Issyk_Kul _ Sprint Races (2026-08-01 04:30:00))
-https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20002)%20%7C%20Grand%20Prix%20of%20Kyrgyzstan_%20Issyk_Kul%20_%20Sprint%20Races%20(2026-08-01%2004%3A30%3A00)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-13 13:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-13 13:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -7463,8 +7431,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-19 13:00 - MotoGP -  vs  (MotoGP Ambient (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MotoGP.01:.Main.Event.[LIVE]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-19 13:00 - MotoGP -  vs  (MotoGP 01: Main Event [LIVE])
-https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%2001%3A%20Main%20Event%20%5BLIVE%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NASCAR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-19 14:30 - NASCAR Cup Series -  vs  (NASCAR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NASCAR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="USA.Network.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-19 14:30 - NASCAR Cup Series -  vs  (USA Network US)
@@ -7483,10 +7449,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-20 12:00 - MotoGP -  vs  (MotoGP Ambient (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MotoGP.01:.Main.Event.[LIVE]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-20 12:00 - MotoGP -  vs  (MotoGP 01: Main Event [LIVE])
-https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%2001%3A%20Main%20Event%20%5BLIVE%5D&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="(CA).(Dazn.002).|.Grand.Prix.of.Kyrgyzstan_.Issyk_Kul._.Sprint.Races.(2026-08-01.04:30:00)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-24 08:30 - Formula 1 -  vs  ((CA) (Dazn 002) | Grand Prix of Kyrgyzstan_ Issyk_Kul _ Sprint Races (2026-08-01 04:30:00))
-https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20002)%20%7C%20Grand%20Prix%20of%20Kyrgyzstan_%20Issyk_Kul%20_%20Sprint%20Races%20(2026-08-01%2004%3A30%3A00)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-24 08:30 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-24 08:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -7497,8 +7459,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="AU.(STAN.36).|.Practice.1:.Grand.Prix.of.Portland..Indycar.2026.(2026-08-08.07:30:29)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-24 08:30 - Formula 1 -  vs  (AU (STAN 36) | Practice 1: Grand Prix of Portland  Indycar 2026 (2026-08-08 07:30:29))
 https://cdnlivetv.tv/api/v1/channels/player/?name=AU%20(STAN%2036)%20%7C%20Practice%201%3A%20Grand%20Prix%20of%20Portland%20%20Indycar%202026%20(2026-08-08%2007%3A30%3A29)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="(CA).(Dazn.002).|.Grand.Prix.of.Kyrgyzstan_.Issyk_Kul._.Sprint.Races.(2026-08-01.04:30:00)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-24 12:00 - Formula 1 -  vs  ((CA) (Dazn 002) | Grand Prix of Kyrgyzstan_ Issyk_Kul _ Sprint Races (2026-08-01 04:30:00))
-https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20002)%20%7C%20Grand%20Prix%20of%20Kyrgyzstan_%20Issyk_Kul%20_%20Sprint%20Races%20(2026-08-01%2004%3A30%3A00)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-24 12:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-24 12:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -7509,8 +7469,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="AU.(STAN.36).|.Practice.1:.Grand.Prix.of.Portland..Indycar.2026.(2026-08-08.07:30:29)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-24 12:00 - Formula 1 -  vs  (AU (STAN 36) | Practice 1: Grand Prix of Portland  Indycar 2026 (2026-08-08 07:30:29))
 https://cdnlivetv.tv/api/v1/channels/player/?name=AU%20(STAN%2036)%20%7C%20Practice%201%3A%20Grand%20Prix%20of%20Portland%20%20Indycar%202026%20(2026-08-08%2007%3A30%3A29)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="(CA).(Dazn.002).|.Grand.Prix.of.Kyrgyzstan_.Issyk_Kul._.Sprint.Races.(2026-08-01.04:30:00)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-25 08:30 - Formula 1 -  vs  ((CA) (Dazn 002) | Grand Prix of Kyrgyzstan_ Issyk_Kul _ Sprint Races (2026-08-01 04:30:00))
-https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20002)%20%7C%20Grand%20Prix%20of%20Kyrgyzstan_%20Issyk_Kul%20_%20Sprint%20Races%20(2026-08-01%2004%3A30%3A00)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-25 08:30 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-25 08:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -7521,8 +7479,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="AU.(STAN.36).|.Practice.1:.Grand.Prix.of.Portland..Indycar.2026.(2026-08-08.07:30:29)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-25 08:30 - Formula 1 -  vs  (AU (STAN 36) | Practice 1: Grand Prix of Portland  Indycar 2026 (2026-08-08 07:30:29))
 https://cdnlivetv.tv/api/v1/channels/player/?name=AU%20(STAN%2036)%20%7C%20Practice%201%3A%20Grand%20Prix%20of%20Portland%20%20Indycar%202026%20(2026-08-08%2007%3A30%3A29)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="(CA).(Dazn.002).|.Grand.Prix.of.Kyrgyzstan_.Issyk_Kul._.Sprint.Races.(2026-08-01.04:30:00)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-25 12:00 - Formula 1 -  vs  ((CA) (Dazn 002) | Grand Prix of Kyrgyzstan_ Issyk_Kul _ Sprint Races (2026-08-01 04:30:00))
-https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20002)%20%7C%20Grand%20Prix%20of%20Kyrgyzstan_%20Issyk_Kul%20_%20Sprint%20Races%20(2026-08-01%2004%3A30%3A00)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-25 12:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-25 12:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -7533,8 +7489,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="AU.(STAN.36).|.Practice.1:.Grand.Prix.of.Portland..Indycar.2026.(2026-08-08.07:30:29)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-25 12:00 - Formula 1 -  vs  (AU (STAN 36) | Practice 1: Grand Prix of Portland  Indycar 2026 (2026-08-08 07:30:29))
 https://cdnlivetv.tv/api/v1/channels/player/?name=AU%20(STAN%2036)%20%7C%20Practice%201%3A%20Grand%20Prix%20of%20Portland%20%20Indycar%202026%20(2026-08-08%2007%3A30%3A29)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="(CA).(Dazn.002).|.Grand.Prix.of.Kyrgyzstan_.Issyk_Kul._.Sprint.Races.(2026-08-01.04:30:00)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-26 11:00 - Formula 1 -  vs  ((CA) (Dazn 002) | Grand Prix of Kyrgyzstan_ Issyk_Kul _ Sprint Races (2026-08-01 04:30:00))
-https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20002)%20%7C%20Grand%20Prix%20of%20Kyrgyzstan_%20Issyk_Kul%20_%20Sprint%20Races%20(2026-08-01%2004%3A30%3A00)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-26 11:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-26 11:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -7563,8 +7517,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-03 06:00 - MotoGP -  vs  (MotoGP Ambient (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MotoGP.01:.Main.Event.[LIVE]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-03 06:00 - MotoGP -  vs  (MotoGP 01: Main Event [LIVE])
-https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%2001%3A%20Main%20Event%20%5BLIVE%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Commentary.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-04 05:00 - MotoGP -  vs  (MotoGP Commentary (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Commentary%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.OB4.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-04 05:00 - MotoGP -  vs  (MotoGP OB4 (D))
@@ -7579,14 +7531,10 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-04 05:00 - MotoGP -  vs  (MotoGP Ambient (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MotoGP.01:.Main.Event.[LIVE]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-04 05:00 - MotoGP -  vs  (MotoGP 01: Main Event [LIVE])
-https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%2001%3A%20Main%20Event%20%5BLIVE%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NASCAR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-04 10:00 - NASCAR Cup Series -  vs  (NASCAR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NASCAR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="USA.Network.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-04 10:00 - NASCAR Cup Series -  vs  (USA Network US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20Network%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="(CA).(Dazn.002).|.Grand.Prix.of.Kyrgyzstan_.Issyk_Kul._.Sprint.Races.(2026-08-01.04:30:00)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-09 08:30 - Formula 1 -  vs  ((CA) (Dazn 002) | Grand Prix of Kyrgyzstan_ Issyk_Kul _ Sprint Races (2026-08-01 04:30:00))
-https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20002)%20%7C%20Grand%20Prix%20of%20Kyrgyzstan_%20Issyk_Kul%20_%20Sprint%20Races%20(2026-08-01%2004%3A30%3A00)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-09 08:30 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-09 08:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -7597,8 +7545,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="AU.(STAN.36).|.Practice.1:.Grand.Prix.of.Portland..Indycar.2026.(2026-08-08.07:30:29)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-09 08:30 - Formula 1 -  vs  (AU (STAN 36) | Practice 1: Grand Prix of Portland  Indycar 2026 (2026-08-08 07:30:29))
 https://cdnlivetv.tv/api/v1/channels/player/?name=AU%20(STAN%2036)%20%7C%20Practice%201%3A%20Grand%20Prix%20of%20Portland%20%20Indycar%202026%20(2026-08-08%2007%3A30%3A29)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="(CA).(Dazn.002).|.Grand.Prix.of.Kyrgyzstan_.Issyk_Kul._.Sprint.Races.(2026-08-01.04:30:00)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-09 12:30 - Formula 1 -  vs  ((CA) (Dazn 002) | Grand Prix of Kyrgyzstan_ Issyk_Kul _ Sprint Races (2026-08-01 04:30:00))
-https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20002)%20%7C%20Grand%20Prix%20of%20Kyrgyzstan_%20Issyk_Kul%20_%20Sprint%20Races%20(2026-08-01%2004%3A30%3A00)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-09 12:30 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-09 12:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -7623,10 +7569,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-10 08:00 - MotoGP -  vs  (MotoGP Ambient (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MotoGP.01:.Main.Event.[LIVE]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-10 08:00 - MotoGP -  vs  (MotoGP 01: Main Event [LIVE])
-https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%2001%3A%20Main%20Event%20%5BLIVE%5D&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="(CA).(Dazn.002).|.Grand.Prix.of.Kyrgyzstan_.Issyk_Kul._.Sprint.Races.(2026-08-01.04:30:00)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-10 09:00 - Formula 1 -  vs  ((CA) (Dazn 002) | Grand Prix of Kyrgyzstan_ Issyk_Kul _ Sprint Races (2026-08-01 04:30:00))
-https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20002)%20%7C%20Grand%20Prix%20of%20Kyrgyzstan_%20Issyk_Kul%20_%20Sprint%20Races%20(2026-08-01%2004%3A30%3A00)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-10 09:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-10 09:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -7637,8 +7579,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="AU.(STAN.36).|.Practice.1:.Grand.Prix.of.Portland..Indycar.2026.(2026-08-08.07:30:29)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-10 09:00 - Formula 1 -  vs  (AU (STAN 36) | Practice 1: Grand Prix of Portland  Indycar 2026 (2026-08-08 07:30:29))
 https://cdnlivetv.tv/api/v1/channels/player/?name=AU%20(STAN%2036)%20%7C%20Practice%201%3A%20Grand%20Prix%20of%20Portland%20%20Indycar%202026%20(2026-08-08%2007%3A30%3A29)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="(CA).(Dazn.002).|.Grand.Prix.of.Kyrgyzstan_.Issyk_Kul._.Sprint.Races.(2026-08-01.04:30:00)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-10 13:00 - Formula 1 -  vs  ((CA) (Dazn 002) | Grand Prix of Kyrgyzstan_ Issyk_Kul _ Sprint Races (2026-08-01 04:30:00))
-https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20002)%20%7C%20Grand%20Prix%20of%20Kyrgyzstan_%20Issyk_Kul%20_%20Sprint%20Races%20(2026-08-01%2004%3A30%3A00)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-10 13:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-10 13:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -7663,14 +7603,10 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-11 07:00 - MotoGP -  vs  (MotoGP Ambient (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MotoGP.01:.Main.Event.[LIVE]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-11 07:00 - MotoGP -  vs  (MotoGP 01: Main Event [LIVE])
-https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%2001%3A%20Main%20Event%20%5BLIVE%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NASCAR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-11 10:00 - NASCAR Cup Series -  vs  (NASCAR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NASCAR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="USA.Network.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-11 10:00 - NASCAR Cup Series -  vs  (USA Network US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20Network%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="(CA).(Dazn.002).|.Grand.Prix.of.Kyrgyzstan_.Issyk_Kul._.Sprint.Races.(2026-08-01.04:30:00)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-11 12:00 - Formula 1 -  vs  ((CA) (Dazn 002) | Grand Prix of Kyrgyzstan_ Issyk_Kul _ Sprint Races (2026-08-01 04:30:00))
-https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20002)%20%7C%20Grand%20Prix%20of%20Kyrgyzstan_%20Issyk_Kul%20_%20Sprint%20Races%20(2026-08-01%2004%3A30%3A00)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-11 12:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-11 12:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -7685,8 +7621,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=AU%20(STAN%2036)%20%7C%20Pract
 https://cdnlivetv.tv/api/v1/channels/player/?name=NASCAR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="USA.Network.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-18 10:00 - NASCAR Cup Series -  vs  (USA Network US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20Network%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="(CA).(Dazn.002).|.Grand.Prix.of.Kyrgyzstan_.Issyk_Kul._.Sprint.Races.(2026-08-01.04:30:00)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-23 17:30 - Formula 1 -  vs  ((CA) (Dazn 002) | Grand Prix of Kyrgyzstan_ Issyk_Kul _ Sprint Races (2026-08-01 04:30:00))
-https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20002)%20%7C%20Grand%20Prix%20of%20Kyrgyzstan_%20Issyk_Kul%20_%20Sprint%20Races%20(2026-08-01%2004%3A30%3A00)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-23 17:30 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-23 17:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -7697,8 +7631,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="AU.(STAN.36).|.Practice.1:.Grand.Prix.of.Portland..Indycar.2026.(2026-08-08.07:30:29)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-23 17:30 - Formula 1 -  vs  (AU (STAN 36) | Practice 1: Grand Prix of Portland  Indycar 2026 (2026-08-08 07:30:29))
 https://cdnlivetv.tv/api/v1/channels/player/?name=AU%20(STAN%2036)%20%7C%20Practice%201%3A%20Grand%20Prix%20of%20Portland%20%20Indycar%202026%20(2026-08-08%2007%3A30%3A29)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="(CA).(Dazn.002).|.Grand.Prix.of.Kyrgyzstan_.Issyk_Kul._.Sprint.Races.(2026-08-01.04:30:00)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-23 21:00 - Formula 1 -  vs  ((CA) (Dazn 002) | Grand Prix of Kyrgyzstan_ Issyk_Kul _ Sprint Races (2026-08-01 04:30:00))
-https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20002)%20%7C%20Grand%20Prix%20of%20Kyrgyzstan_%20Issyk_Kul%20_%20Sprint%20Races%20(2026-08-01%2004%3A30%3A00)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-23 21:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-23 21:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -7723,10 +7655,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 04:00 - MotoGP -  vs  (MotoGP Ambient (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MotoGP.01:.Main.Event.[LIVE]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 04:00 - MotoGP -  vs  (MotoGP 01: Main Event [LIVE])
-https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%2001%3A%20Main%20Event%20%5BLIVE%5D&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="(CA).(Dazn.002).|.Grand.Prix.of.Kyrgyzstan_.Issyk_Kul._.Sprint.Races.(2026-08-01.04:30:00)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 17:30 - Formula 1 -  vs  ((CA) (Dazn 002) | Grand Prix of Kyrgyzstan_ Issyk_Kul _ Sprint Races (2026-08-01 04:30:00))
-https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20002)%20%7C%20Grand%20Prix%20of%20Kyrgyzstan_%20Issyk_Kul%20_%20Sprint%20Races%20(2026-08-01%2004%3A30%3A00)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 17:30 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 17:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -7737,8 +7665,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="AU.(STAN.36).|.Practice.1:.Grand.Prix.of.Portland..Indycar.2026.(2026-08-08.07:30:29)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 17:30 - Formula 1 -  vs  (AU (STAN 36) | Practice 1: Grand Prix of Portland  Indycar 2026 (2026-08-08 07:30:29))
 https://cdnlivetv.tv/api/v1/channels/player/?name=AU%20(STAN%2036)%20%7C%20Practice%201%3A%20Grand%20Prix%20of%20Portland%20%20Indycar%202026%20(2026-08-08%2007%3A30%3A29)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="(CA).(Dazn.002).|.Grand.Prix.of.Kyrgyzstan_.Issyk_Kul._.Sprint.Races.(2026-08-01.04:30:00)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 21:00 - Formula 1 -  vs  ((CA) (Dazn 002) | Grand Prix of Kyrgyzstan_ Issyk_Kul _ Sprint Races (2026-08-01 04:30:00))
-https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20002)%20%7C%20Grand%20Prix%20of%20Kyrgyzstan_%20Issyk_Kul%20_%20Sprint%20Races%20(2026-08-01%2004%3A30%3A00)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 21:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 21:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -7763,14 +7689,10 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-25 03:00 - MotoGP -  vs  (MotoGP Ambient (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MotoGP.01:.Main.Event.[LIVE]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-25 03:00 - MotoGP -  vs  (MotoGP 01: Main Event [LIVE])
-https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%2001%3A%20Main%20Event%20%5BLIVE%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NASCAR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-25 09:00 - NASCAR Cup Series -  vs  (NASCAR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NASCAR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="USA.Network.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-25 09:00 - NASCAR Cup Series -  vs  (USA Network US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20Network%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="(CA).(Dazn.002).|.Grand.Prix.of.Kyrgyzstan_.Issyk_Kul._.Sprint.Races.(2026-08-01.04:30:00)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-25 20:00 - Formula 1 -  vs  ((CA) (Dazn 002) | Grand Prix of Kyrgyzstan_ Issyk_Kul _ Sprint Races (2026-08-01 04:30:00))
-https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20002)%20%7C%20Grand%20Prix%20of%20Kyrgyzstan_%20Issyk_Kul%20_%20Sprint%20Races%20(2026-08-01%2004%3A30%3A00)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-25 20:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-25 20:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -7781,8 +7703,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="AU.(STAN.36).|.Practice.1:.Grand.Prix.of.Portland..Indycar.2026.(2026-08-08.07:30:29)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-25 20:00 - Formula 1 -  vs  (AU (STAN 36) | Practice 1: Grand Prix of Portland  Indycar 2026 (2026-08-08 07:30:29))
 https://cdnlivetv.tv/api/v1/channels/player/?name=AU%20(STAN%2036)%20%7C%20Practice%201%3A%20Grand%20Prix%20of%20Portland%20%20Indycar%202026%20(2026-08-08%2007%3A30%3A29)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="(CA).(Dazn.002).|.Grand.Prix.of.Kyrgyzstan_.Issyk_Kul._.Sprint.Races.(2026-08-01.04:30:00)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 18:30 - Formula 1 -  vs  ((CA) (Dazn 002) | Grand Prix of Kyrgyzstan_ Issyk_Kul _ Sprint Races (2026-08-01 04:30:00))
-https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20002)%20%7C%20Grand%20Prix%20of%20Kyrgyzstan_%20Issyk_Kul%20_%20Sprint%20Races%20(2026-08-01%2004%3A30%3A00)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 18:30 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 18:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -7793,8 +7713,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="AU.(STAN.36).|.Practice.1:.Grand.Prix.of.Portland..Indycar.2026.(2026-08-08.07:30:29)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 18:30 - Formula 1 -  vs  (AU (STAN 36) | Practice 1: Grand Prix of Portland  Indycar 2026 (2026-08-08 07:30:29))
 https://cdnlivetv.tv/api/v1/channels/player/?name=AU%20(STAN%2036)%20%7C%20Practice%201%3A%20Grand%20Prix%20of%20Portland%20%20Indycar%202026%20(2026-08-08%2007%3A30%3A29)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="(CA).(Dazn.002).|.Grand.Prix.of.Kyrgyzstan_.Issyk_Kul._.Sprint.Races.(2026-08-01.04:30:00)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 22:00 - Formula 1 -  vs  ((CA) (Dazn 002) | Grand Prix of Kyrgyzstan_ Issyk_Kul _ Sprint Races (2026-08-01 04:30:00))
-https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20002)%20%7C%20Grand%20Prix%20of%20Kyrgyzstan_%20Issyk_Kul%20_%20Sprint%20Races%20(2026-08-01%2004%3A30%3A00)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 22:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-30 22:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -7819,10 +7737,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 08:00 - MotoGP -  vs  (MotoGP Ambient (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MotoGP.01:.Main.Event.[LIVE]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 08:00 - MotoGP -  vs  (MotoGP 01: Main Event [LIVE])
-https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%2001%3A%20Main%20Event%20%5BLIVE%5D&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="(CA).(Dazn.002).|.Grand.Prix.of.Kyrgyzstan_.Issyk_Kul._.Sprint.Races.(2026-08-01.04:30:00)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 17:30 - Formula 1 -  vs  ((CA) (Dazn 002) | Grand Prix of Kyrgyzstan_ Issyk_Kul _ Sprint Races (2026-08-01 04:30:00))
-https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20002)%20%7C%20Grand%20Prix%20of%20Kyrgyzstan_%20Issyk_Kul%20_%20Sprint%20Races%20(2026-08-01%2004%3A30%3A00)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 17:30 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 17:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -7833,8 +7747,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="AU.(STAN.36).|.Practice.1:.Grand.Prix.of.Portland..Indycar.2026.(2026-08-08.07:30:29)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 17:30 - Formula 1 -  vs  (AU (STAN 36) | Practice 1: Grand Prix of Portland  Indycar 2026 (2026-08-08 07:30:29))
 https://cdnlivetv.tv/api/v1/channels/player/?name=AU%20(STAN%2036)%20%7C%20Practice%201%3A%20Grand%20Prix%20of%20Portland%20%20Indycar%202026%20(2026-08-08%2007%3A30%3A29)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="(CA).(Dazn.002).|.Grand.Prix.of.Kyrgyzstan_.Issyk_Kul._.Sprint.Races.(2026-08-01.04:30:00)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 21:00 - Formula 1 -  vs  ((CA) (Dazn 002) | Grand Prix of Kyrgyzstan_ Issyk_Kul _ Sprint Races (2026-08-01 04:30:00))
-https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20002)%20%7C%20Grand%20Prix%20of%20Kyrgyzstan_%20Issyk_Kul%20_%20Sprint%20Races%20(2026-08-01%2004%3A30%3A00)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 21:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 21:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -7859,14 +7771,10 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 08:00 - MotoGP -  vs  (MotoGP Ambient (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MotoGP.01:.Main.Event.[LIVE]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 08:00 - MotoGP -  vs  (MotoGP 01: Main Event [LIVE])
-https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%2001%3A%20Main%20Event%20%5BLIVE%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NASCAR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 09:00 - NASCAR Cup Series -  vs  (NASCAR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NASCAR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="USA.Network.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 09:00 - NASCAR Cup Series -  vs  (USA Network US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20Network%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="(CA).(Dazn.002).|.Grand.Prix.of.Kyrgyzstan_.Issyk_Kul._.Sprint.Races.(2026-08-01.04:30:00)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 20:00 - Formula 1 -  vs  ((CA) (Dazn 002) | Grand Prix of Kyrgyzstan_ Issyk_Kul _ Sprint Races (2026-08-01 04:30:00))
-https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20002)%20%7C%20Grand%20Prix%20of%20Kyrgyzstan_%20Issyk_Kul%20_%20Sprint%20Races%20(2026-08-01%2004%3A30%3A00)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 20:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 20:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -7879,8 +7787,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=AU%20(STAN%2036)%20%7C%20Practice%201%3A%20Grand%20Prix%20of%20Portland%20%20Indycar%202026%20(2026-08-08%2007%3A30%3A29)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="beIN.SPORTS.1.FR.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/bein-sports-1-fr-fhd.webp",[Motorsport] 2026-11-01 20:00 - Formula 1 -  vs  (beIN SPORTS 1 FR FHD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20SPORTS%201%20FR%20FHD&code=fr&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="(CA).(Dazn.002).|.Grand.Prix.of.Kyrgyzstan_.Issyk_Kul._.Sprint.Races.(2026-08-01.04:30:00)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 15:30 - Formula 1 -  vs  ((CA) (Dazn 002) | Grand Prix of Kyrgyzstan_ Issyk_Kul _ Sprint Races (2026-08-01 04:30:00))
-https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20002)%20%7C%20Grand%20Prix%20of%20Kyrgyzstan_%20Issyk_Kul%20_%20Sprint%20Races%20(2026-08-01%2004%3A30%3A00)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 15:30 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 15:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -7891,8 +7797,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="AU.(STAN.36).|.Practice.1:.Grand.Prix.of.Portland..Indycar.2026.(2026-08-08.07:30:29)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 15:30 - Formula 1 -  vs  (AU (STAN 36) | Practice 1: Grand Prix of Portland  Indycar 2026 (2026-08-08 07:30:29))
 https://cdnlivetv.tv/api/v1/channels/player/?name=AU%20(STAN%2036)%20%7C%20Practice%201%3A%20Grand%20Prix%20of%20Portland%20%20Indycar%202026%20(2026-08-08%2007%3A30%3A29)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="(CA).(Dazn.002).|.Grand.Prix.of.Kyrgyzstan_.Issyk_Kul._.Sprint.Races.(2026-08-01.04:30:00)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 19:00 - Formula 1 -  vs  ((CA) (Dazn 002) | Grand Prix of Kyrgyzstan_ Issyk_Kul _ Sprint Races (2026-08-01 04:30:00))
-https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20002)%20%7C%20Grand%20Prix%20of%20Kyrgyzstan_%20Issyk_Kul%20_%20Sprint%20Races%20(2026-08-01%2004%3A30%3A00)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 19:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 19:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -7903,8 +7807,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="AU.(STAN.36).|.Practice.1:.Grand.Prix.of.Portland..Indycar.2026.(2026-08-08.07:30:29)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-06 19:00 - Formula 1 -  vs  (AU (STAN 36) | Practice 1: Grand Prix of Portland  Indycar 2026 (2026-08-08 07:30:29))
 https://cdnlivetv.tv/api/v1/channels/player/?name=AU%20(STAN%2036)%20%7C%20Practice%201%3A%20Grand%20Prix%20of%20Portland%20%20Indycar%202026%20(2026-08-08%2007%3A30%3A29)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="(CA).(Dazn.002).|.Grand.Prix.of.Kyrgyzstan_.Issyk_Kul._.Sprint.Races.(2026-08-01.04:30:00)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 14:30 - Formula 1 -  vs  ((CA) (Dazn 002) | Grand Prix of Kyrgyzstan_ Issyk_Kul _ Sprint Races (2026-08-01 04:30:00))
-https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20002)%20%7C%20Grand%20Prix%20of%20Kyrgyzstan_%20Issyk_Kul%20_%20Sprint%20Races%20(2026-08-01%2004%3A30%3A00)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 14:30 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 14:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -7929,10 +7831,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 17:00 - MotoGP -  vs  (MotoGP Ambient (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MotoGP.01:.Main.Event.[LIVE]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 17:00 - MotoGP -  vs  (MotoGP 01: Main Event [LIVE])
-https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%2001%3A%20Main%20Event%20%5BLIVE%5D&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="(CA).(Dazn.002).|.Grand.Prix.of.Kyrgyzstan_.Issyk_Kul._.Sprint.Races.(2026-08-01.04:30:00)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 18:00 - Formula 1 -  vs  ((CA) (Dazn 002) | Grand Prix of Kyrgyzstan_ Issyk_Kul _ Sprint Races (2026-08-01 04:30:00))
-https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20002)%20%7C%20Grand%20Prix%20of%20Kyrgyzstan_%20Issyk_Kul%20_%20Sprint%20Races%20(2026-08-01%2004%3A30%3A00)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 18:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 18:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -7947,8 +7845,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=AU%20(STAN%2036)%20%7C%20Pract
 https://cdnlivetv.tv/api/v1/channels/player/?name=NASCAR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="USA.Network.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 10:00 - NASCAR Cup Series -  vs  (USA Network US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20Network%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="(CA).(Dazn.002).|.Grand.Prix.of.Kyrgyzstan_.Issyk_Kul._.Sprint.Races.(2026-08-01.04:30:00)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 17:00 - Formula 1 -  vs  ((CA) (Dazn 002) | Grand Prix of Kyrgyzstan_ Issyk_Kul _ Sprint Races (2026-08-01 04:30:00))
-https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20002)%20%7C%20Grand%20Prix%20of%20Kyrgyzstan_%20Issyk_Kul%20_%20Sprint%20Races%20(2026-08-01%2004%3A30%3A00)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 17:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 17:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -7973,10 +7869,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 17:00 - MotoGP -  vs  (MotoGP Ambient (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MotoGP.01:.Main.Event.[LIVE]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 17:00 - MotoGP -  vs  (MotoGP 01: Main Event [LIVE])
-https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%2001%3A%20Main%20Event%20%5BLIVE%5D&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="(CA).(Dazn.002).|.Grand.Prix.of.Kyrgyzstan_.Issyk_Kul._.Sprint.Races.(2026-08-01.04:30:00)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 00:30 - Formula 1 -  vs  ((CA) (Dazn 002) | Grand Prix of Kyrgyzstan_ Issyk_Kul _ Sprint Races (2026-08-01 04:30:00))
-https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20002)%20%7C%20Grand%20Prix%20of%20Kyrgyzstan_%20Issyk_Kul%20_%20Sprint%20Races%20(2026-08-01%2004%3A30%3A00)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 00:30 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 00:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -7987,8 +7879,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="AU.(STAN.36).|.Practice.1:.Grand.Prix.of.Portland..Indycar.2026.(2026-08-08.07:30:29)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 00:30 - Formula 1 -  vs  (AU (STAN 36) | Practice 1: Grand Prix of Portland  Indycar 2026 (2026-08-08 07:30:29))
 https://cdnlivetv.tv/api/v1/channels/player/?name=AU%20(STAN%2036)%20%7C%20Practice%201%3A%20Grand%20Prix%20of%20Portland%20%20Indycar%202026%20(2026-08-08%2007%3A30%3A29)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="(CA).(Dazn.002).|.Grand.Prix.of.Kyrgyzstan_.Issyk_Kul._.Sprint.Races.(2026-08-01.04:30:00)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 04:00 - Formula 1 -  vs  ((CA) (Dazn 002) | Grand Prix of Kyrgyzstan_ Issyk_Kul _ Sprint Races (2026-08-01 04:30:00))
-https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20002)%20%7C%20Grand%20Prix%20of%20Kyrgyzstan_%20Issyk_Kul%20_%20Sprint%20Races%20(2026-08-01%2004%3A30%3A00)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 04:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 04:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -7999,8 +7889,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="AU.(STAN.36).|.Practice.1:.Grand.Prix.of.Portland..Indycar.2026.(2026-08-08.07:30:29)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 04:00 - Formula 1 -  vs  (AU (STAN 36) | Practice 1: Grand Prix of Portland  Indycar 2026 (2026-08-08 07:30:29))
 https://cdnlivetv.tv/api/v1/channels/player/?name=AU%20(STAN%2036)%20%7C%20Practice%201%3A%20Grand%20Prix%20of%20Portland%20%20Indycar%202026%20(2026-08-08%2007%3A30%3A29)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="(CA).(Dazn.002).|.Grand.Prix.of.Kyrgyzstan_.Issyk_Kul._.Sprint.Races.(2026-08-01.04:30:00)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 00:30 - Formula 1 -  vs  ((CA) (Dazn 002) | Grand Prix of Kyrgyzstan_ Issyk_Kul _ Sprint Races (2026-08-01 04:30:00))
-https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20002)%20%7C%20Grand%20Prix%20of%20Kyrgyzstan_%20Issyk_Kul%20_%20Sprint%20Races%20(2026-08-01%2004%3A30%3A00)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 00:30 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 00:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -8011,8 +7899,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="AU.(STAN.36).|.Practice.1:.Grand.Prix.of.Portland..Indycar.2026.(2026-08-08.07:30:29)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 00:30 - Formula 1 -  vs  (AU (STAN 36) | Practice 1: Grand Prix of Portland  Indycar 2026 (2026-08-08 07:30:29))
 https://cdnlivetv.tv/api/v1/channels/player/?name=AU%20(STAN%2036)%20%7C%20Practice%201%3A%20Grand%20Prix%20of%20Portland%20%20Indycar%202026%20(2026-08-08%2007%3A30%3A29)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="(CA).(Dazn.002).|.Grand.Prix.of.Kyrgyzstan_.Issyk_Kul._.Sprint.Races.(2026-08-01.04:30:00)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 04:00 - Formula 1 -  vs  ((CA) (Dazn 002) | Grand Prix of Kyrgyzstan_ Issyk_Kul _ Sprint Races (2026-08-01 04:30:00))
-https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20002)%20%7C%20Grand%20Prix%20of%20Kyrgyzstan_%20Issyk_Kul%20_%20Sprint%20Races%20(2026-08-01%2004%3A30%3A00)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 04:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 04:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -8037,10 +7923,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 15:00 - MotoGP -  vs  (MotoGP Ambient (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MotoGP.01:.Main.Event.[LIVE]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 15:00 - MotoGP -  vs  (MotoGP 01: Main Event [LIVE])
-https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%2001%3A%20Main%20Event%20%5BLIVE%5D&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="(CA).(Dazn.002).|.Grand.Prix.of.Kyrgyzstan_.Issyk_Kul._.Sprint.Races.(2026-08-01.04:30:00)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 04:00 - Formula 1 -  vs  ((CA) (Dazn 002) | Grand Prix of Kyrgyzstan_ Issyk_Kul _ Sprint Races (2026-08-01 04:30:00))
-https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20002)%20%7C%20Grand%20Prix%20of%20Kyrgyzstan_%20Issyk_Kul%20_%20Sprint%20Races%20(2026-08-01%2004%3A30%3A00)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 04:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 04:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -8065,10 +7947,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 13:00 - MotoGP -  vs  (MotoGP Ambient (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MotoGP.01:.Main.Event.[LIVE]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 13:00 - MotoGP -  vs  (MotoGP 01: Main Event [LIVE])
-https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%2001%3A%20Main%20Event%20%5BLIVE%5D&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="(CA).(Dazn.002).|.Grand.Prix.of.Kyrgyzstan_.Issyk_Kul._.Sprint.Races.(2026-08-01.04:30:00)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 13:30 - Formula 1 -  vs  ((CA) (Dazn 002) | Grand Prix of Kyrgyzstan_ Issyk_Kul _ Sprint Races (2026-08-01 04:30:00))
-https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20002)%20%7C%20Grand%20Prix%20of%20Kyrgyzstan_%20Issyk_Kul%20_%20Sprint%20Races%20(2026-08-01%2004%3A30%3A00)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 13:30 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 13:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -8079,8 +7957,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="AU.(STAN.36).|.Practice.1:.Grand.Prix.of.Portland..Indycar.2026.(2026-08-08.07:30:29)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 13:30 - Formula 1 -  vs  (AU (STAN 36) | Practice 1: Grand Prix of Portland  Indycar 2026 (2026-08-08 07:30:29))
 https://cdnlivetv.tv/api/v1/channels/player/?name=AU%20(STAN%2036)%20%7C%20Practice%201%3A%20Grand%20Prix%20of%20Portland%20%20Indycar%202026%20(2026-08-08%2007%3A30%3A29)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="(CA).(Dazn.002).|.Grand.Prix.of.Kyrgyzstan_.Issyk_Kul._.Sprint.Races.(2026-08-01.04:30:00)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 17:00 - Formula 1 -  vs  ((CA) (Dazn 002) | Grand Prix of Kyrgyzstan_ Issyk_Kul _ Sprint Races (2026-08-01 04:30:00))
-https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20002)%20%7C%20Grand%20Prix%20of%20Kyrgyzstan_%20Issyk_Kul%20_%20Sprint%20Races%20(2026-08-01%2004%3A30%3A00)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 17:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 17:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -8105,10 +7981,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 14:00 - MotoGP -  vs  (MotoGP Ambient (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MotoGP.01:.Main.Event.[LIVE]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 14:00 - MotoGP -  vs  (MotoGP 01: Main Event [LIVE])
-https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%2001%3A%20Main%20Event%20%5BLIVE%5D&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="(CA).(Dazn.002).|.Grand.Prix.of.Kyrgyzstan_.Issyk_Kul._.Sprint.Races.(2026-08-01.04:30:00)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 14:30 - Formula 1 -  vs  ((CA) (Dazn 002) | Grand Prix of Kyrgyzstan_ Issyk_Kul _ Sprint Races (2026-08-01 04:30:00))
-https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20002)%20%7C%20Grand%20Prix%20of%20Kyrgyzstan_%20Issyk_Kul%20_%20Sprint%20Races%20(2026-08-01%2004%3A30%3A00)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 14:30 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 14:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -8119,8 +7991,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="AU.(STAN.36).|.Practice.1:.Grand.Prix.of.Portland..Indycar.2026.(2026-08-08.07:30:29)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 14:30 - Formula 1 -  vs  (AU (STAN 36) | Practice 1: Grand Prix of Portland  Indycar 2026 (2026-08-08 07:30:29))
 https://cdnlivetv.tv/api/v1/channels/player/?name=AU%20(STAN%2036)%20%7C%20Practice%201%3A%20Grand%20Prix%20of%20Portland%20%20Indycar%202026%20(2026-08-08%2007%3A30%3A29)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="(CA).(Dazn.002).|.Grand.Prix.of.Kyrgyzstan_.Issyk_Kul._.Sprint.Races.(2026-08-01.04:30:00)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 18:00 - Formula 1 -  vs  ((CA) (Dazn 002) | Grand Prix of Kyrgyzstan_ Issyk_Kul _ Sprint Races (2026-08-01 04:30:00))
-https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20002)%20%7C%20Grand%20Prix%20of%20Kyrgyzstan_%20Issyk_Kul%20_%20Sprint%20Races%20(2026-08-01%2004%3A30%3A00)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 18:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 18:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -8145,10 +8015,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 13:00 - MotoGP -  vs  (MotoGP Ambient (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MotoGP.01:.Main.Event.[LIVE]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 13:00 - MotoGP -  vs  (MotoGP 01: Main Event [LIVE])
-https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%2001%3A%20Main%20Event%20%5BLIVE%5D&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="(CA).(Dazn.002).|.Grand.Prix.of.Kyrgyzstan_.Issyk_Kul._.Sprint.Races.(2026-08-01.04:30:00)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 16:00 - Formula 1 -  vs  ((CA) (Dazn 002) | Grand Prix of Kyrgyzstan_ Issyk_Kul _ Sprint Races (2026-08-01 04:30:00))
-https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20002)%20%7C%20Grand%20Prix%20of%20Kyrgyzstan_%20Issyk_Kul%20_%20Sprint%20Races%20(2026-08-01%2004%3A30%3A00)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 16:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 16:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -8159,8 +8025,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="AU.(STAN.36).|.Practice.1:.Grand.Prix.of.Portland..Indycar.2026.(2026-08-08.07:30:29)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 16:00 - Formula 1 -  vs  (AU (STAN 36) | Practice 1: Grand Prix of Portland  Indycar 2026 (2026-08-08 07:30:29))
 https://cdnlivetv.tv/api/v1/channels/player/?name=AU%20(STAN%2036)%20%7C%20Practice%201%3A%20Grand%20Prix%20of%20Portland%20%20Indycar%202026%20(2026-08-08%2007%3A30%3A29)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="(CA).(Dazn.002).|.Grand.Prix.of.Kyrgyzstan_.Issyk_Kul._.Sprint.Races.(2026-08-01.04:30:00)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-04 09:30 - Formula 1 -  vs  ((CA) (Dazn 002) | Grand Prix of Kyrgyzstan_ Issyk_Kul _ Sprint Races (2026-08-01 04:30:00))
-https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20002)%20%7C%20Grand%20Prix%20of%20Kyrgyzstan_%20Issyk_Kul%20_%20Sprint%20Races%20(2026-08-01%2004%3A30%3A00)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-04 09:30 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-04 09:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -8171,8 +8035,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="AU.(STAN.36).|.Practice.1:.Grand.Prix.of.Portland..Indycar.2026.(2026-08-08.07:30:29)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-04 09:30 - Formula 1 -  vs  (AU (STAN 36) | Practice 1: Grand Prix of Portland  Indycar 2026 (2026-08-08 07:30:29))
 https://cdnlivetv.tv/api/v1/channels/player/?name=AU%20(STAN%2036)%20%7C%20Practice%201%3A%20Grand%20Prix%20of%20Portland%20%20Indycar%202026%20(2026-08-08%2007%3A30%3A29)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="(CA).(Dazn.002).|.Grand.Prix.of.Kyrgyzstan_.Issyk_Kul._.Sprint.Races.(2026-08-01.04:30:00)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-04 13:00 - Formula 1 -  vs  ((CA) (Dazn 002) | Grand Prix of Kyrgyzstan_ Issyk_Kul _ Sprint Races (2026-08-01 04:30:00))
-https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20002)%20%7C%20Grand%20Prix%20of%20Kyrgyzstan_%20Issyk_Kul%20_%20Sprint%20Races%20(2026-08-01%2004%3A30%3A00)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-04 13:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-04 13:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -8183,8 +8045,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="AU.(STAN.36).|.Practice.1:.Grand.Prix.of.Portland..Indycar.2026.(2026-08-08.07:30:29)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-04 13:00 - Formula 1 -  vs  (AU (STAN 36) | Practice 1: Grand Prix of Portland  Indycar 2026 (2026-08-08 07:30:29))
 https://cdnlivetv.tv/api/v1/channels/player/?name=AU%20(STAN%2036)%20%7C%20Practice%201%3A%20Grand%20Prix%20of%20Portland%20%20Indycar%202026%20(2026-08-08%2007%3A30%3A29)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="(CA).(Dazn.002).|.Grand.Prix.of.Kyrgyzstan_.Issyk_Kul._.Sprint.Races.(2026-08-01.04:30:00)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-05 10:30 - Formula 1 -  vs  ((CA) (Dazn 002) | Grand Prix of Kyrgyzstan_ Issyk_Kul _ Sprint Races (2026-08-01 04:30:00))
-https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20002)%20%7C%20Grand%20Prix%20of%20Kyrgyzstan_%20Issyk_Kul%20_%20Sprint%20Races%20(2026-08-01%2004%3A30%3A00)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-05 10:30 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-05 10:30 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -8195,8 +8055,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="AU.(STAN.36).|.Practice.1:.Grand.Prix.of.Portland..Indycar.2026.(2026-08-08.07:30:29)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-05 10:30 - Formula 1 -  vs  (AU (STAN 36) | Practice 1: Grand Prix of Portland  Indycar 2026 (2026-08-08 07:30:29))
 https://cdnlivetv.tv/api/v1/channels/player/?name=AU%20(STAN%2036)%20%7C%20Practice%201%3A%20Grand%20Prix%20of%20Portland%20%20Indycar%202026%20(2026-08-08%2007%3A30%3A29)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="(CA).(Dazn.002).|.Grand.Prix.of.Kyrgyzstan_.Issyk_Kul._.Sprint.Races.(2026-08-01.04:30:00)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-05 14:00 - Formula 1 -  vs  ((CA) (Dazn 002) | Grand Prix of Kyrgyzstan_ Issyk_Kul _ Sprint Races (2026-08-01 04:30:00))
-https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20002)%20%7C%20Grand%20Prix%20of%20Kyrgyzstan_%20Issyk_Kul%20_%20Sprint%20Races%20(2026-08-01%2004%3A30%3A00)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-05 14:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-05 14:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -8207,8 +8065,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=DAZN%20F1&code=&user=cdnlivetv
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20HD%20DE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="AU.(STAN.36).|.Practice.1:.Grand.Prix.of.Portland..Indycar.2026.(2026-08-08.07:30:29)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-05 14:00 - Formula 1 -  vs  (AU (STAN 36) | Practice 1: Grand Prix of Portland  Indycar 2026 (2026-08-08 07:30:29))
 https://cdnlivetv.tv/api/v1/channels/player/?name=AU%20(STAN%2036)%20%7C%20Practice%201%3A%20Grand%20Prix%20of%20Portland%20%20Indycar%202026%20(2026-08-08%2007%3A30%3A29)&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="(CA).(Dazn.002).|.Grand.Prix.of.Kyrgyzstan_.Issyk_Kul._.Sprint.Races.(2026-08-01.04:30:00)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-06 13:00 - Formula 1 -  vs  ((CA) (Dazn 002) | Grand Prix of Kyrgyzstan_ Issyk_Kul _ Sprint Races (2026-08-01 04:30:00))
-https://cdnlivetv.tv/api/v1/channels/player/?name=(CA)%20(Dazn%20002)%20%7C%20Grand%20Prix%20of%20Kyrgyzstan_%20Issyk_Kul%20_%20Sprint%20Races%20(2026-08-01%2004%3A30%3A00)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-06 13:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-12-06 13:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
