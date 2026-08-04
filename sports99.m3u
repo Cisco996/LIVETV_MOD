@@ -1,8 +1,8 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz,https://github.com/nzo66/TV/raw/refs/heads/main/epg.xml.gz"
-#EXTINF:-1 tvg-id="Fox.Sports.1.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-sports-1-hd-us.webp",[Soccer] 2026-08-04 23:45 - Leagues Cup - FC Cincinnati vs Pachuca (Fox Sports 1 HD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Fox%20Sports%201%20HD%20US&code=us&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Fox.Sports.1.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-sports-1-hd-us.webp",[Soccer] 2026-08-05 02:00 - Leagues Cup - Tigres UANL vs Real Salt Lake (Fox Sports 1 HD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Fox%20Sports%201%20HD%20US&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Fox.Sports.1.FHD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-sports-1-fhd-us.webp",[Soccer] 2026-08-04 23:45 - Leagues Cup - FC Cincinnati vs Pachuca (Fox Sports 1 FHD US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Fox%20Sports%201%20FHD%20US&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Fox.Sports.1.FHD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-sports-1-fhd-us.webp",[Soccer] 2026-08-05 02:00 - Leagues Cup - Tigres UANL vs Real Salt Lake (Fox Sports 1 FHD US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Fox%20Sports%201%20FHD%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.2.FHD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-08-05 02:00 - Leagues Cup - Tigres UANL vs Real Salt Lake (TSN 2 FHD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%202%20FHD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="RDS.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/canada/rds-ca.webp",[Soccer] 2026-08-05 02:00 - Leagues Cup - Tigres UANL vs Real Salt Lake (RDS CA)
@@ -3207,8 +3207,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20HD%20CA&code=&user=c
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Baltimore%20Orioles&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Los.Angeles.Angels" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-04 22:35 - MLB - Baltimore Orioles vs Los Angeles Angels (MLB | Los Angeles Angels)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Los%20Angeles%20Angels&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.00:.Washington.Nationals.vs.Philadelphia.Phillies.|.Mon.3rd.Aug.6:40.PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-04 22:40 - MLB - Philadelphia Phillies vs Washington Nationals (MLB 00: Washington Nationals vs Philadelphia Phillies | Mon 3rd Aug 6:40 PM ET)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%2000%3A%20Washington%20Nationals%20vs%20Philadelphia%20Phillies%20%7C%20Mon%203rd%20Aug%206%3A40%20PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Philadelphia.Phillies" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-04 22:40 - MLB - Philadelphia Phillies vs Washington Nationals (MLB | Philadelphia Phillies)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Philadelphia%20Phillies&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NBC.Sports.Philadelphia.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/nbc-sports-philadelphia-us.webp",[MLB] 2026-08-04 22:40 - MLB - Philadelphia Phillies vs Washington Nationals (NBC Sports Philadelphia US)
@@ -3279,6 +3277,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Toronto%20Blue%20J
 https://cdnlivetv.tv/api/v1/channels/player/?name=SPORTSNET%20EAST%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sportsnet.West.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-05 00:10 - MLB - Houston Astros vs Toronto Blue Jays (Sportsnet West HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20West%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Space.City.Home.Network.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-05 00:10 - MLB - Houston Astros vs Toronto Blue Jays (Space City Home Network US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Space%20City%20Home%20Network%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Colorado.Rockies" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-05 00:40 - MLB - Colorado Rockies vs Tampa Bay Rays (MLB | Colorado Rockies)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Colorado%20Rockies&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Tampa.Bay.Rays" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-05 00:40 - MLB - Colorado Rockies vs Tampa Bay Rays (MLB | Tampa Bay Rays)
@@ -3303,6 +3303,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Toronto%20Blue%20J
 https://cdnlivetv.tv/api/v1/channels/player/?name=SPORTSNET%20EAST%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sportsnet.West.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-05 18:10 - MLB - Houston Astros vs Toronto Blue Jays (Sportsnet West HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20West%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Space.City.Home.Network.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-05 18:10 - MLB - Houston Astros vs Toronto Blue Jays (Space City Home Network US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Space%20City%20Home%20Network%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Chicago.Cubs" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-05 18:20 - MLB - Chicago Cubs vs Los Angeles Dodgers (MLB | Chicago Cubs)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Chicago%20Cubs&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Los.Angeles.Dodgers" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-05 18:20 - MLB - Chicago Cubs vs Los Angeles Dodgers (MLB | Los Angeles Dodgers)
@@ -3455,6 +3457,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Kansas%20City%20Ro
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Minnesota%20Twins&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ESPN.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-06 23:40 - MLB - Kansas City Royals vs Minnesota Twins (ESPN US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ESPN.Deportes.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-06 23:40 - MLB - Kansas City Royals vs Minnesota Twins (ESPN Deportes US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Deportes%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ESPN.Deportes.HD.LAM" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-06 23:40 - MLB - Kansas City Royals vs Minnesota Twins (ESPN Deportes HD LAM)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Deportes%20HD%20LAM&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ESPN.Deportes.FHD.LAM" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-06 23:40 - MLB - Kansas City Royals vs Minnesota Twins (ESPN Deportes FHD LAM)
@@ -3519,6 +3523,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=NESN%20Plus%20US&code=&user=cd
 https://cdnlivetv.tv/api/v1/channels/player/?name=NESN%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NBC.Sports.California.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-07 23:10 - MLB - Boston Red Sox vs Athletics (NBC Sports California HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NBC%20Sports%20California%20HD%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NESN+.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-07 23:10 - MLB - Boston Red Sox vs Athletics (NESN+ HD US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NESN%2B%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NBC.Sports.California.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-07 23:10 - MLB - Boston Red Sox vs Athletics (NBC Sports California HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NBC%20Sports%20California%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Chicago.White.Sox" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-07 23:40 - MLB - Chicago White Sox vs Cleveland Guardians (MLB | Chicago White Sox)
@@ -6641,6 +6647,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.HELI.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-08 15:00 - MotoGP -  vs  (MotoGP HELI (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-08 15:00 - MotoGP -  vs  (MotoGP Ambient (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.01:.Main.Event.[LIVE]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-08 15:00 - MotoGP -  vs  (MotoGP 01: Main Event [LIVE])
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%2001%3A%20Main%20Event%20%5BLIVE%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NASCAR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-09 10:30 - NASCAR Cup Series -  vs  (NASCAR)
@@ -6661,6 +6669,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.HELI.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-09 12:00 - MotoGP -  vs  (MotoGP HELI (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-09 12:00 - MotoGP -  vs  (MotoGP Ambient (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.01:.Main.Event.[LIVE]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-09 12:00 - MotoGP -  vs  (MotoGP 01: Main Event [LIVE])
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%2001%3A%20Main%20Event%20%5BLIVE%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-21 10:30 - Formula 1 -  vs  (Sky Sports F1 UK)
@@ -6741,6 +6751,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.HELI.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-29 13:00 - MotoGP -  vs  (MotoGP HELI (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-29 13:00 - MotoGP -  vs  (MotoGP Ambient (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.01:.Main.Event.[LIVE]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-29 13:00 - MotoGP -  vs  (MotoGP 01: Main Event [LIVE])
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%2001%3A%20Main%20Event%20%5BLIVE%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NASCAR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-29 14:30 - NASCAR Cup Series -  vs  (NASCAR)
@@ -6761,6 +6773,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.HELI.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-30 12:00 - MotoGP -  vs  (MotoGP HELI (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-30 12:00 - MotoGP -  vs  (MotoGP Ambient (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.01:.Main.Event.[LIVE]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-30 12:00 - MotoGP -  vs  (MotoGP 01: Main Event [LIVE])
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%2001%3A%20Main%20Event%20%5BLIVE%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-04 10:30 - Formula 1 -  vs  (Sky Sports F1 UK)
@@ -6877,6 +6891,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.HELI.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-12 13:00 - MotoGP -  vs  (MotoGP HELI (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-12 13:00 - MotoGP -  vs  (MotoGP Ambient (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.01:.Main.Event.[LIVE]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-12 13:00 - MotoGP -  vs  (MotoGP 01: Main Event [LIVE])
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%2001%3A%20Main%20Event%20%5BLIVE%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-12 14:00 - Formula 1 -  vs  (Sky Sports F1 UK)
@@ -6909,6 +6925,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.HELI.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-13 12:00 - MotoGP -  vs  (MotoGP HELI (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-13 12:00 - MotoGP -  vs  (MotoGP Ambient (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.01:.Main.Event.[LIVE]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-13 12:00 - MotoGP -  vs  (MotoGP 01: Main Event [LIVE])
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%2001%3A%20Main%20Event%20%5BLIVE%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-13 13:00 - Formula 1 -  vs  (Sky Sports F1 UK)
@@ -6935,6 +6953,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.HELI.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-19 13:00 - MotoGP -  vs  (MotoGP HELI (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-19 13:00 - MotoGP -  vs  (MotoGP Ambient (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.01:.Main.Event.[LIVE]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-19 13:00 - MotoGP -  vs  (MotoGP 01: Main Event [LIVE])
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%2001%3A%20Main%20Event%20%5BLIVE%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NASCAR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-19 14:30 - NASCAR Cup Series -  vs  (NASCAR)
@@ -6955,6 +6975,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.HELI.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-20 12:00 - MotoGP -  vs  (MotoGP HELI (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-20 12:00 - MotoGP -  vs  (MotoGP Ambient (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.01:.Main.Event.[LIVE]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-20 12:00 - MotoGP -  vs  (MotoGP 01: Main Event [LIVE])
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%2001%3A%20Main%20Event%20%5BLIVE%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-24 08:30 - Formula 1 -  vs  (Sky Sports F1 UK)
@@ -7035,6 +7057,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.HELI.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-03 06:00 - MotoGP -  vs  (MotoGP HELI (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-03 06:00 - MotoGP -  vs  (MotoGP Ambient (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.01:.Main.Event.[LIVE]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-03 06:00 - MotoGP -  vs  (MotoGP 01: Main Event [LIVE])
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%2001%3A%20Main%20Event%20%5BLIVE%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Commentary.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-04 05:00 - MotoGP -  vs  (MotoGP Commentary (D))
@@ -7049,6 +7073,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.HELI.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-04 05:00 - MotoGP -  vs  (MotoGP HELI (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-04 05:00 - MotoGP -  vs  (MotoGP Ambient (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.01:.Main.Event.[LIVE]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-04 05:00 - MotoGP -  vs  (MotoGP 01: Main Event [LIVE])
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%2001%3A%20Main%20Event%20%5BLIVE%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NASCAR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-04 10:00 - NASCAR Cup Series -  vs  (NASCAR)
@@ -7093,6 +7119,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.HELI.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-10 08:00 - MotoGP -  vs  (MotoGP HELI (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-10 08:00 - MotoGP -  vs  (MotoGP Ambient (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.01:.Main.Event.[LIVE]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-10 08:00 - MotoGP -  vs  (MotoGP 01: Main Event [LIVE])
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%2001%3A%20Main%20Event%20%5BLIVE%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-10 09:00 - Formula 1 -  vs  (Sky Sports F1 UK)
@@ -7131,6 +7159,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.HELI.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-11 07:00 - MotoGP -  vs  (MotoGP HELI (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-11 07:00 - MotoGP -  vs  (MotoGP Ambient (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.01:.Main.Event.[LIVE]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-11 07:00 - MotoGP -  vs  (MotoGP 01: Main Event [LIVE])
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%2001%3A%20Main%20Event%20%5BLIVE%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NASCAR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-11 10:00 - NASCAR Cup Series -  vs  (NASCAR)
@@ -7193,6 +7223,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.HELI.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 04:00 - MotoGP -  vs  (MotoGP HELI (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 04:00 - MotoGP -  vs  (MotoGP Ambient (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.01:.Main.Event.[LIVE]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 04:00 - MotoGP -  vs  (MotoGP 01: Main Event [LIVE])
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%2001%3A%20Main%20Event%20%5BLIVE%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-24 17:30 - Formula 1 -  vs  (Sky Sports F1 UK)
@@ -7231,6 +7263,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.HELI.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-25 03:00 - MotoGP -  vs  (MotoGP HELI (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-25 03:00 - MotoGP -  vs  (MotoGP Ambient (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.01:.Main.Event.[LIVE]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-25 03:00 - MotoGP -  vs  (MotoGP 01: Main Event [LIVE])
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%2001%3A%20Main%20Event%20%5BLIVE%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NASCAR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-25 09:00 - NASCAR Cup Series -  vs  (NASCAR)
@@ -7287,6 +7321,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.HELI.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 08:00 - MotoGP -  vs  (MotoGP HELI (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 08:00 - MotoGP -  vs  (MotoGP Ambient (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.01:.Main.Event.[LIVE]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 08:00 - MotoGP -  vs  (MotoGP 01: Main Event [LIVE])
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%2001%3A%20Main%20Event%20%5BLIVE%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-31 17:30 - Formula 1 -  vs  (Sky Sports F1 UK)
@@ -7325,6 +7361,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.HELI.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 08:00 - MotoGP -  vs  (MotoGP HELI (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 08:00 - MotoGP -  vs  (MotoGP Ambient (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.01:.Main.Event.[LIVE]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 08:00 - MotoGP -  vs  (MotoGP 01: Main Event [LIVE])
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%2001%3A%20Main%20Event%20%5BLIVE%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NASCAR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 09:00 - NASCAR Cup Series -  vs  (NASCAR)
@@ -7393,6 +7431,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.HELI.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 17:00 - MotoGP -  vs  (MotoGP HELI (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 17:00 - MotoGP -  vs  (MotoGP Ambient (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.01:.Main.Event.[LIVE]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 17:00 - MotoGP -  vs  (MotoGP 01: Main Event [LIVE])
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%2001%3A%20Main%20Event%20%5BLIVE%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-07 18:00 - Formula 1 -  vs  (Sky Sports F1 UK)
@@ -7437,6 +7477,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.HELI.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 17:00 - MotoGP -  vs  (MotoGP HELI (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 17:00 - MotoGP -  vs  (MotoGP Ambient (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.01:.Main.Event.[LIVE]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 17:00 - MotoGP -  vs  (MotoGP 01: Main Event [LIVE])
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%2001%3A%20Main%20Event%20%5BLIVE%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-20 00:30 - Formula 1 -  vs  (Sky Sports F1 UK)
@@ -7499,6 +7541,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.HELI.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 15:00 - MotoGP -  vs  (MotoGP HELI (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 15:00 - MotoGP -  vs  (MotoGP Ambient (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.01:.Main.Event.[LIVE]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-21 15:00 - MotoGP -  vs  (MotoGP 01: Main Event [LIVE])
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%2001%3A%20Main%20Event%20%5BLIVE%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 04:00 - Formula 1 -  vs  (Sky Sports F1 UK)
@@ -7525,6 +7569,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.HELI.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 13:00 - MotoGP -  vs  (MotoGP HELI (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 13:00 - MotoGP -  vs  (MotoGP Ambient (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.01:.Main.Event.[LIVE]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-22 13:00 - MotoGP -  vs  (MotoGP 01: Main Event [LIVE])
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%2001%3A%20Main%20Event%20%5BLIVE%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-27 13:30 - Formula 1 -  vs  (Sky Sports F1 UK)
@@ -7563,6 +7609,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.HELI.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 14:00 - MotoGP -  vs  (MotoGP HELI (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 14:00 - MotoGP -  vs  (MotoGP Ambient (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.01:.Main.Event.[LIVE]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 14:00 - MotoGP -  vs  (MotoGP 01: Main Event [LIVE])
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%2001%3A%20Main%20Event%20%5BLIVE%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-28 14:30 - Formula 1 -  vs  (Sky Sports F1 UK)
@@ -7601,6 +7649,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB2%20(D)&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20OB1%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.HELI.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 13:00 - MotoGP -  vs  (MotoGP HELI (D))
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20HELI%20(D)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MotoGP.Ambient.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 13:00 - MotoGP -  vs  (MotoGP Ambient (D))
+https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.01:.Main.Event.[LIVE]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 13:00 - MotoGP -  vs  (MotoGP 01: Main Event [LIVE])
 https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%2001%3A%20Main%20Event%20%5BLIVE%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-29 16:00 - Formula 1 -  vs  (Sky Sports F1 UK)
@@ -8021,16 +8071,24 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%202&code=&user=cdnlivetv&p
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%203%20(Solo%20Eventos)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ESPN.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-07 23:00 - Professional Fighters League -  vs  (ESPN US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ESPN.Deportes.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-07 23:00 - Professional Fighters League -  vs  (ESPN Deportes US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Deportes%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ESPN.Deportes.HD.LAM" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-07 23:00 - Professional Fighters League -  vs  (ESPN Deportes HD LAM)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Deportes%20HD%20LAM&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ESPN.Deportes.FHD.LAM" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-07 23:00 - Professional Fighters League -  vs  (ESPN Deportes FHD LAM)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Deportes%20FHD%20LAM&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ESPN.Deportes.HD.LAM" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-07 23:00 - Professional Fighters League -  vs  (ESPN Deportes HD LAM)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Deportes%20HD%20LAM&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Stan.Sport.AU.Event.20" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-07 23:00 - Professional Fighters League -  vs  (Stan Sport AU Event 20)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Stan%20Sport%20AU%20Event%2020&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Stan.Sport.AU.Event.19" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-07 23:00 - Professional Fighters League -  vs  (Stan Sport AU Event 19)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Stan%20Sport%20AU%20Event%2019&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Stan.Sport.AU.Event.18" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-07 23:00 - Professional Fighters League -  vs  (Stan Sport AU Event 18)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Stan%20Sport%20AU%20Event%2018&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Stan.Sport.AU.Event.17" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-07 23:00 - Professional Fighters League -  vs  (Stan Sport AU Event 17)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Stan%20Sport%20AU%20Event%2017&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Stan.Sport.AU.Event.16" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-07 23:00 - Professional Fighters League -  vs  (Stan Sport AU Event 16)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Stan%20Sport%20AU%20Event%2016&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Stan.Sport.AU.Event.15" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-07 23:00 - Professional Fighters League -  vs  (Stan Sport AU Event 15)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Stan%20Sport%20AU%20Event%2015&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Stan.Sport.AU.Event.14" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-07 23:00 - Professional Fighters League -  vs  (Stan Sport AU Event 14)
@@ -8053,6 +8111,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Stan%20Sport%20AU%20Event%207&
 https://cdnlivetv.tv/api/v1/channels/player/?name=Stan%20Sport%20AU%20Event%206&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Stan.Sport.AU.Event.5" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-07 23:00 - Professional Fighters League -  vs  (Stan Sport AU Event 5)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Stan%20Sport%20AU%20Event%205&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Stan.Sport.AU.Event.4" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-07 23:00 - Professional Fighters League -  vs  (Stan Sport AU Event 4)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Stan%20Sport%20AU%20Event%204&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Stan.Sport.AU.Event.3" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-07 23:00 - Professional Fighters League -  vs  (Stan Sport AU Event 3)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Stan%20Sport%20AU%20Event%203&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Stan.Sport.AU.Event.2" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-07 23:00 - Professional Fighters League -  vs  (Stan Sport AU Event 2)
@@ -8079,6 +8139,12 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=PPV%2002%20%E2%93%A7%7C%20UFC%
 https://cdnlivetv.tv/api/v1/channels/player/?name=PPV%2003%20%E2%93%A7%7C%20UFC%20%7C%20Medic%20v%20Rodriguez%20%7C%20Sat%201st%20Aug%206%3A00PM%20UK%2F1%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="PPV.04.ⓧ|.UFC.|.Medic.v.Rodriguez.|.Sat.1st.Aug.6:00PM.UK/1:00PM.ET.(Backup)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-08 00:00 - Boxing -  vs  (PPV 04 ⓧ| UFC | Medic v Rodriguez | Sat 1st Aug 6:00PM UK/1:00PM ET (Backup))
 https://cdnlivetv.tv/api/v1/channels/player/?name=PPV%2004%20%E2%93%A7%7C%20UFC%20%7C%20Medic%20v%20Rodriguez%20%7C%20Sat%201st%20Aug%206%3A00PM%20UK%2F1%3A00PM%20ET%20(Backup)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="End.|.UFC.Belgrade.Ceremonial.Weigh-In.|.all.|.PRIME-US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-08 00:00 - Boxing -  vs  (End | UFC Belgrade Ceremonial Weigh-In | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20Belgrade%20Ceremonial%20Weigh-In%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="PPV.05.ⓧ|.07:00.AM.|.UFC.Fight.Night:.Ankalaev.vs.Guskov.Español" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-08 00:00 - Boxing -  vs  (PPV 05 ⓧ| 07:00 AM | UFC Fight Night: Ankalaev vs Guskov Español)
+https://cdnlivetv.tv/api/v1/channels/player/?name=PPV%2005%20%E2%93%A7%7C%2007%3A00%20AM%20%7C%20UFC%20Fight%20Night%3A%20Ankalaev%20vs%20Guskov%20Espa%C3%B1ol&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="PPV.06.ⓧ|.10:00.AM.|.UFC.Fight.Night:.Ankalaev.vs.Guskov.Multiview" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-08 00:00 - Boxing -  vs  (PPV 06 ⓧ| 10:00 AM | UFC Fight Night: Ankalaev vs Guskov Multiview)
+https://cdnlivetv.tv/api/v1/channels/player/?name=PPV%2006%20%E2%93%A7%7C%2010%3A00%20AM%20%7C%20UFC%20Fight%20Night%3A%20Ankalaev%20vs%20Guskov%20Multiview&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="PPV.13.ⓧ|.KARATE.COMBAT..|.JUL.24.7:00.PM.ET.UFC" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-08 00:00 - Boxing -  vs  (PPV 13 ⓧ| KARATE COMBAT  | JUL 24 7:00 PM ET UFC)
 https://cdnlivetv.tv/api/v1/channels/player/?name=PPV%2013%20%E2%93%A7%7C%20KARATE%20COMBAT%20%20%7C%20JUL%2024%207%3A00%20PM%20ET%20UFC&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="End.|.UFC.Abu.Dhabi.Ceremonial.Weigh-In.|.all.|.PRIME-US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-08 00:00 - Boxing -  vs  (End | UFC Abu Dhabi Ceremonial Weigh-In | all | PRIME-US)
@@ -8125,6 +8191,12 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=PPV%2002%20%E2%93%A7%7C%20UFC%
 https://cdnlivetv.tv/api/v1/channels/player/?name=PPV%2003%20%E2%93%A7%7C%20UFC%20%7C%20Medic%20v%20Rodriguez%20%7C%20Sat%201st%20Aug%206%3A00PM%20UK%2F1%3A00PM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="PPV.04.ⓧ|.UFC.|.Medic.v.Rodriguez.|.Sat.1st.Aug.6:00PM.UK/1:00PM.ET.(Backup)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-08 00:00 - Boxing -  vs  (PPV 04 ⓧ| UFC | Medic v Rodriguez | Sat 1st Aug 6:00PM UK/1:00PM ET (Backup))
 https://cdnlivetv.tv/api/v1/channels/player/?name=PPV%2004%20%E2%93%A7%7C%20UFC%20%7C%20Medic%20v%20Rodriguez%20%7C%20Sat%201st%20Aug%206%3A00PM%20UK%2F1%3A00PM%20ET%20(Backup)&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="End.|.UFC.Belgrade.Ceremonial.Weigh-In.|.all.|.PRIME-US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-08 00:00 - Boxing -  vs  (End | UFC Belgrade Ceremonial Weigh-In | all | PRIME-US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20Belgrade%20Ceremonial%20Weigh-In%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="PPV.05.ⓧ|.07:00.AM.|.UFC.Fight.Night:.Ankalaev.vs.Guskov.Español" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-08 00:00 - Boxing -  vs  (PPV 05 ⓧ| 07:00 AM | UFC Fight Night: Ankalaev vs Guskov Español)
+https://cdnlivetv.tv/api/v1/channels/player/?name=PPV%2005%20%E2%93%A7%7C%2007%3A00%20AM%20%7C%20UFC%20Fight%20Night%3A%20Ankalaev%20vs%20Guskov%20Espa%C3%B1ol&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="PPV.06.ⓧ|.10:00.AM.|.UFC.Fight.Night:.Ankalaev.vs.Guskov.Multiview" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-08 00:00 - Boxing -  vs  (PPV 06 ⓧ| 10:00 AM | UFC Fight Night: Ankalaev vs Guskov Multiview)
+https://cdnlivetv.tv/api/v1/channels/player/?name=PPV%2006%20%E2%93%A7%7C%2010%3A00%20AM%20%7C%20UFC%20Fight%20Night%3A%20Ankalaev%20vs%20Guskov%20Multiview&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="PPV.13.ⓧ|.KARATE.COMBAT..|.JUL.24.7:00.PM.ET.UFC" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-08 00:00 - Boxing -  vs  (PPV 13 ⓧ| KARATE COMBAT  | JUL 24 7:00 PM ET UFC)
 https://cdnlivetv.tv/api/v1/channels/player/?name=PPV%2013%20%E2%93%A7%7C%20KARATE%20COMBAT%20%20%7C%20JUL%2024%207%3A00%20PM%20ET%20UFC&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="End.|.UFC.Abu.Dhabi.Ceremonial.Weigh-In.|.all.|.PRIME-US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-08 00:00 - Boxing -  vs  (End | UFC Abu Dhabi Ceremonial Weigh-In | all | PRIME-US)
@@ -8199,105 +8271,105 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20HD&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20FHD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.2.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-08-10 00:00 - UCI ProSeries -  vs  (Eurosport 2 HD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20HD&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Eurosport.2.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-08-10 00:00 - UCI ProSeries -  vs  (Eurosport 2 FHD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20FHD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-08-10 00:00 - UCI ProSeries -  vs  (TNT Sports 1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-08-10 00:00 - UCI ProSeries -  vs  (TNT Sports 1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Eurosport.2.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-08-10 00:00 - UCI ProSeries -  vs  (Eurosport 2 FHD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20FHD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.1.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-08-16 00:00 - UCI World Tour -  vs  (Eurosport 1 HD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20HD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.1.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-08-16 00:00 - UCI World Tour -  vs  (Eurosport 1 FHD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20FHD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.2.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-08-16 00:00 - UCI World Tour -  vs  (Eurosport 2 HD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20HD&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Eurosport.2.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-08-16 00:00 - UCI World Tour -  vs  (Eurosport 2 FHD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20FHD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-08-16 00:00 - UCI World Tour -  vs  (TNT Sports 1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-08-16 00:00 - UCI World Tour -  vs  (TNT Sports 1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Eurosport.2.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-08-16 00:00 - UCI World Tour -  vs  (Eurosport 2 FHD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20FHD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.1.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-08-19 00:00 - UCI World Tour -  vs  (Eurosport 1 HD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20HD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.1.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-08-19 00:00 - UCI World Tour -  vs  (Eurosport 1 FHD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20FHD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.2.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-08-19 00:00 - UCI World Tour -  vs  (Eurosport 2 HD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20HD&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Eurosport.2.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-08-19 00:00 - UCI World Tour -  vs  (Eurosport 2 FHD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20FHD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-08-19 00:00 - UCI World Tour -  vs  (TNT Sports 1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-08-19 00:00 - UCI World Tour -  vs  (TNT Sports 1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Eurosport.2.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-08-19 00:00 - UCI World Tour -  vs  (Eurosport 2 FHD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20FHD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.1.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-08-22 00:00 - UCI World Tour -  vs  (Eurosport 1 HD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20HD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.1.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-08-22 00:00 - UCI World Tour -  vs  (Eurosport 1 FHD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20FHD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.2.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-08-22 00:00 - UCI World Tour -  vs  (Eurosport 2 HD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20HD&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Eurosport.2.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-08-22 00:00 - UCI World Tour -  vs  (Eurosport 2 FHD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20FHD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-08-22 00:00 - UCI World Tour -  vs  (TNT Sports 1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-08-22 00:00 - UCI World Tour -  vs  (TNT Sports 1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Eurosport.2.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-08-22 00:00 - UCI World Tour -  vs  (Eurosport 2 FHD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20FHD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.1.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-08-30 00:00 - UCI World Tour -  vs  (Eurosport 1 HD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20HD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.1.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-08-30 00:00 - UCI World Tour -  vs  (Eurosport 1 FHD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20FHD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.2.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-08-30 00:00 - UCI World Tour -  vs  (Eurosport 2 HD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20HD&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Eurosport.2.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-08-30 00:00 - UCI World Tour -  vs  (Eurosport 2 FHD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20FHD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-08-30 00:00 - UCI World Tour -  vs  (TNT Sports 1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-08-30 00:00 - UCI World Tour -  vs  (TNT Sports 1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Eurosport.2.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-08-30 00:00 - UCI World Tour -  vs  (Eurosport 2 FHD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20FHD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.1.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-09-11 00:00 - UCI World Tour -  vs  (Eurosport 1 HD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20HD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.1.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-09-11 00:00 - UCI World Tour -  vs  (Eurosport 1 FHD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20FHD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.2.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-09-11 00:00 - UCI World Tour -  vs  (Eurosport 2 HD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20HD&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Eurosport.2.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-09-11 00:00 - UCI World Tour -  vs  (Eurosport 2 FHD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20FHD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-09-11 00:00 - UCI World Tour -  vs  (TNT Sports 1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-09-11 00:00 - UCI World Tour -  vs  (TNT Sports 1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Eurosport.2.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-09-11 00:00 - UCI World Tour -  vs  (Eurosport 2 FHD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20FHD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.1.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-09-13 00:00 - UCI World Tour -  vs  (Eurosport 1 HD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20HD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.1.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-09-13 00:00 - UCI World Tour -  vs  (Eurosport 1 FHD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20FHD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.2.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-09-13 00:00 - UCI World Tour -  vs  (Eurosport 2 HD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20HD&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Eurosport.2.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-09-13 00:00 - UCI World Tour -  vs  (Eurosport 2 FHD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20FHD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-09-13 00:00 - UCI World Tour -  vs  (TNT Sports 1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-09-13 00:00 - UCI World Tour -  vs  (TNT Sports 1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Eurosport.2.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-09-13 00:00 - UCI World Tour -  vs  (Eurosport 2 FHD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20FHD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.1.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-10-10 00:00 - UCI World Tour -  vs  (Eurosport 1 HD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20HD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.1.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-10-10 00:00 - UCI World Tour -  vs  (Eurosport 1 FHD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20FHD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.2.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-10-10 00:00 - UCI World Tour -  vs  (Eurosport 2 HD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20HD&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Eurosport.2.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-10-10 00:00 - UCI World Tour -  vs  (Eurosport 2 FHD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20FHD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-10-10 00:00 - UCI World Tour -  vs  (TNT Sports 1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-10-10 00:00 - UCI World Tour -  vs  (TNT Sports 1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Eurosport.2.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-10-10 00:00 - UCI World Tour -  vs  (Eurosport 2 FHD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20FHD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.1.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-10-13 00:00 - UCI World Tour -  vs  (Eurosport 1 HD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20HD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.1.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-10-13 00:00 - UCI World Tour -  vs  (Eurosport 1 FHD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20FHD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.2.HD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-10-13 00:00 - UCI World Tour -  vs  (Eurosport 2 HD)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20HD&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Eurosport.2.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-10-13 00:00 - UCI World Tour -  vs  (Eurosport 2 FHD)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20FHD&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-10-13 00:00 - UCI World Tour -  vs  (TNT Sports 1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20HD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-10-13 00:00 - UCI World Tour -  vs  (TNT Sports 1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Eurosport.2.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Cycling] 2026-10-13 00:00 - UCI World Tour -  vs  (Eurosport 2 FHD)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%202%20FHD&code=&user=cdnlivetv&plan=free
