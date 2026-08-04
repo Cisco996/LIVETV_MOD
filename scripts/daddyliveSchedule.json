@@ -1,5 +1,25 @@
 {
     "Tuesday 04th Aug 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "14:30",
+                "event": "Monster Energy AMA National Motocross Championship at Loretta Lynns",
+                "channels": [
+                    {
+                        "channel_name": "Flowracing",
+                        "channel_id": "152"
+                    },
+                    {
+                        "channel_name": "Flowracing",
+                        "channel_id": "5001"
+                    },
+                    {
+                        "channel_name": "Flowracing 2",
+                        "channel_id": "2001"
+                    }
+                ]
+            }
+        ],
         "Big Brother \ud83d\udc41\ufe0f 28 LIVE CAMERA FEEDS": [
             {
                 "time": "18:30",
@@ -562,6 +582,18 @@
                     {
                         "channel_name": "Fox Sports 1 USA",
                         "channel_id": "39"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2004"
+                    },
+                    {
+                        "channel_name": "Fox Sports 1 USA",
+                        "channel_id": "3001"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7058"
                     }
                 ]
             },
@@ -572,6 +604,18 @@
                     {
                         "channel_name": "MLS Season Pass",
                         "channel_id": "59"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2005"
+                    },
+                    {
+                        "channel_name": "MLS Season Pass",
+                        "channel_id": "3032"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7057"
                     }
                 ]
             },
@@ -582,6 +626,18 @@
                     {
                         "channel_name": "MLS Season Pass",
                         "channel_id": "68"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2006"
+                    },
+                    {
+                        "channel_name": "MLS Season Pass",
+                        "channel_id": "3033"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7059"
                     }
                 ]
             },
@@ -592,6 +648,14 @@
                     {
                         "channel_name": "MLS Season Pass",
                         "channel_id": "69"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2007"
+                    },
+                    {
+                        "channel_name": "MLS Season Pass",
+                        "channel_id": "3034"
                     }
                 ]
             },
@@ -622,6 +686,14 @@
                     {
                         "channel_name": "UniM\u00e1s",
                         "channel_id": "133"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2008"
+                    },
+                    {
+                        "channel_name": "MLS Season Pass",
+                        "channel_id": "3081"
                     }
                 ]
             },
@@ -632,6 +704,14 @@
                     {
                         "channel_name": "MLS Season Pass",
                         "channel_id": "77"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2009"
+                    },
+                    {
+                        "channel_name": "MLS Season Pass",
+                        "channel_id": "3035"
                     }
                 ]
             }
@@ -942,6 +1022,10 @@
                     {
                         "channel_name": "VG+",
                         "channel_id": "3072"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2002"
                     }
                 ]
             },
@@ -964,6 +1048,10 @@
                     {
                         "channel_name": "Canal+ Foot France",
                         "channel_id": "3055"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2003"
                     }
                 ]
             },
@@ -1046,6 +1134,10 @@
                     {
                         "channel_name": "Fox Sports 2 USA",
                         "channel_id": "758"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7051"
                     }
                 ]
             },
@@ -1074,6 +1166,10 @@
                     {
                         "channel_name": "Win+ Futbol Colombia",
                         "channel_id": "392"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7052"
                     }
                 ]
             },
@@ -1098,12 +1194,40 @@
                 ]
             },
             {
+                "time": "22:30",
+                "event": "\u26bd Brazil Copa Betano do Brasil : Juventude vs Atl\u00e9tico Mineiro",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7053"
+                    }
+                ]
+            },
+            {
                 "time": "23:15",
                 "event": "\u26bd \ud83c\udde8\ud83c\uddf4 Primera A : Deportes Tolima vs Independiente Medell\u00edn",
                 "channels": [
                     {
                         "channel_name": "Win+ Futbol Colombia",
                         "channel_id": "392"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7054"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7055"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "\u26bd Chile Copa Chile : \u00d1ublense vs Rangers de Talca",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7056"
                     }
                 ]
             },
@@ -1134,6 +1258,10 @@
                     {
                         "channel_name": "DSports 1 Argentina",
                         "channel_id": "619"
+                    },
+                    {
+                        "channel_name": "FOX Deportes",
+                        "channel_id": "3087"
                     }
                 ]
             },
@@ -1246,6 +1374,16 @@
                     {
                         "channel_name": "Ligue 1+ France",
                         "channel_id": "3050"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "\u26bd Club Friendly : Newport County vs AS Roma",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "6040"
                     }
                 ]
             },
@@ -2792,6 +2930,10 @@
                     {
                         "channel_name": "TSN1",
                         "channel_id": "111"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2020"
                     }
                 ]
             }
@@ -2994,6 +3136,10 @@
                     {
                         "channel_name": "TSN4",
                         "channel_id": "114"
+                    },
+                    {
+                        "channel_name": "TSN1",
+                        "channel_id": "3031"
                     }
                 ]
             },
@@ -3016,6 +3162,10 @@
                     {
                         "channel_name": "RDS CA",
                         "channel_id": "839"
+                    },
+                    {
+                        "channel_name": "TSN1",
+                        "channel_id": "3031"
                     }
                 ]
             }
