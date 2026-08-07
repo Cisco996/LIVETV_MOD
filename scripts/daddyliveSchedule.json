@@ -1590,6 +1590,14 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4105"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7025"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5022"
                     }
                 ]
             },
@@ -1798,6 +1806,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "7012"
+                    },
+                    {
+                        "channel_name": "Backup Stream HD",
+                        "channel_id": "7028"
                     }
                 ]
             },
@@ -1816,6 +1828,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "7011"
+                    },
+                    {
+                        "channel_name": "Backup Stream HD",
+                        "channel_id": "7026"
                     }
                 ]
             },
@@ -1912,6 +1928,14 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "7021"
+                    },
+                    {
+                        "channel_name": "Backup Stream HD",
+                        "channel_id": "7029"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5021"
                     }
                 ]
             },
@@ -1950,6 +1974,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "7019"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5020"
                     }
                 ]
             },
