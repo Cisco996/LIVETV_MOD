@@ -1080,6 +1080,10 @@
                     {
                         "channel_name": "Oneplay Sport 1 CZ",
                         "channel_id": "3041"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7037"
                     }
                 ]
             },
@@ -1102,6 +1106,10 @@
                     {
                         "channel_name": "Magenta Sport 318",
                         "channel_id": "3012"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7038"
                     }
                 ]
             },
@@ -1140,6 +1148,26 @@
                     {
                         "channel_name": "SRF zwei",
                         "channel_id": "258"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "\u26bd Sweden Damall svenskan : V\u00e4xj\u00f6 DFF vs Roseng\u00e5rd",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7039"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "\u26bd Sweden Damall svenskan : AIK W vs IF Brommapojkarna W",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7040"
                     }
                 ]
             },
@@ -3936,6 +3964,10 @@
                     {
                         "channel_name": "Sport 5 PLUS Israel",
                         "channel_id": "145"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4048"
                     }
                 ]
             }
@@ -4670,6 +4702,10 @@
                     {
                         "channel_name": "MLB League Pass",
                         "channel_id": "12"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4024"
                     }
                 ]
             },
@@ -4680,6 +4716,10 @@
                     {
                         "channel_name": "MLB League Pass",
                         "channel_id": "13"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4025"
                     }
                 ]
             },
@@ -4694,6 +4734,10 @@
                     {
                         "channel_name": "Space City Home Network",
                         "channel_id": "921"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4027"
                     }
                 ]
             },
@@ -4708,6 +4752,10 @@
                     {
                         "channel_name": "Spectrum SportsNet LA",
                         "channel_id": "764"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4026"
                     }
                 ]
             },
@@ -4718,6 +4766,10 @@
                     {
                         "channel_name": "MLB League Pass",
                         "channel_id": "16"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4028"
                     }
                 ]
             },
@@ -4732,6 +4784,10 @@
                     {
                         "channel_name": "NBC Sports Bay Area",
                         "channel_id": "753"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4029"
                     }
                 ]
             }
@@ -4756,6 +4812,10 @@
                     {
                         "channel_name": "WNBA League Pass",
                         "channel_id": "10"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4070"
                     }
                 ]
             },
@@ -4766,6 +4826,10 @@
                     {
                         "channel_name": "ION USA",
                         "channel_id": "325"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4071"
                     }
                 ]
             },
@@ -4776,6 +4840,10 @@
                     {
                         "channel_name": "ION USA",
                         "channel_id": "325"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "4072"
                     }
                 ]
             }
@@ -5179,7 +5247,7 @@
                 "channels": [
                     {
                         "channel_name": "Sky Sport 1 NZ",
-                        "channel_id": "58"
+                        "channel_id": "588"
                     }
                 ]
             },
@@ -5213,7 +5281,7 @@
                     },
                     {
                         "channel_name": "Sky Sport 1 NZ",
-                        "channel_id": "58"
+                        "channel_id": "588"
                     },
                     {
                         "channel_name": "Fox Soccer Plus",
@@ -5303,7 +5371,7 @@
                 "channels": [
                     {
                         "channel_name": "Sky Sport 1 NZ",
-                        "channel_id": "58"
+                        "channel_id": "588"
                     }
                 ]
             },
@@ -5317,7 +5385,7 @@
                     },
                     {
                         "channel_name": "Sky Sport 1 NZ",
-                        "channel_id": "58"
+                        "channel_id": "588"
                     },
                     {
                         "channel_name": "Canal+ Sport France",
@@ -5330,6 +5398,14 @@
                     {
                         "channel_name": "SuperSport Grandstand",
                         "channel_id": "412"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7041"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2020"
                     }
                 ]
             }
