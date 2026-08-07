@@ -319,6 +319,26 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20FHD%20CA&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Deportes%20FHD%20LAM&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ESPN.Deportes.HD.LAM" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-09 16:30 - WNBA - New York Liberty vs Las Vegas Aces (ESPN Deportes HD LAM)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Deportes%20HD%20LAM&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NBC.12.(WWBT).Richmond.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-09 19:30 - WNBA - Minnesota Lynx vs Dallas Wings (NBC 12 (WWBT) Richmond HD US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NBC%2012%20(WWBT)%20Richmond%20HD%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.Action.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-09 19:30 - WNBA - Minnesota Lynx vs Dallas Wings (Sky Sports Action UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Action%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.Action.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-09 19:30 - WNBA - Minnesota Lynx vs Dallas Wings (Sky Sports Action HD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Action%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.Action.FHD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-09 19:30 - WNBA - Minnesota Lynx vs Dallas Wings (Sky Sports Action FHD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Action%20FHD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.Action.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-11 02:00 - WNBA - Seattle Storm vs Chicago Sky (Sky Sports Action UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Action%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.Action.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-11 02:00 - WNBA - Seattle Storm vs Chicago Sky (Sky Sports Action HD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Action%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.Action.FHD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-11 02:00 - WNBA - Seattle Storm vs Chicago Sky (Sky Sports Action FHD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Action%20FHD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.Mix.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-11 02:00 - WNBA - Seattle Storm vs Chicago Sky (Sky Sports Mix UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Mix%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.Mix.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-11 02:00 - WNBA - Seattle Storm vs Chicago Sky (Sky Sports Mix HD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Mix%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.Mix.FHD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-11 02:00 - WNBA - Seattle Storm vs Chicago Sky (Sky Sports Mix FHD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Mix%20FHD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ESPN.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-11 23:30 - WNBA - Indiana Fever vs New York Liberty (ESPN US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ESPN.Deportes.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-11 23:30 - WNBA - Indiana Fever vs New York Liberty (ESPN Deportes US)
@@ -587,10 +607,10 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20Oklahoma%20C
 https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20Abu%20Dhabi%20Ceremonial%20Weigh-In%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="End.|.This.Is.UFC:.McGregor.vs..Holloway.|.all.|.PRIME-US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-08 00:00 - Boxing -  vs  (End | This Is UFC: McGregor vs. Holloway | all | PRIME-US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20This%20Is%20UFC%3A%20McGregor%20vs.%20Holloway%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="UFC.Starzplay" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-08 00:00 - Boxing -  vs  (UFC Starzplay)
-https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Starzplay&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="End.|.UFC.Hall.of.Fame.Induction.Ceremony.|.all.|.PRIME-US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-08 00:00 - Boxing -  vs  (End | UFC Hall of Fame Induction Ceremony | all | PRIME-US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20Hall%20of%20Fame%20Induction%20Ceremony%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="UFC.Starzplay" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-08 00:00 - Boxing -  vs  (UFC Starzplay)
+https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Starzplay&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="PPV.02.ⓧ|.UFC.|.Prelims.|.Sat.1st.Aug.4:00PM.UK/11:00AM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-08 00:00 - Boxing -  vs  (PPV 02 ⓧ| UFC | Prelims | Sat 1st Aug 4:00PM UK/11:00AM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=PPV%2002%20%E2%93%A7%7C%20UFC%20%7C%20Prelims%20%7C%20Sat%201st%20Aug%204%3A00PM%20UK%2F11%3A00AM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="PPV.03.ⓧ|.UFC.|.Medic.v.Rodriguez.|.Sat.1st.Aug.6:00PM.UK/1:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-08 00:00 - Boxing -  vs  (PPV 03 ⓧ| UFC | Medic v Rodriguez | Sat 1st Aug 6:00PM UK/1:00PM ET)
@@ -639,10 +659,10 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20Oklahoma%20C
 https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20Abu%20Dhabi%20Ceremonial%20Weigh-In%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="End.|.This.Is.UFC:.McGregor.vs..Holloway.|.all.|.PRIME-US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-08 00:00 - Boxing -  vs  (End | This Is UFC: McGregor vs. Holloway | all | PRIME-US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20This%20Is%20UFC%3A%20McGregor%20vs.%20Holloway%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="UFC.Starzplay" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-08 00:00 - Boxing -  vs  (UFC Starzplay)
-https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Starzplay&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="End.|.UFC.Hall.of.Fame.Induction.Ceremony.|.all.|.PRIME-US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-08 00:00 - Boxing -  vs  (End | UFC Hall of Fame Induction Ceremony | all | PRIME-US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=End%20%7C%20UFC%20Hall%20of%20Fame%20Induction%20Ceremony%20%7C%20all%20%7C%20PRIME-US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="UFC.Starzplay" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-08 00:00 - Boxing -  vs  (UFC Starzplay)
+https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Starzplay&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="PPV.02.ⓧ|.UFC.|.Prelims.|.Sat.1st.Aug.4:00PM.UK/11:00AM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-08 00:00 - Boxing -  vs  (PPV 02 ⓧ| UFC | Prelims | Sat 1st Aug 4:00PM UK/11:00AM ET)
 https://cdnlivetv.tv/api/v1/channels/player/?name=PPV%2002%20%E2%93%A7%7C%20UFC%20%7C%20Prelims%20%7C%20Sat%201st%20Aug%204%3A00PM%20UK%2F11%3A00AM%20ET&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="PPV.03.ⓧ|.UFC.|.Medic.v.Rodriguez.|.Sat.1st.Aug.6:00PM.UK/1:00PM.ET" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-08 00:00 - Boxing -  vs  (PPV 03 ⓧ| UFC | Medic v Rodriguez | Sat 1st Aug 6:00PM UK/1:00PM ET)
