@@ -1,14 +1,4 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz,https://github.com/nzo66/TV/raw/refs/heads/main/epg.xml.gz"
-#EXTINF:-1 tvg-id="Fox.Sports.1.FHD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-sports-1-fhd-us.webp",[Soccer] 2026-08-09 01:00 - Leagues Cup - CD Guadalajara vs FC Dallas (Fox Sports 1 FHD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Fox%20Sports%201%20FHD%20US&code=us&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="RDS.2.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/canada/rds-2-ca.webp",[Soccer] 2026-08-09 01:00 - Leagues Cup - CD Guadalajara vs FC Dallas (RDS 2 CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=RDS%202%20CA&code=ca&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TSN.5.FHD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-08-09 01:00 - Leagues Cup - CD Guadalajara vs FC Dallas (TSN 5 FHD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20FHD%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Univision.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-08-09 01:00 - Leagues Cup - CD Guadalajara vs FC Dallas (Univision CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Univision%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Canal.5.FHD.MX" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/mexico/canal-5-fhd-mx.webp",[Soccer] 2026-08-09 01:00 - Leagues Cup - CD Guadalajara vs FC Dallas (Canal 5 FHD MX)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Canal%205%20FHD%20MX&code=mx&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Fox.Sports.1.FHD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-sports-1-fhd-us.webp",[Soccer] 2026-08-09 03:10 - Leagues Cup - Toluca vs Los Angeles FC (Fox Sports 1 FHD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Fox%20Sports%201%20FHD%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.5.FHD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-08-09 03:10 - Leagues Cup - Toluca vs Los Angeles FC (TSN 5 FHD CA)
@@ -77,10 +67,14 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sportdigital%20Fussball%20FHD%
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%20TV%207%20PT&code=pt&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sport.2.HD.IL" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/israel/sport-2-hd-il.webp",[Soccer] 2026-09-03 00:15 - Copa Argentina - Vélez Sarsfield vs Boca Juniors (Sport 2 HD IL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sport%202%20HD%20IL&code=il&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TSN.1.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-08-08 23:00 - CFL - BC Lions vs Hamilton Tiger-Cats (TSN 1 HD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TSN.3.FHD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-08-08 23:00 - CFL - BC Lions vs Hamilton Tiger-Cats (TSN 3 FHD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20FHD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.2.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-08-13 23:00 - NFL - Cincinnati Bengals vs Detroit Lions (TSN 2 CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%202%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.2.FHD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-08-13 23:00 - NFL - Cincinnati Bengals vs Detroit Lions (TSN 2 FHD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%202%20FHD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TSN.2.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-08-13 23:00 - NFL - Cincinnati Bengals vs Detroit Lions (TSN 2 HD CA)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%202%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NFL.Network.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-08-14 01:00 - NFL - San Francisco 49ers vs Tennessee Titans (NFL Network US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NFL%20Network%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="RDS.2.QC" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-08-14 01:00 - CFL - Calgary Stampeders vs BC Lions (RDS 2 QC)
 https://cdnlivetv.tv/api/v1/channels/player/?name=RDS%202%20QC&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="RDS.2.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-08-14 01:00 - CFL - Calgary Stampeders vs BC Lions (RDS 2 CA)
@@ -115,34 +109,20 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%204%20FHD%20CA&code=&user=
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.5.FHD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-08-15 00:30 - CFL - Winnipeg Blue Bombers vs Ottawa Redblacks (TSN 5 FHD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20FHD%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="CW.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/cw-us.webp",[MLB] 2026-08-08 22:40 - MLB - Pittsburgh Pirates vs New York Mets (CW US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=CW%20US&code=us&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="AT&T.SportsNet.Pittsburgh.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/at-t-sportsnet-pittsburgh-hd-us.webp",[MLB] 2026-08-08 22:40 - MLB - Pittsburgh Pirates vs New York Mets (AT&T SportsNet Pittsburgh HD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=AT%26T%20SportsNet%20Pittsburgh%20HD%20US&code=us&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="NY.|.New.York.|..CW.WPIX" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-08 22:40 - MLB - Pittsburgh Pirates vs New York Mets (NY | New York |  CW WPIX)
-https://cdnlivetv.tv/api/v1/channels/player/?name=NY%20%7C%20New%20York%20%7C%20%20CW%20WPIX&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="FOX.5.New.York" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-08 23:15 - MLB - Chicago White Sox vs Cleveland Guardians (FOX 5 New York)
-https://cdnlivetv.tv/api/v1/channels/player/?name=FOX%205%20New%20York&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="FOX.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-us.webp",[MLB] 2026-08-08 23:15 - MLB - Chicago White Sox vs Cleveland Guardians (FOX US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=FOX%20US&code=us&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Fox.Deportes.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-08 23:15 - MLB - Chicago White Sox vs Cleveland Guardians (Fox Deportes HD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Fox%20Deportes%20HD%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TSN.2.FHD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-09 00:10 - MLB - Arizona Diamondbacks vs Los Angeles Dodgers (TSN 2 FHD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%202%20FHD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CW.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/cw-us.webp",[MLB] 2026-08-09 17:35 - MLB - Pittsburgh Pirates vs New York Mets (CW US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CW%20US&code=us&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="AT&T.SportsNet.Pittsburgh.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/at-t-sportsnet-pittsburgh-hd-us.webp",[MLB] 2026-08-09 17:35 - MLB - Pittsburgh Pirates vs New York Mets (AT&T SportsNet Pittsburgh HD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=AT%26T%20SportsNet%20Pittsburgh%20HD%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NY.|.New.York.|..CW.WPIX" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-09 17:35 - MLB - Pittsburgh Pirates vs New York Mets (NY | New York |  CW WPIX)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NY%20%7C%20New%20York%20%7C%20%20CW%20WPIX&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="AT&T.SportsNet.Pittsburgh.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/at-t-sportsnet-pittsburgh-hd-us.webp",[MLB] 2026-08-09 17:35 - MLB - Pittsburgh Pirates vs New York Mets (AT&T SportsNet Pittsburgh HD US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=AT%26T%20SportsNet%20Pittsburgh%20HD%20US&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NBC.Sports.Philadelphia.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/nbc-sports-philadelphia-hd-us.webp",[MLB] 2026-08-09 17:35 - MLB - Philadelphia Phillies vs Toronto Blue Jays (NBC Sports Philadelphia HD US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NBC%20Sports%20Philadelphia%20HD%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sportsnet.Ontario.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-09 17:35 - MLB - Philadelphia Phillies vs Toronto Blue Jays (Sportsnet Ontario HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20Ontario%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sportsnet.West.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-09 17:35 - MLB - Philadelphia Phillies vs Toronto Blue Jays (Sportsnet West HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20West%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="SPORTSNET.EAST.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-09 17:35 - MLB - Philadelphia Phillies vs Toronto Blue Jays (SPORTSNET EAST CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=SPORTSNET%20EAST%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="NBC.Sports.Philadelphia.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/nbc-sports-philadelphia-hd-us.webp",[MLB] 2026-08-09 17:35 - MLB - Philadelphia Phillies vs Toronto Blue Jays (NBC Sports Philadelphia HD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=NBC%20Sports%20Philadelphia%20HD%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NBC.Sports.California.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/nbc-sports-california-hd-us.webp",[MLB] 2026-08-09 17:35 - MLB - Boston Red Sox vs Athletics (NBC Sports California HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NBC%20Sports%20California%20HD%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NESN.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/nesn-us.webp",[MLB] 2026-08-09 17:35 - MLB - Boston Red Sox vs Athletics (NESN US)
@@ -421,8 +401,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=FOX%205%20New%20York&code=&use
 https://cdnlivetv.tv/api/v1/channels/player/?name=FOX%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Fox.Deportes.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-16 17:10 - MLB - Cleveland Guardians vs Chicago White Sox (Fox Deportes HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Fox%20Deportes%20HD%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="ABC.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/abc-us.webp",[Basketball] 2026-08-09 16:30 - WNBA - New York Liberty vs Las Vegas Aces (ABC US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=ABC%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ABC.7.New.York" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-09 16:30 - WNBA - New York Liberty vs Las Vegas Aces (ABC 7 New York)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ABC%207%20New%20York&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.1.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-09 16:30 - WNBA - New York Liberty vs Las Vegas Aces (TSN 1 HD CA)
@@ -447,6 +425,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Action%20HD%20U
 https://cdnlivetv.tv/api/v1/channels/player/?name=NBC%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NBC.4.(WNBC).New.York.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/nbc-4-wnbc-new-york-hd-us.webp",[Basketball] 2026-08-09 19:30 - WNBA - Minnesota Lynx vs Dallas Wings (NBC 4 (WNBC) New York HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NBC%204%20(WNBC)%20New%20York%20HD%20US&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="ESPN.FHD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/espn-fhd-us.webp",[Basketball] 2026-08-09 23:00 - WNBA - Los Angeles Sparks vs Golden State Valkyries (ESPN FHD US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20FHD%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.4.FHD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-09 23:00 - WNBA - Los Angeles Sparks vs Golden State Valkyries (TSN 4 FHD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%204%20FHD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.3.FHD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-09 23:00 - WNBA - Los Angeles Sparks vs Golden State Valkyries (TSN 3 FHD CA)
@@ -457,12 +437,12 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%204%20FHD%20NL&code=nl&us
 https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Deportes%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ESPN.4.HD.BR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/brazil/espn-4-hd-br.webp",[Basketball] 2026-08-09 23:00 - WNBA - Los Angeles Sparks vs Golden State Valkyries (ESPN 4 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%204%20HD%20BR&code=br&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="ESPN.FHD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/espn-fhd-us.webp",[Basketball] 2026-08-09 23:00 - WNBA - Los Angeles Sparks vs Golden State Valkyries (ESPN FHD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20FHD%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Action.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-11 02:00 - WNBA - Seattle Storm vs Chicago Sky (Sky Sports Action UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Action%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Action.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-11 02:00 - WNBA - Seattle Storm vs Chicago Sky (Sky Sports Action HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Action%20HD%20UK&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Sky.Sports.Action.FHD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-11 02:00 - WNBA - Seattle Storm vs Chicago Sky (Sky Sports Action FHD UK)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Action%20FHD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Mix.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-11 02:00 - WNBA - Seattle Storm vs Chicago Sky (Sky Sports Mix UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Mix%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Mix.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-11 02:00 - WNBA - Seattle Storm vs Chicago Sky (Sky Sports Mix HD UK)
@@ -487,6 +467,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Deportes%20FHD%20LAM&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20Deportes%20HD%20LAM&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Spectrum.Sports.Encore.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-12 02:00 - WNBA - Los Angeles Sparks vs Phoenix Mercury (Spectrum Sports Encore US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Spectrum%20Sports%20Encore%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NBA.TV.FHD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-12 02:00 - WNBA - Los Angeles Sparks vs Phoenix Mercury (NBA TV FHD US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NBA%20TV%20FHD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Spectrum.Sportsnet.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-12 02:00 - WNBA - Los Angeles Sparks vs Phoenix Mercury (Spectrum Sportsnet HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Spectrum%20Sportsnet%20HD%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Spectrum.Sportsnet.LA.Dodgers.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-12 02:00 - WNBA - Los Angeles Sparks vs Phoenix Mercury (Spectrum Sportsnet LA Dodgers HD US)
@@ -519,12 +501,12 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=NBA%20TV%209&code=&user=cdnliv
 https://cdnlivetv.tv/api/v1/channels/player/?name=NBA%20TV%2010&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NBA.TV.TR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-12 02:00 - WNBA - Los Angeles Sparks vs Phoenix Mercury (NBA TV TR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NBA%20TV%20TR&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NBA.TV.FHD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/nba-tv-fhd-us.webp",[Basketball] 2026-08-15 02:00 - WNBA - Seattle Storm vs Portland Fire (NBA TV FHD US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NBA%20TV%20FHD%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CBS.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/cbs-us.webp",[Basketball] 2026-08-16 00:00 - WNBA - Las Vegas Aces vs Minnesota Lynx (CBS US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CBS%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CBS.2.(WCBS).New.York.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/cbs-2-wcbs-new-york-hd-us.webp",[Basketball] 2026-08-16 00:00 - WNBA - Las Vegas Aces vs Minnesota Lynx (CBS 2 (WCBS) New York HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CBS%202%20(WCBS)%20New%20York%20HD%20US&code=us&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="ABC.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/abc-us.webp",[Basketball] 2026-08-23 23:00 - WNBA - Chicago Sky vs Indiana Fever (ABC US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=ABC%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ABC.7.New.York" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-23 23:00 - WNBA - Chicago Sky vs Indiana Fever (ABC 7 New York)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ABC%207%20New%20York&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ESPN.Deportes.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-23 23:00 - WNBA - Chicago Sky vs Indiana Fever (ESPN Deportes US)
@@ -561,6 +543,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20FHD%20PL&code=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20HD%20FR&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.1.SE" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/sweden/eurosport-1-se.webp",[Golf] 2026-08-13 00:00 - ProGolf Tour -  vs  (Eurosport 1 SE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20SE&code=se&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Eurosport.1.GR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/greece/eurosport-1-gr.webp",[Golf] 2026-08-13 00:00 - ProGolf Tour -  vs  (Eurosport 1 GR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20GR&code=gr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.1.FHD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-1-fhd-uk.webp",[Golf] 2026-08-14 00:00 - ProGolf Tour -  vs  (TNT Sports 1 FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.1.FHD.PL" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/eurosport-1-fhd-pl.webp",[Golf] 2026-08-14 00:00 - ProGolf Tour -  vs  (Eurosport 1 FHD PL)
@@ -569,6 +553,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20FHD%20PL&code=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20HD%20FR&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.1.SE" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/sweden/eurosport-1-se.webp",[Golf] 2026-08-14 00:00 - ProGolf Tour -  vs  (Eurosport 1 SE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20SE&code=se&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Eurosport.1.GR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/greece/eurosport-1-gr.webp",[Golf] 2026-08-14 00:00 - ProGolf Tour -  vs  (Eurosport 1 GR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20GR&code=gr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.1.FHD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-1-fhd-uk.webp",[Golf] 2026-08-25 00:00 - ProGolf Tour -  vs  (TNT Sports 1 FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.1.FHD.PL" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/eurosport-1-fhd-pl.webp",[Golf] 2026-08-25 00:00 - ProGolf Tour -  vs  (Eurosport 1 FHD PL)
@@ -577,6 +563,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20FHD%20PL&code=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20HD%20FR&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.1.SE" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/sweden/eurosport-1-se.webp",[Golf] 2026-08-25 00:00 - ProGolf Tour -  vs  (Eurosport 1 SE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20SE&code=se&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Eurosport.1.GR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/greece/eurosport-1-gr.webp",[Golf] 2026-08-25 00:00 - ProGolf Tour -  vs  (Eurosport 1 GR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20GR&code=gr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.1.FHD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-1-fhd-uk.webp",[Golf] 2026-08-26 00:00 - ProGolf Tour -  vs  (TNT Sports 1 FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.1.FHD.PL" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/eurosport-1-fhd-pl.webp",[Golf] 2026-08-26 00:00 - ProGolf Tour -  vs  (Eurosport 1 FHD PL)
@@ -585,6 +573,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20FHD%20PL&code=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20HD%20FR&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.1.SE" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/sweden/eurosport-1-se.webp",[Golf] 2026-08-26 00:00 - ProGolf Tour -  vs  (Eurosport 1 SE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20SE&code=se&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Eurosport.1.GR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/greece/eurosport-1-gr.webp",[Golf] 2026-08-26 00:00 - ProGolf Tour -  vs  (Eurosport 1 GR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20GR&code=gr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="CBS.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/cbs-us.webp",[Golf] 2026-08-27 00:00 - PGA Tour -  vs  (CBS US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=CBS%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.Golf.FHD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-golf-fhd-uk.webp",[Golf] 2026-08-27 00:00 - PGA Tour -  vs  (Sky Sports Golf FHD UK)
@@ -595,6 +585,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=CBS%202%20(WCBS)%20New%20York%
 https://cdnlivetv.tv/api/v1/channels/player/?name=RDS%202%20CA&code=ca&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.5.FHD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-27 00:00 - PGA Tour -  vs  (TSN 5 FHD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20FHD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Golf.Channel.FHD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/golf-channel-fhd-us.webp",[Golf] 2026-08-27 00:00 - PGA Tour -  vs  (Golf Channel FHD US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%20Channel%20FHD%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports+.FHD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-27 00:00 - PGA Tour -  vs  (Sky Sports+ FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%2B%20FHD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sport.Golf.FHD.DE" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-golf-fhd-de.webp",[Golf] 2026-08-27 00:00 - PGA Tour -  vs  (Sky Sport Golf FHD DE)
@@ -625,6 +617,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=CBS%202%20(WCBS)%20New%20York%
 https://cdnlivetv.tv/api/v1/channels/player/?name=RDS%202%20CA&code=ca&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.5.FHD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-28 00:00 - PGA Tour -  vs  (TSN 5 FHD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20FHD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Golf.Channel.FHD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/golf-channel-fhd-us.webp",[Golf] 2026-08-28 00:00 - PGA Tour -  vs  (Golf Channel FHD US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%20Channel%20FHD%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports+.FHD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-28 00:00 - PGA Tour -  vs  (Sky Sports+ FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%2B%20FHD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sport.Golf.FHD.DE" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-golf-fhd-de.webp",[Golf] 2026-08-28 00:00 - PGA Tour -  vs  (Sky Sport Golf FHD DE)
@@ -655,6 +649,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=CBS%202%20(WCBS)%20New%20York%
 https://cdnlivetv.tv/api/v1/channels/player/?name=RDS%202%20CA&code=ca&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.5.FHD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-29 00:00 - PGA Tour -  vs  (TSN 5 FHD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20FHD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Golf.Channel.FHD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/golf-channel-fhd-us.webp",[Golf] 2026-08-29 00:00 - PGA Tour -  vs  (Golf Channel FHD US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%20Channel%20FHD%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports+.FHD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Golf] 2026-08-29 00:00 - PGA Tour -  vs  (Sky Sports+ FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%2B%20FHD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sport.Golf.FHD.DE" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/sky-sport-golf-fhd-de.webp",[Golf] 2026-08-29 00:00 - PGA Tour -  vs  (Sky Sport Golf FHD DE)
@@ -683,6 +679,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20FHD%20PL&code=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20HD%20FR&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.1.SE" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/sweden/eurosport-1-se.webp",[Golf] 2026-09-15 00:00 - ProGolf Tour -  vs  (Eurosport 1 SE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20SE&code=se&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Eurosport.1.GR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/greece/eurosport-1-gr.webp",[Golf] 2026-09-15 00:00 - ProGolf Tour -  vs  (Eurosport 1 GR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20GR&code=gr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.1.FHD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-1-fhd-uk.webp",[Golf] 2026-09-16 00:00 - ProGolf Tour -  vs  (TNT Sports 1 FHD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.1.FHD.PL" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/poland/eurosport-1-fhd-pl.webp",[Golf] 2026-09-16 00:00 - ProGolf Tour -  vs  (Eurosport 1 FHD PL)
@@ -691,6 +689,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20FHD%20PL&code=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20HD%20FR&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Eurosport.1.SE" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/sweden/eurosport-1-se.webp",[Golf] 2026-09-16 00:00 - ProGolf Tour -  vs  (Eurosport 1 SE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20SE&code=se&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Eurosport.1.GR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/greece/eurosport-1-gr.webp",[Golf] 2026-09-16 00:00 - ProGolf Tour -  vs  (Eurosport 1 GR)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Eurosport%201%20GR&code=gr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="USA.Network.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/usa-network-us.webp",[Motorsport] 2026-08-09 10:30 - NASCAR Cup Series -  vs  (USA Network US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20Network%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.5.FHD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-09 10:30 - NASCAR Cup Series -  vs  (TSN 5 FHD CA)
