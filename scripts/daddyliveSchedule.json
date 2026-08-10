@@ -662,6 +662,30 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4111"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7005"
+                    }
+                ]
+            },
+            {
+                "time": "15:45",
+                "event": "\u26bd Lithuania TOPLYGA : Transinvest vs FK Panevezys",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7006"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "\u26bd Armenia Fastex Premier League : Alashkert vs BKMA",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7007"
                     }
                 ]
             },
@@ -676,6 +700,10 @@
                     {
                         "channel_name": "Sportklub 1 Croatia",
                         "channel_id": "101"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7008"
                     }
                 ]
             },
@@ -698,6 +726,20 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4108"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7009"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "\u26bd Latvia Virsliga : RFS vs Grobina",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7011"
                     }
                 ]
             },
@@ -712,6 +754,10 @@
                     {
                         "channel_name": "Arena 2 Premium Serbia",
                         "channel_id": "135"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7010"
                     }
                 ]
             },
@@ -740,6 +786,10 @@
                     {
                         "channel_name": "TV2 Sport X Denmark",
                         "channel_id": "3069"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7016"
                     }
                 ]
             },
@@ -750,6 +800,10 @@
                     {
                         "channel_name": "TV2 Sport Norway",
                         "channel_id": "812"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7015"
                     }
                 ]
             },
@@ -760,6 +814,10 @@
                     {
                         "channel_name": "TVP Sport Poland",
                         "channel_id": "128"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7012"
                     }
                 ]
             },
@@ -774,6 +832,10 @@
                     {
                         "channel_name": "Benfica TV",
                         "channel_id": "3022"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7014"
                     }
                 ]
             },
@@ -788,6 +850,10 @@
                     {
                         "channel_name": "Sport TV6 Portugal",
                         "channel_id": "291"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7013"
                     }
                 ]
             },
@@ -830,6 +896,30 @@
                     {
                         "channel_name": "TV4 Sportkanalen",
                         "channel_id": "3003"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7017"
+                    }
+                ]
+            },
+            {
+                "time": "17:30",
+                "event": "\u26bd Faroe Islands Premier League : Klaksvik vs HB Torshavn",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7018"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "\u26bd Faroe Islands Premier League : NSI Runavik vs Skala Itrottarfelag",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7019"
                     }
                 ]
             },
@@ -844,6 +934,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4111"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7020"
                     }
                 ]
             },
@@ -858,6 +952,10 @@
                     {
                         "channel_name": "ESPN 2 NL",
                         "channel_id": "3089"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7021"
                     }
                 ]
             },
@@ -872,6 +970,10 @@
                     {
                         "channel_name": "ESPN 1 NL",
                         "channel_id": "3088"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7022"
                     }
                 ]
             },
@@ -894,6 +996,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4108"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7023"
                     }
                 ]
             },
@@ -908,6 +1014,10 @@
                     {
                         "channel_name": "beIN Sports 2 Turkey",
                         "channel_id": "63"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7024"
                     }
                 ]
             },
