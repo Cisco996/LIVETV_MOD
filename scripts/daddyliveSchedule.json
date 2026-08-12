@@ -1,5 +1,37 @@
 {
     "Wednesday 12th Aug 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "21:00",
+                "event": "\ud83c\udfce\ufe0f Hasty Bake High Limit Room Knoxville",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "110"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "\ud83c\udfce\ufe0f Tekton 250 Battle Berlin",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "151"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "\ud83c\udfce\ufe0f Nos Energy Knoxville Nationals",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "152"
+                    }
+                ]
+            }
+        ],
         "Big Brother \ud83d\udc41\ufe0f 28 LIVE CAMERA FEEDS": [
             {
                 "time": "18:30",
@@ -514,6 +546,10 @@
                     {
                         "channel_name": "MLS Season Pass",
                         "channel_id": "3032"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2004"
                     }
                 ]
             },
@@ -528,6 +564,10 @@
                     {
                         "channel_name": "MLS Season Pass",
                         "channel_id": "3031"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2005"
                     }
                 ]
             },
@@ -566,6 +606,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4105"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2006"
                     }
                 ]
             },
@@ -576,6 +620,10 @@
                     {
                         "channel_name": "MLS Season Pass",
                         "channel_id": "69"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2007"
                     }
                 ]
             },
@@ -598,6 +646,10 @@
                     {
                         "channel_name": "Fox Sports 1 USA",
                         "channel_id": "3081"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2008"
                     }
                 ]
             },
@@ -612,6 +664,10 @@
                     {
                         "channel_name": "MLS Season Pass",
                         "channel_id": "3035"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2009"
                     }
                 ]
             },
@@ -626,6 +682,10 @@
                     {
                         "channel_name": "MLS Season Pass",
                         "channel_id": "3034"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2010"
                     }
                 ]
             }
@@ -962,6 +1022,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4004"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7025"
                     }
                 ]
             }
@@ -1500,6 +1564,16 @@
                 ]
             },
             {
+                "time": "19:30",
+                "event": "\u26bd Paraguay Copa Paraguay : Sportivo Ite\u00f1o vs Guaran\u00ed",
+                "channels": [
+                    {
+                        "channel_name": "Soccer Stream",
+                        "channel_id": "7027"
+                    }
+                ]
+            },
+            {
                 "time": "20:00",
                 "event": "\u26bd \ud83c\udde7\ud83c\uddf7 Brazil Paulista, Feminino: Mirassol \ud83c\udde7\ud83c\uddf7 vs Corinthians \ud83c\udde7\ud83c\uddf7",
                 "channels": [
@@ -1532,6 +1606,10 @@
                     {
                         "channel_name": "5 Live Israel",
                         "channel_id": "146"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7026"
                     }
                 ]
             },
@@ -3544,6 +3622,10 @@
                     {
                         "channel_name": "Fox Sports Premium MX",
                         "channel_id": "830"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2011"
                     }
                 ]
             }
@@ -3762,6 +3844,10 @@
                     {
                         "channel_name": "5Sport plus Israel",
                         "channel_id": "145"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7028"
                     }
                 ]
             },
@@ -4264,6 +4350,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4070"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2001"
                     }
                 ]
             },
@@ -4290,6 +4380,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4071"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2002"
                     }
                 ]
             },
@@ -4304,6 +4398,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4072"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2003"
                     }
                 ]
             }
@@ -4614,6 +4712,10 @@
                     {
                         "channel_name": "M4 Sport Hungary",
                         "channel_id": "265"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7028"
                     }
                 ]
             },
