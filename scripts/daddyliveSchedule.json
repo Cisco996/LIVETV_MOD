@@ -2600,6 +2600,10 @@
                     {
                         "channel_name": "Soccer Stream",
                         "channel_id": "7034"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7051"
                     }
                 ]
             },
@@ -2610,6 +2614,10 @@
                     {
                         "channel_name": "Soccer Stream",
                         "channel_id": "7035"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7052"
                     }
                 ]
             },
@@ -2642,6 +2650,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "7027"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7053"
                     }
                 ]
             },
@@ -4288,6 +4300,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4032"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7018"
                     }
                 ]
             },
@@ -4326,6 +4342,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4030"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7019"
                     }
                 ]
             },
@@ -4348,6 +4368,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4031"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7020"
                     }
                 ]
             }
