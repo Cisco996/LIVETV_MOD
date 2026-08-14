@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz,https://github.com/nzo66/TV/raw/refs/heads/main/epg.xml.gz"
-#EXTINF:-1 tvg-id="Fox.Sports.1.FHD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-sports-1-fhd-us.webp",[Soccer] 2026-08-14 02:30 - Leagues Cup - Portland Timbers vs Tijuana (Fox Sports 1 FHD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Fox%20Sports%201%20FHD%20US&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="Fox.Sports.1.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-sports-1-hd-us.webp",[Soccer] 2026-08-14 02:30 - Leagues Cup - Portland Timbers vs Tijuana (Fox Sports 1 HD US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=Fox%20Sports%201%20HD%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.5.FHD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-08-14 02:30 - Leagues Cup - Portland Timbers vs Tijuana (TSN 5 FHD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20FHD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Unimas.East.FHD" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-08-14 02:30 - Leagues Cup - Portland Timbers vs Tijuana (Unimas East FHD)
@@ -2725,18 +2725,20 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%206%20HD%20BR&code=&u
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%207%20HD%20BR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Premiere.1.HD.BR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Soccer] 2026-11-14 20:00 - Brazilian Serie B - Sport Recife vs Goiás (Premiere 1 HD BR)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Premiere%201%20HD%20BR&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TSN.2.FHD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-08-13 23:00 - NFL - Cincinnati Bengals vs Detroit Lions (TSN 2 FHD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%202%20FHD%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="NFL.Network.HD.SE" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-08-13 23:00 - NFL - Pittsburgh Steelers vs Green Bay Packers (NFL Network HD SE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=NFL%20Network%20HD%20SE&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="NFL.Network.HD.SE" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-08-14 01:00 - NFL - San Francisco 49ers vs Tennessee Titans (NFL Network HD SE)
-https://cdnlivetv.tv/api/v1/channels/player/?name=NFL%20Network%20HD%20SE&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.1.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-08-14 01:00 - CFL - Calgary Stampeders vs BC Lions (TSN 1 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.3.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-08-14 01:00 - CFL - Calgary Stampeders vs BC Lions (TSN 3 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.5.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-08-14 01:00 - CFL - Calgary Stampeders vs BC Lions (TSN 5 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20HD%20CA&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NFL.Network.HD.DE" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-08-14 01:00 - NFL - San Francisco 49ers vs Tennessee Titans (NFL Network HD DE)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NFL%20Network%20HD%20DE&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CBS.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/cbs-us.webp",[NFL] 2026-08-14 23:00 - NFL - New York Jets vs Tampa Bay Buccaneers (CBS US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CBS%20US&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="CBS.2.(WCBS).New.York.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/cbs-2-wcbs-new-york-hd-us.webp",[NFL] 2026-08-14 23:00 - NFL - New York Jets vs Tampa Bay Buccaneers (CBS 2 (WCBS) New York HD US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=CBS%202%20(WCBS)%20New%20York%20HD%20US&code=us&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NFL.Network.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/nfl-network-hd-us.webp",[NFL] 2026-08-14 23:00 - NFL - New York Jets vs Tampa Bay Buccaneers (NFL Network HD US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NFL%20Network%20HD%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.1.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-08-15 00:30 - CFL - Winnipeg Blue Bombers vs Ottawa Redblacks (TSN 1 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.3.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-08-15 00:30 - CFL - Winnipeg Blue Bombers vs Ottawa Redblacks (TSN 3 HD CA)
@@ -3009,12 +3011,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=c
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.5.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-24 19:00 - CFL - Hamilton Tiger-Cats vs Ottawa Redblacks (TSN 5 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20HD%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.|.Minnesota.Twins" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-13 23:30 - MLB - Minnesota Twins vs Philadelphia Phillies (MLB | Minnesota Twins)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Minnesota%20Twins&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.|.Philadelphia.Phillies" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-13 23:30 - MLB - Minnesota Twins vs Philadelphia Phillies (MLB | Philadelphia Phillies)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Philadelphia%20Phillies&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="beIN.Sports.Max.4.HD.FR" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/france/bein-sports-max-4-hd-fr.webp",[MLB] 2026-08-13 23:30 - MLB - Minnesota Twins vs Philadelphia Phillies (beIN Sports Max 4 HD FR)
-https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20Sports%20Max%204%20HD%20FR&code=fr&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Los.Angeles.Angels" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-14 02:07 - MLB - Los Angeles Angels vs Texas Rangers (MLB | Los Angeles Angels)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Los%20Angeles%20Angels&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Texas.Rangers" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-14 02:07 - MLB - Los Angeles Angels vs Texas Rangers (MLB | Texas Rangers)
@@ -3109,6 +3105,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Toronto%20Blue%20J
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20New%20York%20Yankees&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Atlanta.Braves" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-14 23:15 - MLB - Atlanta Braves vs Arizona Diamondbacks (MLB | Atlanta Braves)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Atlanta%20Braves&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Arizona.Diamondbacks" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-14 23:15 - MLB - Atlanta Braves vs Arizona Diamondbacks (MLB | Arizona Diamondbacks)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Arizona%20Diamondbacks&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-14 23:15 - MLB - Atlanta Braves vs Arizona Diamondbacks (TNT Sports 1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-14 23:15 - MLB - Atlanta Braves vs Arizona Diamondbacks (TNT Sports 1 HD UK)
@@ -3219,8 +3217,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Fox%20Deportes%20HD%20US&code=
 https://cdnlivetv.tv/api/v1/channels/player/?name=Fox%20Deportes%20FHD%20LAM&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Fox.Deportes.HD.CHL" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-15 20:10 - MLB - New York Mets vs Washington Nationals (Fox Deportes HD CHL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Fox%20Deportes%20HD%20CHL&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="2:00.PM.EDT.Chivas.En.Fox.Deportes.-.Chivas.de.Guadalajara.v.FC.Juárez.7/28.[FOX.One]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-15 20:10 - MLB - New York Mets vs Washington Nationals (2:00 PM EDT Chivas En Fox Deportes - Chivas de Guadalajara v FC Juárez 7/28 [FOX One])
-https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20PM%20EDT%20Chivas%20En%20Fox%20Deportes%20-%20Chivas%20de%20Guadalajara%20v%20FC%20Ju%C3%A1rez%207%2F28%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Tampa.Bay.Rays" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-15 22:10 - MLB - Tampa Bay Rays vs Baltimore Orioles (MLB | Tampa Bay Rays)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Tampa%20Bay%20Rays&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Baltimore.Orioles" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-15 22:10 - MLB - Tampa Bay Rays vs Baltimore Orioles (MLB | Baltimore Orioles)
@@ -3267,6 +3263,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=TVA%20Sports%20QC&code=&user=c
 https://cdnlivetv.tv/api/v1/channels/player/?name=TVA%20Sports%202%20HD%20QC&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Atlanta.Braves" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-15 23:15 - MLB - Atlanta Braves vs Arizona Diamondbacks (MLB | Atlanta Braves)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Atlanta%20Braves&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Arizona.Diamondbacks" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-15 23:15 - MLB - Atlanta Braves vs Arizona Diamondbacks (MLB | Arizona Diamondbacks)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Arizona%20Diamondbacks&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Los.Angeles.Angels" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-16 01:38 - MLB - Los Angeles Angels vs Kansas City Royals (MLB | Los Angeles Angels)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Los%20Angeles%20Angels&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Kansas.City.Royals" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-16 01:38 - MLB - Los Angeles Angels vs Kansas City Royals (MLB | Kansas City Royals)
@@ -3285,6 +3283,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Pittsburgh%20Pirat
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Boston%20Red%20Sox&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Atlanta.Braves" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-16 17:35 - MLB - Atlanta Braves vs Arizona Diamondbacks (MLB | Atlanta Braves)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Atlanta%20Braves&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Arizona.Diamondbacks" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-16 17:35 - MLB - Atlanta Braves vs Arizona Diamondbacks (MLB | Arizona Diamondbacks)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Arizona%20Diamondbacks&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Toronto.Blue.Jays" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-16 17:37 - MLB - Toronto Blue Jays vs New York Yankees (MLB | Toronto Blue Jays)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Toronto%20Blue%20Jays&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.New.York.Yankees" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-16 17:37 - MLB - Toronto Blue Jays vs New York Yankees (MLB | New York Yankees)
@@ -3407,6 +3407,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20New%20York%20Mets&
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20San%20Diego%20Padres&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Boston.Red.Sox" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-17 23:10 - MLB - Boston Red Sox vs Arizona Diamondbacks (MLB | Boston Red Sox)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Boston%20Red%20Sox&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Arizona.Diamondbacks" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-17 23:10 - MLB - Boston Red Sox vs Arizona Diamondbacks (MLB | Arizona Diamondbacks)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Arizona%20Diamondbacks&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Kansas.City.Royals" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-17 23:40 - MLB - Kansas City Royals vs Athletics (MLB | Kansas City Royals)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Kansas%20City%20Royals&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Oakland.Athletics" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-17 23:40 - MLB - Kansas City Royals vs Athletics (MLB | Oakland Athletics)
@@ -3509,6 +3511,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20New%20York%20Mets&
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20San%20Diego%20Padres&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Boston.Red.Sox" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-18 23:10 - MLB - Boston Red Sox vs Arizona Diamondbacks (MLB | Boston Red Sox)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Boston%20Red%20Sox&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Arizona.Diamondbacks" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-18 23:10 - MLB - Boston Red Sox vs Arizona Diamondbacks (MLB | Arizona Diamondbacks)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Arizona%20Diamondbacks&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Milwaukee.Brewers" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-18 23:40 - MLB - Milwaukee Brewers vs Seattle Mariners (MLB | Milwaukee Brewers)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Milwaukee%20Brewers&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Seattle.Mariners" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-18 23:40 - MLB - Milwaukee Brewers vs Seattle Mariners (MLB | Seattle Mariners)
@@ -3549,6 +3553,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Chicago%20Cubs&cod
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Chicago%20White%20Sox&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Boston.Red.Sox" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-19 20:10 - MLB - Boston Red Sox vs Arizona Diamondbacks (MLB | Boston Red Sox)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Boston%20Red%20Sox&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Arizona.Diamondbacks" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-19 20:10 - MLB - Boston Red Sox vs Arizona Diamondbacks (MLB | Arizona Diamondbacks)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Arizona%20Diamondbacks&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Philadelphia.Phillies" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-19 22:05 - MLB - Philadelphia Phillies vs Miami Marlins (MLB | Philadelphia Phillies)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Philadelphia%20Phillies&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Miami.Marlins" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-19 22:05 - MLB - Philadelphia Phillies vs Miami Marlins (MLB | Miami Marlins)
@@ -3683,6 +3689,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Cleveland%20Guardi
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20San%20Diego%20Padres&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Minnesota.Twins" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-22 01:40 - MLB - San Diego Padres vs Minnesota Twins (MLB | Minnesota Twins)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Minnesota%20Twins&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Arizona.Diamondbacks" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-22 01:40 - MLB - Arizona Diamondbacks vs Cincinnati Reds (MLB | Arizona Diamondbacks)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Arizona%20Diamondbacks&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Cincinnati.Reds" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-22 01:40 - MLB - Arizona Diamondbacks vs Cincinnati Reds (MLB | Cincinnati Reds)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Cincinnati%20Reds&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Seattle.Mariners" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-22 02:10 - MLB - Seattle Mariners vs Chicago Cubs (MLB | Seattle Mariners)
@@ -3745,6 +3753,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Pittsburgh%20Pirat
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Colorado%20Rockies&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Cleveland.Guardians" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-23 00:10 - MLB - Colorado Rockies vs Cleveland Guardians (MLB | Cleveland Guardians)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Cleveland%20Guardians&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Arizona.Diamondbacks" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-23 00:10 - MLB - Arizona Diamondbacks vs Cincinnati Reds (MLB | Arizona Diamondbacks)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Arizona%20Diamondbacks&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Cincinnati.Reds" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-23 00:10 - MLB - Arizona Diamondbacks vs Cincinnati Reds (MLB | Cincinnati Reds)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Cincinnati%20Reds&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.San.Diego.Padres" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-23 00:40 - MLB - San Diego Padres vs Minnesota Twins (MLB | San Diego Padres)
@@ -3803,6 +3813,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Minnesota%20Twins&
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Los%20Angeles%20Dodgers&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Pittsburgh.Pirates" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-23 20:10 - MLB - Los Angeles Dodgers vs Pittsburgh Pirates (MLB | Pittsburgh Pirates)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Pittsburgh%20Pirates&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Arizona.Diamondbacks" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-23 20:15 - MLB - Arizona Diamondbacks vs Cincinnati Reds (MLB | Arizona Diamondbacks)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Arizona%20Diamondbacks&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Cincinnati.Reds" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-23 20:15 - MLB - Arizona Diamondbacks vs Cincinnati Reds (MLB | Cincinnati Reds)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Cincinnati%20Reds&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Milwaukee.Brewers" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-23 23:10 - MLB - Milwaukee Brewers vs Atlanta Braves (MLB | Milwaukee Brewers)
@@ -3839,6 +3851,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Philadelphia%20Phi
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Oakland%20Athletics&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Minnesota.Twins" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-25 01:40 - MLB - Athletics vs Minnesota Twins (MLB | Minnesota Twins)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Minnesota%20Twins&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Arizona.Diamondbacks" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-25 01:40 - MLB - Arizona Diamondbacks vs Chicago Cubs (MLB | Arizona Diamondbacks)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Arizona%20Diamondbacks&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Chicago.Cubs" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-25 01:40 - MLB - Arizona Diamondbacks vs Chicago Cubs (MLB | Chicago Cubs)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Chicago%20Cubs&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.San.Francisco.Giants" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-25 01:45 - MLB - San Francisco Giants vs Cincinnati Reds (MLB | San Francisco Giants)
@@ -3895,6 +3909,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Philadelphia%20Phi
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Oakland%20Athletics&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Minnesota.Twins" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-26 01:40 - MLB - Athletics vs Minnesota Twins (MLB | Minnesota Twins)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Minnesota%20Twins&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Arizona.Diamondbacks" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-26 01:40 - MLB - Arizona Diamondbacks vs Chicago Cubs (MLB | Arizona Diamondbacks)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Arizona%20Diamondbacks&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Chicago.Cubs" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-26 01:40 - MLB - Arizona Diamondbacks vs Chicago Cubs (MLB | Chicago Cubs)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Chicago%20Cubs&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.San.Francisco.Giants" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-26 01:45 - MLB - San Francisco Giants vs Cincinnati Reds (MLB | San Francisco Giants)
@@ -3905,6 +3921,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Cincinnati%20Reds&
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Detroit%20Tigers&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Tampa.Bay.Rays" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-26 17:10 - MLB - Detroit Tigers vs Tampa Bay Rays (MLB | Tampa Bay Rays)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Tampa%20Bay%20Rays&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Arizona.Diamondbacks" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-26 19:40 - MLB - Arizona Diamondbacks vs Chicago Cubs (MLB | Arizona Diamondbacks)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Arizona%20Diamondbacks&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Chicago.Cubs" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-26 19:40 - MLB - Arizona Diamondbacks vs Chicago Cubs (MLB | Chicago Cubs)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Chicago%20Cubs&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.San.Francisco.Giants" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-26 19:45 - MLB - San Francisco Giants vs Cincinnati Reds (MLB | San Francisco Giants)
@@ -3981,6 +3999,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Atlanta%20Braves&c
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Los%20Angeles%20Dodgers&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.San.Francisco.Giants" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-28 01:45 - MLB - San Francisco Giants vs Arizona Diamondbacks (MLB | San Francisco Giants)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20San%20Francisco%20Giants&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Arizona.Diamondbacks" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-28 01:45 - MLB - San Francisco Giants vs Arizona Diamondbacks (MLB | Arizona Diamondbacks)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Arizona%20Diamondbacks&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Chicago.Cubs" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-28 18:20 - MLB - Chicago Cubs vs Cincinnati Reds (MLB | Chicago Cubs)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Chicago%20Cubs&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Cincinnati.Reds" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-28 18:20 - MLB - Chicago Cubs vs Cincinnati Reds (MLB | Cincinnati Reds)
@@ -4037,6 +4057,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Oakland%20Athletic
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Baltimore%20Orioles&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.San.Francisco.Giants" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-29 02:15 - MLB - San Francisco Giants vs Arizona Diamondbacks (MLB | San Francisco Giants)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20San%20Francisco%20Giants&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Arizona.Diamondbacks" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-29 02:15 - MLB - San Francisco Giants vs Arizona Diamondbacks (MLB | Arizona Diamondbacks)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Arizona%20Diamondbacks&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.New.York.Yankees" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-29 17:05 - MLB - New York Yankees vs Boston Red Sox (MLB | New York Yankees)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20New%20York%20Yankees&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Boston.Red.Sox" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-29 17:05 - MLB - New York Yankees vs Boston Red Sox (MLB | Boston Red Sox)
@@ -4055,8 +4077,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%202%20FHD%20UK&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=Fox%20Deportes%20FHD%20LAM&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Fox.Deportes.HD.CHL" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-29 17:05 - MLB - New York Yankees vs Boston Red Sox (Fox Deportes HD CHL)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Fox%20Deportes%20HD%20CHL&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="2:00.PM.EDT.Chivas.En.Fox.Deportes.-.Chivas.de.Guadalajara.v.FC.Juárez.7/28.[FOX.One]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-29 17:05 - MLB - New York Yankees vs Boston Red Sox (2:00 PM EDT Chivas En Fox Deportes - Chivas de Guadalajara v FC Juárez 7/28 [FOX One])
-https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20PM%20EDT%20Chivas%20En%20Fox%20Deportes%20-%20Chivas%20de%20Guadalajara%20v%20FC%20Ju%C3%A1rez%207%2F28%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Detroit.Tigers" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-29 17:10 - MLB - Detroit Tigers vs Los Angeles Dodgers (MLB | Detroit Tigers)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Detroit%20Tigers&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Los.Angeles.Dodgers" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-29 17:10 - MLB - Detroit Tigers vs Los Angeles Dodgers (MLB | Los Angeles Dodgers)
@@ -4081,6 +4101,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Seattle%20Mariners
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Miami%20Marlins&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.San.Francisco.Giants" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-29 20:05 - MLB - San Francisco Giants vs Arizona Diamondbacks (MLB | San Francisco Giants)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20San%20Francisco%20Giants&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Arizona.Diamondbacks" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-29 20:05 - MLB - San Francisco Giants vs Arizona Diamondbacks (MLB | Arizona Diamondbacks)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Arizona%20Diamondbacks&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Tampa.Bay.Rays" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-29 20:10 - MLB - Tampa Bay Rays vs San Diego Padres (MLB | Tampa Bay Rays)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Tampa%20Bay%20Rays&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.San.Diego.Padres" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-29 20:10 - MLB - Tampa Bay Rays vs San Diego Padres (MLB | San Diego Padres)
@@ -4107,6 +4129,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Milwaukee%20Brewer
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Texas%20Rangers&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.San.Francisco.Giants" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-30 02:05 - MLB - San Francisco Giants vs Arizona Diamondbacks (MLB | San Francisco Giants)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20San%20Francisco%20Giants&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Arizona.Diamondbacks" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-30 02:05 - MLB - San Francisco Giants vs Arizona Diamondbacks (MLB | Arizona Diamondbacks)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Arizona%20Diamondbacks&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Oakland.Athletics" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-30 02:05 - MLB - Athletics vs Baltimore Orioles (MLB | Oakland Athletics)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Oakland%20Athletics&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Baltimore.Orioles" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-30 02:05 - MLB - Athletics vs Baltimore Orioles (MLB | Baltimore Orioles)
@@ -4215,6 +4239,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Baltimore%20Oriole
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Los%20Angeles%20Angels&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.New.York.Yankees" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-01 01:38 - MLB - Los Angeles Angels vs New York Yankees (MLB | New York Yankees)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20New%20York%20Yankees&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Arizona.Diamondbacks" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-01 01:40 - MLB - Arizona Diamondbacks vs Philadelphia Phillies (MLB | Arizona Diamondbacks)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Arizona%20Diamondbacks&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Philadelphia.Phillies" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-01 01:40 - MLB - Arizona Diamondbacks vs Philadelphia Phillies (MLB | Philadelphia Phillies)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Philadelphia%20Phillies&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Pittsburgh.Pirates" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-01 22:40 - MLB - Pittsburgh Pirates vs San Francisco Giants (MLB | Pittsburgh Pirates)
@@ -4267,6 +4293,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Baltimore%20Oriole
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Los%20Angeles%20Angels&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.New.York.Yankees" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-02 01:38 - MLB - Los Angeles Angels vs New York Yankees (MLB | New York Yankees)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20New%20York%20Yankees&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Arizona.Diamondbacks" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-02 01:40 - MLB - Arizona Diamondbacks vs Philadelphia Phillies (MLB | Arizona Diamondbacks)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Arizona%20Diamondbacks&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Philadelphia.Phillies" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-02 01:40 - MLB - Arizona Diamondbacks vs Philadelphia Phillies (MLB | Philadelphia Phillies)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Philadelphia%20Phillies&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Los.Angeles.Dodgers" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-02 02:10 - MLB - Los Angeles Dodgers vs St. Louis Cardinals (MLB | Los Angeles Dodgers)
@@ -4287,6 +4315,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Oakland%20Athletic
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Colorado%20Rockies&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Baltimore.Orioles" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-02 19:10 - MLB - Colorado Rockies vs Baltimore Orioles (MLB | Baltimore Orioles)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Baltimore%20Orioles&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Arizona.Diamondbacks" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-02 19:40 - MLB - Arizona Diamondbacks vs Philadelphia Phillies (MLB | Arizona Diamondbacks)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Arizona%20Diamondbacks&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Philadelphia.Phillies" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-02 19:40 - MLB - Arizona Diamondbacks vs Philadelphia Phillies (MLB | Philadelphia Phillies)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Philadelphia%20Phillies&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Boston.Red.Sox" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-02 20:10 - MLB - Boston Red Sox vs Seattle Mariners (MLB | Boston Red Sox)
@@ -4405,6 +4435,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Texas%20Rangers&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Tampa%20Bay%20Rays&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Houston.Astros" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-05 00:10 - MLB - Houston Astros vs Arizona Diamondbacks (MLB | Houston Astros)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Houston%20Astros&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Arizona.Diamondbacks" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-05 00:10 - MLB - Houston Astros vs Arizona Diamondbacks (MLB | Arizona Diamondbacks)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Arizona%20Diamondbacks&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Kansas.City.Royals" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-05 00:10 - MLB - Kansas City Royals vs Toronto Blue Jays (MLB | Kansas City Royals)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Kansas%20City%20Royals&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Toronto.Blue.Jays" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-05 00:10 - MLB - Kansas City Royals vs Toronto Blue Jays (MLB | Toronto Blue Jays)
@@ -4473,6 +4505,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Chicago%20White%20
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Minnesota%20Twins&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Houston.Astros" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-05 23:15 - MLB - Houston Astros vs Arizona Diamondbacks (MLB | Houston Astros)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Houston%20Astros&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Arizona.Diamondbacks" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-05 23:15 - MLB - Houston Astros vs Arizona Diamondbacks (MLB | Arizona Diamondbacks)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Arizona%20Diamondbacks&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.San.Diego.Padres" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-05 23:15 - MLB - San Diego Padres vs New York Yankees (MLB | San Diego Padres)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20San%20Diego%20Padres&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.New.York.Yankees" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-05 23:15 - MLB - San Diego Padres vs New York Yankees (MLB | New York Yankees)
@@ -4519,6 +4553,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20New%20York%20Mets&
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20San%20Francisco%20Giants&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Houston.Astros" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-06 18:10 - MLB - Houston Astros vs Arizona Diamondbacks (MLB | Houston Astros)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Houston%20Astros&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Arizona.Diamondbacks" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-06 18:10 - MLB - Houston Astros vs Arizona Diamondbacks (MLB | Arizona Diamondbacks)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Arizona%20Diamondbacks&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Kansas.City.Royals" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-06 18:10 - MLB - Kansas City Royals vs Toronto Blue Jays (MLB | Kansas City Royals)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Kansas%20City%20Royals&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Toronto.Blue.Jays" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-06 18:10 - MLB - Kansas City Royals vs Toronto Blue Jays (MLB | Toronto Blue Jays)
@@ -4563,6 +4599,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Boston%20Red%20Sox
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Los%20Angeles%20Angels&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Kansas.City.Royals" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-07 18:10 - MLB - Kansas City Royals vs Arizona Diamondbacks (MLB | Kansas City Royals)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Kansas%20City%20Royals&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Arizona.Diamondbacks" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-07 18:10 - MLB - Kansas City Royals vs Arizona Diamondbacks (MLB | Arizona Diamondbacks)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Arizona%20Diamondbacks&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Milwaukee.Brewers" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-07 18:10 - MLB - Milwaukee Brewers vs Chicago Cubs (MLB | Milwaukee Brewers)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Milwaukee%20Brewers&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Chicago.Cubs" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-07 18:10 - MLB - Milwaukee Brewers vs Chicago Cubs (MLB | Chicago Cubs)
@@ -4619,6 +4657,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Chicago%20White%20
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Pittsburgh%20Pirates&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Kansas.City.Royals" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-08 23:40 - MLB - Kansas City Royals vs Arizona Diamondbacks (MLB | Kansas City Royals)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Kansas%20City%20Royals&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Arizona.Diamondbacks" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-08 23:40 - MLB - Kansas City Royals vs Arizona Diamondbacks (MLB | Arizona Diamondbacks)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Arizona%20Diamondbacks&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Milwaukee.Brewers" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-08 23:40 - MLB - Milwaukee Brewers vs Chicago Cubs (MLB | Milwaukee Brewers)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Milwaukee%20Brewers&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Chicago.Cubs" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-08 23:40 - MLB - Milwaukee Brewers vs Chicago Cubs (MLB | Chicago Cubs)
@@ -4689,6 +4729,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Chicago%20White%20
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Pittsburgh%20Pirates&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Kansas.City.Royals" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-09 23:40 - MLB - Kansas City Royals vs Arizona Diamondbacks (MLB | Kansas City Royals)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Kansas%20City%20Royals&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Arizona.Diamondbacks" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-09 23:40 - MLB - Kansas City Royals vs Arizona Diamondbacks (MLB | Arizona Diamondbacks)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Arizona%20Diamondbacks&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Milwaukee.Brewers" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-09 23:40 - MLB - Milwaukee Brewers vs Chicago Cubs (MLB | Milwaukee Brewers)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Milwaukee%20Brewers&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Chicago.Cubs" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-09 23:40 - MLB - Milwaukee Brewers vs Chicago Cubs (MLB | Chicago Cubs)
@@ -4763,6 +4805,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Cleveland%20Guardi
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20St.%20Louis%20Cardinals&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Chicago.White.Sox" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-12 00:15 - MLB - St. Louis Cardinals vs Chicago White Sox (MLB | Chicago White Sox)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Chicago%20White%20Sox&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Arizona.Diamondbacks" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-12 01:40 - MLB - Arizona Diamondbacks vs Texas Rangers (MLB | Arizona Diamondbacks)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Arizona%20Diamondbacks&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Texas.Rangers" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-12 01:40 - MLB - Arizona Diamondbacks vs Texas Rangers (MLB | Texas Rangers)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Texas%20Rangers&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Oakland.Athletics" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-12 01:40 - MLB - Athletics vs Seattle Mariners (MLB | Oakland Athletics)
@@ -4823,6 +4867,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Philadelphia%20Phi
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20St.%20Louis%20Cardinals&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Chicago.White.Sox" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-12 23:15 - MLB - St. Louis Cardinals vs Chicago White Sox (MLB | Chicago White Sox)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Chicago%20White%20Sox&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Arizona.Diamondbacks" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-13 00:10 - MLB - Arizona Diamondbacks vs Texas Rangers (MLB | Arizona Diamondbacks)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Arizona%20Diamondbacks&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Texas.Rangers" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-13 00:10 - MLB - Arizona Diamondbacks vs Texas Rangers (MLB | Texas Rangers)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Texas%20Rangers&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Oakland.Athletics" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-13 01:40 - MLB - Athletics vs Seattle Mariners (MLB | Oakland Athletics)
@@ -4879,6 +4925,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Pittsburgh%20Pirat
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Oakland%20Athletics&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Seattle.Mariners" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-13 20:05 - MLB - Athletics vs Seattle Mariners (MLB | Seattle Mariners)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Seattle%20Mariners&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Arizona.Diamondbacks" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-13 20:10 - MLB - Arizona Diamondbacks vs Texas Rangers (MLB | Arizona Diamondbacks)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Arizona%20Diamondbacks&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Texas.Rangers" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-13 20:10 - MLB - Arizona Diamondbacks vs Texas Rangers (MLB | Texas Rangers)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Texas%20Rangers&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.San.Francisco.Giants" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-13 23:20 - MLB - San Francisco Giants vs San Diego Padres (MLB | San Francisco Giants)
@@ -4921,6 +4969,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20San%20Diego%20Padr
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Los%20Angeles%20Angels&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Seattle.Mariners" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-15 01:38 - MLB - Los Angeles Angels vs Seattle Mariners (MLB | Seattle Mariners)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Seattle%20Mariners&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Arizona.Diamondbacks" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-15 01:40 - MLB - Arizona Diamondbacks vs Miami Marlins (MLB | Arizona Diamondbacks)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Arizona%20Diamondbacks&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Miami.Marlins" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-15 01:40 - MLB - Arizona Diamondbacks vs Miami Marlins (MLB | Miami Marlins)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Miami%20Marlins&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Pittsburgh.Pirates" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-15 22:40 - MLB - Pittsburgh Pirates vs Milwaukee Brewers (MLB | Pittsburgh Pirates)
@@ -4977,6 +5027,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20San%20Diego%20Padr
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Los%20Angeles%20Angels&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Seattle.Mariners" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-16 01:38 - MLB - Los Angeles Angels vs Seattle Mariners (MLB | Seattle Mariners)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Seattle%20Mariners&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="MLB.|.Arizona.Diamondbacks" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-16 01:40 - MLB - Arizona Diamondbacks vs Miami Marlins (MLB | Arizona Diamondbacks)
+https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Arizona%20Diamondbacks&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Miami.Marlins" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-16 01:40 - MLB - Arizona Diamondbacks vs Miami Marlins (MLB | Miami Marlins)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Miami%20Marlins&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Cleveland.Guardians" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-16 17:10 - MLB - Cleveland Guardians vs Chicago White Sox (MLB | Cleveland Guardians)
@@ -5017,12 +5069,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Baltimore%20Oriole
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Chicago%20Cubs&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Atlanta.Braves" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-09-16 23:40 - MLB - Chicago Cubs vs Atlanta Braves (MLB | Atlanta Braves)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Atlanta%20Braves&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="NBC.Sports.Boston.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/nbc-sports-boston-hd-us.webp",[Basketball] 2026-08-13 23:00 - WNBA - Connecticut Sun vs Atlanta Dream (NBC Sports Boston HD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=NBC%20Sports%20Boston%20HD%20US&code=us&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="ESPN.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-14 00:00 - WNBA - New York Liberty vs Los Angeles Sparks (ESPN US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="ION.Television.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-14 00:00 - WNBA - New York Liberty vs Los Angeles Sparks (ION Television US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=ION%20Television%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ESPN.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-14 02:00 - WNBA - Las Vegas Aces vs Washington Mystics (ESPN US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ION.Television.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Basketball] 2026-08-14 02:00 - WNBA - Las Vegas Aces vs Washington Mystics (ION Television US)
@@ -5727,6 +5773,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=AU%20(STAN%2040)%20%7C%20Quali
 https://cdnlivetv.tv/api/v1/channels/player/?name=NASCAR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="USA.Network.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-23 10:00 - NASCAR Cup Series -  vs  (USA Network US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20Network%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TNT.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-23 10:00 - NASCAR Cup Series -  vs  (TNT US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-23 13:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-23 13:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -5839,6 +5887,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&u
 https://cdnlivetv.tv/api/v1/channels/player/?name=NASCAR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="USA.Network.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-29 14:30 - NASCAR Cup Series -  vs  (USA Network US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20Network%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TNT.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-29 14:30 - NASCAR Cup Series -  vs  (TNT US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-30 12:00 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Great%20Britain%20GP%208%2F12%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Commentary.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-08-30 12:00 - MotoGP -  vs  (MotoGP Commentary (D))
@@ -5907,6 +5957,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=AU%20(STAN%2040)%20%7C%20Quali
 https://cdnlivetv.tv/api/v1/channels/player/?name=NASCAR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="USA.Network.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-06 12:00 - NASCAR Cup Series -  vs  (USA Network US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20Network%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TNT.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-06 12:00 - NASCAR Cup Series -  vs  (TNT US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-06 13:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-06 13:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -6067,6 +6119,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=AU%20(STAN%2040)%20%7C%20Quali
 https://cdnlivetv.tv/api/v1/channels/player/?name=NASCAR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="USA.Network.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-13 10:00 - NASCAR Cup Series -  vs  (USA Network US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20Network%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TNT.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-13 10:00 - NASCAR Cup Series -  vs  (TNT US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-13 12:00 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Great%20Britain%20GP%208%2F12%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Commentary.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-13 12:00 - MotoGP -  vs  (MotoGP Commentary (D))
@@ -6195,6 +6249,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&u
 https://cdnlivetv.tv/api/v1/channels/player/?name=NASCAR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="USA.Network.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-19 14:30 - NASCAR Cup Series -  vs  (USA Network US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20Network%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TNT.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-19 14:30 - NASCAR Cup Series -  vs  (TNT US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-20 12:00 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Great%20Britain%20GP%208%2F12%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Commentary.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-20 12:00 - MotoGP -  vs  (MotoGP Commentary (D))
@@ -6275,6 +6331,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=AU%20(STAN%2040)%20%7C%20Quali
 https://cdnlivetv.tv/api/v1/channels/player/?name=NASCAR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="USA.Network.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-27 10:00 - NASCAR Cup Series -  vs  (USA Network US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20Network%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TNT.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-09-27 10:00 - NASCAR Cup Series -  vs  (TNT US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-02 00:45 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Great%20Britain%20GP%208%2F12%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Commentary.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-02 00:45 - MotoGP -  vs  (MotoGP Commentary (D))
@@ -6391,6 +6449,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&u
 https://cdnlivetv.tv/api/v1/channels/player/?name=NASCAR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="USA.Network.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-04 10:00 - NASCAR Cup Series -  vs  (USA Network US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20Network%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TNT.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-04 10:00 - NASCAR Cup Series -  vs  (TNT US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-09 03:45 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Great%20Britain%20GP%208%2F12%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Commentary.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-09 03:45 - MotoGP -  vs  (MotoGP Commentary (D))
@@ -6555,6 +6615,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&u
 https://cdnlivetv.tv/api/v1/channels/player/?name=NASCAR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="USA.Network.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-11 10:00 - NASCAR Cup Series -  vs  (USA Network US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20Network%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TNT.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-11 10:00 - NASCAR Cup Series -  vs  (TNT US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-11 12:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-11 12:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -6571,6 +6633,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=AU%20(STAN%2040)%20%7C%20Quali
 https://cdnlivetv.tv/api/v1/channels/player/?name=NASCAR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="USA.Network.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-18 10:00 - NASCAR Cup Series -  vs  (USA Network US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20Network%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TNT.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-18 10:00 - NASCAR Cup Series -  vs  (TNT US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="2:00.AM.EDT.MOTOGP.Racing.-.Great.Britain.GP.8/12.[FOX.One]" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-23 00:45 - MotoGP -  vs  (2:00 AM EDT MOTOGP Racing - Great Britain GP 8/12 [FOX One])
 https://cdnlivetv.tv/api/v1/channels/player/?name=2%3A00%20AM%20EDT%20MOTOGP%20Racing%20-%20Great%20Britain%20GP%208%2F12%20%5BFOX%20One%5D&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MotoGP.Commentary.(D)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-23 00:45 - MotoGP -  vs  (MotoGP Commentary (D))
@@ -6735,6 +6799,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&u
 https://cdnlivetv.tv/api/v1/channels/player/?name=NASCAR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="USA.Network.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-25 09:00 - NASCAR Cup Series -  vs  (USA Network US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20Network%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TNT.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-25 09:00 - NASCAR Cup Series -  vs  (TNT US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-25 20:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-10-25 20:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -6911,6 +6977,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=MotoGP%20Ambient%20(D)&code=&u
 https://cdnlivetv.tv/api/v1/channels/player/?name=NASCAR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="USA.Network.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 09:00 - NASCAR Cup Series -  vs  (USA Network US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20Network%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TNT.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 09:00 - NASCAR Cup Series -  vs  (TNT US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 20:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-01 20:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -7071,6 +7139,8 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=AU%20(STAN%2040)%20%7C%20Quali
 https://cdnlivetv.tv/api/v1/channels/player/?name=NASCAR&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="USA.Network.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 10:00 - NASCAR Cup Series -  vs  (USA Network US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=USA%20Network%20US&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="TNT.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 10:00 - NASCAR Cup Series -  vs  (TNT US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 17:00 - Formula 1 -  vs  (Sky Sports F1 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20F1%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sky.Sports.F1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[Motorsport] 2026-11-08 17:00 - Formula 1 -  vs  (Sky Sports F1 HD UK)
@@ -7511,8 +7581,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%2024%2F7%20HD%20US&code=&u
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Channel%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Fight.Pass.24/7.FHD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-15 00:00 - UFC -  vs  (UFC Fight Pass 24/7 FHD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Fight%20Pass%2024%2F7%20FHD%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="UFC.1.(Solo.Eventos)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-15 00:00 - UFC -  vs  (UFC 1 (Solo Eventos))
-https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%201%20(Solo%20Eventos)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.2" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-15 00:00 - UFC -  vs  (UFC 2)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%202&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.3.(Solo.Eventos)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-15 00:00 - UFC -  vs  (UFC 3 (Solo Eventos))
@@ -7525,8 +7593,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%2024%2F7%20HD%20US&code=&u
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Channel%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Fight.Pass.24/7.FHD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-19 00:00 - UFC -  vs  (UFC Fight Pass 24/7 FHD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Fight%20Pass%2024%2F7%20FHD%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="UFC.1.(Solo.Eventos)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-19 00:00 - UFC -  vs  (UFC 1 (Solo Eventos))
-https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%201%20(Solo%20Eventos)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.2" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-19 00:00 - UFC -  vs  (UFC 2)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%202&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.3.(Solo.Eventos)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-19 00:00 - UFC -  vs  (UFC 3 (Solo Eventos))
@@ -7539,8 +7605,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%2024%2F7%20HD%20US&code=&u
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Channel%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Fight.Pass.24/7.FHD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-22 00:00 - UFC -  vs  (UFC Fight Pass 24/7 FHD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Fight%20Pass%2024%2F7%20FHD%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="UFC.1.(Solo.Eventos)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-22 00:00 - UFC -  vs  (UFC 1 (Solo Eventos))
-https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%201%20(Solo%20Eventos)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.2" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-22 00:00 - UFC -  vs  (UFC 2)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%202&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.3.(Solo.Eventos)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-22 00:00 - UFC -  vs  (UFC 3 (Solo Eventos))
@@ -7553,8 +7617,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%2024%2F7%20HD%20US&code=&u
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Channel%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Fight.Pass.24/7.FHD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-26 00:00 - UFC -  vs  (UFC Fight Pass 24/7 FHD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Fight%20Pass%2024%2F7%20FHD%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="UFC.1.(Solo.Eventos)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-26 00:00 - UFC -  vs  (UFC 1 (Solo Eventos))
-https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%201%20(Solo%20Eventos)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.2" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-26 00:00 - UFC -  vs  (UFC 2)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%202&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.3.(Solo.Eventos)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-26 00:00 - UFC -  vs  (UFC 3 (Solo Eventos))
@@ -7567,8 +7629,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%2024%2F7%20HD%20US&code=&u
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Channel%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Fight.Pass.24/7.FHD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-29 00:00 - UFC -  vs  (UFC Fight Pass 24/7 FHD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Fight%20Pass%2024%2F7%20FHD%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="UFC.1.(Solo.Eventos)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-29 00:00 - UFC -  vs  (UFC 1 (Solo Eventos))
-https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%201%20(Solo%20Eventos)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.2" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-29 00:00 - UFC -  vs  (UFC 2)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%202&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.3.(Solo.Eventos)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-08-29 00:00 - UFC -  vs  (UFC 3 (Solo Eventos))
@@ -7581,8 +7641,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%2024%2F7%20HD%20US&code=&u
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Channel%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Fight.Pass.24/7.FHD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-02 00:00 - UFC -  vs  (UFC Fight Pass 24/7 FHD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Fight%20Pass%2024%2F7%20FHD%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="UFC.1.(Solo.Eventos)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-02 00:00 - UFC -  vs  (UFC 1 (Solo Eventos))
-https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%201%20(Solo%20Eventos)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.2" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-02 00:00 - UFC -  vs  (UFC 2)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%202&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.3.(Solo.Eventos)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-02 00:00 - UFC -  vs  (UFC 3 (Solo Eventos))
@@ -7595,8 +7653,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%2024%2F7%20HD%20US&code=&u
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Channel%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Fight.Pass.24/7.FHD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-05 17:00 - UFC -  vs  (UFC Fight Pass 24/7 FHD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Fight%20Pass%2024%2F7%20FHD%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="UFC.1.(Solo.Eventos)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-05 17:00 - UFC -  vs  (UFC 1 (Solo Eventos))
-https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%201%20(Solo%20Eventos)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.2" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-05 17:00 - UFC -  vs  (UFC 2)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%202&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.3.(Solo.Eventos)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-05 17:00 - UFC -  vs  (UFC 3 (Solo Eventos))
@@ -7609,8 +7665,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%2024%2F7%20HD%20US&code=&u
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Channel%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Fight.Pass.24/7.FHD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-09 00:00 - UFC -  vs  (UFC Fight Pass 24/7 FHD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Fight%20Pass%2024%2F7%20FHD%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="UFC.1.(Solo.Eventos)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-09 00:00 - UFC -  vs  (UFC 1 (Solo Eventos))
-https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%201%20(Solo%20Eventos)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.2" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-09 00:00 - UFC -  vs  (UFC 2)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%202&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.3.(Solo.Eventos)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-09 00:00 - UFC -  vs  (UFC 3 (Solo Eventos))
@@ -7623,8 +7677,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%2024%2F7%20HD%20US&code=&u
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Channel%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Fight.Pass.24/7.FHD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-12 00:00 - UFC -  vs  (UFC Fight Pass 24/7 FHD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Fight%20Pass%2024%2F7%20FHD%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="UFC.1.(Solo.Eventos)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-12 00:00 - UFC -  vs  (UFC 1 (Solo Eventos))
-https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%201%20(Solo%20Eventos)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.2" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-12 00:00 - UFC -  vs  (UFC 2)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%202&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.3.(Solo.Eventos)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-12 00:00 - UFC -  vs  (UFC 3 (Solo Eventos))
@@ -7637,8 +7689,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%2024%2F7%20HD%20US&code=&u
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Channel%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Fight.Pass.24/7.FHD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-16 00:00 - UFC -  vs  (UFC Fight Pass 24/7 FHD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Fight%20Pass%2024%2F7%20FHD%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="UFC.1.(Solo.Eventos)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-16 00:00 - UFC -  vs  (UFC 1 (Solo Eventos))
-https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%201%20(Solo%20Eventos)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.2" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-16 00:00 - UFC -  vs  (UFC 2)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%202&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.3.(Solo.Eventos)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-16 00:00 - UFC -  vs  (UFC 3 (Solo Eventos))
@@ -7651,8 +7701,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%2024%2F7%20HD%20US&code=&u
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Channel%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Fight.Pass.24/7.FHD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-19 00:00 - UFC -  vs  (UFC Fight Pass 24/7 FHD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Fight%20Pass%2024%2F7%20FHD%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="UFC.1.(Solo.Eventos)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-19 00:00 - UFC -  vs  (UFC 1 (Solo Eventos))
-https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%201%20(Solo%20Eventos)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.2" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-19 00:00 - UFC -  vs  (UFC 2)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%202&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.3.(Solo.Eventos)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-19 00:00 - UFC -  vs  (UFC 3 (Solo Eventos))
@@ -7665,8 +7713,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%2024%2F7%20HD%20US&code=&u
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Channel%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Fight.Pass.24/7.FHD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-23 00:00 - UFC -  vs  (UFC Fight Pass 24/7 FHD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Fight%20Pass%2024%2F7%20FHD%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="UFC.1.(Solo.Eventos)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-23 00:00 - UFC -  vs  (UFC 1 (Solo Eventos))
-https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%201%20(Solo%20Eventos)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.2" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-23 00:00 - UFC -  vs  (UFC 2)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%202&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.3.(Solo.Eventos)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-23 00:00 - UFC -  vs  (UFC 3 (Solo Eventos))
@@ -7679,8 +7725,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%2024%2F7%20HD%20US&code=&u
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Channel%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Fight.Pass.24/7.FHD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-26 00:00 - UFC -  vs  (UFC Fight Pass 24/7 FHD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Fight%20Pass%2024%2F7%20FHD%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="UFC.1.(Solo.Eventos)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-26 00:00 - UFC -  vs  (UFC 1 (Solo Eventos))
-https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%201%20(Solo%20Eventos)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.2" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-26 00:00 - UFC -  vs  (UFC 2)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%202&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.3.(Solo.Eventos)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-26 00:00 - UFC -  vs  (UFC 3 (Solo Eventos))
@@ -7693,8 +7737,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%2024%2F7%20HD%20US&code=&u
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Channel%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Fight.Pass.24/7.FHD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-30 00:00 - UFC -  vs  (UFC Fight Pass 24/7 FHD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Fight%20Pass%2024%2F7%20FHD%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="UFC.1.(Solo.Eventos)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-30 00:00 - UFC -  vs  (UFC 1 (Solo Eventos))
-https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%201%20(Solo%20Eventos)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.2" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-30 00:00 - UFC -  vs  (UFC 2)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%202&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.3.(Solo.Eventos)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-09-30 00:00 - UFC -  vs  (UFC 3 (Solo Eventos))
@@ -7707,8 +7749,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%2024%2F7%20HD%20US&code=&u
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Channel%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Fight.Pass.24/7.FHD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-03 00:00 - UFC -  vs  (UFC Fight Pass 24/7 FHD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Fight%20Pass%2024%2F7%20FHD%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="UFC.1.(Solo.Eventos)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-03 00:00 - UFC -  vs  (UFC 1 (Solo Eventos))
-https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%201%20(Solo%20Eventos)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.2" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-03 00:00 - UFC -  vs  (UFC 2)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%202&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.3.(Solo.Eventos)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-03 00:00 - UFC -  vs  (UFC 3 (Solo Eventos))
@@ -7721,8 +7761,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%2024%2F7%20HD%20US&code=&u
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Channel%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Fight.Pass.24/7.FHD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-07 00:00 - UFC -  vs  (UFC Fight Pass 24/7 FHD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Fight%20Pass%2024%2F7%20FHD%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="UFC.1.(Solo.Eventos)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-07 00:00 - UFC -  vs  (UFC 1 (Solo Eventos))
-https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%201%20(Solo%20Eventos)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.2" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-07 00:00 - UFC -  vs  (UFC 2)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%202&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.3.(Solo.Eventos)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-07 00:00 - UFC -  vs  (UFC 3 (Solo Eventos))
@@ -7735,8 +7773,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%2024%2F7%20HD%20US&code=&u
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Channel%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Fight.Pass.24/7.FHD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-10 00:00 - UFC -  vs  (UFC Fight Pass 24/7 FHD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Fight%20Pass%2024%2F7%20FHD%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="UFC.1.(Solo.Eventos)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-10 00:00 - UFC -  vs  (UFC 1 (Solo Eventos))
-https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%201%20(Solo%20Eventos)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.2" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-10 00:00 - UFC -  vs  (UFC 2)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%202&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.3.(Solo.Eventos)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-10 00:00 - UFC -  vs  (UFC 3 (Solo Eventos))
@@ -7749,8 +7785,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%2024%2F7%20HD%20US&code=&u
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Channel%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Fight.Pass.24/7.FHD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-17 00:00 - UFC -  vs  (UFC Fight Pass 24/7 FHD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Fight%20Pass%2024%2F7%20FHD%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="UFC.1.(Solo.Eventos)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-17 00:00 - UFC -  vs  (UFC 1 (Solo Eventos))
-https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%201%20(Solo%20Eventos)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.2" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-17 00:00 - UFC -  vs  (UFC 2)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%202&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.3.(Solo.Eventos)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-17 00:00 - UFC -  vs  (UFC 3 (Solo Eventos))
@@ -7763,8 +7797,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%2024%2F7%20HD%20US&code=&u
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Channel%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Fight.Pass.24/7.FHD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-24 00:00 - UFC -  vs  (UFC Fight Pass 24/7 FHD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Fight%20Pass%2024%2F7%20FHD%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="UFC.1.(Solo.Eventos)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-24 00:00 - UFC -  vs  (UFC 1 (Solo Eventos))
-https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%201%20(Solo%20Eventos)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.2" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-24 00:00 - UFC -  vs  (UFC 2)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%202&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.3.(Solo.Eventos)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[UFC] 2026-10-24 00:00 - UFC -  vs  (UFC 3 (Solo Eventos))
@@ -7817,8 +7849,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%2024%2F7%20HD%20US&code=&u
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Channel%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Fight.Pass.24/7.FHD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-22 00:00 - Professional Fighters League -  vs  (UFC Fight Pass 24/7 FHD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Fight%20Pass%2024%2F7%20FHD%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="UFC.1.(Solo.Eventos)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-22 00:00 - Professional Fighters League -  vs  (UFC 1 (Solo Eventos))
-https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%201%20(Solo%20Eventos)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.2" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-22 00:00 - Professional Fighters League -  vs  (UFC 2)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%202&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.3.(Solo.Eventos)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-08-22 00:00 - Professional Fighters League -  vs  (UFC 3 (Solo Eventos))
@@ -7831,8 +7861,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%2024%2F7%20HD%20US&code=&u
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Channel%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Fight.Pass.24/7.FHD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-09-10 00:00 - Professional Fighters League -  vs  (UFC Fight Pass 24/7 FHD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Fight%20Pass%2024%2F7%20FHD%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="UFC.1.(Solo.Eventos)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-09-10 00:00 - Professional Fighters League -  vs  (UFC 1 (Solo Eventos))
-https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%201%20(Solo%20Eventos)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.2" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-09-10 00:00 - Professional Fighters League -  vs  (UFC 2)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%202&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.3.(Solo.Eventos)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-09-10 00:00 - Professional Fighters League -  vs  (UFC 3 (Solo Eventos))
@@ -7845,8 +7873,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%2024%2F7%20HD%20US&code=&u
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Channel%20US&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.Fight.Pass.24/7.FHD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-10-10 00:00 - Professional Fighters League -  vs  (UFC Fight Pass 24/7 FHD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%20Fight%20Pass%2024%2F7%20FHD%20US&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="UFC.1.(Solo.Eventos)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-10-10 00:00 - Professional Fighters League -  vs  (UFC 1 (Solo Eventos))
-https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%201%20(Solo%20Eventos)&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.2" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-10-10 00:00 - Professional Fighters League -  vs  (UFC 2)
 https://cdnlivetv.tv/api/v1/channels/player/?name=UFC%202&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="UFC.3.(Solo.Eventos)" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MMA] 2026-10-10 00:00 - Professional Fighters League -  vs  (UFC 3 (Solo Eventos))
