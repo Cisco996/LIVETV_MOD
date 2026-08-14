@@ -1429,6 +1429,16 @@
             },
             {
                 "time": "17:00",
+                "event": "\u26bd \ud83c\uddf8\ud83c\uddea Sweden Ettan, Norra : AFC Eskilstuna vs Hammarby TFF",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7033"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
                 "event": "\u26bd Norway Eliteserien : Rosenborg vs Viking",
                 "channels": [
                     {
@@ -1448,6 +1458,16 @@
                     {
                         "channel_name": "Event Stream",
                         "channel_id": "7030"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "\u26bd Denmark Betinia Liga : Viborg vs Aarhus",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7032"
                     }
                 ]
             },
@@ -1513,6 +1533,26 @@
             },
             {
                 "time": "18:00",
+                "event": "\u26bd Switzerland Schweizer Cup : FC Rotkreuz vs AC Bellinzona",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7033"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "\u26bd Bosnia & Herzegovina WWIN Liga BiH : Celik Zenica vs Siroki Brijeg",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7034"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
                 "event": "\u26bd \ud83c\udded\ud83c\uddf7 Croatia - 1. HNL : Dinamo Zagreb \ud83c\udded\ud83c\uddf7 vs Rude\u0161 \ud83c\udded\ud83c\uddf7",
                 "channels": [
                     {
@@ -1526,6 +1566,10 @@
                     {
                         "channel_name": "MAX Sport 1 Croatia",
                         "channel_id": "3070"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7038"
                     }
                 ]
             },
@@ -1544,6 +1588,50 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4110"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7038"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "\u26bd \ud83c\uddf3\ud83c\uddf1 Netherlands - Eredivisie : Almere City vs Jong PSV",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7039"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "\u26bd \ud83c\uddf3\ud83c\uddf1 Netherlands - Eredivisie : Eindhoven FC vs Maastricht",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7040"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "\u26bd \ud83c\uddf3\ud83c\uddf1 Netherlands - Eredivisie : Heracles vs FC Den Bosch",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7041"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "\u26bd \ud83c\uddf3\ud83c\uddf1 Netherlands - Eredivisie : NAC Breda vs VVV Venlo",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7042"
                     }
                 ]
             },
@@ -1594,6 +1682,50 @@
                     {
                         "channel_name": "ESPN 4 NL",
                         "channel_id": "10"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7043"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "\u26bd \ud83c\uddf3\ud83c\uddf1 Netherlands - Eerste Divisie : RKC Waalwijk vs Dordrecht",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7044"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "\u26bd Europe UEFA Europa League : Klaksvik vs Lech Poznan",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7035"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "\u26bd Belgium Challenger Pro League : Hasselt vs Dender",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7036"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "\u26bd Belgium Challenger Pro League : Seraing vs Sporting Lokeren",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7037"
                     }
                 ]
             },
@@ -1608,6 +1740,10 @@
                     {
                         "channel_name": "Bandsports Brasil",
                         "channel_id": "275"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7039"
                     }
                 ]
             },
@@ -1662,6 +1798,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4122"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7040"
                     }
                 ]
             },
