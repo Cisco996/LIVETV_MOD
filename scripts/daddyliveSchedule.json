@@ -1338,6 +1338,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5010"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7013"
                     }
                 ]
             },
@@ -1368,6 +1372,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5011"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7014"
                     }
                 ]
             },
@@ -1390,6 +1398,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5012"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7015"
                     }
                 ]
             },
@@ -1412,6 +1424,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5017"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7016"
                     }
                 ]
             },
@@ -1438,6 +1454,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5018"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7017"
                     }
                 ]
             },
@@ -1460,6 +1480,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5019"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7025"
                     }
                 ]
             },
@@ -1482,6 +1506,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5020"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7026"
                     }
                 ]
             },
@@ -1596,6 +1624,10 @@
                     {
                         "channel_name": "ion USA",
                         "channel_id": "325"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7027"
                     }
                 ]
             }
@@ -1930,7 +1962,7 @@
                 ]
             },
             {
-                "time": "22:12",
+                "time": "23:17",
                 "event": "9:30 \u26bd \ud83c\udf0d Friendly : Leeds United \ud83c\udff4 vs Augsburg \ud83c\udde9\ud83c\uddea",
                 "channels": [
                     {
@@ -5468,6 +5500,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4111"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7011"
                     }
                 ]
             },
@@ -5478,6 +5514,16 @@
                     {
                         "channel_name": "Win+ Futbol Colombia",
                         "channel_id": "392"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "\u26bd Bolivia Divisi\u00f3n Profesional : Blooming vs Aurora",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7012"
                     }
                 ]
             },
@@ -5504,6 +5550,10 @@
                     {
                         "channel_name": "Canal 11 Portugal",
                         "channel_id": "3022"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7022"
                     }
                 ]
             },
@@ -5518,6 +5568,20 @@
                     {
                         "channel_name": "TNT SPORTS Premium HD Chile",
                         "channel_id": "4000"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7021"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "\u26bd Ecuador Liga Pro Serie A : Mushuc Runa vs Barcelona SC",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7020"
                     }
                 ]
             },
@@ -5552,6 +5616,10 @@
                     {
                         "channel_name": "TNT Sports Argentina",
                         "channel_id": "3085"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7023"
                     }
                 ]
             },
@@ -5562,6 +5630,10 @@
                     {
                         "channel_name": "Liga 1 Max Peru",
                         "channel_id": "9"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7024"
                     }
                 ]
             },
@@ -5604,6 +5676,10 @@
                     {
                         "channel_name": "TUDN USA",
                         "channel_id": "3030"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7028"
                     }
                 ]
             },
@@ -6940,6 +7016,16 @@
                 ]
             },
             {
+                "time": "14:00",
+                "event": "\ud83c\udfce\ufe0f IndyCar Series : INDYCAR Grand Prix of Markham",
+                "channels": [
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7009"
+                    }
+                ]
+            },
+            {
                 "time": "23:00",
                 "event": "\ud83c\udfce\ufe0f NASCAR Cup Series : Cook Out 400",
                 "channels": [
@@ -6986,6 +7072,10 @@
                     {
                         "channel_name": "Sport 3 Israel",
                         "channel_id": "142"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7010"
                     }
                 ]
             }
@@ -7010,6 +7100,10 @@
                     {
                         "channel_name": "DAZN PPV",
                         "channel_id": "3003"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7019"
                     }
                 ]
             }
@@ -8956,6 +9050,10 @@
                     {
                         "channel_name": "CBSNY USA",
                         "channel_id": "767"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7018"
                     }
                 ]
             }
