@@ -113,18 +113,10 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=NFL%20Network%20HD%20DE&code=&
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%202%20FHD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NFL.Network.HD.DE" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2027-01-03 00:00 - NFL - Los Angeles Chargers vs Kansas City Chiefs (NFL Network HD DE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NFL%20Network%20HD%20DE&code=&user=cdnlivetv&plan=free
+#EXTINF:-1 tvg-id="NBC.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/nbc-us.webp",[NFL] 2027-01-03 18:00 - NFL - New York Jets vs Minnesota Vikings (NBC US)
+https://cdnlivetv.tv/api/v1/channels/player/?name=NBC%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NBC.4.(WNBC).New.York.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/nbc-4-wnbc-new-york-hd-us.webp",[NFL] 2027-01-03 18:00 - NFL - New York Jets vs Minnesota Vikings (NBC 4 (WNBC) New York HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NBC%204%20(WNBC)%20New%20York%20HD%20US&code=us&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TNT.Sports.1.FHD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-1-fhd-uk.webp",[MLB] 2026-08-15 18:20 - MLB - Chicago Cubs vs St. Louis Cardinals (TNT Sports 1 FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Marquee.Sports.Network.FHD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/marquee-sports-network-fhd-us.webp",[MLB] 2026-08-15 18:20 - MLB - Chicago Cubs vs St. Louis Cardinals (Marquee Sports Network FHD US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Marquee%20Sports%20Network%20FHD%20US&code=us&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="YES.Network.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/yes-network-us.webp",[MLB] 2026-08-15 19:07 - MLB - Toronto Blue Jays vs New York Yankees (YES Network US)
-https://cdnlivetv.tv/api/v1/channels/player/?name=YES%20Network%20US&code=us&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sportsnet.West.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-15 19:07 - MLB - Toronto Blue Jays vs New York Yankees (Sportsnet West HD CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20West%20HD%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TVA.Sports.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/canada/tva-sports-ca.webp",[MLB] 2026-08-15 19:07 - MLB - Toronto Blue Jays vs New York Yankees (TVA Sports CA)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TVA%20Sports%20CA&code=ca&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Fox.Sports.1.FHD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/fox-sports-1-fhd-us.webp",[MLB] 2026-08-15 20:10 - MLB - New York Mets vs Washington Nationals (Fox Sports 1 FHD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Fox%20Sports%201%20FHD%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="SportsNet.New.York.FHD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/sportsnet-new-york-fhd-us.webp",[MLB] 2026-08-15 20:10 - MLB - New York Mets vs Washington Nationals (SportsNet New York FHD US)
