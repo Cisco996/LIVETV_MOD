@@ -140,6 +140,16 @@
                 ]
             },
             {
+                "time": "22:30",
+                "event": "\ud83c\udfc1 \ud83c\uddfa\ud83c\uddf8 Sharon Speedway Late Models \ud83c\uddfa\ud83c\uddf8",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "202"
+                    }
+                ]
+            },
+            {
                 "time": "22:45",
                 "event": "\ud83c\udfc1 \ud83c\uddfa\ud83c\uddf8 2026 KKM Challenge Series at Greenwood Valley Action Track \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
@@ -1320,6 +1330,14 @@
                     {
                         "channel_name": "Apple TV",
                         "channel_id": "3031"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2021"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5010"
                     }
                 ]
             },
@@ -1342,6 +1360,14 @@
                     {
                         "channel_name": "TSN5",
                         "channel_id": "115"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2022"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5011"
                     }
                 ]
             },
@@ -1356,6 +1382,14 @@
                     {
                         "channel_name": "Apple TV",
                         "channel_id": "3032"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2023"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5012"
                     }
                 ]
             },
@@ -1370,6 +1404,14 @@
                     {
                         "channel_name": "Apple TV",
                         "channel_id": "3033"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2024"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5017"
                     }
                 ]
             },
@@ -1388,6 +1430,14 @@
                     {
                         "channel_name": "Apple TV",
                         "channel_id": "3034"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2025"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5018"
                     }
                 ]
             },
@@ -1402,6 +1452,14 @@
                     {
                         "channel_name": "Apple TV",
                         "channel_id": "3035"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2026"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5019"
                     }
                 ]
             },
@@ -1416,6 +1474,14 @@
                     {
                         "channel_name": "Apple TV",
                         "channel_id": "3036"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2027"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5020"
                     }
                 ]
             },
@@ -1430,6 +1496,14 @@
                     {
                         "channel_name": "Apple TV",
                         "channel_id": "3037"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2028"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5021"
                     }
                 ]
             },
@@ -1444,6 +1518,14 @@
                     {
                         "channel_name": "Apple TV",
                         "channel_id": "3038"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2029"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5022"
                     }
                 ]
             },
@@ -1458,6 +1540,14 @@
                     {
                         "channel_name": "Apple TV",
                         "channel_id": "3031"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2030"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5023"
                     }
                 ]
             },
@@ -1472,6 +1562,14 @@
                     {
                         "channel_name": "Apple TV",
                         "channel_id": "3032"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "2031"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5024"
                     }
                 ]
             }
@@ -1484,6 +1582,10 @@
                     {
                         "channel_name": "ion USA",
                         "channel_id": "325"
+                    },
+                    {
+                        "channel_name": "Event Stream",
+                        "channel_id": "7007"
                     }
                 ]
             },
@@ -1828,7 +1930,7 @@
                 ]
             },
             {
-                "time": "20:45",
+                "time": "22:12",
                 "event": "9:30 \u26bd \ud83c\udf0d Friendly : Leeds United \ud83c\udff4 vs Augsburg \ud83c\udde9\ud83c\uddea",
                 "channels": [
                     {
@@ -5304,6 +5406,10 @@
                     {
                         "channel_name": "ESPN Premium Argentina",
                         "channel_id": "3084"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7005"
                     }
                 ]
             },
@@ -5318,6 +5424,20 @@
                     {
                         "channel_name": "TNT Sports Argentina",
                         "channel_id": "3085"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7006"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "\u26bd Uruguay Liga AUF Uruguaya Clausura : Wanderers vs Cerro Largo",
+                "channels": [
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7008"
                     }
                 ]
             },
@@ -6948,6 +7068,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5040"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5006"
                     }
                 ]
             },
@@ -7006,6 +7130,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "5040"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5006"
                     }
                 ]
             },
@@ -7790,6 +7918,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "7039"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5013"
                     }
                 ]
             },
@@ -7816,6 +7948,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "7038"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5014"
                     }
                 ]
             },
@@ -7842,6 +7978,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4035"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5015"
                     }
                 ]
             },
@@ -7872,6 +8012,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4036"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5016"
                     }
                 ]
             }
