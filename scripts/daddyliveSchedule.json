@@ -2,12 +2,216 @@
     "Saturday 15th Aug 2026 - Schedule Time UK GMT": {
         "PPV Events": [
             {
-                "time": "16:30",
-                "event": "Knoxville Raceway",
+                "time": "14:00",
+                "event": "\ud83c\udfc1 \ud83c\uddfa\ud83c\uddf8 AMA Supercross Championship : New Berlin \ud83c\uddfa\ud83c\uddf8",
                 "channels": [
                     {
                         "channel_name": "Event PPV",
+                        "channel_id": "201"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "\ud83c\udfc1 \ud83c\uddfa\ud83c\uddf8 USAC Road Racing : Road America \ud83c\uddfa\ud83c\uddf8",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "202"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "\ud83c\udfc1 \ud83c\uddfa\ud83c\uddf8 MotoAmerica Superbikes : Virginia Raceway \ud83c\uddfa\ud83c\uddf8",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "203"
+                    }
+                ]
+            },
+            {
+                "time": "16:30",
+                "event": "\ud83c\udfc1 \ud83c\uddfa\ud83c\uddf8 Knoxville Raceway \ud83c\uddfa\ud83c\uddf8",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "182"
+                    },
+                    {
+                        "channel_name": "Event PPV",
                         "channel_id": "5001"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "\ud83e\udd4b \ud83c\uddfa\ud83c\uddf8 Submission Hunter Pro 104 \ud83c\uddfa\ud83c\uddf8",
+                "channels": [
+                    {
+                        "channel_name": "UFC Fight Pass",
+                        "channel_id": "204"
+                    }
+                ]
+            },
+            {
+                "time": "21:00",
+                "event": "\ud83c\udfc1 \ud83c\uddfa\ud83c\uddf8 2026 Hasty Bake High Limit Room Live at Knoxville Nationals \ud83c\uddfa\ud83c\uddf8",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "25"
+                    }
+                ]
+            },
+            {
+                "time": "21:15",
+                "event": "\ud83c\udfc1 \ud83c\uddfa\ud83c\uddf8 Mr. Supermodified : Oswego Speedway \ud83c\uddfa\ud83c\uddf8",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "27"
+                    }
+                ]
+            },
+            {
+                "time": "21:30",
+                "event": "\ud83c\udfc1 \ud83c\uddfa\ud83c\uddf8 Knoxville Raceway Nationals : NOS Energy Drink \ud83c\uddfa\ud83c\uddf8",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "29"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "\ud83c\udfc1 \ud83c\uddfa\ud83c\uddf8 2026 Race of Champions Modifieds at Lancaster Motorplex \ud83c\uddfa\ud83c\uddf8",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "179"
+                    }
+                ]
+            },
+            {
+                "time": "22:00",
+                "event": "\ud83c\udfc1 \ud83c\uddfa\ud83c\uddf8 2026 Championship Night at Fonda Speedway \ud83c\uddfa\ud83c\uddf8",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "180"
+                    }
+                ]
+            },
+            {
+                "time": "22:15",
+                "event": "\ud83c\udfc1 \ud83c\uddfa\ud83c\uddf8 Cedar Lake Speedway Late Models \ud83c\uddfa\ud83c\uddf8",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "181"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "\ud83c\udfc1 \ud83c\uddfa\ud83c\uddf8 Sharon Speedway Late Models \ud83c\uddfa\ud83c\uddf8",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "182"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "\ud83e\udd3c \ud83c\uddfa\ud83c\uddf8 Awesome Championship Wrestling (ACW) : Uprising 2026 \ud83c\uddfa\ud83c\uddf8",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "183"
+                    }
+                ]
+            },
+            {
+                "time": "22:45",
+                "event": "\ud83c\udfc1 \ud83c\uddfa\ud83c\uddf8 2026 KKM Challenge Series at Greenwood Valley Action Track \ud83c\uddfa\ud83c\uddf8",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "185"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "\ud83c\udfc1 \ud83c\uddfa\ud83c\uddf8 2026 IMCA Captain of the Creek at 141 Speedway \ud83c\uddfa\ud83c\uddf8",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "188"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "\ud83c\udfc1 \ud83c\uddfa\ud83c\uddf8 MARS Illinois Valley Showdown : LaSalle Speedway \ud83c\uddfa\ud83c\uddf8",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "189"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "\ud83e\udd3c \ud83c\uddfa\ud83c\uddf8 Greektown Wrestling \ud83c\uddfa\ud83c\uddf8",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "190"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "\ud83c\udfc1 \ud83c\uddfa\ud83c\uddf8 2026 Great Lakes Pro Am Series at Lake Erie Speedway \ud83c\uddfa\ud83c\uddf8",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "191"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "\ud83e\udd4a \ud83c\uddfa\ud83c\uddf8 Redneck Brawl 14 : Hillbilly Slugfest \ud83c\uddfa\ud83c\uddf8",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "193"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "\ud83e\udd3c \ud83c\uddfa\ud83c\uddf8 GCW : Homecoming 2026, Part 1 \ud83c\uddfa\ud83c\uddf8",
+                "channels": [
+                    {
+                        "channel_name": "Triller TV",
+                        "channel_id": "194"
+                    }
+                ]
+            },
+            {
+                "time": "00:15",
+                "event": "\ud83c\udfc1 \ud83c\uddfa\ud83c\uddf8 2026 Lucas Oil Topless 100 at Batesville Motor Speedway \ud83c\uddfa\ud83c\uddf8",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "195"
                     }
                 ]
             }
@@ -350,6 +554,10 @@
                     {
                         "channel_name": "LOITV",
                         "channel_id": "181"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7014"
                     }
                 ]
             }
@@ -1616,7 +1824,7 @@
                 ]
             },
             {
-                "time": "16:38",
+                "time": "18:36",
                 "event": "9:30 \u26bd \ud83c\udf0d Friendly : Leeds United \ud83c\udff4 vs Augsburg \ud83c\udde9\ud83c\uddea",
                 "channels": [
                     {
@@ -4330,6 +4538,10 @@
                     {
                         "channel_name": "beIN Sports 2 Turkey",
                         "channel_id": "3092"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7015"
                     }
                 ]
             },
@@ -4380,6 +4592,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4111"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7010"
                     }
                 ]
             },
@@ -4390,6 +4606,10 @@
                     {
                         "channel_name": "DAZN Pro League 2 Belgium",
                         "channel_id": "3050"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7011"
                     }
                 ]
             },
@@ -4400,6 +4620,10 @@
                     {
                         "channel_name": "DAZN Pro League 1 Belgium",
                         "channel_id": "3049"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7012"
                     }
                 ]
             },
@@ -4438,6 +4662,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4109"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "7013"
                     }
                 ]
             },
@@ -5750,8 +5978,12 @@
                 "event": "ATP - Singles: \ud83c\udde9\ud83c\uddea Jan-Lennard Struff vs \ud83c\udde8\ud83c\uddf1 Alejandro Tabilo",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1572"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1513"
                     }
                 ]
             },
@@ -5760,8 +5992,12 @@
                 "event": "ATP - Singles: \ud83c\udde9\ud83c\uddea Yannick Hanfmann vs \ud83c\uddeb\ud83c\uddf7 Arthur Fils",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1573"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1513"
                     }
                 ]
             },
@@ -5770,8 +6006,12 @@
                 "event": "ATP - Singles: \ud83c\udde8\ud83c\uddff Ji\u0159\u00ed Lehe\u010dka vs \ud83c\uddee\ud83c\uddf9 Matteo Berrettini",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1574"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1509"
                     }
                 ]
             },
@@ -5780,8 +6020,12 @@
                 "event": "ATP - Singles: \ud83c\uddeb\ud83c\uddf7 Terence Atmane vs \ud83c\udde6\ud83c\uddf7 Tom\u00e1s Mart\u00edn Etcheverry",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1575"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1513"
                     }
                 ]
             },
@@ -5790,8 +6034,12 @@
                 "event": "ATP - Singles: \ud83c\uddea\ud83c\uddf8 Rafael J\u00f3dar vs \ud83c\udde8\ud83c\udde6 Denis Shapovalov",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1576"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1508"
                     }
                 ]
             },
@@ -5800,8 +6048,12 @@
                 "event": "ATP - Singles: \ud83c\udde9\ud83c\uddea Alexander Zverev vs \ud83c\uddec\ud83c\udde7 Cameron Norrie",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1577"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
                     }
                 ]
             }
@@ -5879,11 +6131,11 @@
             },
             {
                 "time": "16:30",
-                "event": "WTA - Singles: \ud83c\uddfa\ud83c\uddf8 Caty McNally vs \ud83c\uddfa\ud83c\udde6 Anhelina Kalinina",
+                "event": "WTA - Singles: \ud83c\uddfa\ud83c\uddf8 Caty McNally vs \ud83c\uddf7\ud83c\uddfa Anna Kalinskaya",
                 "channels": [
                     {
                         "channel_name": "Tennis Stream",
-                        "channel_id": "1561"
+                        "channel_id": "1583"
                     },
                     {
                         "channel_name": "Tennis Stream",
@@ -5952,8 +6204,12 @@
                 "event": "WTA - Singles: \ud83c\udde8\ud83c\udded Simona Waltert vs \ud83c\uddfa\ud83c\uddf8 Jessica Pegula",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1578"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
                     }
                 ]
             },
@@ -5962,8 +6218,12 @@
                 "event": "WTA - Singles: \ud83c\udde7\ud83c\uddea Elise Mertens vs \ud83c\uddeb\ud83c\uddf7 Diane Parry",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1579"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1510"
                     }
                 ]
             },
@@ -5972,8 +6232,12 @@
                 "event": "WTA - Singles: \ud83c\uddfa\ud83c\uddff Kamilla Rakhimova vs \ud83c\uddec\ud83c\uddf7 Maria Sakkari",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1580"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1506"
                     }
                 ]
             },
@@ -5982,8 +6246,12 @@
                 "event": "WTA - Singles: \ud83c\uddfa\ud83c\uddf8 Peyton Stearns vs \ud83c\udde9\ud83c\uddf0 Clara Tauson",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1581"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
                     }
                 ]
             },
@@ -5992,8 +6260,12 @@
                 "event": "WTA - Singles: \ud83c\uddeb\ud83c\uddf7 Lo\u00efs Boisson vs \ud83c\udde8\ud83c\udded Belinda Bencic",
                 "channels": [
                     {
-                        "channel_name": "Channel Not Listed #JustAsk",
-                        "channel_id": "00"
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1582"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
                     }
                 ]
             }
@@ -6468,6 +6740,10 @@
                 "event": "\ud83e\udd4a ACA 206 : Vakhaev vs Aliakbari",
                 "channels": [
                     {
+                        "channel_name": "Event PPV",
+                        "channel_id": "200"
+                    },
+                    {
                         "channel_name": "\u041c\u0410\u0422\u0427! \u0411\u041e\u0415\u0426 Russia",
                         "channel_id": "395"
                     }
@@ -6606,6 +6882,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4116"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5006"
                     }
                 ]
             }
