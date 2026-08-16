@@ -89,16 +89,12 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=ABC%20US&code=us&user=cdnlivet
 https://cdnlivetv.tv/api/v1/channels/player/?name=ABC%207%20New%20York&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NBC.Sports.California.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/nbc-sports-california-hd-us.webp",[MLB] 2026-08-16 20:05 - MLB - Athletics vs Texas Rangers (NBC Sports California HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NBC%20Sports%20California%20HD%20US&code=us&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TNT.Sports.1.FHD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-1-fhd-uk.webp",[MLB] 2026-08-16 20:10 - MLB - Los Angeles Dodgers vs Milwaukee Brewers (TNT Sports 1 FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sportsnet.One.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-16 20:10 - MLB - Los Angeles Dodgers vs Milwaukee Brewers (Sportsnet One HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sportsnet%20One%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Sport1+.FHD.DE" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/germany/sport1-fhd-de.webp",[MLB] 2026-08-16 20:10 - MLB - Los Angeles Dodgers vs Milwaukee Brewers (Sport1+ FHD DE)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Sport1%2B%20FHD%20DE&code=de&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Spectrum.Sportsnet.LA.Dodgers.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/spectrum-sportsnet-la-dodgers-hd-us.webp",[MLB] 2026-08-16 20:10 - MLB - Los Angeles Dodgers vs Milwaukee Brewers (Spectrum Sportsnet LA Dodgers HD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Spectrum%20Sportsnet%20LA%20Dodgers%20HD%20US&code=us&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TNT.Sports.1.FHD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-1-fhd-uk.webp",[MLB] 2026-08-16 23:20 - MLB - Houston Astros vs Seattle Mariners (TNT Sports 1 FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NBC.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/nbc-us.webp",[MLB] 2026-08-16 23:20 - MLB - Houston Astros vs Seattle Mariners (NBC US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=NBC%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="NBC.4.(WNBC).New.York.HD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/nbc-4-wnbc-new-york-hd-us.webp",[MLB] 2026-08-16 23:20 - MLB - Houston Astros vs Seattle Mariners (NBC 4 (WNBC) New York HD US)
@@ -121,8 +117,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=Sport1%2B%20FHD%20DE&code=de&u
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-17 22:40 - MLB - Cincinnati Reds vs St. Louis Cardinals (TNT Sports 1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20HD%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TNT.Sports.1.FHD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-17 22:40 - MLB - Cincinnati Reds vs St. Louis Cardinals (TNT Sports 1 FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20FHD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.10.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-17 22:40 - MLB - Cincinnati Reds vs St. Louis Cardinals (TNT Sports 10 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%2010%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ESPN.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-17 23:05 - MLB - Pittsburgh Pirates vs Detroit Tigers (ESPN US)
@@ -217,8 +211,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20Sports%20Max%204%20SD%2
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-19 00:05 - MLB - Chicago Cubs vs Chicago White Sox (TNT Sports 1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20HD%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TNT.Sports.1.FHD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-19 00:05 - MLB - Chicago Cubs vs Chicago White Sox (TNT Sports 1 FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20FHD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.3.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-19 00:05 - MLB - Chicago Cubs vs Chicago White Sox (TNT Sports 3 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%203%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.3.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-19 00:05 - MLB - Chicago Cubs vs Chicago White Sox (TNT Sports 3 HD UK)
@@ -233,8 +225,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%203%20HD%20CHL&co
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-19 18:20 - MLB - Chicago Cubs vs Chicago White Sox (TNT Sports 1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20HD%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TNT.Sports.1.FHD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-19 18:20 - MLB - Chicago Cubs vs Chicago White Sox (TNT Sports 1 FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20FHD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.3.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-19 18:20 - MLB - Chicago Cubs vs Chicago White Sox (TNT Sports 3 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%203%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.3.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-19 18:20 - MLB - Chicago Cubs vs Chicago White Sox (TNT Sports 3 HD UK)
@@ -261,8 +251,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=beIN%20Sports%20Max%204%20SD%2
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-20 17:10 - MLB - Tampa Bay Rays vs Toronto Blue Jays (TNT Sports 1 HD UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20HD%20UK&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TNT.Sports.1.FHD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-20 17:10 - MLB - Tampa Bay Rays vs Toronto Blue Jays (TNT Sports 1 FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20FHD%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TNT.Sports.10.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-20 17:10 - MLB - Tampa Bay Rays vs Toronto Blue Jays (TNT Sports 10 UK)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%2010%20UK&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="ESPN.2.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-20 18:10 - MLB - Chicago White Sox vs Atlanta Braves (ESPN 2 US)
@@ -527,8 +515,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%203%20FHD%20NL&code=nl&us
 https://cdnlivetv.tv/api/v1/channels/player/?name=ESPN%204%20HD%20BR&code=br&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="RDS.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/canada/rds-ca.webp",[Golf] 2026-08-30 00:00 - PGA Tour -  vs  (RDS CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=RDS%20CA&code=ca&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="Sky.Sports.Golf.FHD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/sky-sports-golf-fhd-uk.webp",[Golf] 2026-08-30 00:00 - PGA Tour -  vs  (Sky Sports Golf FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=Sky%20Sports%20Golf%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="Golf.Channel.FHD.US" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-states/golf-channel-fhd-us.webp",[Golf] 2026-08-30 00:00 - PGA Tour -  vs  (Golf Channel FHD US)
 https://cdnlivetv.tv/api/v1/channels/player/?name=Golf%20Channel%20FHD%20US&code=us&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="RDS.2.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/canada/rds-2-ca.webp",[Golf] 2026-08-30 00:00 - PGA Tour -  vs  (RDS 2 CA)
