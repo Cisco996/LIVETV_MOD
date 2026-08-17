@@ -2821,12 +2821,6 @@ https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%201%20HD%20CA&code=&user=c
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%203%20HD%20CA&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="TSN.5.HD.CA" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[NFL] 2026-10-24 19:00 - CFL - Hamilton Tiger-Cats vs Ottawa Redblacks (TSN 5 HD CA)
 https://cdnlivetv.tv/api/v1/channels/player/?name=TSN%205%20HD%20CA&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.|.Cincinnati.Reds" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-17 17:40 - MLB - Cincinnati Reds vs St. Louis Cardinals (MLB | Cincinnati Reds)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Cincinnati%20Reds&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="MLB.|.St..Louis.Cardinals" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-17 17:40 - MLB - Cincinnati Reds vs St. Louis Cardinals (MLB | St. Louis Cardinals)
-https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20St.%20Louis%20Cardinals&code=&user=cdnlivetv&plan=free
-#EXTINF:-1 tvg-id="TNT.Sports.1.FHD.UK" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="https://cdnlivetv.tv/api/v1/channels/images6318/united-kingdom/tnt-sports-1-fhd-uk.webp",[MLB] 2026-08-17 17:40 - MLB - Cincinnati Reds vs St. Louis Cardinals (TNT Sports 1 FHD UK)
-https://cdnlivetv.tv/api/v1/channels/player/?name=TNT%20Sports%201%20FHD%20UK&code=gb&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Tampa.Bay.Rays" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-17 22:05 - MLB - Tampa Bay Rays vs Baltimore Orioles (MLB | Tampa Bay Rays)
 https://cdnlivetv.tv/api/v1/channels/player/?name=MLB%20%7C%20Tampa%20Bay%20Rays&code=&user=cdnlivetv&plan=free
 #EXTINF:-1 tvg-id="MLB.|.Baltimore.Orioles" group-title="5 - Eventi Live SPORTS99 ENG" tvg-logo="",[MLB] 2026-08-17 22:05 - MLB - Tampa Bay Rays vs Baltimore Orioles (MLB | Baltimore Orioles)
