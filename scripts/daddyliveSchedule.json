@@ -384,12 +384,46 @@
         ],
         "UEFA Europa League \u26bd": [
             {
+                "time": "14:30",
+                "event": "\u26bd \ud83c\uddf7\ud83c\uddf4 Romania Cup : Selimbar \ud83c\uddf7\ud83c\uddf4 vs FC Botosani \ud83c\uddf7\ud83c\uddf4",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "105"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "\u26bd \ud83c\uddeb\ud83c\uddee Finland Ykkosliiga : KaPa \ud83c\uddeb\ud83c\uddee vs Jippo \ud83c\uddeb\ud83c\uddee",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "77"
+                    }
+                ]
+            },
+            {
+                "time": "15:00",
+                "event": "\u26bd \ud83c\uddfa\ud83c\uddff Uzbekistan Super League : Xorazm Urganch \ud83c\uddfa\ud83c\uddff vs Lokomotiv Tashkent \ud83c\uddfa\ud83c\uddff",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "86"
+                    }
+                ]
+            },
+            {
                 "time": "15:00",
                 "event": "\u26bd \ud83c\uddf0\ud83c\uddff UEFA Europa League : Kairat \ud83c\uddf0\ud83c\uddff vs Anderlecht \ud83c\udde7\ud83c\uddea",
                 "channels": [
                     {
                         "channel_name": "QazSport",
                         "channel_id": "1"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "76"
                     },
                     {
                         "channel_name": "Arena 1 Premium Serbia",
@@ -888,6 +922,20 @@
                     {
                         "channel_name": "Prima Sport 1 Romania",
                         "channel_id": "583"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "55"
+                    }
+                ]
+            },
+            {
+                "time": "14:00",
+                "event": "\u26bd \ud83c\uddfa\ud83c\uddff Uzbekistan Super League : Bunyodkor \ud83c\uddfa\ud83c\uddff vs Kokand 1912 \ud83c\uddfa\ud83c\uddff",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "69"
                     }
                 ]
             },
@@ -3658,6 +3706,10 @@
                     {
                         "channel_name": "Sky Sports Golf DE",
                         "channel_id": "785"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "68"
                     },
                     {
                         "channel_name": "ESPN USA",
