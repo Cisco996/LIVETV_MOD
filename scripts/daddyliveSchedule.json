@@ -4258,6 +4258,10 @@
                     {
                         "channel_name": "Bandsports Brasil",
                         "channel_id": "275"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "210"
                     }
                 ]
             },
@@ -4356,6 +4360,10 @@
                     {
                         "channel_name": "Backup Stream",
                         "channel_id": "4106"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "214"
                     }
                 ]
             },
@@ -4366,6 +4374,10 @@
                     {
                         "channel_name": "Sport 4 Israel",
                         "channel_id": "143"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "211"
                     }
                 ]
             },
@@ -4384,6 +4396,30 @@
                     {
                         "channel_name": "Sky Sport Austria 1",
                         "channel_id": "3099"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "212"
+                    }
+                ]
+            },
+            {
+                "time": "17:30",
+                "event": "\u26bd Tanzania Premier League : Geita Gold vs Kagera Sugar",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "215"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "\u26bd Belgium Challenger Pro Leagu : Lierse vs Patro Eisden",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "217"
                     }
                 ]
             },
@@ -4402,6 +4438,10 @@
                     {
                         "channel_name": "Oneplay Sport 1 CZ",
                         "channel_id": "3041"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "218"
                     }
                 ]
             },
@@ -4448,6 +4488,20 @@
                     {
                         "channel_name": "beIN Sports 1 France",
                         "channel_id": "3051"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "219"
+                    }
+                ]
+            },
+            {
+                "time": "18:00",
+                "event": "\u26bd Uruguay Liga AUF Uruguaya : Cerro Largo vs Defensor Sp",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "220"
                     }
                 ]
             },
@@ -4470,6 +4524,10 @@
                     {
                         "channel_name": "FOX Deportes",
                         "channel_id": "3087"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "221"
                     }
                 ]
             },
@@ -4480,6 +4538,10 @@
                     {
                         "channel_name": "Thmanyah 3",
                         "channel_id": "21"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "222"
                     }
                 ]
             },
@@ -4612,6 +4674,10 @@
                     {
                         "channel_name": "Dajto",
                         "channel_id": "1051"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "224"
                     }
                 ]
             },
@@ -6700,7 +6766,7 @@
                         "channel_id": "1551"
                     },
                     {
-                        "channel_name": "Tennis HDStream",
+                        "channel_name": "Tennis HD Stream",
                         "channel_id": "1075"
                     }
                 ]
@@ -6714,7 +6780,7 @@
                         "channel_id": "1552"
                     },
                     {
-                        "channel_name": "Tennis HDStream",
+                        "channel_name": "Tennis HD Stream",
                         "channel_id": "1076"
                     }
                 ]
@@ -6758,7 +6824,7 @@
                         "channel_id": "1556"
                     },
                     {
-                        "channel_name": "Tennis HDStream",
+                        "channel_name": "Tennis HD Stream",
                         "channel_id": "1077"
                     }
                 ]
@@ -6818,6 +6884,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1520"
+                    },
+                    {
+                        "channel_name": "Tennis HD Stream",
+                        "channel_id": "1071"
                     }
                 ]
             },
@@ -7810,6 +7880,10 @@
                     {
                         "channel_name": "DAZN 2 Spain",
                         "channel_id": "446"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "213"
                     }
                 ]
             },
@@ -8994,6 +9068,10 @@
                     {
                         "channel_name": "Sport 5 Gold Israel",
                         "channel_id": "148"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "216"
                     }
                 ]
             },
@@ -9276,6 +9354,16 @@
                     {
                         "channel_name": "CBSNY USA",
                         "channel_id": "767"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "\u26bd Basketball Supercup : Croatia vs Germany",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "225"
                     }
                 ]
             }
