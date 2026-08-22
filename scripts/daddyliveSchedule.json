@@ -3272,6 +3272,36 @@
                 ]
             },
             {
+                "time": "16:00",
+                "event": "\u26bd Slovakia Nik\u00e9 Liga : Dun Streda vs Podbrezova",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "262"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "\u26bd Slovakia Nik\u00e9 Liga : Michalovce vs Skalica",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "263"
+                    }
+                ]
+            },
+            {
+                "time": "16:00",
+                "event": "\u26bd Slovakia Nik\u00e9 Liga : Ruzomberok vs Banska Bystrica",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "86"
+                    }
+                ]
+            },
+            {
                 "time": "16:10",
                 "event": "\u26bd \ud83c\uddf8\ud83c\udde6 Saudi Arabia - Pro League : Al Kholood \ud83c\uddf8\ud83c\udde6 vs Al Taawon \ud83c\uddf8\ud83c\udde6",
                 "channels": [
@@ -6474,6 +6504,14 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1560"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1520"
                     }
                 ]
             },
@@ -6504,6 +6542,18 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1563"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1520"
                     }
                 ]
             },
@@ -6584,6 +6634,14 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1571"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1520"
                     }
                 ]
             },
@@ -6624,6 +6682,18 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1575"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1524"
                     }
                 ]
             }
@@ -8820,6 +8890,16 @@
                     {
                         "channel_name": "ERT 2 Greece",
                         "channel_id": "156"
+                    }
+                ]
+            },
+            {
+                "time": "15:45",
+                "event": "\ud83c\udfc0 Basketball Super cup : T\u00fcrkiye vs Czechia",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "261"
                     }
                 ]
             },
