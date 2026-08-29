@@ -19,8 +19,10 @@ https://vavoo.to/vavoo-iptv/play/445158856541438cd842a
 https://vavoo.to/vavoo-iptv/play/1491139076cadf4c6a33d9
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="1 - Vavoo Altro",ADESSO TV
 https://vavoo.to/vavoo-iptv/play/15558564102ab0cc0f61cf
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="1 - Vavoo Altro",ALICE
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="1 - Vavoo Altro",ALICE (1)
 https://vavoo.to/vavoo-iptv/play/3092239866ed8b329f2cdf
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="1 - Vavoo Altro",ALICE (2)
+https://vavoo.to/vavoo-iptv/play/3312954721d7076cf106e5
 #EXTINF:-1 tvg-id="almatv.it" tvg-logo="" group-title="1 - Vavoo Altro",ALMA TV (1)
 https://vavoo.to/vavoo-iptv/play/41311137232a677f05622a
 #EXTINF:-1 tvg-id="almatv.it" tvg-logo="" group-title="1 - Vavoo Altro",ALMA TV (2)
@@ -71,8 +73,6 @@ https://vavoo.to/vavoo-iptv/play/4268413992ad4e16102d3f
 https://vavoo.to/vavoo-iptv/play/4253692893cca91a1bbfde
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="1 - Vavoo Altro",CANALE 122
 https://vavoo.to/vavoo-iptv/play/466718273d17d85003ebc
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/canale-italia-2-it.png?raw=true" group-title="1 - Vavoo Altro",CANALE 2
-https://vavoo.to/vavoo-iptv/play/3914444703fd1a0c69d728
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="1 - Vavoo Altro",CANALE 2 ALTAMURA
 https://vavoo.to/vavoo-iptv/play/1251695137b2f1b46ebe5b
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="1 - Vavoo Altro",CANALE 21 CAMPANIA
@@ -223,10 +223,8 @@ https://vavoo.to/vavoo-iptv/play/39352793540cc70e97548d
 https://vavoo.to/vavoo-iptv/play/41987887706cc8d9c7ddd3
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="1 - Vavoo Altro",NET TV
 https://vavoo.to/vavoo-iptv/play/304085498822d221b3965
-#EXTINF:-1 tvg-id="nickelodeon.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nickelodeon-it.png" group-title="1 - Vavoo Altro",NICKELODEON (1)
+#EXTINF:-1 tvg-id="nickelodeon.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nickelodeon-it.png" group-title="1 - Vavoo Altro",NICKELODEON
 https://vavoo.to/vavoo-iptv/play/30393892159798f5cebb7c
-#EXTINF:-1 tvg-id="nickelodeon.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nickelodeon-it.png" group-title="1 - Vavoo Altro",NICKELODEON (2)
-https://vavoo.to/vavoo-iptv/play/30731921955c34b3a330ec
 #EXTINF:-1 tvg-id="nove.it" tvg-logo="" group-title="1 - Vavoo Altro",NOVE
 https://vavoo.to/vavoo-iptv/play/867216452ba4d42b41ada
 #EXTINF:-1 tvg-id="" tvg-logo="https://gag-fondazionedeagostini.s3.amazonaws.com/wp-content/uploads/2023/03/logo-Onda-Novara-TV-Ufficiale-1.png" group-title="1 - Vavoo Altro",ONDA NOVARA TV (1)
@@ -245,8 +243,6 @@ https://vavoo.to/vavoo-iptv/play/3559987993c0367839ba38
 https://vavoo.to/vavoo-iptv/play/43501686619a1a53c7d14
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/padre-pio-tv-it.png?raw=true" group-title="1 - Vavoo Altro",PADRE PIO TV (2)
 https://vavoo.to/vavoo-iptv/play/35598126040bce17c0686
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="1 - Vavoo Altro",PAROLE DI VITA
-https://vavoo.to/vavoo-iptv/play/1727695336cf48b92b7314
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/6e7dee025526c334b9280153c418e10e.webp" group-title="1 - Vavoo Altro",PEER TV ALTO ADIGE
 https://vavoo.to/vavoo-iptv/play/17895220057515b249c059
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="1 - Vavoo Altro",PEOPLE ARE AWESOME
@@ -255,7 +251,9 @@ https://vavoo.to/vavoo-iptv/play/1087345241c8751e395263
 https://vavoo.to/vavoo-iptv/play/714472867a9a9547f329c
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/caccia-pesca-it.png?raw=true" group-title="1 - Vavoo Altro",PESCA E CACCIA
 https://vavoo.to/vavoo-iptv/play/312451299385241b4e7078
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Prima_TV_Logo_2022.svg/800px-Prima_TV_Logo_2022.svg.png" group-title="1 - Vavoo Altro",PRIMA TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Prima_TV_Logo_2022.svg/800px-Prima_TV_Logo_2022.svg.png" group-title="1 - Vavoo Altro",PRIMA TV (1)
+https://vavoo.to/vavoo-iptv/play/530658045774685c88ed8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Prima_TV_Logo_2022.svg/800px-Prima_TV_Logo_2022.svg.png" group-title="1 - Vavoo Altro",PRIMA TV (2)
 https://vavoo.to/vavoo-iptv/play/91764224e4ebfa90eace
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/primocanale-it.png?raw=true" group-title="1 - Vavoo Altro",PRIMO CANALE
 https://vavoo.to/vavoo-iptv/play/3497884599a7fdd17618d9
@@ -279,20 +277,18 @@ https://vavoo.to/vavoo-iptv/play/2251241999722578d55332
 https://vavoo.to/vavoo-iptv/play/216554978929adb39fe170
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="1 - Vavoo Altro",RETE 8
 https://vavoo.to/vavoo-iptv/play/1070290151a2161042a11a
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkE5wuUMIVAtANMfpSL4T5bIO73owXBhpvEg&s" group-title="1 - Vavoo Altro",RETE ORO (1)
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkE5wuUMIVAtANMfpSL4T5bIO73owXBhpvEg&s" group-title="1 - Vavoo Altro",RETE ORO
 https://vavoo.to/vavoo-iptv/play/3351863213ae83540f4e1e
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkE5wuUMIVAtANMfpSL4T5bIO73owXBhpvEg&s" group-title="1 - Vavoo Altro",RETE ORO (2)
-https://vavoo.to/vavoo-iptv/play/37088366880c1d8f202dfc
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="1 - Vavoo Altro",RETE SOLE
 https://vavoo.to/vavoo-iptv/play/36929275131676477efa1e
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.retetvitalia.it/news/wp-content/uploads/2019/07/cropped-RTI-L.png" group-title="1 - Vavoo Altro",RETE TV ITALIA (1)
 https://vavoo.to/vavoo-iptv/play/413105501853266fc8e1b9
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.retetvitalia.it/news/wp-content/uploads/2019/07/cropped-RTI-L.png" group-title="1 - Vavoo Altro",RETE TV ITALIA (2)
 https://vavoo.to/vavoo-iptv/play/9045710792ef9d1059b86
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/it/d/df/Logo_Rete_Veneta.png" group-title="1 - Vavoo Altro",RETE VENETA
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/it/d/df/Logo_Rete_Veneta.png" group-title="1 - Vavoo Altro",RETE VENETA (1)
 https://vavoo.to/vavoo-iptv/play/10851723533da93b5683eb
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="1 - Vavoo Altro",RETE VENETA (VENETO)
-https://vavoo.to/vavoo-iptv/play/3999322464caf93535eb45
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/it/d/df/Logo_Rete_Veneta.png" group-title="1 - Vavoo Altro",RETE VENETA (2)
+https://vavoo.to/vavoo-iptv/play/1118453149238dad962982
 #EXTINF:-1 tvg-id="" tvg-logo="https://alpitv.com/wp-content/uploads/2022/01/logo.png" group-title="1 - Vavoo Altro",RETEBIELLA TV
 https://vavoo.to/vavoo-iptv/play/10944791346b08a647fce
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/LogoRMC101.png" group-title="1 - Vavoo Altro",RMC 101
@@ -307,10 +303,6 @@ https://vavoo.to/vavoo-iptv/play/3590183307ca309aa6be37
 https://vavoo.to/vavoo-iptv/play/3475299702c52e31a7073f
 #EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/7PzluYVAEVOCNzGYGkewkKI3PA0PkCKAc9KUZGfYzAbZnQLnlPAE5iQBMZEUi7ZKwJc" group-title="1 - Vavoo Altro",RTC TELECALABRIA
 https://vavoo.to/vavoo-iptv/play/639406775e0288e6772cc
-#EXTINF:-1 tvg-id="" tvg-logo="https://play-lh.googleusercontent.com/7PzluYVAEVOCNzGYGkewkKI3PA0PkCKAc9KUZGfYzAbZnQLnlPAE5iQBMZEUi7ZKwJc" group-title="1 - Vavoo Altro",RTC TELECALABRIA
-https://vavoo.to/vavoo-iptv/play/639406775e0288e6772cc
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="1 - Vavoo Altro",RTM
-https://vavoo.to/vavoo-iptv/play/958797744cd4efa7493ca
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="1 - Vavoo Altro",RTM
 https://vavoo.to/vavoo-iptv/play/958797744cd4efa7493ca
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="1 - Vavoo Altro",RTP (RETE TELEVISIVA)
@@ -343,12 +335,16 @@ https://vavoo.to/vavoo-iptv/play/323779351103799e6e03b2
 https://vavoo.to/vavoo-iptv/play/151207238423ec1d54e5b8
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/star-life-ar.png?raw=true" group-title="1 - Vavoo Altro",STAR LIFE
 https://vavoo.to/vavoo-iptv/play/3946128844a366ea9809f0
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.stereo5.it/2022/wp-content/uploads/2023/02/LOGO-NUOVO-2023-2.png" group-title="1 - Vavoo Altro",STEREO 5 TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.stereo5.it/2022/wp-content/uploads/2023/02/LOGO-NUOVO-2023-2.png" group-title="1 - Vavoo Altro",STEREO 5 TV (1)
 https://vavoo.to/vavoo-iptv/play/88205050e85664590a6b
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.stereo5.it/2022/wp-content/uploads/2023/02/LOGO-NUOVO-2023-2.png" group-title="1 - Vavoo Altro",STEREO 5 TV (2)
+https://vavoo.to/vavoo-iptv/play/1220080384532c2d4da19
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFBXh88zZx4IvyQKyYd5Hu2yeytO42zNQ4zA&s" group-title="1 - Vavoo Altro",SUPER TV ARISTANIS
 https://vavoo.to/vavoo-iptv/play/11653719d8ef305a8c92
-#EXTINF:-1 tvg-id="" tvg-logo="https://bresciasat.it/assets/front/img/logo3.png" group-title="1 - Vavoo Altro",SUPER TV BRESCIA
+#EXTINF:-1 tvg-id="" tvg-logo="https://bresciasat.it/assets/front/img/logo3.png" group-title="1 - Vavoo Altro",SUPER TV BRESCIA (1)
 https://vavoo.to/vavoo-iptv/play/2061826034c5ac3b5d7306
+#EXTINF:-1 tvg-id="" tvg-logo="https://bresciasat.it/assets/front/img/logo3.png" group-title="1 - Vavoo Altro",SUPER TV BRESCIA (2)
+https://vavoo.to/vavoo-iptv/play/58542785c2189f2dd3e8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_ebhZMV4eYibx6UpVDOt1KOlmhOPYBh0gKw&s" group-title="1 - Vavoo Altro",SUPERSIX LOMBARDIA (1)
 https://vavoo.to/vavoo-iptv/play/8491244640295fc9ea282
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_ebhZMV4eYibx6UpVDOt1KOlmhOPYBh0gKw&s" group-title="1 - Vavoo Altro",SUPERSIX LOMBARDIA (2)
@@ -405,8 +401,6 @@ https://vavoo.to/vavoo-iptv/play/14253278894ad29279077a
 https://vavoo.to/vavoo-iptv/play/32437629310acfa61179b0
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN6reG7R24hdOigLSXg2G5oKcPqKt8cBc0jQ&s" group-title="1 - Vavoo Altro",TELEMISTRETTA
 https://vavoo.to/vavoo-iptv/play/14384405078009392cf5c8
-#EXTINF:-1 tvg-id="" tvg-logo="https://m.media-amazon.com/images/I/61yiY3jR+kL.png" group-title="1 - Vavoo Altro",TELEMOLISE
-https://vavoo.to/vavoo-iptv/play/780186974728e73711da8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/it/a/a8/Telenord.png" group-title="1 - Vavoo Altro",TELENORD
 https://vavoo.to/vavoo-iptv/play/2923215049219f1039e542
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="1 - Vavoo Altro",TELEPACE 1
@@ -473,10 +467,10 @@ https://vavoo.to/vavoo-iptv/play/27917814213e17be842a1b
 https://vavoo.to/vavoo-iptv/play/1249978054d9101729f51f
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.videostartv.eu/images/videostar.png" group-title="1 - Vavoo Altro",VIDEOSTAR TV
 https://vavoo.to/vavoo-iptv/play/24994885846c204e8b0b86
-#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kAZM1WRzE6qfQx90xPJ3v1Jz1gaJwn6BbrZcewu6eTcQ=s900-c-k-c0x00ffffff-no-rj" group-title="1 - Vavoo Altro",VIDEOTOLENTINO
-https://vavoo.to/vavoo-iptv/play/201531251001a1e9936f4c
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="1 - Vavoo Altro",YU-GI-OH! ITALY
 https://vavoo.to/vavoo-iptv/play/28498110272b8770fe20cb
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="1 - Vavoo Altro",ÈTV MARCHE
+https://vavoo.to/vavoo-iptv/play/3069499316a3427a69a204
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="1 - Vavoo Altro",ÈTV RETE 7
 https://vavoo.to/vavoo-iptv/play/4290207480cc160e91f9bb
 
@@ -507,8 +501,10 @@ https://vavoo.to/vavoo-iptv/play/23919988fc371eea2329
 https://vavoo.to/vavoo-iptv/play/663536394520458805ef6
 #EXTINF:-1 tvg-id="italia.1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/italia1-it.png" group-title="1 - Vavoo Mediaset",ITALIA 1 (2)
 https://vavoo.to/vavoo-iptv/play/633342961994dc5083ad5
-#EXTINF:-1 tvg-id="italia.2.it" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/c/c5/Logo_Italia2.svg/520px-Logo_Italia2.svg.png" group-title="1 - Vavoo Mediaset",ITALIA 2
+#EXTINF:-1 tvg-id="italia.2.it" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/c/c5/Logo_Italia2.svg/520px-Logo_Italia2.svg.png" group-title="1 - Vavoo Mediaset",ITALIA 2 (1)
 https://vavoo.to/vavoo-iptv/play/1613543898fd67f91cf2e0
+#EXTINF:-1 tvg-id="italia.2.it" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/c/c5/Logo_Italia2.svg/520px-Logo_Italia2.svg.png" group-title="1 - Vavoo Mediaset",ITALIA 2 (2)
+https://vavoo.to/vavoo-iptv/play/2062925095ee24874020f9
 #EXTINF:-1 tvg-id="la.5.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la5-it.png" group-title="1 - Vavoo Mediaset",LA 5 (1)
 https://vavoo.to/vavoo-iptv/play/84139639718d779a091b
 #EXTINF:-1 tvg-id="la.5.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/la5-it.png" group-title="1 - Vavoo Mediaset",LA 5 (2)
@@ -575,14 +571,10 @@ https://vavoo.to/vavoo-iptv/play/1586498225ea507133231c
 https://vavoo.to/vavoo-iptv/play/233974719353ecd6eb8de1
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="1 - Vavoo Musica",RADIO BIRIKINA TV
 https://vavoo.to/vavoo-iptv/play/3197904019c35737034d0e
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1e/Radio_Capital_-_Logo_2019.svg.png/revision/latest?cb=20190815181629" group-title="1 - Vavoo Musica",RADIO CAPITAL
-https://vavoo.to/vavoo-iptv/play/4214417458dc0729ae47d
 #EXTINF:-1 tvg-id="radiofreccia.hd.it" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/italy/radio-freccia-it.png?raw=true" group-title="1 - Vavoo Musica",RADIO FRECCIA
 https://vavoo.to/vavoo-iptv/play/1711134994a4ab3e165de3
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="1 - Vavoo Musica",RADIO IBIZA TV
 https://vavoo.to/vavoo-iptv/play/3663515423e9e1aecf08ce
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="1 - Vavoo Musica",RADIO IGLESIAS SARDEGNA
-https://vavoo.to/vavoo-iptv/play/1119525899d2181e2bff52
 #EXTINF:-1 tvg-id="radio.italia.trend.tv.hd.it" tvg-logo="" group-title="1 - Vavoo Musica",RADIO ITALIA TREND TV
 https://vavoo.to/vavoo-iptv/play/15694139179634c11062a2
 #EXTINF:-1 tvg-id="radio.italia.tv.hd.it" tvg-logo="" group-title="1 - Vavoo Musica",RADIO ITALIA TV
@@ -597,10 +589,6 @@ https://vavoo.to/vavoo-iptv/play/392192791518851ccc8b0a
 https://vavoo.to/vavoo-iptv/play/4031388312f5ebcfc7dc6d
 #EXTINF:-1 tvg-id="rdssocialtv.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/RDS-Logo.png/260px-RDS-Logo.png" group-title="1 - Vavoo Musica",RDS SOCIAL TV
 https://vavoo.to/vavoo-iptv/play/36560804080912cdf76cbf
-#EXTINF:-1 tvg-id="rtl.102.5.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rtl-1025-it.png" group-title="1 - Vavoo Musica",RTL 102.5 (1)
-https://vavoo.to/vavoo-iptv/play/3168132911491b6a85a6e2
-#EXTINF:-1 tvg-id="rtl.102.5.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rtl-1025-it.png" group-title="1 - Vavoo Musica",RTL 102.5 (2)
-https://vavoo.to/vavoo-iptv/play/1729811452a70dafd8f6ba
 #EXTINF:-1 tvg-id="rtl.102.5.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rtl-1025-it.png" group-title="1 - Vavoo Musica",RTL 102.5 (1)
 https://vavoo.to/vavoo-iptv/play/3168132911491b6a85a6e2
 #EXTINF:-1 tvg-id="rtl.102.5.hd.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/rtl-1025-it.png" group-title="1 - Vavoo Musica",RTL 102.5 (2)
@@ -663,16 +651,12 @@ https://vavoo.to/vavoo-iptv/play/271195962000118dca31ce
 https://vavoo.to/vavoo-iptv/play/3268253262aec282eb346
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-serie-a-it.png" group-title="1 - Vavoo Sport",SKY SPORT SERIE A
 https://vavoo.to/vavoo-iptv/play/2077387085cfe0f64122dc
-#EXTINF:-1 tvg-id="sky.sport.tennis.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="1 - Vavoo Sport",SKY SPORT TENNIS (1)
+#EXTINF:-1 tvg-id="sky.sport.tennis.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="1 - Vavoo Sport",SKY SPORT TENNIS
 https://vavoo.to/vavoo-iptv/play/210077178262e76f204fa6
-#EXTINF:-1 tvg-id="sky.sport.tennis.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="1 - Vavoo Sport",SKY SPORT TENNIS (2)
-https://vavoo.to/vavoo-iptv/play/78546677680f40b76841
 #EXTINF:-1 tvg-id="sky.sport.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="1 - Vavoo Sport",SKY SPORT UNO (1)
 https://vavoo.to/vavoo-iptv/play/210669162201ec2365574
 #EXTINF:-1 tvg-id="sky.sport.uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="1 - Vavoo Sport",SKY SPORT UNO (2)
 https://vavoo.to/vavoo-iptv/play/3192996672d2c923be0346
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="1 - Vavoo Sport",SKY SPORTS 24
-https://vavoo.to/vavoo-iptv/play/34936071312c994246f2bd
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="1 - Vavoo Sport",SKY SPORTS F1
 https://vavoo.to/vavoo-iptv/play/22890389722acc4573933d
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sky_Sport_Golf_Logo_2022.svg/2560px-Sky_Sport_Golf_Logo_2022.svg.png" group-title="1 - Vavoo Sport",SKY SPORTS GOLF
@@ -681,8 +665,6 @@ https://vavoo.to/vavoo-iptv/play/27177400159a49bec8b4e4
 https://vavoo.to/vavoo-iptv/play/55828211836e421b20575
 #EXTINF:-1 tvg-id="sportitalia.it" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="1 - Vavoo Sport",SPORT ITALIA
 https://vavoo.to/vavoo-iptv/play/288173992763b00e6fdc82
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SI_Solo_Calcio_logo_%282019%29.svg/1200px-SI_Solo_Calcio_logo_%282019%29.svg.png" group-title="1 - Vavoo Sport",SPORT ITALIA SOLO CALCIO [LIVE DURING EVENTS ONLY]
-https://vavoo.to/vavoo-iptv/play/83094948658201829f87a
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.capitaladv.eu/wp-content/uploads/2020/07/LOGO-SPORTITALIA-PLUS-HD_2-1.png" group-title="1 - Vavoo Sport",SPORTITALIA PLUS
 https://vavoo.to/vavoo-iptv/play/33428493134b007f2ed197
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SI_Solo_Calcio_logo_%282019%29.svg/1200px-SI_Solo_Calcio_logo_%282019%29.svg.png" group-title="1 - Vavoo Sport",SPORTITALIA SOLOCALCIO
@@ -817,7 +799,9 @@ https://vavoo.to/vavoo-iptv/play/2242741766a460e21385e6
 https://vavoo.to/vavoo-iptv/play/1759653413f7025450e6b1
 #EXTINF:-1 tvg-id="sky.cinema.collection.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-collection-it.png" group-title="1 - Vavoo Film - Serie TV",SKY CINEMA COLLECTION (2)
 https://vavoo.to/vavoo-iptv/play/352583705711c4cbe44bbb
-#EXTINF:-1 tvg-id="sky.cinema.comedy.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-comedy-it.png" group-title="1 - Vavoo Film - Serie TV",SKY CINEMA COMEDY
+#EXTINF:-1 tvg-id="sky.cinema.comedy.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-comedy-it.png" group-title="1 - Vavoo Film - Serie TV",SKY CINEMA COMEDY (1)
+https://vavoo.to/vavoo-iptv/play/500203271d58941028e95
+#EXTINF:-1 tvg-id="sky.cinema.comedy.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-comedy-it.png" group-title="1 - Vavoo Film - Serie TV",SKY CINEMA COMEDY (2)
 https://vavoo.to/vavoo-iptv/play/3131104474771735b548ce
 #EXTINF:-1 tvg-id="sky.cinema.drama.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-drama-it.png" group-title="1 - Vavoo Film - Serie TV",SKY CINEMA DRAMA
 https://vavoo.to/vavoo-iptv/play/123553017707540030adf9
@@ -849,10 +833,8 @@ https://vavoo.to/vavoo-iptv/play/2236517134d5e218f6528e
 https://vavoo.to/vavoo-iptv/play/16998765309700e7076450
 #EXTINF:-1 tvg-id="sky.crime.it" tvg-logo="" group-title="1 - Vavoo Film - Serie TV",SKY CRIME
 https://vavoo.to/vavoo-iptv/play/354961873760dbb54cfa7
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="1 - Vavoo Film - Serie TV",SKY PRIMAFILA 1 (1)
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="1 - Vavoo Film - Serie TV",SKY PRIMAFILA 1
 https://vavoo.to/vavoo-iptv/play/194468239430d8fe263231
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="1 - Vavoo Film - Serie TV",SKY PRIMAFILA 1 (2)
-https://vavoo.to/vavoo-iptv/play/1492183364e2c25c729efa
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="1 - Vavoo Film - Serie TV",SKY PRIMAFILA 10 (1)
 https://vavoo.to/vavoo-iptv/play/4272937805ce3f4b8a4a12
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="1 - Vavoo Film - Serie TV",SKY PRIMAFILA 10 (2)
