@@ -12,6 +12,28 @@
                 ]
             },
             {
+                "time": "18:45",
+                "event": "\ud83d\udcfa Rock in Rio Lisbon 2026: September Festival Multi Feed",
+                "channels": [
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5030"
+                    },
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5031"
+                    },
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5032"
+                    },
+                    {
+                        "channel_name": "Event PPV",
+                        "channel_id": "5033"
+                    }
+                ]
+            },
+            {
                 "time": "20:00",
                 "event": "\ud83c\udfc1 Labor Day Classic Thunder Road",
                 "channels": [
@@ -1758,7 +1780,7 @@
                 ]
             },
             {
-                "time": "20:49",
+                "time": "23:12",
                 "event": "8:30 \u26bd \ud83c\uddfa\ud83c\uddfe Uruguay Liga AUF : CA Cerro \ud83c\uddfa\ud83c\uddfe vs Racing Montevideo \ud83c\uddfa\ud83c\uddfe",
                 "channels": [
                     {
@@ -6108,6 +6130,20 @@
                     {
                         "channel_name": "Win+ Futbol Colombia",
                         "channel_id": "392"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1087"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "\u26bd Peru Liga 1 Apertura : FBC Melgar vs AD Tarma",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1086"
                     }
                 ]
             },
@@ -6128,6 +6164,40 @@
                     {
                         "channel_name": "TUDN USA",
                         "channel_id": "66"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1097"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "\u26bd Bolivia Division Profesional : Nacional Potosi vs Blooming",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1092"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "\u26bd Ecuador Liga Pro : Aucas vs Barcelona SC",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1093"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "\u26bd Ecuador Liga Pro : Dep Cuenca vs Libertad",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1094"
                     }
                 ]
             },
@@ -6143,11 +6213,31 @@
             },
             {
                 "time": "00:30",
+                "event": "\u26bd Argentina Liga Profesional : Racing Club vs Atl Tucuman",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1095"
+                    }
+                ]
+            },
+            {
+                "time": "00:30",
                 "event": "\u26bd \ud83c\udde6\ud83c\uddf7 Argentina - Primera Divisi\u00f3n : Racing Club \ud83c\udde6\ud83c\uddf7 vs Atl\u00e9tico Tucum\u00e1n \ud83c\udde6\ud83c\uddf7",
                 "channels": [
                     {
                         "channel_name": "ESPN Premium Argentina",
                         "channel_id": "387"
+                    }
+                ]
+            },
+            {
+                "time": "01:15",
+                "event": "\u26bd Colombia Primera B : Patriotas vs Tigres",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1098"
                     }
                 ]
             },
@@ -6158,6 +6248,10 @@
                     {
                         "channel_name": "CBS Sports Network",
                         "channel_id": "308"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1088"
                     },
                     {
                         "channel_name": "TUDN USA",
@@ -6270,6 +6364,10 @@
                     {
                         "channel_name": "ESPN+ USA",
                         "channel_id": "153"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1090"
                     }
                 ]
             },
@@ -6280,6 +6378,10 @@
                     {
                         "channel_name": "ESPN2 USA",
                         "channel_id": "45"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1096"
                     },
                     {
                         "channel_name": "ESPN4 Brazil",
@@ -7274,7 +7376,7 @@
         ],
         "Tennis US OPEN [All Court \ud83c\udfdf\ufe0f] \ud83c\udfbe": [
             {
-                "time": "20:49",
+                "time": "23:12",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfdf\ufe0f RED Zone | Multi Feed",
                 "channels": [
                     {
@@ -7288,7 +7390,7 @@
                 ]
             },
             {
-                "time": "20:49",
+                "time": "23:12",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfdf\ufe0f Arthur Ashe Stadium",
                 "channels": [
                     {
@@ -7306,7 +7408,7 @@
                 ]
             },
             {
-                "time": "20:49",
+                "time": "23:12",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfdf\ufe0f Louis Armstrong Stadium",
                 "channels": [
                     {
@@ -7320,7 +7422,7 @@
                 ]
             },
             {
-                "time": "20:49",
+                "time": "23:12",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfdf\ufe0f Grandstand",
                 "channels": [
                     {
@@ -7334,7 +7436,7 @@
                 ]
             },
             {
-                "time": "20:49",
+                "time": "23:12",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfdf\ufe0f Stadium 17",
                 "channels": [
                     {
@@ -7344,7 +7446,7 @@
                 ]
             },
             {
-                "time": "20:49",
+                "time": "23:12",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfbe Court 4",
                 "channels": [
                     {
@@ -7354,7 +7456,7 @@
                 ]
             },
             {
-                "time": "20:49",
+                "time": "23:12",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfbe Court 5",
                 "channels": [
                     {
@@ -7364,7 +7466,7 @@
                 ]
             },
             {
-                "time": "20:49",
+                "time": "23:12",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfbe Court 6",
                 "channels": [
                     {
@@ -7374,7 +7476,7 @@
                 ]
             },
             {
-                "time": "20:49",
+                "time": "23:12",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfbe Court 7",
                 "channels": [
                     {
@@ -7384,7 +7486,7 @@
                 ]
             },
             {
-                "time": "20:49",
+                "time": "23:12",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfbe Court 8",
                 "channels": [
                     {
@@ -7394,7 +7496,7 @@
                 ]
             },
             {
-                "time": "20:49",
+                "time": "23:12",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfbe Court 9",
                 "channels": [
                     {
@@ -7404,7 +7506,7 @@
                 ]
             },
             {
-                "time": "20:49",
+                "time": "23:12",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfbe Court 10",
                 "channels": [
                     {
@@ -7414,7 +7516,7 @@
                 ]
             },
             {
-                "time": "20:49",
+                "time": "23:12",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfbe Court 11",
                 "channels": [
                     {
@@ -7424,7 +7526,7 @@
                 ]
             },
             {
-                "time": "20:49",
+                "time": "23:12",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfbe Court 12",
                 "channels": [
                     {
@@ -7434,7 +7536,7 @@
                 ]
             },
             {
-                "time": "20:49",
+                "time": "23:12",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfbe Court 13",
                 "channels": [
                     {
@@ -7444,7 +7546,7 @@
                 ]
             },
             {
-                "time": "20:49",
+                "time": "23:12",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfbe Court 14",
                 "channels": [
                     {
@@ -7454,7 +7556,7 @@
                 ]
             },
             {
-                "time": "20:49",
+                "time": "23:12",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfbe Court 15",
                 "channels": [
                     {
@@ -9282,6 +9384,18 @@
                 ]
             }
         ],
+        "WWE": [
+            {
+                "time": "00:00",
+                "event": "WWE Wrestling : WWE Sunday Night Main Event",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1091"
+                    }
+                ]
+            }
+        ],
         "Golf \u26f3": [
             {
                 "time": "07:30",
@@ -9586,6 +9700,10 @@
                         "channel_id": "308"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1089"
+                    },
+                    {
                         "channel_name": "TSN3",
                         "channel_id": "113"
                     },
@@ -9658,6 +9776,10 @@
                         "channel_id": "53"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1085"
+                    },
+                    {
                         "channel_name": "NBCNY USA",
                         "channel_id": "769"
                     },
@@ -9674,6 +9796,10 @@
                     {
                         "channel_name": "ABC USA",
                         "channel_id": "51"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1084"
                     },
                     {
                         "channel_name": "ABC NY USA",
@@ -10108,6 +10234,10 @@
                     {
                         "channel_name": "MLB League Pass",
                         "channel_id": "18"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "1099"
                     },
                     {
                         "channel_name": "Sportsnet Ontario",
