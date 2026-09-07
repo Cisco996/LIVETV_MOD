@@ -156,7 +156,7 @@ def eventi_dlhd_m3u8_generator_world():
     
     load_dotenv()
 
-    LINK_DADDY = os.getenv("LINK_DADDY", "").strip() or "https://dlhd.pk"
+    LINK_DADDY = os.getenv("LINK_DADDY", "").strip() or "https://dlive.sx"
     JSON_FILE = os.path.join(script_dir, "daddyliveSchedule.json")
     OUTPUT_FILE = os.path.join(output_dir, "eventi_dlhd.m3u")
     HEADERS = { 
@@ -335,7 +335,7 @@ def eventi_dlhd_m3u8_generator():
     from dotenv import load_dotenv
 
     load_dotenv()
-    LINK_DADDY = os.getenv("LINK_DADDY", "").strip() or "https://dlhd.pk"
+    LINK_DADDY = os.getenv("LINK_DADDY", "").strip() or "https://dlive.sx"
     JSON_FILE = os.path.join(script_dir, "daddyliveSchedule.json")
     OUTPUT_FILE = os.path.join(output_dir, "eventi_dlhd.m3u")
      
@@ -493,7 +493,7 @@ def schedule_extractor():
     
     load_dotenv()
     
-    LINK_DADDYBYPASS = os.getenv("LINK_DADDYBYPASS", "").strip() or "https://dlhd.pk"
+    LINK_DADDYBYPASS = os.getenv("LINK_DADDYBYPASS", "").strip() or "https://dlive.sx"
     
     def html_to_json(html_content):
         soup = BeautifulSoup(html_content, 'html.parser')
