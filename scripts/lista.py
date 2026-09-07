@@ -1471,7 +1471,7 @@ def sportsonline():
         main()
 
 def search_m3u8_in_sites(channel_id, is_tennis=False, session=None):
-    LINK_DADDY = os.getenv("LINK_DADDY", "").strip() or "https://dlhd.pk"
+    LINK_DADDY = os.getenv("LINK_DADDY", "").strip() or "https://dlive.sx"
     embed_url = f"{LINK_DADDY}/watch.php?id={channel_id}"
     print(f"URL .php per il canale Daddylive {channel_id}: {embed_url}")
     return embed_url
