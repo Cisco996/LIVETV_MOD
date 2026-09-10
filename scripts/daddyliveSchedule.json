@@ -1,5 +1,69 @@
 {
     "<strong>Thursday 10th Sep 2026 - Schedule Time UK GMT</strong>": {
+        "PPV Events": [
+            {
+                "time": "21:30",
+                "event": "\ud83c\udfc1 World 100 Eldora",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "28"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5038"
+                    }
+                ]
+            },
+            {
+                "time": "22:15",
+                "event": "\ud83c\udfc1 HLR Tuscarora 50 Port Royal",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "29"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5039"
+                    }
+                ]
+            },
+            {
+                "time": "23:00",
+                "event": "\ud83c\udfc1 Run-What-U-Brung Thunder Road",
+                "channels": [
+                    {
+                        "channel_name": "FloRacing",
+                        "channel_id": "30"
+                    },
+                    {
+                        "channel_name": "Backup Stream",
+                        "channel_id": "5040"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "\ud83e\udd3c Insane Wrestling Revolution Aftermath",
+                "channels": [
+                    {
+                        "channel_name": "TrillerTV",
+                        "channel_id": "26"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "\ud83e\udd3c Hoodslam Revelations",
+                "channels": [
+                    {
+                        "channel_name": "TrillerTV",
+                        "channel_id": "27"
+                    }
+                ]
+            }
+        ],
         "Big Brother \ud83d\udc41\ufe0f 28 LIVE CAMERA FEEDS": [
             {
                 "time": "18:30",
@@ -1290,6 +1354,10 @@
                         "channel_id": "152"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "164"
+                    },
+                    {
                         "channel_name": "Skai TV Greece",
                         "channel_id": "3024"
                     },
@@ -1376,6 +1444,10 @@
                     {
                         "channel_name": "Paramount+",
                         "channel_id": "69"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "188"
                     },
                     {
                         "channel_name": "TNT Sports 5 UK",
@@ -1522,6 +1594,10 @@
                     {
                         "channel_name": "Paramount+",
                         "channel_id": "76"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "186"
                     },
                     {
                         "channel_name": "TNT Sports 2 UK",
@@ -1718,6 +1794,10 @@
                         "channel_id": "77"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "185"
+                    },
+                    {
                         "channel_name": "TNT Sports 1 UK",
                         "channel_id": "31"
                     },
@@ -1904,6 +1984,10 @@
                         "channel_id": "86"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "187"
+                    },
+                    {
                         "channel_name": "TNT Sports 3 UK",
                         "channel_id": "33"
                     },
@@ -2070,6 +2154,10 @@
                         "channel_id": "35"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "191"
+                    },
+                    {
                         "channel_name": "Arena Sport 2 Serbia",
                         "channel_id": "430"
                     },
@@ -2092,12 +2180,26 @@
                 ]
             },
             {
+                "time": "19:00",
+                "event": "\u26bd Paraguay Copa : CA Cerro vs Cerrito",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "192"
+                    }
+                ]
+            },
+            {
                 "time": "19:15",
                 "event": "\u26bd \ud83c\uddf5\ud83c\uddf9 Portugal - Primeira Liga : Estrela \ud83c\uddf5\ud83c\uddf9 vs Sporting Braga \ud83c\uddf5\ud83c\uddf9",
                 "channels": [
                     {
                         "channel_name": "Sport TV1 Portugal",
                         "channel_id": "49"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "193"
                     },
                     {
                         "channel_name": "beIN SPORTS USA",
@@ -3218,7 +3320,7 @@
         ],
         "Tennis US OPEN [All Court \ud83c\udfdf\ufe0f] \ud83c\udfbe": [
             {
-                "time": "17:48",
+                "time": "21:14",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfdf\ufe0f RED Zone | Multi Feed",
                 "channels": [
                     {
@@ -3232,7 +3334,7 @@
                 ]
             },
             {
-                "time": "17:48",
+                "time": "21:14",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfdf\ufe0f Arthur Ashe Stadium",
                 "channels": [
                     {
@@ -3250,7 +3352,7 @@
                 ]
             },
             {
-                "time": "17:48",
+                "time": "21:14",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfdf\ufe0f Louis Armstrong Stadium",
                 "channels": [
                     {
@@ -3264,7 +3366,7 @@
                 ]
             },
             {
-                "time": "17:48",
+                "time": "21:14",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfdf\ufe0f Grandstand",
                 "channels": [
                     {
@@ -3278,7 +3380,7 @@
                 ]
             },
             {
-                "time": "17:48",
+                "time": "21:14",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfdf\ufe0f Stadium 17",
                 "channels": [
                     {
@@ -3288,7 +3390,7 @@
                 ]
             },
             {
-                "time": "17:48",
+                "time": "21:14",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfbe Court 4",
                 "channels": [
                     {
@@ -3298,7 +3400,7 @@
                 ]
             },
             {
-                "time": "17:48",
+                "time": "21:14",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfbe Court 5",
                 "channels": [
                     {
@@ -3308,7 +3410,7 @@
                 ]
             },
             {
-                "time": "17:48",
+                "time": "21:14",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfbe Court 6",
                 "channels": [
                     {
@@ -3318,7 +3420,7 @@
                 ]
             },
             {
-                "time": "17:48",
+                "time": "21:14",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfbe Court 7",
                 "channels": [
                     {
@@ -3328,7 +3430,7 @@
                 ]
             },
             {
-                "time": "17:48",
+                "time": "21:14",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfbe Court 8",
                 "channels": [
                     {
@@ -3338,7 +3440,7 @@
                 ]
             },
             {
-                "time": "17:48",
+                "time": "21:14",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfbe Court 9",
                 "channels": [
                     {
@@ -3348,7 +3450,7 @@
                 ]
             },
             {
-                "time": "17:48",
+                "time": "21:14",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfbe Court 10",
                 "channels": [
                     {
@@ -3358,7 +3460,7 @@
                 ]
             },
             {
-                "time": "17:48",
+                "time": "21:14",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfbe Court 11",
                 "channels": [
                     {
@@ -3368,7 +3470,7 @@
                 ]
             },
             {
-                "time": "17:48",
+                "time": "21:14",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfbe Court 12",
                 "channels": [
                     {
@@ -3378,7 +3480,7 @@
                 ]
             },
             {
-                "time": "17:48",
+                "time": "21:14",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfbe Court 13",
                 "channels": [
                     {
@@ -3388,7 +3490,7 @@
                 ]
             },
             {
-                "time": "17:48",
+                "time": "21:14",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfbe Court 14",
                 "channels": [
                     {
@@ -3398,7 +3500,7 @@
                 ]
             },
             {
-                "time": "17:48",
+                "time": "21:14",
                 "event": "\ud83c\udfbe\ud83c\udfc6 \ud83c\uddfa\ud83c\uddf8 US Open : \ud83c\udfbe Court 15",
                 "channels": [
                     {
@@ -4568,6 +4670,16 @@
                 ]
             },
             {
+                "time": "18:45",
+                "event": "Basketball World Cup : Australia W vs Spain W",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "165"
+                    }
+                ]
+            },
+            {
                 "time": "18:00",
                 "event": "\ud83c\udfc0 FIBA Women's World Cup Quarterfinal #4 : TBA vs France",
                 "channels": [
@@ -5180,6 +5292,10 @@
                         "channel_id": "756"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "189"
+                    },
+                    {
                         "channel_name": "Sportsnet World",
                         "channel_id": "410"
                     }
@@ -5194,6 +5310,10 @@
                     {
                         "channel_name": "Canal+ Sport France",
                         "channel_id": "122"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "190"
                     }
                 ]
             },
