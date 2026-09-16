@@ -1,5 +1,17 @@
 {
     "Tuesday 15th Sep 2026 - Schedule Time UK GMT": {
+        "PPV Events": [
+            {
+                "time": "22:15",
+                "event": "\ud83c\udfc1 Millbridge Speedway",
+                "channels": [
+                    {
+                        "channel_name": "DIRTVision",
+                        "channel_id": "29"
+                    }
+                ]
+            }
+        ],
         "Big Brother \ud83d\udc41\ufe0f 28 LIVE CAMERA FEEDS": [
             {
                 "time": "18:30",
@@ -2606,6 +2618,10 @@
                         "channel_id": "39"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "157"
+                    },
+                    {
                         "channel_name": "TSN3",
                         "channel_id": "113"
                     },
@@ -2650,6 +2666,10 @@
                     {
                         "channel_name": "Paramount+ USA",
                         "channel_id": "68"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "154"
                     }
                 ]
             },
@@ -2660,6 +2680,10 @@
                     {
                         "channel_name": "Paramount+ USA",
                         "channel_id": "69"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "155"
                     }
                 ]
             },
@@ -2680,6 +2704,10 @@
                     {
                         "channel_name": "ESPN4 Brazil",
                         "channel_id": "85"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "167"
                     }
                 ]
             },
@@ -2690,6 +2718,10 @@
                     {
                         "channel_name": "Win+ Futbol Colombia",
                         "channel_id": "392"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "170"
                     }
                 ]
             },
@@ -2700,6 +2732,10 @@
                     {
                         "channel_name": "beIN SPORTS USA",
                         "channel_id": "425"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "169"
                     },
                     {
                         "channel_name": "beIN SPORTS en Espa\u00f1ol",
@@ -2776,12 +2812,26 @@
                         "channel_id": "925"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "173"
+                    },
+                    {
                         "channel_name": "TUDN USA",
                         "channel_id": "66"
                     },
                     {
                         "channel_name": "TUDN USA",
                         "channel_id": "3030"
+                    }
+                ]
+            },
+            {
+                "time": "05:00",
+                "event": "\u26bd Asian Games : United Arab Emirates U23 vs Iran U23",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "171"
                     }
                 ]
             }
@@ -3604,6 +3654,10 @@
                     {
                         "channel_name": "Tennis Stream",
                         "channel_id": "1501"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "156"
                     }
                 ]
             }
@@ -3630,6 +3684,10 @@
                         "channel_id": "59"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "153"
+                    },
+                    {
                         "channel_name": "Sportsnet 360",
                         "channel_id": "409"
                     },
@@ -3648,6 +3706,10 @@
                     {
                         "channel_name": "CW USA",
                         "channel_id": "300"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "166"
                     },
                     {
                         "channel_name": "CW PIX 11 USA",
@@ -3792,6 +3854,10 @@
                         "channel_id": "6"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "159"
+                    },
+                    {
                         "channel_name": "Sportsnet East",
                         "channel_id": "408"
                     },
@@ -3810,6 +3876,10 @@
                         "channel_id": "7"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "160"
+                    },
+                    {
                         "channel_name": "SportsNet New York",
                         "channel_id": "759"
                     },
@@ -3826,6 +3896,10 @@
                     {
                         "channel_name": "MLB League Pass",
                         "channel_id": "8"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "164"
                     },
                     {
                         "channel_name": "truTV USA",
@@ -3862,6 +3936,10 @@
                         "channel_id": "9"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "163"
+                    },
+                    {
                         "channel_name": "YES USA",
                         "channel_id": "763"
                     },
@@ -3880,6 +3958,10 @@
                         "channel_id": "10"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "162"
+                    },
+                    {
                         "channel_name": "NBCS Bay Area USA",
                         "channel_id": "753"
                     }
@@ -3892,6 +3974,10 @@
                     {
                         "channel_name": "MLB League Pass",
                         "channel_id": "11"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "165"
                     },
                     {
                         "channel_name": "NESN USA",
@@ -3912,6 +3998,10 @@
                         "channel_id": "12"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "168"
+                    },
+                    {
                         "channel_name": "Space City Home Network",
                         "channel_id": "921"
                     }
@@ -3924,6 +4014,10 @@
                     {
                         "channel_name": "MLB League Pass",
                         "channel_id": "13"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "174"
                     }
                 ]
             },
@@ -3934,6 +4028,10 @@
                     {
                         "channel_name": "MLB League Pass",
                         "channel_id": "14"
+                    },
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "175"
                     },
                     {
                         "channel_name": "TSN3 CA",
@@ -3958,6 +4056,10 @@
                         "channel_id": "15"
                     },
                     {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "176"
+                    },
+                    {
                         "channel_name": "MLB Network",
                         "channel_id": "399"
                     }
@@ -3965,6 +4067,26 @@
             }
         ],
         "Basketball \ud83c\udfc0": [
+            {
+                "time": "23:30",
+                "event": "\ud83c\udfc0 Asian Games : Iran vs Bahrain",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "161"
+                    }
+                ]
+            },
+            {
+                "time": "01:00",
+                "event": "\ud83c\udfc0 Asian Games : Jordan vs South Korea",
+                "channels": [
+                    {
+                        "channel_name": "Event SD Stream",
+                        "channel_id": "172"
+                    }
+                ]
+            },
             {
                 "time": "11:15",
                 "event": "\ud83c\udfc0 Champions League : Promitheas Patras \ud83c\uddec\ud83c\uddf7 vs Vienna Basket \ud83c\udde6\ud83c\uddf9",
